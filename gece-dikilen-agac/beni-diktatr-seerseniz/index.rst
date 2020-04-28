@@ -1,0 +1,13 @@
+Beni diktatör seçerseniz…
+=========================
+
+:date: 2014-11-23 03:41:51 +0200
+
+İnsanın gerçekte boş mevkiler için zamanını tehlikeye atması… Daha
+yüksek mevki için yalan söylemesi… Menfaati uğruna kıvırması… İnandığı
+bir doğrusu olmayışı ve böylece inandığı bir yanlışların da olmayışı…
+Tek doğrusu kendi menfaati olan insan kadar zavallısı yok gerçekte…
+
+Rahat bir uykuyu dünyanın tüm krallıklarına tercih ediyorum sanırım.
+Elimde krallık olduğundan ve uyku çok değerli olduğundan değil, insanın
+krallık için didişmesi, uyku kadar bile değerli olmadığından…
