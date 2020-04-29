@@ -1,7 +1,7 @@
-Kendini Bilmeyen Asker
-======================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Kendini Bilmeyen Asker
+date: 2014-11-23 03:41:51 +0200
+---
 
 Tarihi galipler yazar. Türkiye’nin ordu tarihini de siviller yazacak
 gibi görünüyor.

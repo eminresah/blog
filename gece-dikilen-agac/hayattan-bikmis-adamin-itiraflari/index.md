@@ -1,7 +1,7 @@
-Hayattan Bıkmış Adamın İtirafları
-=================================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Hayattan Bıkmış Adamın İtirafları
+date: 2014-11-23 03:41:51 +0200
+---
 
 İlk itirafım, bu başlığın güzel bir kitap başlığı olacağını düşünmem
 olsun. Arkada düşünüyormuş gibi yapan bir adam, gölgesi bir kapıya

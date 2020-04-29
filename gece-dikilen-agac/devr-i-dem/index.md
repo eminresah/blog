@@ -1,7 +1,7 @@
-Devr-i Dem
-==========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Devr-i Dem
+date: 2014-11-23 03:41:51 +0200
+---
 
 Beynimi yalayan hayallerin arasında, sızıp kalan bir küçük kızın
 portresi, bayılan aşıklar, susuz geçen ufuksuz yakışıklı, direk, miras,

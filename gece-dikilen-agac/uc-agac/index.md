@@ -1,7 +1,7 @@
-Üç ağaç
-=======
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Üç ağaç
+date: 2014-11-23 03:41:51 +0200
+---
 
 Üç ağacın arasında, atılmış çöp poşetleri, gübre kokusu, kendini şehirde
 hep başkasının yolunu, başkasının arabasını, başkasının havasını,

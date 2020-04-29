@@ -1,7 +1,7 @@
-Wishful Sinking
-===============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Wishful Sinking
+date: 2014-11-23 03:41:51 +0200
+---
 
 *Bu yazıyı Van depreminin ertesi günü yazdım.*
 

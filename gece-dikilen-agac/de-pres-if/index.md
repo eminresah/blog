@@ -1,7 +1,7 @@
-de pres if
-==========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: de pres if
+date: 2014-11-23 03:41:51 +0200
+---
 
 zeka kırıntısı içermeyen depresifliği takip etmiyorum, dünyaya söv,
 insanlara söv, bana söv, kendine söv; *sonra?*

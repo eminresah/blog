@@ -1,7 +1,7 @@
-Başkasını Kurtarmak
-===================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Başkasını Kurtarmak
+date: 2014-11-23 03:41:51 +0200
+---
 
 Başkasını kurtarmak *kolay*, zor olan kendini kurtarmak.
 

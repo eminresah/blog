@@ -1,7 +1,7 @@
-Repisrenkli Sosyalist Müslüman
-==============================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Repisrenkli Sosyalist Müslüman
+date: 2014-11-23 03:41:51 +0200
+---
 
 Müslüman Sosyalist mi demeliyiz, Sosyalist Müslüman mı? Kendileri karar
 vermeli bence. Hangisi daha önce?

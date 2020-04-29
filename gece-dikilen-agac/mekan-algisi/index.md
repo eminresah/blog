@@ -1,7 +1,7 @@
-Mekan Algısı
-============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Mekan Algısı
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsanların mekan algısı çok değişik, birbirinden farklı. Sadece
 çevresini, eşyaları, şehrin gördüğü kısmını bilen insanla, bir haritaya

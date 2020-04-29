@@ -1,7 +1,7 @@
-Hayatın romanı
-==============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Hayatın romanı
+date: 2014-11-23 03:41:51 +0200
+---
 
 Zaman kimsenin hatırından geçmeyen haller üretir. Romanlar her zaman
 insan zihninin sınırlı üreteçlerine bağlı, hayatın resmi olmaktan uzak.

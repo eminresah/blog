@@ -1,7 +1,7 @@
-Zalim Zimla
-===========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Zalim Zimla
+date: 2014-11-23 03:41:51 +0200
+---
 
 Türkçe imla bir beladır. Tuhaf kurallar, garip istisnalar, anlamsız
 değişiklikler…Yazarken sıkılıyorum, okuyup yanlış bulunca daha da

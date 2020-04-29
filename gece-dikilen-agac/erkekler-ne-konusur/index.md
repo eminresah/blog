@@ -1,7 +1,7 @@
-Erkekler ne konuşur?
-====================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Erkekler ne konuşur?
+date: 2014-11-23 03:41:51 +0200
+---
 
 Bugün böyle bir soruyla başbaşa kaldım ve gerçekte bu sorunun cevabını
 bilmediğimi farkettim. Bugün buluştuğum askerlik arkadaşlarımla hayatın

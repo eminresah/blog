@@ -1,7 +1,7 @@
-Geleceğe Heyecan
-================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Geleceğe Heyecan
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsanın gelecek hakkında daha çok heyecanlanması nasıl bir duygudur,
 biliyorum, *en azından* hatırlıyorum. Eskiden benim de geleceği

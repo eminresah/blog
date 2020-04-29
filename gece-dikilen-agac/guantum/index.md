@@ -1,7 +1,7 @@
-Guantum
-=======
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Guantum
+date: 2014-11-23 03:41:51 +0200
+---
 
 Birkaç gün önce `habitforge.com <http://habitforge.com>`__ isimli bir
 site buldum, bir davranışın alışkanlık haline gelmesi için 21 gün

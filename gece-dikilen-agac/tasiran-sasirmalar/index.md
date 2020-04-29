@@ -1,7 +1,7 @@
-Taşıran Şaşırmalar
-==================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Taşıran Şaşırmalar
+date: 2014-11-23 03:41:51 +0200
+---
 
 Hiç hikaye okumayan bir insanın hayal kuramayacağını söylemiş *büyük
 filozof*, aslında hikaye olarak işaretlenmemiş demeliymiş, çünkü yazıya

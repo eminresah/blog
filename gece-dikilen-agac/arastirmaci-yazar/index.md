@@ -1,7 +1,7 @@
-Araştırmacı-Yazar
-=================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Araştırmacı-Yazar
+date: 2014-11-23 03:41:51 +0200
+---
 
 Titri olarak *Araştırmacı – Yazar* kullanan birini gördüğümde *boş
 gezenin boş kalfası* gibi bir intiba uyanıyor bende. Nedendir bilmem.

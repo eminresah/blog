@@ -1,7 +1,7 @@
-Ortalama İnsana Kurtuluş
-========================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Ortalama İnsana Kurtuluş
+date: 2014-11-23 03:41:51 +0200
+---
 
 Kurtuluş reçetesinin bol bulunduğu bir zamandayız. Kimi kurtuluşu
 bilgide, kimi dinde, kimi sanatta, kimi zenginlikte, kimi özgürlükte,

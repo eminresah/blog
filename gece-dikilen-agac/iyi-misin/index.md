@@ -1,7 +1,7 @@
-İyi misin?
-==========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: İyi misin?
+date: 2014-11-23 03:41:51 +0200
+---
 
 İyi değilim ama bana biri sorduğunda *kötüyüm* demem için onun benden
 iyi olmasını beklerim. Genelde kimse benden iyi değildir, o sebeple

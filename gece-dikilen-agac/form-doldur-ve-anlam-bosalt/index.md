@@ -1,7 +1,7 @@
-Form Doldur ve Anlam Boşalt
-===========================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Form Doldur ve Anlam Boşalt
+date: 2014-11-23 03:41:51 +0200
+---
 
 Bir *veda yazısı* yazmak istiyordum. *Blogculuk* serüveni kapanmıştır,
 bundan sonra *daha kalın* yazılarla yaşamak istiyorum demek istiyordum

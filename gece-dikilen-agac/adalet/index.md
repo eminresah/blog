@@ -1,7 +1,7 @@
-Adalet
-======
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Adalet
+date: 2014-11-23 03:41:51 +0200
+---
 
 Adalete bir tanım uydurmak gerektiğinde, *herkese hakkını vermek* gibi
 olmasa da olur bir tanımdan öteye gidemiyorum, zira gerçekte *Adalet*

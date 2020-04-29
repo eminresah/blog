@@ -1,7 +1,7 @@
-Eski ve yeni şairlere değgindir
-===============================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Eski ve yeni şairlere değgindir
+date: 2014-11-23 03:41:51 +0200
+---
 
 Şimdi, evet, söylerler hep güzel yazdığımı. Ben bu kanaatte değilim
 tabi, yani insanlar güzel deyince…

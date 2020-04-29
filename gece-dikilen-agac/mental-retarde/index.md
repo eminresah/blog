@@ -1,7 +1,7 @@
-Mental Retarde
-==============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Mental Retarde
+date: 2014-11-23 03:41:51 +0200
+---
 
 Bazı zaman, kaçmanın artık iş görmediği zaman, yüzleşiyorum.
 

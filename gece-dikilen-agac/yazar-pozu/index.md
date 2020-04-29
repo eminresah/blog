@@ -1,7 +1,7 @@
-Yazar Pozu
-==========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Yazar Pozu
+date: 2014-11-23 03:41:51 +0200
+---
 
 Zamanımızda bir yazarın olmazsa olmaz özelliği *kafası dolu* ve *pek
 düşünceli* pozu verebilmesidir. Fotoğrafında yazıyor gibi durmayan, çok

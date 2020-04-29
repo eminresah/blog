@@ -1,7 +1,7 @@
-Mutluluk
-========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Mutluluk
+date: 2014-11-23 03:41:51 +0200
+---
 
 Mantığı kaldırıp atası gelir insanın, zaman zaman kıpırdayan her
 kelimeye *sebep*, *neden*, *o zaman* diye başlayan sorular cümleler

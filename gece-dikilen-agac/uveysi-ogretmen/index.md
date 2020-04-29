@@ -1,7 +1,7 @@
-Üveysi Öğretmen
-===============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Üveysi Öğretmen
+date: 2014-11-23 03:41:51 +0200
+---
 
 Öğretmen sadece bir şeyleri değil, *öğretmeyi* de öğretir.
 

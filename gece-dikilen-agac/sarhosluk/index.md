@@ -1,7 +1,7 @@
-Sarhoşluk
-=========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Sarhoşluk
+date: 2014-11-23 03:41:51 +0200
+---
 
 Gözlerim yanıyor diye yattım, gözüm kapalı, beynimin kıvrımları
 kaşınıyor.

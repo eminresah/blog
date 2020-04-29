@@ -1,7 +1,7 @@
-uyku
-====
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: uyku
+date: 2014-11-23 03:41:51 +0200
+---
 
 *Garip bir uyku düzenin var.*
 

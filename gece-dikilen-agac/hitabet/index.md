@@ -1,7 +1,7 @@
-Hitabet
-=======
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Hitabet
+date: 2014-11-23 03:41:51 +0200
+---
 
 Bu zamana dek çok konuşma yapmam gerekmedi, o sebeple *gerçekte*
 nasıldır bilmiyorum ama insanların karşısına çıksam bugünkü

@@ -1,7 +1,7 @@
-Sözleşme
-========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Sözleşme
+date: 2014-11-23 03:41:51 +0200
+---
 
 *İçinden ne geliyor?* İnsanlığı kurtarmak mı? Hayır. Kurtulmuş herkes,
 kimsenin daha fazla kurtulmaya ihtiyacı yok.

@@ -1,7 +1,7 @@
-Mücadele Kültürü
-================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Mücadele Kültürü
+date: 2014-11-23 03:41:51 +0200
+---
 
 Hoşunuza gitmeyen bir şey olduğunda değiştirmek için ne yaparsınız?
 

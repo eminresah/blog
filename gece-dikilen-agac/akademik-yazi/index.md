@@ -1,7 +1,7 @@
-Akademik Yazı
-=============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Akademik Yazı
+date: 2014-11-23 03:41:51 +0200
+---
 
 Akademik yazı yazmayı beceremediğim doğru. Bunu bir eksiklik olarak
 gördüğümü ise söyleyemem. Akademik yazı okumam ve yazmam gerekti, hala

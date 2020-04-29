@@ -1,7 +1,7 @@
-Uyuşturucu
-==========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Uyuşturucu
+date: 2014-11-23 03:41:51 +0200
+---
 
 Senin de bir gün adı *din* olan, *ideoloji* olan, *düşman* olan,
 *tüketim* olan, *votka* olan, *futbol* olan veya düpedüz *uyuşturucu*

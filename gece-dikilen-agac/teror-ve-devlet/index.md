@@ -1,7 +1,7 @@
-Terör ve Devlet
-===============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Terör ve Devlet
+date: 2014-11-23 03:41:51 +0200
+---
 
 Bu konu üzerindeki standart görüş terörün kınanacak, lanetlenecek bir
 şey olduğudur. Baştan kuvvetle ifade etmekte fayda var ki, evet, terör

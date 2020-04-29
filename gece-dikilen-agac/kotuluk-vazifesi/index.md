@@ -1,7 +1,7 @@
-Kötülük Vazifesi
-================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Kötülük Vazifesi
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsanların bir kısmı bile bile kötülük yapıyor olabilir, ancak
 yeryüzünde insandan kaynaklı kötülüğün büyük kısmının *iyilik* veya

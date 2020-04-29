@@ -1,7 +1,7 @@
-Yaz/boşluk/malı
-===============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Yaz/boşluk/malı
+date: 2014-11-23 03:41:51 +0200
+---
 
 Yazmalı mısın? Yaz malı mısın?
 

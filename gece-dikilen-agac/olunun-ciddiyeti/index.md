@@ -1,7 +1,7 @@
-Ölünün Ciddiyeti
-================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Ölünün Ciddiyeti
+date: 2014-11-23 03:41:51 +0200
+---
 
 Ölümü değil de, *ölüleri* gereğinden fazla ciddiye alma adeti,
 memleketimizin önemli özelliklerinden biri. Zamanında değerli de olsa,

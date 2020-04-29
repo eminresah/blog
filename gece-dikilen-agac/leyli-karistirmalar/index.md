@@ -1,7 +1,7 @@
-Leyli Karıştırmalar
-===================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Leyli Karıştırmalar
+date: 2014-11-23 03:41:51 +0200
+---
 
 Çatlatıcı bir sessizlik. Ruh akar. Beden bozulur. Gelen gitmiş olur.
 *İlham* ilahlara karışır ve ona kulluk etmeye başlarsın.

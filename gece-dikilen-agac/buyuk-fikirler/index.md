@@ -1,7 +1,7 @@
-Büyük Fikirler
-==============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Büyük Fikirler
+date: 2014-11-23 03:41:51 +0200
+---
 
 Önceden, çok önceden değil, bir insan ömrüne sığacak kadar önceden büyük
 işlerle uğraştığımı düşünürdüm… *Fikir çilesinin müstesna genci* gibi

@@ -1,7 +1,7 @@
-Teknolojik Cennet
-=================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Teknolojik Cennet
+date: 2014-11-23 03:41:51 +0200
+---
 
 Hafta sonu *Elektroniğin Büyüsü* adlı bir kitap aldım. 1992’de tercüme
 edilmiş bir teknoloji muhalefeti kitabı, muhtemelen ondan 10 sene kadar

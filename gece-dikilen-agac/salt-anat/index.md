@@ -1,7 +1,7 @@
-Salt Anat
-=========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Salt Anat
+date: 2014-11-23 03:41:51 +0200
+---
 
 Türkçeyi en iyi bildiğini iddia edebilecek değilim. Benden daha iyi
 bilenler çoktur. Ancak kendimce bir *söz zevkim* olduğuna inanırım. Bazı

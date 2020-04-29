@@ -1,7 +1,7 @@
-Sonsuz Gri
-==========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Sonsuz Gri
+date: 2014-11-23 03:41:51 +0200
+---
 
 Gri, beyaz ve siyahın dünyasından kaçış demek, *ama griler de var*.
 

@@ -1,7 +1,7 @@
-Sosyal Dil
-==========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Sosyal Dil
+date: 2014-11-23 03:41:51 +0200
+---
 
 Sosyal bilimlerin büyük bir kısmında asıl konu dünyayı algılamakta ve
 aktarmakta kullanılan bir dil geliştirmektir. Bir tarafıyla (müstakilen

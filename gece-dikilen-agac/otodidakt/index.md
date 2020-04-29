@@ -1,7 +1,7 @@
-Otodidakt
-=========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Otodidakt
+date: 2014-11-23 03:41:51 +0200
+---
 
 Aklıma Cündioğlu geliyor otodidakt deyince, hayır, hayır, böyle
 düşünmemeliyim.

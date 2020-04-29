@@ -1,7 +1,7 @@
-Korkak
-======
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Korkak
+date: 2014-11-23 03:41:51 +0200
+---
 
 Korkak olmaktan korkan insan cesur mudur?
 

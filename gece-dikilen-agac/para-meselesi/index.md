@@ -1,7 +1,7 @@
-Para Meselesi
-=============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Para Meselesi
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsanların paraya bakışlarını belirleyen taraf, paranın insanların
 ihtiyaçlarını görmesi için bir araç olması değil. Pek çoğu *benim ne

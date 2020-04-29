@@ -1,7 +1,7 @@
-İsimle düşünmek ve fiille düşünmek
-==================================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: İsimle düşünmek ve fiille düşünmek
+date: 2014-11-23 03:41:51 +0200
+---
 
 İsimlerin zamana karşı çıkan bir edası var, fiilin zincirli olduğu gibi
 zincirli değil. İnsanların isimler konusunda uzlaşamıyor olmasının

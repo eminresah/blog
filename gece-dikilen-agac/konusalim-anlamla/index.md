@@ -1,7 +1,7 @@
-Konuşalım Anlamla
-=================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Konuşalım Anlamla
+date: 2014-11-23 03:41:51 +0200
+---
 
 Ah hayat. Ne güzel, ne tatlı. Uzakları yakın eden hayaller atlı,
 gerçekler yaya, gerçeklerden kaçmak için yeryüzünü angaryaya, kendimizi

@@ -1,7 +1,7 @@
-Yapay Zeka’ya Teslim
-====================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Yapay Zeka’ya Teslim
+date: 2014-11-23 03:41:51 +0200
+---
 
 Yapay Zeka konularıyla uğraşan kimselerin işin ahlaki taraflarıyla pek
 ilgilendiğini görmedim. Eski doktora danışmanım *nasılsa yapılamaz*

@@ -1,7 +1,7 @@
-Ben dedim diye doğru olacak değil
-=================================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Ben dedim diye doğru olacak değil
+date: 2014-11-23 03:41:51 +0200
+---
 
 Eh, evet, bir şey ben dedim diye doğru olacak değil, benim onu söylüyor
 olmam tabii ki onu doğru yapmaz.

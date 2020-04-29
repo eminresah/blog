@@ -1,7 +1,7 @@
-Ölçü
-====
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Ölçü
+date: 2014-11-23 03:41:51 +0200
+---
 
 Bir ölçü getirince, insan tabiatı o ölçü için çalışmaya, bazen de ölçüyü
 şaşırtmaya çalışıyor. Üniversiteye girmek için bir ölçü yaratınca,

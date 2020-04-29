@@ -1,7 +1,7 @@
-Meydanın Erenleri
-=================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Meydanın Erenleri
+date: 2014-11-23 03:41:51 +0200
+---
 
 Meydan çok geniş ama kimsenin egosu sığmıyor. İtişmek zorunda kalıyoruz.
 Çarpışan egolar *medeniyet* üretiyor, iyi cinsinden ve bazen kötü

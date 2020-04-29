@@ -1,7 +1,7 @@
-Zengin Ailenin Şüpheci Çocuğu
-=============================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Zengin Ailenin Şüpheci Çocuğu
+date: 2014-11-23 03:41:51 +0200
+---
 
 Çok zengin bir aile varmış, bu ailenin de bir çocuğu.
 

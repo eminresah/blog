@@ -1,7 +1,7 @@
-Aşkınız Bol Olsun
-=================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Aşkınız Bol Olsun
+date: 2014-11-23 03:41:51 +0200
+---
 
 Bugüne kadar kimseye *bol şans* dilemedim, birincisi bu bana Frenkçe
 *bonne chance*\ \`ın garip bir tercümesi gibi geldi, ikincisi *gevşek

@@ -1,7 +1,7 @@
-Muhal evet
-==========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Muhal evet
+date: 2014-11-23 03:41:51 +0200
+---
 
 Memleketimizde muhalefet aslında *muhal evet* anlamına gelir, tek
 bildikleri kimin muhalifiyseler ona hiç bir şart altında *evet*

@@ -1,7 +1,7 @@
-Tevkil, teşrik ve azle
-======================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Tevkil, teşrik ve azle
+date: 2014-11-23 03:41:51 +0200
+---
 
 *İrade* insanın kendini bilmesinden başlar, ne istediğini bilmesinden,
 sonra *istemediklerini* bilmesine doğru yol alır; *çığ* gibi yol alır

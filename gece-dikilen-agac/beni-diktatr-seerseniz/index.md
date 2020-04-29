@@ -1,7 +1,7 @@
-Beni diktatör seçerseniz…
-=========================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Beni diktatör seçerseniz…
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsanın gerçekte boş mevkiler için zamanını tehlikeye atması… Daha
 yüksek mevki için yalan söylemesi… Menfaati uğruna kıvırması… İnandığı

@@ -1,7 +1,7 @@
-Mit
-===
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Mit
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsanın mite ihtiyacı var. Kendine anlam verebilmesi için bir hikayede
 yer alması gerekiyor. *Sıkıcı* hayatından bir parça değil, ona önemli

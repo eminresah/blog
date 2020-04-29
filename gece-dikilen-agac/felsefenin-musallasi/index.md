@@ -1,7 +1,7 @@
-Felsefenin Musallası
-====================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Felsefenin Musallası
+date: 2014-11-23 03:41:51 +0200
+---
 
 *Teselli* ile *musalla* kelimelerinden söz oyunu yaptım anacım, buyrun
 kısır da var. Musalladan bir de musakka yapacaktım ama artık o da fazla

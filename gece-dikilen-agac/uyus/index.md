@@ -1,7 +1,7 @@
-Uyuş
-====
-
-:date: 2015-11-28 15:47:50 +0200
+---
+title: Uyuş
+date: 2015-11-28 15:47:50 +0200
+---
 
 İçki, uyuşturucu, sigara, prozac, din, televizyon, futbol…
 

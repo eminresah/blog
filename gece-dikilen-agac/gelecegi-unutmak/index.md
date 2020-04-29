@@ -1,7 +1,7 @@
-Geleceği Unutmak
-================
-
-:date: 2015-06-11 16:56:43 +0300
+---
+title: Geleceği Unutmak
+date: 2015-06-11 16:56:43 +0300
+---
 
 Tüm hayatım bir sakinlik çeşmesi arayarak geçti, birkaç damla oradan,
 birkaç damla buradan. Kur’an’ın *ancak Allah’ın zikriyle* dediği cinsten

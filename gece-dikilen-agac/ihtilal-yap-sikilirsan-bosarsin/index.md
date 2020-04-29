@@ -1,7 +1,7 @@
-İhtilal Yap Sıkılırsan Boşarsın
-===============================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: İhtilal Yap Sıkılırsan Boşarsın
+date: 2014-11-23 03:41:51 +0200
+---
 
 Dün sanırım yayınlamadığım bir yazı yazdım, ihtilal tarzı işlerle
 ilgili. Taslakların arasında vardır ama şimdi açıp da ne yazdığımı

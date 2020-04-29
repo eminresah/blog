@@ -1,7 +1,7 @@
-Nesne
-=====
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Nesne
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsanın içinde nesne olmadığına, *özne* olduğuna dair bir his var, hatta
 histen öte bir kanun bu; özne olduğumuza ve başka insanların da özne

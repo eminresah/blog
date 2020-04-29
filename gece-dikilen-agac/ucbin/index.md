@@ -1,7 +1,7 @@
-Üçbin
-=====
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Üçbin
+date: 2014-11-23 03:41:51 +0200
+---
 
 *Üçbin kelimeyle yazan adamın büyük yazar olduğu yerde, avamın üçyüz
 kelimeyle konuşması şaşırtıcı değil* dedim, yine duymadı.

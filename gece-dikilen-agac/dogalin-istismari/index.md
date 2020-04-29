@@ -1,7 +1,7 @@
-Doğalın İstismarı
-=================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Doğalın İstismarı
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsan sözkonusu olduğunda doğal nedir? Şehvet doğaldır, insanın kendine
 benzeyeni sevmesi doğaldır, kıskançlık doğaldır, mülk hırsı

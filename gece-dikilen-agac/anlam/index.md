@@ -1,7 +1,8 @@
-Anlam
-=====
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Anlam
+date: 2014-11-23 03:41:51 +0200
+dp: 
+---
 
 İnsanın hayatına anlam kazandırması, aslında anlamsızlık düşüncesinin
 katlanılamaz olmasından kaynaklanıyor. Anlamsızlığa dayanamadığımız için

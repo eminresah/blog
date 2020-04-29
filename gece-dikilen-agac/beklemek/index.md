@@ -1,7 +1,7 @@
-Beklemek
-========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Beklemek
+date: 2014-11-23 03:41:51 +0200
+---
 
 *Beklemeyi bilmiyorsun. Bekle dendiği zaman gözünden ayak parmaklarına
 kadar sıkıntı. Beklemek dar geliyor.*

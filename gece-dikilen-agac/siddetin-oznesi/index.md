@@ -1,7 +1,7 @@
-Şiddetin Öznesi
-===============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Şiddetin Öznesi
+date: 2014-11-23 03:41:51 +0200
+---
 
 Birini şiddetin nesnesi olmaktan kurtarmak için, diğerini şiddetin
 öznesi olmaktan *kurtarmak* gerekir. Kadına uygulanan şiddetle alakalı

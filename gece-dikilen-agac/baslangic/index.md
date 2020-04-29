@@ -1,7 +1,7 @@
-Başlangıç
-=========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Başlangıç
+date: 2014-11-23 03:41:51 +0200
+---
 
 Geziyorum. Nasıl başladığını bulmak için. Nasıl başladığını bilirsem
 nasıl biteceğini de bilirim.

@@ -1,7 +1,7 @@
-Fikirlerimi kendime saklıyorum
-==============================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Fikirlerimi kendime saklıyorum
+date: 2014-11-23 03:41:51 +0200
+---
 
 Sonra turşu oluyorlar ve beni ekşitiyorlar. Karın ağrısı oluyorlar.
 Fikirlerimi karın ağrısına dönüştürüyorum.

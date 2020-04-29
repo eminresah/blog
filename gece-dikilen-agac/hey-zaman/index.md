@@ -1,7 +1,7 @@
-Hey Zaman
-=========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Hey Zaman
+date: 2014-11-23 03:41:51 +0200
+---
 
 Aklım yitti, sertabibe emanet.
 

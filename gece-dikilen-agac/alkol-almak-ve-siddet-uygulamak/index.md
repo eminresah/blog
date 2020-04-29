@@ -1,7 +1,7 @@
-Alkol Almak ve Şiddet Uygulamak
-===============================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Alkol Almak ve Şiddet Uygulamak
+date: 2014-11-23 03:41:51 +0200
+---
 
 Yanıldınız. bu ikisi arasında *illiyet* kuran bir yazı değil bu.
 

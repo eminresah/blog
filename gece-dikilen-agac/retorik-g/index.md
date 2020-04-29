@@ -1,7 +1,7 @@
-Retorik Güç
-===========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Retorik Güç
+date: 2014-11-23 03:41:51 +0200
+---
 
 Kuvvetli retoriğin insana neler kazandırabileceğini biliyoruz, insanın
 çektiği cefanın sebebi olabileceği gibi sefası da dilinin maharetinden

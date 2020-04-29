@@ -1,7 +1,7 @@
-Solcu
-=====
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Solcu
+date: 2014-11-23 03:41:51 +0200
+---
 
 Solculuk güzel şey, solcuları severim. Sağcıları sevmediğimden değil. Ne
 ki siyasi yelpazelenmesiyle gurur duyan pek az sağcı gördüm ama solcu

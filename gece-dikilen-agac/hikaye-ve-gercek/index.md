@@ -1,7 +1,7 @@
-Hikaye ve Gerçek
-================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Hikaye ve Gerçek
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsan hepsinin ötesinde bir hikaye tüketicisidir. Hikayenin parçası
 olmak için yaşar, alır, kazanır, bilir, okur. Hayatını *ideal* adını

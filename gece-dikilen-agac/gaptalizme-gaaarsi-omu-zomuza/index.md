@@ -1,7 +1,7 @@
-Gaptalizme Gaaarşı Omu Zomuza
-=============================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Gaptalizme Gaaarşı Omu Zomuza
+date: 2014-11-23 03:41:51 +0200
+---
 
 Modern zamanların kötü tanrılarından biri bu, *bütün kötülüklerin anası*
 Gaptalizm.

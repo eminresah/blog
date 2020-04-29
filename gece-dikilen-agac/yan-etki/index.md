@@ -1,7 +1,7 @@
-Yan Etki
-========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Yan Etki
+date: 2014-11-23 03:41:51 +0200
+---
 
 Konuya nasıl gireceğimi iki gündür düşünüyorum. Kolay bir giriş olsun,
 üzmesin, kolay okunsun gayretindeyim.

@@ -1,7 +1,7 @@
-Liberalleşmek
-=============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Liberalleşmek
+date: 2014-11-23 03:41:51 +0200
+---
 
 Normal bir süreç olsaydı bu heyecanı anlardım, ancak temellerini bizden,
 içimizdeki dinamiklerden alan bir süreç değil.

@@ -1,7 +1,7 @@
-Haklar ve Araçlar
-=================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Haklar ve Araçlar
+date: 2014-11-23 03:41:51 +0200
+---
 
 Liberal düşünceye yakın duranlarda kişisel haklara doğal, vazgeçilmez,
 kutsal gibi atıflarla yaklaşmak eğilimi mevcuttur. Zamanın rüzgarından,

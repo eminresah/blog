@@ -1,7 +1,7 @@
-Yazar olmak
-===========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Yazar olmak
+date: 2014-11-23 03:41:51 +0200
+---
 
 Birinin biyografisinin sonunda *büyüyünce yazar olmak istiyor* diye bir
 ibare gördüm.

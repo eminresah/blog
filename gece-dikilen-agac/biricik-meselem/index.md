@@ -1,7 +1,7 @@
-Biricik meselem…
-================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Biricik meselem…
+date: 2014-11-23 03:41:51 +0200
+---
 
 *…sonsuza varmak* diyordu şair. Büyük bir ego, şairlerin egosu böyle
 şişkin mi olmak zorunda?

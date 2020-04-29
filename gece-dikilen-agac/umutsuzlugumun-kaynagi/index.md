@@ -1,7 +1,7 @@
-Umutsuzluğumun Kaynağı
-======================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Umutsuzluğumun Kaynağı
+date: 2014-11-23 03:41:51 +0200
+---
 
 Şahsi bir umutsuzluk değil, şahsen gayet keyfi yerine, evli–barklı,
 halinden memnun bir insanım. Hayat oyununun kurallarını az biraz

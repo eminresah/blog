@@ -1,7 +1,7 @@
-Muhtaç olmadığım kudret
-=======================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Muhtaç olmadığım kudret
+date: 2014-11-23 03:41:51 +0200
+---
 
 Muhtaç olduğum kudret, kudrete muhtaç olmamak…
 

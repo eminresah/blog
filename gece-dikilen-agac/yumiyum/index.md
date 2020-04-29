@@ -1,7 +1,7 @@
-Yumiyum
-=======
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Yumiyum
+date: 2014-11-23 03:41:51 +0200
+---
 
 Sabah yürürken `David Hume’un Tanrı görüşüne dair bir
 podcast <http://www.abc.net.au/rn/philosopherszone/stories/2011/3190422.htm>`__

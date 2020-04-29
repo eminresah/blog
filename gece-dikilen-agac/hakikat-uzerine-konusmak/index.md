@@ -1,7 +1,7 @@
-Hakikat üzerine konuşmak
-========================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Hakikat üzerine konuşmak
+date: 2014-11-23 03:41:51 +0200
+---
 
 Hakikati bilmek üzerine ikibinyedide şöyle yazmışım:
 

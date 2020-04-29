@@ -1,7 +1,7 @@
-Sınav
-=====
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Sınav
+date: 2014-11-23 03:41:51 +0200
+---
 
 Çabuk düşünen biri değilim, olmaya da çalışmadım, sınavları –hele böyle
 süresi belli olanları– ölçme konusunda pek faydalı bulmuyorum, zaten pek

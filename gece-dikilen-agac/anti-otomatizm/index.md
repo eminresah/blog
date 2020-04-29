@@ -1,7 +1,7 @@
-Anti Otomatizm
-==============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Anti Otomatizm
+date: 2014-11-23 03:41:51 +0200
+---
 
 *Otomatizm* dediğim kendimdeki bir heves, her şeyi otomatik yapma
 hevesi, o kadar ki *elle* ilgilenmek zorunda kalmayayım. Neyle?

@@ -1,7 +1,7 @@
-Kırt Kırt
-=========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Kırt Kırt
+date: 2014-11-23 03:41:51 +0200
+---
 
 Gönüller ayrıldığında insanların kanla, parayla, daha güzel yollar ve
 fabrikalar için, bir takım haklar için bir arada kalmaya devam edeceğine

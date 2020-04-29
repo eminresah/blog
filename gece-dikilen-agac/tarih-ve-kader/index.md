@@ -1,7 +1,7 @@
-Tarih ve Kader
-==============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Tarih ve Kader
+date: 2014-11-23 03:41:51 +0200
+---
 
 Sadece insanların düşüncelerini yönlendirebilen bir *tanrı* bile tüm
 tarihe yön verebilir. Bunun için fizik kurallarını değiştirmeye gerek

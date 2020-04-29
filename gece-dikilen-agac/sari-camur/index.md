@@ -1,7 +1,7 @@
-Sarı Çamur
-==========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Sarı Çamur
+date: 2014-11-23 03:41:51 +0200
+---
 
 Sarı bir çamur boyumu yükseltirken ve turuncu bir güneş yüzüme vururken,
 ne kadar yükseldiğimi ve biraz daha yürüsem ve çamur biriktirsem dağları

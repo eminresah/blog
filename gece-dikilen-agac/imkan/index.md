@@ -1,7 +1,7 @@
-İmkan
-=====
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: İmkan
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsanın imkanlarıyla onları değerlendirme kabiliyeti arasında ters
 orantı olduğunu düşünmeye başladım. İmkan arttıkça, kabiliyet azalıyor

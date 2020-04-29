@@ -1,7 +1,7 @@
-Önemli Mesele
-=============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Önemli Mesele
+date: 2014-11-23 03:41:51 +0200
+---
 
 Kimsenin umurunda olmayan felsefi bir mesele bulup çiğnemek istedim.
 Arıyorum. Çiğnemek istedim.

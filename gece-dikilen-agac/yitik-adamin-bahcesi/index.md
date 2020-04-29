@@ -1,7 +1,7 @@
-Yitik Adamın Bahçesi
-====================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Yitik Adamın Bahçesi
+date: 2014-11-23 03:41:51 +0200
+---
 
 *Ben senin avukatındım yavrucuğum, belki hatırlamazsın, otuz sene
 evvel.* Zaman bizi ayırana dek beraber kalacağız.

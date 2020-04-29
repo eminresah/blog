@@ -1,7 +1,7 @@
-Devrimden Sonrası
-=================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Devrimden Sonrası
+date: 2014-11-23 03:41:51 +0200
+---
 
 Her devrimin başına gelen *Arap Baharının* da başına geldi sanırım.
 Devrime kadar herkes biliyor ne istemediğini, herkes heyecanlı,

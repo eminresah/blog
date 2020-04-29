@@ -1,7 +1,7 @@
-Gerçek ve Hakikat
-=================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Gerçek ve Hakikat
+date: 2014-11-23 03:41:51 +0200
+---
 
 İsmet Özel’den (Surat Asmak Hakkımız) bir alıntıyla başlayalım:
 

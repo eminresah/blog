@@ -1,7 +1,7 @@
-Bakire Kemal
-============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Bakire Kemal
+date: 2014-11-23 03:41:51 +0200
+---
 
 Şimdi, herkesin kolunda bir saat, imzalı ve ikonalı, kimisi arabasının
 camına yapıştırıyor, mahfuz buyursun babında sanırım, kamyoncular da bir

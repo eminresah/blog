@@ -1,7 +1,7 @@
-Bilginin Bencilliği
-===================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Bilginin Bencilliği
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsanın hakikati bilmesindeki engel *bilgi*. Bilgi, çünkü bilgi bencil,
 iki kişi bir şeyi *yarımşar yarımşar* bilemiyor, ya bir insan tam

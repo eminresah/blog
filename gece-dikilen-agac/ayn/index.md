@@ -1,7 +1,7 @@
-Ayn
-===
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Ayn
+date: 2014-11-23 03:41:51 +0200
+---
 
 Silinmek, cana hohlamak, sonra silinmek istiyorum. Parlasın, değmesin
 lekeler.

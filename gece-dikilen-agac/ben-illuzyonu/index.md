@@ -1,7 +1,7 @@
-Ben İllüzyonu
-=============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Ben İllüzyonu
+date: 2014-11-23 03:41:51 +0200
+---
 
 *Ben* bir illüzyondur. Düşünmeye başlayan kişi, bütün düşüncenin
 kendinden sadır olduğunu görür ve *ben* dediğinin mutlak bir doğru

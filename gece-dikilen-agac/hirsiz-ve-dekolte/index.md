@@ -1,7 +1,7 @@
-Hırsız ve Dekolte
-=================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Hırsız ve Dekolte
+date: 2014-11-23 03:41:51 +0200
+---
 
 Kapıyı açık bırakırsam ve eve hırsız girerse, bu hırsızın suçunu
 azaltmaz.

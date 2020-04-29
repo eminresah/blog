@@ -1,7 +1,7 @@
-Gündem
-======
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Gündem
+date: 2014-11-23 03:41:51 +0200
+---
 
 Gündemi takip etmediğim için eksiklik hissettiğim zamanlar olmuyor
 değil.

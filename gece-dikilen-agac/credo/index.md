@@ -1,7 +1,7 @@
-Credo …
-=======
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Credo …
+date: 2014-11-23 03:41:51 +0200
+---
 
 … Latince’de *inanıyorum* demek, İngiliz dilinde *amentü* anlamında
 kullanılıyor, *amentü* de *inandım* demek zaten.

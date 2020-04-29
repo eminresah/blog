@@ -1,7 +1,7 @@
-Yaşlılık
-========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Yaşlılık
+date: 2014-11-23 03:41:51 +0200
+---
 
 İnsan yaşlandığını ne zaman hissetmeye başlar?
 

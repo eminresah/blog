@@ -1,7 +1,7 @@
-Araçlar, Amaçlar
-================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Araçlar, Amaçlar
+date: 2014-11-23 03:41:51 +0200
+---
 
 Amaçlar araçları ne kadar mübah kılar? Amaca ulaşmak için neler
 mübahtır?

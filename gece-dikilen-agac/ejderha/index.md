@@ -1,7 +1,7 @@
-Ejderha
-=======
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Ejderha
+date: 2014-11-23 03:41:51 +0200
+---
 
 `Konfüçyüs Lao Tzu ile
 karşılaştığında <http://www.taopage.org/laotzu/confucius.html>`__ onu

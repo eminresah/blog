@@ -1,7 +1,7 @@
-Yazar azar azar yazar
-=====================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Yazar azar azar yazar
+date: 2014-11-23 03:41:51 +0200
+---
 
 Yazıyla alakamın kesildiği zamanları anlamaya çalışıyorum. Dün, uzunca
 bir yazının yarısını yazdım ve bıraktım, ancak şimdi, kalkıp onu

@@ -1,7 +1,7 @@
-Okumak, Yazmak ve Yaşamak Üzerine (Schopenhauer)
-================================================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Okumak, Yazmak ve Yaşamak Üzerine (Schopenhauer)
+date: 2014-11-23 03:41:51 +0200
+---
 
 Tercümesini Ahmet Aydoğan yapmış. Say Yayınları basmış. Sunuş yine
 Aydoğan tarafından yazılmış, aşağıdaki sunuştan bir parça…

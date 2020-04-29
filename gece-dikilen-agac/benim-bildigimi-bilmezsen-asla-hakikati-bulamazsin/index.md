@@ -1,7 +1,7 @@
-Benim bildiğimi bilmezsen asla hakikati bulamazsın
-==================================================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Benim bildiğimi bilmezsen asla hakikati bulamazsın
+date: 2014-11-23 03:41:51 +0200
+---
 
 Hah, işte bu… Nasıl tarif edeceğimi düşünüyordum ne zamandır, Dücane
 Cündioğlu’nun bir yazısını okuyunca somutlaştı.

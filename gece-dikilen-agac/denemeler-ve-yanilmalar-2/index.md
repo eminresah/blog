@@ -1,7 +1,7 @@
-Denemeler ve Yanılmalar
-=======================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Denemeler ve Yanılmalar
+date: 2014-11-23 03:41:51 +0200
+---
 
 Geçenlerde seyrettiğim `bir
 videoda <http://www.ted.com/talks/tim_harford.html>`__ *insanın

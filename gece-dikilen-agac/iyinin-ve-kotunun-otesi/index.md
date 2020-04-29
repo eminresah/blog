@@ -1,7 +1,7 @@
-İyinin ve Kötünün Ötesi
-=======================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: İyinin ve Kötünün Ötesi
+date: 2014-11-23 03:41:51 +0200
+---
 
 Eski özleminin bendeki en önemli yansıması *iyinin ve kötünün netliği.*
 Eskiyi doğrusu yanlışı belli diye seviyorum.

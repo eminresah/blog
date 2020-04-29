@@ -1,7 +1,7 @@
-Kelepçe
-=======
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Kelepçe
+date: 2014-11-23 03:41:51 +0200
+---
 
 Aklımın kelepçesi, seni kim çözdürsem?
 

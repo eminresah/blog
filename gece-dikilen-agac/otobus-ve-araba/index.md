@@ -1,7 +1,7 @@
-Otobüs ve Araba
-===============
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Otobüs ve Araba
+date: 2014-11-23 03:41:51 +0200
+---
 
 *Düşünmeye* geldiğinde insanın iki tercihi var, ya kendine hakikate
 kalkan otobüslerden bir bilet alacak veyahut direksiyonuna geçeceği bir

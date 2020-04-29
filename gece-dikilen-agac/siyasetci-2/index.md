@@ -1,7 +1,7 @@
-Siyasetçi
-=========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Siyasetçi
+date: 2014-11-23 03:41:51 +0200
+---
 
 Adamların bildikleri en iyi şeyin *siyaset* olduğunu kabul ediyoruz, en
 azından en başarılı oldukları *iş* bu olmalı.

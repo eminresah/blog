@@ -1,7 +1,7 @@
-Kabile
-======
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Kabile
+date: 2014-11-23 03:41:51 +0200
+---
 
 Evveliyatında, yani henüz *temiz yürekli bir çocukken* insanların
 tarafsız olabileceğine inanırdım. Sonra bu inancım kayboldu, insanlardan

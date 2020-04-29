@@ -1,7 +1,7 @@
-Ataların Çekişmesi
-==================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Ataların Çekişmesi
+date: 2014-11-23 03:41:51 +0200
+---
 
 Bu yazıyı Osman Gazi türbesinin yakınındaki bir parkta yazıyorum, İsa
 Mesih’in 4 yaşına basmasından ikibinonbir sene sonra.

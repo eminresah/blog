@@ -1,7 +1,7 @@
-Hafifletilmiş Müebbet
-=====================
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Hafifletilmiş Müebbet
+date: 2014-11-23 03:41:51 +0200
+---
 
 Zihnimin her tarafından hayaller kesik kesik akmaya başladı, geçmişin ve
 bugünün tüm sezgileri, sevmediğim ezgiler gibi kanamaya; kafamın içinde

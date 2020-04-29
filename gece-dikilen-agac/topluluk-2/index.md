@@ -1,7 +1,7 @@
-Topluluk
-========
-
-:date: 2014-11-23 03:41:51 +0200
+---
+title: Topluluk
+date: 2014-11-23 03:41:51 +0200
+---
 
 Topluluklara ve onları temel alan fikirlere güvenmiyorum. Fikirlerin
 bireylerden sadır olduğunu, bir iletişime ihtiyaç duysa da *düşüneninin*
