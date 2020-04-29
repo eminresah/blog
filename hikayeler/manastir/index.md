@@ -1,4 +1,7 @@
-# Manastır
+---
+title: Manastır
+---
+
 
 *Hayatta vazgeçilmez gördüğünüz nedir?* diye başladı söze, sabahın erken
 saatlerinde *uyku* benim yerime cevap verdi.

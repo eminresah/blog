@@ -1,4 +1,6 @@
-# Dervişin Dili
+---
+title: Dervişin Dili
+---
 
 *Pirin yediğinden yemek için onun kadar büyük olmalısın* dedi,
 bakışlarını elindeki ekmekten çekmeden, *meşhur kıssadır, bilirsin.*

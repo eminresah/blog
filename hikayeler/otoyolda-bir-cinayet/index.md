@@ -1,4 +1,6 @@
-# Otoyolda bir Cinayet
+---
+title: Otoyolda bir Cinayet
+---
 
 Gözde dokunduğu son sıcaklığın arkadaşının evden çıkarken tuttuğu eli
 olduğunu düşündü. Yaklaşık 20 dakikadır, keskin ayazın damarlarında akan

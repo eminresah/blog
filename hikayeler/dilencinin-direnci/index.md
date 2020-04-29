@@ -1,4 +1,6 @@
-# Dilencinin Direnci
+---
+title: Dilencinin Direnci
+---
 
 Hace Keyfullah Mahrur sabahın bir köşesinde yedi iklimden gelen kokuları
 konularına göre tanzim ederken, bir çöplüğün kenarındaki iki kedi krallarına

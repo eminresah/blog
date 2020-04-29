@@ -1,6 +1,7 @@
-# Karbijen
+---
+title: Karbijen
+---
 
-<!-- başlık için google aramaları, tdk sözlük ve kubbealtı lugat sonuç vermedi. Fakat gerek de yokmuş :) -->
 X
 
 :   Dünyaya çıkmış diyorlar?

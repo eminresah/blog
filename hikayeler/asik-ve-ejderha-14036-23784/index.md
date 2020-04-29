@@ -1,7 +1,6 @@
 ---
-title: "Aşık ve Ejderha [Hikaye]"
+title: "Aşık ve Ejderha"
 date: 2017-12-18 23:35:04
-expiryDate: 2018-12-18 23:35:04
 dp: 14036
 featured_image: "/images/header-117.jpg"
 images: ["/images/header-117.jpg"]

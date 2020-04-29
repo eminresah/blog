@@ -1,4 +1,8 @@
-# Bitmemiş Bir Hikayeye Son
+---
+title: Bitmemiş Bir Hikayeye Son
+date:
+dp: 
+---
 
 Çocukken bütün kitaplarımı okuyacak kadar yaşayacağımı sanırdım. Bunun
 için dua ettiğimi, babanneme de her namazda bu duayı etmesini

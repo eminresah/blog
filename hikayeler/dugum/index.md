@@ -1,5 +1,6 @@
-# Düğüm
-
+---
+title: Düğüm
+---
 
 Kafam ölüm ve aşkla meşgul. Hangi ölüm, hangi aşk?
 

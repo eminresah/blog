@@ -1,4 +1,6 @@
-# Dürkler
+---
+title: Dürkler
+---
 
 Dürklerin ne zaman ortaya çıktığını bilmiyoruz. Büyük Çöküşten yaklaşık
 200 sene önceleri, o zamanlar bir yarımada olan Anetil veya Anatilia

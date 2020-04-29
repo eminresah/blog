@@ -1,7 +1,6 @@
 ---
-title: "Bayan Çedar'ın Son Günü [Hikaye]"
+title: "Bayan Çedar'ın Son Günü"
 date: 2018-09-15 19:01:33
-expiryDate: 2019-09-15 19:01:33
 dp: 14307
 featured_image: "/images/header-28.jpg"
 images: ["/images/header-28.jpg"]

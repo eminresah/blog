@@ -1,4 +1,9 @@
-# Ortak Zihin
+---
+title: Ortak Zihin
+draft: true
+---
+
+
 
 
 **Hayatımızın Kontrolü Makinelerin Elinde** diye başlık atmışlar, daha

@@ -1,5 +1,7 @@
-# Kırık Topuk
-
+---
+title: Kırık Topuk
+draft: true
+---
 
 Bir yağmur ertesi su dolu çukurların arasından sekerken gördüm.
 Ayakkabısının topuğu kırılmış, bir çamura bir de su birikintilerine umutsuzca bakıyordu.
@@ -60,7 +62,7 @@ yıkayabilirdi. Şimdi sadece belirsiz bir ekşilik duydum.
 işte.*
 
 Asıl sorduğu bu değildi, dönüp baktı, sormayı düşünüp vazgeçti.
-<!-- yazı genel olarak güncel türkçe kelimelerle oluşturulmuş, vazıhen kelimesi gözüme fazla geldi bu yazı ortalaması için. -->
+
 İki topal caddeye çıkmıştık.
 
 *Biraz ilerde lostra var.*

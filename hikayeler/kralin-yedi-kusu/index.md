@@ -1,11 +1,7 @@
-========================
-[Masal] Kralın Yedi Kuşu
-========================
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Nihar Meşe
-.. :Date:   <>
+---
+title: Kralın Yedi Kuşu
+date: 2014-11-23 02:18:14 +0200
+---
 
 Bir varmış bir yokmuş. Bir zamanlar yeryüzünde krallar çokmuş. O
 zamanlar her ülkenin bir kralı ve her kralın bir sarayı olurmuş.

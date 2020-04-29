@@ -1,15 +1,12 @@
 ---
 title: "Kaptan Ali'nin Mars Macerası"
 date: 2019-06-25 12:15:00
-expiryDate: 2020-06-24 12:15:00
 dp: 14570
 featured_image: "/images/header-107.jpg"
 images: ["/images/header-107.jpg"]
 published: true
 tags: []
 ---
-
-
 
 *Ferzan için 8. doğumgünü armağanı.* 
 

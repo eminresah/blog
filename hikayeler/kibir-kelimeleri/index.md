@@ -1,4 +1,6 @@
-# Kibir Kelimeleri
+---
+title: Kibir Kelimeleri
+---
 
 Üç gündür elime kalem almadım. Ne yazacağımı bilmiyorum. Ne diyeceğimi
 bilmiyorum.

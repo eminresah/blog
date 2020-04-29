@@ -1,5 +1,6 @@
-# Mormon
-
+---
+title: Mormon
+---
  
 Uzun geceler boyu çalışmanın kendisi için pek hayırlı olmadığını
 anlatmıştı. Sağlığından oluncaya kadar uğraşmış, ne yaptığını soranlara

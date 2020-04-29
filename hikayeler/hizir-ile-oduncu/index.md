@@ -1,4 +1,6 @@
-# Hızır ile Oduncu
+---
+title: Hızır ile Oduncu
+---
 
 > | Kişioğlunun biri eşeğiyle odun toplar,
 > | Sonra bunların yapraklarından para üflerdi,

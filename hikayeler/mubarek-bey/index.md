@@ -1,5 +1,6 @@
-# Mübarek Bey
-
+---
+title: Mübarek Bey
+---
 
 Mübarek Bey cuma günleri hariç hafta içi sık sık yaptığı gibi karşıdaki
 dönerciden bir dürüm almak için hızlı adımlarla caddeyi geçti. Dönerci,

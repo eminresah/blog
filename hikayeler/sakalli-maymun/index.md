@@ -1,4 +1,6 @@
-# Sakallı Maymun
+---
+title: Sakallı Maymun
+---
 
 *Ben bir aynayım* diye başladı söze çocuk, tam benim önümde durup
 ellerini açmıştı kıza doğru. *Şimdi seni gösteriyorum.*

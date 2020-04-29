@@ -1,5 +1,6 @@
-# Üşümek
-
+---
+title: Üşümek
+---
 
 Sahaflığa başladığımdan beri ara sıra ölmüşlerin kitaplarını almaya
 evlerine gitmem gerekiyor. Genelde yaşlıların kitaplarını alıyorum ama

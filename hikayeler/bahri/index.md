@@ -1,5 +1,6 @@
-# Bahri
-
+---
+title: Bahri
+---
 
 Yeryüzündeki yirminci yılımı bitirmeme kısa bir zaman kala, bir parkta bir adamla tanıştım. Nasıl tanıştığımı tam hatırlamıyorum ama sanırım falıma bakmak istemişti. Elimi açıp okudu ama falcıların oyunlarına karşı uyanık olduğumdan ona inanmadım. İnanmadığımı söyleyince, *ne söylersem inanacaksın?* dedi.
 

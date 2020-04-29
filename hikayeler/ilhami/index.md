@@ -1,4 +1,7 @@
-# İlhami
+---
+title: İlhami
+---
+
 
 İlhami adını verdiğim bir ruhla aynı evde yaşıyormuşum. Kendimi ona
 teslim ettiğimde işlerimin rast gideceğini söyledi, bugüne kadar aklıma

@@ -1,4 +1,6 @@
-# Ermiş
+---
+title: Ermiş
+---
 
 *Sana ermiş bir kız lazım* diye başladı, şapkasını masaya koyarken...
 

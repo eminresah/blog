@@ -1,7 +1,6 @@
 ---
 title: "Pejvak #1"
 date: 2019-12-10 21:12:21
-expiryDate: 2020-12-09 21:12:21
 dp: 14758
 featured_image: "/images/header-137.jpg"
 images: ["/images/header-137.jpg"]

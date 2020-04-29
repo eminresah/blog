@@ -1,4 +1,6 @@
-# Vakıftan Sürece
+---
+title: Vakıftan Sürece
+---
 
 
 Sürecin temelini oluşturan ilkeleri hayata geçiren Vakfı

@@ -1,4 +1,8 @@
-# Rol
+---
+title: Rol
+---
+
+
 
 *Nerede dengesiz, intihara meyilli kız varsa beni bulur* diye düşündü
 tıraş bıçağını yanağına doğru çekerken, *daha merhaba demeden ilaçları

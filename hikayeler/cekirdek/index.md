@@ -1,4 +1,7 @@
-# Çekirdek
+---
+title: Çekirdek
+---
+
 
 Kemal-i ciddiyetle çekirdek çitleyip kabuklarını balkondan aşağı,
 Çanakkale'yi kuşatmış zırhlılara doğru üfürür gibi üfledi.

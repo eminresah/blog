@@ -1,5 +1,6 @@
-# Uyanış
-
+---
+title: Uyanış
+---
 
 Bay Zemin bütün iyi niyetini aklındaki bir noktada toplanmış buldu.
 Sabah uyanmış, pencereden kargaları seyretmiş, kalkıp bisküvi ve çayla

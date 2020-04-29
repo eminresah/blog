@@ -1,4 +1,6 @@
-# Tüy
+---
+title: Tüy
+---
 
 Barın arkasında üzerinde yılların tozu olan bir kızılderili başlığı
 asılıydı. Arada bir içmeye gelen titiz kumralların ilk kadehten sonra

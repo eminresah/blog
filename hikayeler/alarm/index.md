@@ -1,4 +1,7 @@
-# Alarm
+---
+title: Alarm
+---
+
 
 Şehnaz hanım horuldayan kocasının sesine karışan canavar düdüğü alarmı
 saat 4'ü biraz geçerken duydu. Önce nükleer saldırı ikazı, sonra itfaiye

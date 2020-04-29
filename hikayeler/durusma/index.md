@@ -1,4 +1,6 @@
-# Duruşma
+---
+title: Duruşma
+---
 
 
 *Sen, sen, ne için gelmiştin?*

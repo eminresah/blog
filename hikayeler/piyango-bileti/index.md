@@ -1,4 +1,8 @@
-# Piyango Bileti
+---
+title: Piyango Bileti
+---
+
+
 
 
 Bay Mehmet Gülyazılı yirmi yıldır her geçişinde itinayla atladığı eşiğe

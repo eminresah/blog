@@ -1,5 +1,8 @@
-
-# Abdurrahman bin Yafes
+---
+title: Abdurrahman bin Yafes
+date:
+dp: 
+---
 
 15\. asrın hekim, fakih ve filozoflarındandır. Asıl adı Muhammed
 Abdurrahman bin Muhammed Yafes bin Muhammed Hamid bin Muhammed Osman

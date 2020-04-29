@@ -1,5 +1,6 @@
-# Yaşlı Adam
-
+---
+title: Yaşlı Adam
+---
 
 *Yanına gittiğinde benden fazla bahsetme* dedi gözlerini dikerek.
 

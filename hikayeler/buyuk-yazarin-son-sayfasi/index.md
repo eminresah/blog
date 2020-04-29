@@ -1,4 +1,6 @@
-## Büyük Yazarın Son Sayfası
+---
+title: Büyük Yazarın Son Sayfası
+---
 
 7 Nisan
 

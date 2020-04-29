@@ -1,4 +1,6 @@
-# Ayrıldım
+---
+title: Ayrıldım
+---
 
 Bir sabah sevgilisinden aldığı bir mesajla çarpılmış, o zamana kadar iyi
 kötü idare ettirdikleri, kimseye benzemediğini düşündükleri hayatlarını

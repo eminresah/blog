@@ -1,5 +1,6 @@
-# Yoğurtçu Baba
-
+---
+title: Yoğurtçu Baba
+---
 
 İsmini I. Murad'ın vakayinamelerinde gördüğümüz Yoğurtçu Baba'nın 14.
 yüzyılın ilk yarısında yaşadığı tahmin ediliyor. *Menakıb-ı Mehemmed

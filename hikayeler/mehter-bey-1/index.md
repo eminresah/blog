@@ -1,4 +1,9 @@
-# Mehter Bey (1?)
+---
+title: Mehter Bey 
+draft: true
+---
+
+
 
 
 Mehter Bey, bir gece rüyasında kendini eşeğe dönüşmüş gördü.  İnsanlara doğru yüksek sesli anırmasından, onu neden bu kadar çelimsiz bıraktıklarından, otların neden eskisi gibi tadı olmadığından ve kimsenin kendisini anlamadığından  yakındığı anlaşılıyordu. Ne yapacağını şaşırmıştı. Hangi rüyanın gerçek olduğundan haberi yoktu, o halde

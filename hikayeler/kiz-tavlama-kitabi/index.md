@@ -1,4 +1,8 @@
-# Kız Tavlama Kitabı
+---
+title: Kız Tavlama Kitabı
+---
+
+
 
 Kime aşık olacağıma karar veremediğim zamanlardayım. Herhangi birine
 aşık olduğumda sonunu getirecek birisi olduğum, bende şeytan tüyü

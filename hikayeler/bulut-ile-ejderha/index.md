@@ -1,11 +1,8 @@
-=========================
-[Masal] Bulut ile Ejderha
-=========================
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   12367
+---
+title: Bulut ile Ejderha
+date: 2014-11-23 02:18:14 +0200
+dp: 12367
+---
 
 Göklerin mavi olduğu zamanların öncesinde büyük bir volkanda bir ejderha
 yaşarmış. Dişleri kömür gibi siyah, gözleri ateş gibi kırmızı, derisi
