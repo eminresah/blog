@@ -4,7 +4,7 @@ date: 2017-07-26 14:37:53
 dp: 13890
 featured_image: "/images/header-90.jpg"
 images: ["/images/header-90.jpg"]
-published: true
+draft: true
 tags: ["okunan"]
 ---
 

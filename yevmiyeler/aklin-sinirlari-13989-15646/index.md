@@ -4,7 +4,7 @@ date: 2017-11-01 21:20:00
 dp: 13989
 featured_image: "/images/header-89.jpg"
 images: ["/images/header-89.jpg"]
-published: true
+draft: true
 tags: ["akil"]
 ---
 

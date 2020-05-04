@@ -1,7 +1,6 @@
 ---
 title: "Yakıcı Dert"
 date: 2017-03-16 21:29:42
-expiryDate: 2018-03-16 21:29:42
 dp: 13759
 featured_image: "/images/header-59.jpg"
 images: ["/images/header-59.jpg"]

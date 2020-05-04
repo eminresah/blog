@@ -1,7 +1,6 @@
 ---
 title: "Kolay Gürültü"
 date: 2017-02-12 17:43:47
-expiryDate: 2018-02-12 17:43:47
 dp: 13727
 featured_image: "/images/header-27.jpg"
 images: ["/images/header-27.jpg"]

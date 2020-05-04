@@ -4,7 +4,7 @@ date: 2017-04-08 20:40:36
 dp: 13782
 featured_image: "/images/header-82.jpg"
 images: ["/images/header-82.jpg"]
-published: true
+draft: true
 tags: ["duruş"]
 ---
 

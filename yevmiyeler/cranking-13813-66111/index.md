@@ -4,7 +4,7 @@ date: 2017-05-10 11:15:09
 dp: 13813
 featured_image: "/images/header-13.jpg"
 images: ["/images/header-13.jpg"]
-published: true
+draft: true
 tags: ["geçmiş"]
 ---
 

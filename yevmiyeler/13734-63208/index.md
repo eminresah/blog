@@ -4,7 +4,7 @@ date: 2017-02-20 12:21:21
 dp: 13734
 featured_image: "/images/header-34.jpg"
 images: ["/images/header-34.jpg"]
-published: true
+draft: true
 tags: ["siyaset"]
 ---
 

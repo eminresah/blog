@@ -1,7 +1,6 @@
 ---
 title: "Yevmiye 14000-23"
 date: 2017-11-12 23:14:04
-expiryDate: 2018-11-12 23:14:04
 dp: 14000
 featured_image: "/images/header-40.jpg"
 images: ["/images/header-40.jpg"]

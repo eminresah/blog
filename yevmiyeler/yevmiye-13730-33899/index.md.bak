@@ -1,7 +1,6 @@
 ---
 title: "Bir Eşzamanlılık Tecrübesi"
 date: 2017-02-16 02:16:47
-expiryDate: 2018-02-16 02:16:47
 dp: 13730
 featured_image: "/images/header-30.jpg"
 images: ["/images/header-30.jpg"]

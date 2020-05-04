@@ -4,7 +4,7 @@ date: 2017-08-11 01:22:55
 dp: 13906
 featured_image: "/images/header-6.jpg"
 images: ["/images/header-6.jpg"]
-published: true
+draft: true
 tags: ["islam"]
 ---
 

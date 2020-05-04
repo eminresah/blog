@@ -1,7 +1,6 @@
 ---
 title: "Ruhumda Yükselemeyen Ateş"
 date: 2017-07-18 11:49:54
-expiryDate: 2018-07-18 11:49:54
 dp: 13882
 featured_image: "/images/header-82.jpg"
 images: ["/images/header-82.jpg"]

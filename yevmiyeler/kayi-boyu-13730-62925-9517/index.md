@@ -4,7 +4,7 @@ date: 2017-02-17 00:11:33
 dp: 13731
 featured_image: "/images/header-31.jpg"
 images: ["/images/header-31.jpg"]
-published: true
+draft: true
 tags: ["tarih"]
 ---
 

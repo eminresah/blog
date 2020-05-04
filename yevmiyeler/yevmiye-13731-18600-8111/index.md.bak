@@ -1,7 +1,6 @@
 ---
 title: "Son Totaliterlik"
 date: 2017-02-17 00:00:20
-expiryDate: 2018-02-17 00:00:20
 dp: 13731
 featured_image: "/images/header-31.jpg"
 images: ["/images/header-31.jpg"]

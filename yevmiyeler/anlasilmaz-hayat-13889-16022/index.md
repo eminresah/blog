@@ -4,7 +4,7 @@ date: 2017-07-24 21:26:33
 dp: 13889
 featured_image: "/images/header-89.jpg"
 images: ["/images/header-89.jpg"]
-published: true
+draft: true
 tags: ["hakikat"]
 ---
 

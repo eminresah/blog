@@ -4,7 +4,7 @@ date: 2017-11-14 01:32:09
 dp: 14001
 featured_image: "/images/header-113.jpg"
 images: ["/images/header-113.jpg"]
-published: true
+draft: true
 tags: ["philosophy"]
 ---
 
