@@ -5,7 +5,7 @@ dp: 13061
 tags: ["yazi"]
 ---
 
-<!-- Yasemin bugün bana *yazıların ciddi konularda gibi duruyor ama bir
+<!-- X- bugün bana *yazıların ciddi konularda gibi duruyor ama bir
 yandan da eğleniyor gibisin* dedi. *Eğleniyorum* dedim. Okuyan
 eğleniyorsa, yazan da eğleniyordur bir yazıda. -->
 

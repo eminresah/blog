@@ -43,7 +43,7 @@ konulardan ve insanlardan geçilmiyor. Nasıl yapacağız?
 Gündemi Instagram'dan takip ediyorum. Bir arkadaş kocasıyla *padişah
 kıyafetli* eski bir fotoğrafı paylaşıp, *biz de milletvekili aday
 adayı olsak* mı demiş. Burada bir hikmet olduğunu anladım ama hikmetin
-ne olduğunu anlamadım. Akşam Yasemin *milletvekili aday adayları
+ne olduğunu anlamadım. Akşam X- *milletvekili aday adayları
 toplantısını gördün mü, padişah kıyafeti falan giyen adamlar vardı,
 çok komikti* dedi. Ben tabii ki görmedim ama en azından fotoğraftaki
 hikmeti anladım. Bugün belki haberleri de okur, konunun ne olduğunu

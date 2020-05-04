@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 İnsanların ilişkileri konusunda ne yazmam gerek? Bir şey yazmana gerek yok
 aslında. Dedikodu kabilinden çok laf dönüyor. *Muhafazakarlarda evlilik dışı
 cinselliğin fazlalaştığına dair dedikodular arttı* diye bir tweet okudum. Ben
@@ -25,8 +23,8 @@ enerji. Bazen diyorum, *bu kadar zor olmamalıydı*, yani neden bu kadar zor
 yaptın bu işi yarabbi?  İnsanları yalan söylemek, yalan üretmek, birbirlerini
 takip etmek, kıskanmak, sanki dünyada başka kimse yokmuş gibi yapmak zorunda
 bıraktın?
-
-Yasemin, 2. Elizabeth'in tahta çıkışıyla ilgili bir dizi izliyor. Orada amcası
+<!--
+X- 2. Elizabeth'in tahta çıkışıyla ilgili bir dizi izliyor. Orada amcası
 var, şu aşık olduğu kadın için tahttan vazgeçen. Bugün onu gördüğümde *ben
 muhtemelen hiçbir kadın tahttan vazgeçmezdim* dedim. İki çocuktan sonra bu kadar
 dürüst olabiliyorsunuz, iyi.
@@ -34,4 +32,4 @@ dürüst olabiliyorsunuz, iyi.
 Ancak insanlar için anlamlı bir davranış bu, yani bir insanı o kadar sevebilmek
 de makul geliyor. Bunu anlayabiliyoruz yani. Bir insanın bir hobisi için tahttan
 feragat etmesinden makul buluyoruz.
-
+-->

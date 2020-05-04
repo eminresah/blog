@@ -18,7 +18,7 @@ sinirimi aksettirmemekte o kadar başarılı değilim.
 Geçenlerde bir *hal* geldi.
 
 Hal. Sanırım tabir böyle. *Ölmüşüz de hatırlıyormuşuz* hissi. Dünyanın
-tek manası buymuş gibi bir his. Ertesi gün akşama doğru Yasemin bana
+tek manası buymuş gibi bir his. Ertesi gün akşama doğru X- bana
 *öldükten sonra bugünleri hatırlayacak mıyız?* diye sordu. Ben de az
 evvel kapattığım kontaktan sonra arabanın camının açık kaldığını
 farkedip, *ben camı kapatmayı bile hatırlayamıyorum* dedim. Dedim

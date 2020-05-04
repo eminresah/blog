@@ -148,7 +148,7 @@ Dün Mudanya'da engellilerin arabaları için ayrılmış park yerinde
 derin hikmeti bırakıp, neden edatın ayrılmadığına takıldım. Oraya
 parketmedim ama sorunun cevabı belli gerçi: Almam.
 
-Bugün Yasemin engelliler için bu kadar park yeri ayrılmasının gereksiz
+Bugün X- engelliler için bu kadar park yeri ayrılmasının gereksiz
 olduğunu, kaç tanesinin arabası olduğunu dair girizgah yaparken, aklıma
 *he, zaten gereğinden fazla olmasa bu kadar göze batmaması lazım* demek
 geldi. Bir otopark doluysa ve engelliye ayrılmış park yerlerinin

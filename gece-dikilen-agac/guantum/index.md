@@ -11,7 +11,7 @@ gönderiyor, “evet yaptım” diyorum, o da bana kaç gün kaldığını söyl
 Eğer “hayır” dersem, 21 gün baştan başlıyor. Belki gerçekten faydalı
 olur.
 
-Bundan Yasemin’e bahsettim, *aaa, kuantum* dedi, *21 günde hücre
+Bundan X-’e bahsettim, *aaa, kuantum* dedi, *21 günde hücre
 bölünmesi gerçekleşiyormuş, ondanmış* dedi. *Henk* dedim, içimden dedim
 tabi, kuantum ne ola ki? Max Planck’ın ortaya attığı dalga/tanecik
 paketinin adıdır kuantum, Heisenberg’in belirsizlik prensibi, *Tanrı zar

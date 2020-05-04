@@ -3,7 +3,7 @@ title: Kitab
 date: 2010-05-12
 ---
 
-Ekşi Sözlük'te -Yasemin'e fenalık veren- Baykal araştırmaları yaparken,
+Ekşi Sözlük'te Baykal araştırmaları yaparken,
 Kur'an'la ilgili bir girdiye rast geldim, eski günlerim aklıma geldi.
 
 Bir zamanlar *agnostik* idim, Kur'an'la ilgili falanca çelişkiler,

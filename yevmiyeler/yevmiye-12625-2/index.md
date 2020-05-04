@@ -46,14 +46,16 @@ korkusu ve bıçak korkusuyla beraber şu naçiz seksen küsur kiloluk
 bedenimin sinir uçlarında kendini gösteriyor.
 
 --------------
-
-Artık Yasemin'in de bu yazıları okuduğundan, hepsini okuduğundan emin
-değilim. Dayanamıyor bence. Mutsuz Yasemin her gün bulanıyor.
+<!-- 
+Artık X-'in de bu yazıları okuduğundan, hepsini okuduğundan emin
+değilim. Dayanamıyor bence. Mutsuz X- her gün bulanıyor.
 Görünmeyişe göre bir kızımız olacak, adını *çalkantılı* bir şeyler
 koyalım. Çalkanur. Anasının yüzü bir o yana, bir bu yana çalkalanıyor
 bazen. Onun yüzünden veya benim yüzümden.
 
 --------------
+-->
+
 
 Yitik kalpler birahanesi. Üç ışık tekel bayii. Eskiden kışlar vardı ve
 tekel bayileri onikiye kadar rakı satardı. Hiç rakı içmedim. İçsem ne

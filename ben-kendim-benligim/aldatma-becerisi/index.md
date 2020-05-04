@@ -1,6 +1,7 @@
 ---
 title: Aldatma Becerisi
 date: 2014-11-29 02:01:35 +0200
+tags: ["xyz"]
 ---
 
 Geçen gün televizyonda önce bir kadının, sonra bir adamın *sinirden*

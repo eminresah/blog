@@ -105,8 +105,7 @@ Velakin böyle bir durum yok. Dalga geçer gibi attığı maillere bile cevap
 vermiyorum. Cevap verecek halim olmadığından, öfkeden köpürüp boğasım
 geldiğinden değil. Sadece *bir dahaki sefere bu hanım kızımızla
 çalışmayacağım* gibi bir şey geçti içimden, o kadar. Bunu da *bir dahaki
-sefere* kadar aklımda tutabilir miyim bilmiyorum. (Yasemin'e söyledim,
-bana hatırlatacak.) *Yoksa şoka mı girdim?* diye sordum kendime, şoka
+sefere* kadar aklımda tutabilir miyim bilmiyorum. *Yoksa şoka mı girdim?* diye sordum kendime, şoka
 girsem herhalde oturup bunu yazamam, değil mi?
 
 İşte böyle olunca *sanırım erdim* diyorum. Ancak bu kadar yani, uçmamı

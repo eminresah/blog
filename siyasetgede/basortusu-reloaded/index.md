@@ -5,7 +5,6 @@ Başörtüsü Reloaded
 :date: 2014-11-23 02:18:14 +0200
 
 .. :Author: Emin Reşah
-.. :Date:   <>
 
 Başörtüsü ve AK Parti konusu bana bir türlü evlenemeyen sevgilileri
 hatırlatıyor. Kız *ne zaman evleneceğiz?* diye soruyor, oğlan *şartlar
@@ -51,8 +50,9 @@ turnusol.
 
 Önceden *İslam şöyle diyor, Kur'an böyle diyor* diye yazardım ama herkes
 biliyor zaten İslam'ın ne dediğini. Bu konuda ihtilaf ettiğim kimselerle
-bir tartışmaya da girmiyorum. Arada Yasemin'e bir şeyler söylüyorum, o
-da bana *hı hı* diyor, o kadar.
+bir tartışmaya da girmiyorum. <!-- 
+Arada X-'e bir şeyler söylüyorum, o
+da bana *hı hı* diyor, o kadar. -->
 
 Bu mesele başından beri kadınların meselesi değildi. Onu kadınların
 üstüne erkekler yıktı. Birileri senin vergi verdiğin devletin okuluna,

@@ -28,15 +28,15 @@ senede 10$, hosting'e de (diğer sitelerinki de dahil) üç ayda bir 12$
 veriyorum ve biraz da zaman ayırıyorum. Bunlar harici bir giderim
 olmadığı için reklam almaya gerek görmedim. Buraya günde kaç kişinin
 geldiğini bile bilmiyorum. Uzun zaman önce Google Analytics'le takip
-ederdim, artık o takibi de bıraktım. Hatta `Yasemin'in buradan daha
+ederdim, artık o takibi de bıraktım. <!-- Hatta `X-'in buradan daha
 popüler müzik blogunda <http://cafedepass.com>`__ bile sayılara
 bakmıyoruz. Google Reader çalışıyorken, buranın 10 katı abonesi vardı,
 herhalde ziyaretçi sayısı da öyledir. Hatta 100 katı bile olabilir,
 çünkü radyosu da var ve malum radyo, böyle bıdı bıdı yazılara nisbetle
-daha cazip.
+daha cazip.-->
 
 Bunları niye anlattığımı soracak olursanız: Sağolsun, geçenlerde
-`Arşivlemesem Olmazdı <http://arsivlemesemolmazdi.blogspot.com>`__'da
+[Arşivlemesem Olmazdı](http://arsivlemesemolmazdi.blogspot.com)'da
 buradaki birkaç yazıyı gördüm ve *acaba her daim böyle gündemle alakalı
 şeyler yazmamı bekleyenler olur mu?* diye bir merak gelişti. Gündeme
 bugünlerdeki gibi ufak kasaba boğuculuğu çöreklendiğinde, kendimi dışına

@@ -63,7 +63,7 @@ arayışı da acaba *ahlakı* mı verdi? Böyle sayabilir miyiz?
 Sayamaz mıyız?
 
 ### 3
-
+<!--
 İnsanın sapan arkadaşları olmasından daha elim ve daha vahim olmak üzere...
 
 Yeterince nefret eder, suratını yeterince asarsa dünyayı değiştirebileceğini
@@ -74,6 +74,7 @@ hemen baştaki bir noktadan sonra insana komik gelmeye başlıyor.  Sonra bu
 komikliği anlamadığı için, yani, neden gülüyorsun ve neden bu kadar mutlusun,
 ben mutsuzken sen nasıl da mutlu olabiliyorsun anlamında müteakip suratlar
 görüyorum. Sureta surata dönüşüyor.
+-->
 
 Hayatımı, şuradaki üç günlük maceramı mutsuz olup bunu da reklam ederek, hatta
 gurur duyarak, hayatın ne kadar çileli ve benim bu çilelere ne kadar muhatap ve
@@ -137,13 +138,13 @@ kadar mühim.
 
 Ben de artık fikirlerimin değişmeyeceği bir hayat arıyorum ama bizim
 hastalığımız da başka. 
-
+<!--
 ### 6
 
 Bir süre önce evlilik danışmanına gittik. Anladığım kadarıyla *bunak doktor
 reçetesi* tabir edilen usulle çalışıyorlar, bizi dinledi, dinledi ve liste
 yaptırdı. Birbirimizden beklentilerimizin listesi. Bende zaten bir şey kalmamış,
-kendimle ilgili bir *item* vardı listede, Yasemin'inkinde onbeş. Sonra o benim
+kendimle ilgili bir *item* vardı listede, X-'inkinde onbeş. Sonra o benim
 istediğim bir şeyi yapmadığı için ben de onun istediği onbeş şeye gereken özeni
 göstermedim.
 
@@ -164,6 +165,7 @@ Hasılı neden standart psikolojinin yanında bu *kişisel gelişim* edebiyatın
 kadar revaçta olduğunu da anladım. Pek çok konuda olduğu gibi alaylı/mektepli
 çatışmasında, mektepliler *daha doğru* olsa da, alaylılar daha pratik ve etkili
 oluyor. Önemli olan *teorinin* iyi olması değil, bizim iyi olmamız.
+-->
 
 ### 7
 

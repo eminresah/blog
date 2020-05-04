@@ -4,6 +4,7 @@ modDate: 2015-07-17 04:13:09 +0300
 author: Emin Reşah
 date: Mon Jul 13 13:04:38 EEST 2015 
 dp: 13146 
+markup: rst
 ---
 
 Hayatını basitleştirmeye çalışırken daha da karmaşık hale getiriyorsun
@@ -45,8 +46,8 @@ hiçbir işe yaramıyormuş gibi hissediyorsun.
 
 O zaman kendini bir boşlukta buluyorsun.
 
-Evet. Mesela geçenlerde `Yasemin'in blogunun <http://pass.coffee>`_
-adresini değiştirmek gerekti. Bunu on sene önceki ben *çok zor*
+Evet. Mesela geçenlerde 
+bir blogun adresini değiştirmek gerekti. Bunu on sene önceki ben *çok zor*
 yapardı. Bir kaç saat sürerdi. *Çok zor* dediğim o. O birkaç saatten
 yırtmak için aylarca sürünürdü muhtemelen. Şimdikinde birkaç dakika
 sürdü. Bir iki komut yazıp, tüm veritabanındaki eski URL kayıtlarını,

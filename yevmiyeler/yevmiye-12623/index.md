@@ -3,7 +3,7 @@ title: "Yevmiye - 12623"
 date: 2014-11-23 02:18:14 +0200
 dp: 12623
 draft: true
-tags: []
+tags: ["xyz"]
 ---
 
 Hayatın bir ölçüde aptallık gerektirdiğini düşünüyorum. Aptallık, zira,

@@ -25,8 +25,8 @@ yazarsın.
 
 ------
 
-Bugün Thomas More'la alakalı bir film seyretmeye başladık. Yasemin'in
-uykusu gelince kaldı. More'un hayatını biliyorum, idam edilmesinin
+Bugün Thomas More'la alakalı bir film seyretmeye başladık. 
+More'un hayatını biliyorum, idam edilmesinin
 sebeplerini. Sevdiğim ve dürüst bir adamdır, ancak kendini inatla idam
 ettirmesinin manasını anlamıyorum.
 
@@ -56,13 +56,13 @@ yapıyor, yoksa palyaço tarzı bir şey mi?  Internet palyaçosu.
 Bu yazıların bir getirisi var, diğer işleri daha iyi yapmakla alakalı
 bir *getiri.* İnsanları *irşad* ettiğime inanarak yazsaydım herhalde
 biraz daha fazla yazar ve insanların kafasına vururdum. 
-
-Geçen Prag uçağında Mustafa İslamoğlu'nu gördük, Yasemin dedi ki, *bu
+<!--
+Geçen Prag uçağında Mustafa İslamoğlu'nu gördük, X- dedi ki, *bu
 adamı severim ama geçenlerde seyrettiğim bir televizyon programında
 her hoca gibi, en iyi hoca benim demeye getiriyordu.* Hmm. Ben de hoca
 olduğuma inansam herhalde en iyi hoca olduğuma inanırdım. Yazar
 olduğuma inansam en iyi yazar olduğuma inanacağım gibi.
-
+-->
 ------
 
 Bu yazıyı çekirdek çitleyerek yazıyorum. İnsanın çekirdek çitleyerek

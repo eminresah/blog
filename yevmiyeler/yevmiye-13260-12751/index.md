@@ -25,8 +25,11 @@ sıkıcı görünenin içinde dünyanın merkezini ve anlamını bulmuş.
 
 Kendime bir *akılsız telefon* aldım. Internet'te *akılsız telefon* diye aratınca
 hiçbir şey çıkmıyor, telefon diye aratıp, ucuzundan pahalıya sıralatmak
-gerekiyor. Yasemin de bir telefon aldı. Benim aldığım telefon onunkinin bir
+gerekiyor. 
+
+<!-- X- de bir telefon aldı. Benim aldığım telefon onunkinin bir
 taksitinin üçte biri fiyatta.
+-->
 
 Akıllı olan telefonla fazla vakit geçiriyorum, fazla meşgul ediyor beni.  Fazla
 zaman aldığı ve gereğinden fazla meşgul ettiği, için kendini kötü hissediyor

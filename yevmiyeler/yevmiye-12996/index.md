@@ -20,9 +20,11 @@ neler planladığımı, ne hayallere kapıldığımı düşünüyorum. Pek bir �
 aklıma gelmiyor. Unuttum herhalde. Bir yerden sonra artık hayal
 kurmayı da unutuyor insan. Ne hayal kurduğunu da unutuyor.
 
-Yasemin'e doğumgünü cinsinden bir kutlama yapabileceğini,
+<!-- X-'e doğumgünü cinsinden bir kutlama yapabileceğini,
 *hezarruzların* doğümgününden daha nadir ve bendesiçün daha mühim
-olduğunu söyledim. Neredeyse üç yılda bir rastlıyoruz bunlara ama
+olduğunu söyledim.-->
+
+Neredeyse üç yılda bir rastlıyoruz bunlara, bir kutlama yapmak lazım ama
 insanların alışkanlıklarını değiştirmek zor azizim. Ben de, madem
 kimse kutlamayacak 13. binyılımı, inşallah daha çok yazarım
 temennisiyle bir klavye hediye ettim kendime. Bu bingünden sonra ancak

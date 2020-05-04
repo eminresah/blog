@@ -11,7 +11,7 @@ E: Evet. Bir senedir bizi sıkan bir seçimi geride bıraktık.
 
 İ: Oy vermeye gitmeyeceğini sanıyordum.
 
-E: Yasemin *oyum Tayyib'e gitmesin* diye tutturunca ben de oy vermek zorunda kaldım. Normalde planlarımı bozacağım bir seçim değildi.  Adamın nasılsa ilk turu geçeceği garanti, %50'yi geçemezse ikinci tura katılırdım. Velakin *desteğimi* erken vermem gerekti.
+E: X- *oyum Tayyib'e gitmesin* diye tutturunca ben de oy vermek zorunda kaldım. Normalde planlarımı bozacağım bir seçim değildi.  Adamın nasılsa ilk turu geçeceği garanti, %50'yi geçemezse ikinci tura katılırdım. Velakin *desteğimi* erken vermem gerekti.
 
 İ: Bu %52'lik *aptallara* sen de dahilsin yani.
 
