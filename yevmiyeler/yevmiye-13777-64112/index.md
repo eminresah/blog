@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Din ve bilim tartışmalarında hep *Evrim* diye bir konu var, daha doğrusu bilimin
 aslında ne kadar *ideolojik* olduğunun bu tartışma gündeme gelince
 *farkediyoruz.* Çok uzaklardaki yıldızların etrafında yeni gezegenler

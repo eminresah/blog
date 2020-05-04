@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 #### 1
 
 Geçen gün WhatsApp durumumu "الحمد لله رب المشرق و المغرب" yaptım. 

@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 ### 1
 
 Bana soru sormak demek, naçiz aklımın cevaplayacağı sorular sormak demek

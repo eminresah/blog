@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Bu klişeler içinde kendini nasıl arayacaksın?
 
 Kardeşime bugün biri fal bakmak istemiş. *Etrafında E... adında biri çok iyi bir

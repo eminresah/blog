@@ -8,10 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
-
 Düşmanını ayağa kalkacak hale getiremeyecek durumdaysan, onunla savaştığını
 kimseye söyleme. Çünkü girilmeyen savaş, kaybedilmez.
 

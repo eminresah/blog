@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 *Fikirlerinden memnun musun?*
 
 Bazı eski yazıları okurken kendime bu soruyu sorduğum oluyor, *şimdi bunu

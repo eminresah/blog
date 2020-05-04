@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Dan Ariely'nin *Payoff* isimli kitabını okudum. *Honest Truth about
 (Dis)Honesty* kitabının bir özeti gibi duruyor bu haliyle. Daha kolay okunan
 hali. Basit örnekleri almış, kendi çalışmalarından bahsetmiş. İnsan

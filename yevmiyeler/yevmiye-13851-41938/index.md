@@ -9,7 +9,6 @@ tags: []
 ---
 
 
-
 Twitter'da 1000 kişiyi takip eden birinin hala insanlıktan umudu olması çok
 acayip geliyor. O kadar manasız lafla karşı karşıya kalıp, beynini yorup, bir
 yandan da umudunu korumak. 
@@ -18,6 +17,5 @@ Ben bunu yapamıyorum. Çok insanla karşılaşmak, iyi insanlar olsa dahi yoruy
 insan sayısı arttıkça iyi olma ihtimalleri de azalıyor malum.
 
 İyi insanlar az. Susmayı bilen daha az. Twitter'da susmayı bilen hiç yok gibi.
-(Bir `bsratpll` var bildiğim.)
 
 

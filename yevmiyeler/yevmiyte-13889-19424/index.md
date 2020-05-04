@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 > In this earliest phase, the alphabet is a quick and dirty tool of foreign
 > workers, scrawled in desolate places: the mines, the gush of terror. There is no
 > high culture there ... The alphabet’s first documented use boils down to the

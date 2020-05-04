@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 #### 1
 
 Çünkü insan en çok kendi uydurduğu hikayeye inanır.

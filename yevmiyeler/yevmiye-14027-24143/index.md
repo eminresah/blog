@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 #### 1
 
 Muhabbet Teorisi diye bir podcast var, şu sıra *paranormal olayları*

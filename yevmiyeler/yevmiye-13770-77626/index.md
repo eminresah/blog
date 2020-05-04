@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 *Everybody is wrong about God* (Tanrı hakkında herkes hatalı) diye bir kitap
 dinlemeye başladım. Teizm'in de, Ateizm'in de *Tanrı* hakkında yanlış olduğunu
 ve asıl sorunun Tanrı'nın varlığı değil, *Tanrı vardır* diyen insanların

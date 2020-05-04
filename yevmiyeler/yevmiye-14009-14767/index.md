@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 #### 1
 
 Amerikan imparatorluğunun pek iyi durumda olmadığını, bizim gibi *uçtakiler* merkezdekilerden daha iyi anlıyor. Bizim *isyan* başladığında, bastırma ihtimallerinin kuvvetli olduğunu düşünüyordum. (Evet, biz şu an isyan etmiş *uç beyliği* durumundayız.) Ancak bu zaman zarfında olanlar, Amerikan yönetiminin tedavi edilmesi zor bir beceriksizlik içinde olduğunu düşündürdü bana. 

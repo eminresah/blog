@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 #### 1
 
 Benim hayatımda sürprizlerin eğlencelik bir tarafı yok. İnsanın bir yaştan sonra

@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Bana sosyal medya üzerinde *sen* denmesini daha faydalı buluyorum. İnsanımız
 *siz* dediğinde söyleyebileceklerini kısıtlıyor. Bir hiyerarşi, bir büyüklük,
 bir uzaklık...

@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Bizim neredeyse *panteist* mutasavvıfların yazdığı şiirlerin ilahilerini
 dinlerken, ben de onlarla beraber *vahdet-i vücudçu* oluyorum. *Hulul* değil,
 *Allah bende* değil, *her şey ondan.* Sonra biri geliyor, *Hz. Peygamberﷺ böyle

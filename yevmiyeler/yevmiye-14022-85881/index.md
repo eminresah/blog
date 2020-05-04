@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 #### 1
 
 Beni ciddiye almayın: Meister Eckhart'ı, Eckhart Tolle ile karıştıran biriyim

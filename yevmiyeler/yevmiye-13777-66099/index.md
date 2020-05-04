@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Birden fazla kere az konuşuyor olmaktan dolayı *övüldüm.* Bunun ticarette ne
 kadar önemli olduğunu anlattılar bana. İlginç, çünkü bunun aleyhime bir durum
 olduğunu ve konuşmadığımda işimin yürümeyeceğini düşünürdüm.

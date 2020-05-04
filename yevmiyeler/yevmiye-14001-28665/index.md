@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 Hayatta öğrendiğim bir şey varsa, söze dökülenin sahte olduğudur. söz hali
 bozar. o sebeple aşk lafı aşk değildir, laftır.
 

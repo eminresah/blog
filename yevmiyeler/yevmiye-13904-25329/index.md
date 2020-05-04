@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Hayatta söylenen her şey yalan. İnsanın ağzından çıkan. Arada bir rastgelen
 doğrular sadece diğer yalanları tahkim etmek için kullanılıyor. Diğer yalanları
 doğru göstermek için.

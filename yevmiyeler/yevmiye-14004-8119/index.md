@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Nasıl anlaşıldığından korkmaya başladığında artık yazamazsın. *Söylediklerin
 aleyhinde delil olarak kullanılabilir* dediklerinde, konuşmak imkansızlaşır.
 Yazı insana kendini ve dünyayı unutturmadığı sürece yazılmaya layık değildir.

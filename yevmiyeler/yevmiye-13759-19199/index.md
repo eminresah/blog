@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Bu yazı anlaşıldığı kadarıyla eski, pek yazı da denmez, geçen seneden ama
 taslakların arasında buldum. *Bu yazıysa ben de yazarım* demeniz için burada. 
 

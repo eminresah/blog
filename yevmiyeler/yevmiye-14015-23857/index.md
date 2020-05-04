@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 #### 1
 
 Hammurabi kanunlarında bir bina yıkılıp, ev sahibinin oğlunu öldürürse, inşaatı

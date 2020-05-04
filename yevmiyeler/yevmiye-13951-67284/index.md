@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 *İbret alınsaydı tarih tekerrür eder miydi?* 
 
 Tarihteki hiçbir olayın diğer olaylara %100 benzediğini iddia edebilir miyiz?

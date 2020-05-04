@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 #### 1
 
 Adama *şahit olur musun* diyorum, *olur abi, düğün ne zaman?* diyor.

@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 Aziz ve muhterem biçareler. Ruhzedeler. Sarhoşken bilip, ayıkken unutanlar.
 Pejmürde kavaşeler. Manasız terkiplerin manalı dengesizlikleri. 
 

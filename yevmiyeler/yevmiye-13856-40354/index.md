@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 macOS ve iOS'ta [Flowstate][flowstate] diye bir program kullanmaya başladım.
 5-10-15-30... dakika ayarlayıp, devamlı yazıyorsunuz. Yazmayı bırakınca o zamana
 kadar yazdıklarınız siliniyor. Bir nevi kendine eziyet, bir nevi aklının

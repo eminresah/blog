@@ -9,8 +9,6 @@ tags: []
 ---
 
 
-
-
 En büyük sorunum çocuklardan daha çok sevdiğim bir işin olmayışı. Bu durumda tek
 gaye, onlarla geçen zamanı *optimize etmek* oluyor. Kimse başarısız olduğumu
 iddia edemez.

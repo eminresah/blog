@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 > I won't take my religion from any man who never works except with his mouth.
  
 > Ağzından başka bir yeriyle çalışmayan kimseden din öğrenecek değilim. 

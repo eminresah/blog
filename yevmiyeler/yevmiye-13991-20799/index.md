@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 28 Şubat devrinde, sonradan Mesih olduğunu iddia edecek Hasan Mezarcı, Atatürk
 hakkında, nesebiyle alakalı bazı sözler sarfetmişti. Bizim cenah o zamandan,
 Atatürk’ün nesebi hakkında takıntılıydı. Hala devam ediyor sanırım.

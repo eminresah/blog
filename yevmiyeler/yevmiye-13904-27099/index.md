@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 > The wrong idea underlying all confused stances is that things must be either
 > definitely meaningful or else effectively meaningless. Or, if meaning is not
 > objective, it must be subjective. But these are not the only possibilities.

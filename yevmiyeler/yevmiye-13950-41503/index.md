@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 > "Işık hızında gidene ışık denir." 
 > -- A. Einstein
 

@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 #### 1
 
 Her gün bir miktar Yunanca çalışıyorum. Modern Yunanca. Rumca mı demeliyim?

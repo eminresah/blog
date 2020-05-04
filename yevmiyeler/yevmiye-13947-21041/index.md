@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 Bir noktada inkar ettiğin, görmezden geldiğin tüm işaretlerin doğruyu
 anlattığını göreceksin. Aslında biliyordun, geldiğin yeri işaret ediyorlardı ama
 görmemeyi tercih ettin.

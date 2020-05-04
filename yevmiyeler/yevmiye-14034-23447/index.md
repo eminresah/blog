@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Nassem Nicholas Taleb, bir yazısında *konuşmak* ve *yapmak* arasında bir fark
 olduğunu ve iyi yapanların iyi konuşmalarının beklenmeyeceğini söylüyor. Ben de
 zamanında "İki Meslek" diye bir yazı yazmışım. Mesleğin biri insanlarla

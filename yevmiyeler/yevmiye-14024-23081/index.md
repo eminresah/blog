@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 #### 1
 
 Sevmek için sevdiğinin bundan haberi olması gerekir mi?

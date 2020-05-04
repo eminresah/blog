@@ -8,10 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
-
 - Adım Evet
 + Hayır
 - Maalesef Evet.

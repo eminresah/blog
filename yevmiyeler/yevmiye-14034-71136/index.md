@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Ne uyuduğumdan, ne uyanıklığımdan bir şey anlıyorum. Uyku beni sakinleştirmiyor,
 oturup iki kelime yazarsam daha iyi geliyor. Uyku bölünüyor çünkü, içinde çok
 düşünce var, çok fazla plan. Yazarken ipin bir ucundan tutup, sarman gerekiyor,

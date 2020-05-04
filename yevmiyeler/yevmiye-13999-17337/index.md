@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 Gün ağardığında geceyi hepimiz unutacağız.
 
 Gün ağardığında bütün o korkulukların aslı meydana çıkacak, rüzgarda sallanan

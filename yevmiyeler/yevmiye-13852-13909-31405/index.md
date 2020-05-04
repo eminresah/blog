@@ -9,8 +9,6 @@ tags: []
 ---
 
 
-
-
 *İmparatorluğa Türk İsyanı* isimli bir hikaye yazsam. 80-100 sene sonrasında
 yazılmış bir makale, halihazırdaki *Kapitalist İmparatorluğa* Türkiye isimli bir
 ülkenin kendi çapında isyan etmesi... Bunun politik incelenmesi falan. 

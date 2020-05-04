@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 Evrim konusunda söylemeye çalıştığım şu: İki market var, biri eski ürünler
 satıyor, köy bakkalı gibi, ezelden beridir, bildiğimizden beri aynı şeyleri
 söylüyor. İkincisi ise yeni açılmış, diyelim 10 yıllık. Ürünler hep değişiyor,

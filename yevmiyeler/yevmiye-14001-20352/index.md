@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 Unuttuğunu unuttuğunda her şey yeniden başlayacak. 
 
 Eskiden tenasuhe inanırdım. Tam bir inanış değil, yani, *önceki hayatım

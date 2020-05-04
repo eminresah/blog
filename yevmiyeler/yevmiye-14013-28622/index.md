@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 #### 1
 
 Memleketin önemli bir kısmının hayatının merkezinde *memurluk* yatıyor. Bir nevi

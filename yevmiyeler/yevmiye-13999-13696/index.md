@@ -8,9 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
 Nesnelerin gücü adına. Nesnelerin kayboluşu ve yaratılışı adına. Nesnelerin
 hakikati adına. Dünyayı nesneler yönetiyor. Biz hepimiz, onların elinde, bir
 takım beklentiler içinde, kalbimizin durduğu güne kadar sayıp duruyoruz. 

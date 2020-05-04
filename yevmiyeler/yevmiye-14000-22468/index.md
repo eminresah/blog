@@ -8,10 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
-
-
 Ne için dua ediyorsun? Yarın için, ömrünün tamamı için? Gelecek için? Geçmiş için?
 
 Sabır için dua ediyorum. Akıl için. Ruhumun nefretten ve beni kemiren

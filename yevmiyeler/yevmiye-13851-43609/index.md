@@ -9,7 +9,6 @@ tags: []
 ---
 
 
-
 > Kimseyi yaslanacak kadar güçlü görmüyorum. Kimse beni taşıyamazmış gibi. Ben bir
 > dağım, orada bulunacağıma güvenirler, deprem olsa da, sallansam da, içimden
 > lavlar aksa da sonunda orada olacağıma ve yıkılmayacağıma. Ama ben onlara güvenemem.

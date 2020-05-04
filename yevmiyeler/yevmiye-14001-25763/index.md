@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Siyaset konusunda düşüncem: *Tanımadığınız insanlar için tanıdıklarınızı
 kırmayın.* (FETÖ hariç)
 

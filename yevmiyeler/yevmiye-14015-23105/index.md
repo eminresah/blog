@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 #### 1
 
 İnsan felsefeye *sevda* duyar mı?

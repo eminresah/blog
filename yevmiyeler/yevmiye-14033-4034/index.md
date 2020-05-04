@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 #### 1
 
 Geçen gün Word'le bir doküman hazırlamam gerekti, 15 sayfa kadar bir doküman.

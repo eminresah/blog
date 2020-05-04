@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 95 gün önce yazmışım bunu. 15 Haziran 2017 ediyor.
 
 -----

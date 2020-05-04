@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Bugün suçluluğun ne olduğunu ve nasıl insanı yapmak istemediklerine biraz daha
 ittiğini hatırladım. Birine haketmediğini düşündüğünüz kadar kötü davranınca,
 ona daha da kötü davranmak istiyorsunuz. İzah edemediğiniz kötülüğü hayatınızdan

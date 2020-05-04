@@ -7,8 +7,6 @@ images: ["/images/header-82.jpg"]
 draft: true
 tags: []
 ---
-
-
  
 *Ruhumda yükselen ateş.*
 

@@ -9,7 +9,6 @@ tags: []
 ---
 
 
-
 Kültürpark'ta koşarak *beni bu dünyadan alııınn, yanlış yere attınııızz* diye
 bağırsam, acaba bir ambulans gelip de beni alır mı?
 

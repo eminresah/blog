@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Millet-i Hakime doktrinin daha eski olduğunu sanıyordum ama Tanzimat'tan sonra
 ortaya çıkmış. Osmanlı henüz yaşarken telaffuz edilmese de, devletin bir Türk
 devleti olduğu bununla zımnen kabul edilmiş. Her ne kadar sorsak, *Araplar ve

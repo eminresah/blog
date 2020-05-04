@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Windows'ta `cmd` kullanmak günahlarıma kefaret olur mu hocam? Neticede biz bu
 işin metolodojisini öğretiyoruz ve bizi bu rezil yazılımla başbaşa
 bırakıyorsunuz? İş yapmaya yaramasa da, belki günahlarımı affettirmeye yarar.

@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Kullandığım tek sosyal medya twitter kaldı. Ondan da sıkılmaya başladığımı
 farkediyorum.
 
