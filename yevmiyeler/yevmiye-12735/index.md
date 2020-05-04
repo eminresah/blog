@@ -1,11 +1,10 @@
-=============
-Yevmiye 12735
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12735
+---
+title: "Yevmiye 12735"
+date: 2014-11-23 02:18:14 +0200
+dp: 12735
+draft: true
+tags: []
+---
 
 George R. R. Martin, (okumadığım ve yakın vadede okumayı planlamadığım)
 kitaplarını DOS'ta çalışan
@@ -76,3 +75,4 @@ değil, arayıp birini fırçalamak gerektiğinde pek utandığımı söyleyemem
 çok zevkli geliyor.) Bakalım, *bir şeyler yapmak*, herkesin *iş
 yaptırdığı* ama bir türlü *iş yapmadığı* ekonomik iklimimizde, laf
 salatasıyla uğraşmaktan daha iyi sonuç verecek mi?
+

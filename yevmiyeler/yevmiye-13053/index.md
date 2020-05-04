@@ -1,11 +1,10 @@
-Yevmiye 13053
-=============
-
-:date: 2015-04-19 21:59:42 +0300
-
-.. :author: Emin Reşah
-.. :date: Sat Apr 11 15:08:40 EEST 2015 
-.. :dp: 13053 
+---
+title: "Yevmiye 13053"
+date: 2015-04-19 21:59:42 +0300
+dp: 13053
+draft: true
+tags: []
+---
 
 
 Belki insanın kafasında bir değil, birden fazla akıl
@@ -65,4 +64,5 @@ Hemingway başkaları için yazmanın zor olduğunu söylüyordu. Halbuki zor
 olan, sanat yapmaya çalışmak. Başkalarının burada bir dahli yok. Sanat
 yapmaya, kurgu üretmeye, bir hikayeyi düzgün anlatmaya çalışınca,
 zorlanıyorsun.
+
 

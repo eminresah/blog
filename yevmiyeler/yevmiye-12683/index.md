@@ -1,10 +1,10 @@
-=============
-Yevmiye 12683
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12683
+---
+title: "Yevmiye 12683"
+date: 2014-11-23 02:18:14 +0200
+dp: 12683
+draft: true
+tags: []
+---
 
 İnsanın gelişebileceğine inanması, eksikliğine inanmasıyla mümkün.
 Kendini tam ve yetişkin görenin gideceği bir yol kalmamış.
@@ -95,3 +95,4 @@ ki, tüm bilim anlayışı etkilendi.
 Matematikte maksadın elindeki kavramlarla düşünmeyi öğrenmek değil,
 bilgi yüklenmek olduğunu sanan bir cehalet sisteminin bunu görmesini
 bekleyemeyiz.
+

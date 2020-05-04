@@ -1,10 +1,10 @@
-Yevmiye 13473
-=================
-
-:author: Emin Reşah
-:date: 2016-06-03 18:00:17 
-:dp: 13473 
-:image: /img/header-73.jpg
+---
+title: "Yevmiye 13473"
+date: 2016-06-03 18:00:17
+dp: 13473
+draft: true
+tags: []
+---
 
 General Allenby'nin Sultan Selahaddin'in sandukasını teklemeyip, *işte yine
 geldik* dediği anlatılır.
@@ -38,3 +38,4 @@ süre tekrar Batıya yönelmesine mani oldu. Bizim şu an en büyük düşmanım
 Komplo teorilerine itibar etmem ama başından beri genel politikanın böyle
 belirlenmiş olduğunu tahmin ediyorum. İngiliz çekildi, çünkü derdi fethetmek
 değil, rahat etmekti.
+

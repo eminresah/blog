@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12667
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12667
+---
+title: "Yevmiye - 12667"
+date: 2014-11-23 02:18:14 +0200
+dp: 12667
+draft: true
+tags: []
+---
 
 Zamanında *ne işim varsa* bir kirazcılık dersine gitmiştim, bodur kiraz
 ağaçlarında kiraz çaplarını artırmakla ilgili bilgiler veriyorlardı.
@@ -59,3 +59,4 @@ dayandığı sermaye birikimine de, onlardan bağımsız sahip olmak nasıl
 mümkün? Yani biz bir yandan *demokrat* olacağız, bir yandan batısız
 olacağız, bu nasıl olacak? Veyahut onların büyük şirketlerinin bizim
 demokrasilerimizi bizden daha iyi kullanmalarına nasıl engel olacağız?
+

@@ -1,11 +1,10 @@
-=============
-Yevmiye 12808
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12808
+---
+title: "Yevmiye 12808"
+date: 2014-11-23 02:18:14 +0200
+dp: 12808
+draft: true
+tags: []
+---
 
 `Tolstoy'un *edebiyat dini* ve *rahipleri* hakkında
 söyledikleri <http://www.brainpickings.org/index.php/2013/11/20/tolstoy-on-motives/>`__
@@ -54,3 +53,4 @@ kararı vermeyi başkalarına bırakır. Kendisi açısından her ikisini de
 yapmaktadır./
 
 Dut ağacının altında bir çay içseydik Chateau.
+

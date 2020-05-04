@@ -1,11 +1,10 @@
-Yevmiye 12940
-=============
-
-:date: 2015-01-17 23:46:48 +0200
-
-.. :author: Emin Reşah
-.. :date: Fri Dec 19 00:24:18 EET 2014 
-.. :dp: 12940 
+---
+title: "Yevmiye 12940"
+date: 2015-01-17 23:46:48 +0200
+dp: 12940
+draft: true
+tags: []
+---
 
 Oliver Burkeman'ın *The Antidote* kitabıymış benim bu
 okuduğum. Kitapların kağıt hallerini okurken isimlerine daha çok
@@ -87,3 +86,4 @@ teselli vermiyor oluşunu görüyorum. Nesneler, araçlar ve hayat
 biçimlerimiz değişiyor, hikayelerimizin de değişeceğini ve bu üretilen
 *pozitif dünya yalanının* bu yeni hikayelerin başlangıcı olduğunu ama
 bitişi olmadığını tahmin ediyorum.
+

@@ -1,8 +1,10 @@
-=============
-Yevmiye 13277
-=============
-
-:date: 2015-11-28 15:11:07 +0200
+---
+title: "Yevmiye 13277"
+date: 2015-11-28 15:11:07 +0200
+dp: 13277
+draft: true
+tags: []
+---
 
 Sonsuz ne demek?
 
@@ -43,4 +45,5 @@ olmadığını, bir fonksiyon olduğunu, asla sabitlenemeyeceğini göstermiş.
 1'den başlayıp yukarı doğru yaptığına benzer bir operasyonu, 1 ve 2 arasında da
 yapabiliyorsun. Tamsayılarda *sonsuza doğru* bir ekliyorsun, *Reel sayılarda*
 iki sayının ortasına yeni sayı ekliyorsun. 
+
 

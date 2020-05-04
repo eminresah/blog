@@ -1,11 +1,10 @@
-=============
-Yevmiye 12835
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12835
+---
+title: "Yevmiye 12835"
+date: 2014-11-23 02:18:14 +0200
+dp: 12835
+draft: true
+tags: []
+---
 
 Watts'ın ölüm hakkında söylediklerini düşünüyorum. *Doğmadan önce
 nasılsa, öldükten sonra da öyle olacak* diyor. *Hayat yok ama buna
@@ -69,3 +68,4 @@ birine dönüştüğünü değil, ancak bu romanın ancak o savaşı o minvalde
 yaşamış biri olarak yazılabileceğini kastediyorum.
 
 Müstakil bir yazı yazarım belki.
+

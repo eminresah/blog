@@ -1,11 +1,10 @@
-Yevmiye 13038
-=============
-
-:date: 2015-03-26 22:14:07 +0200
-
-.. :author: Emin Reşah
-.. :date: Thu Mar 26 22:04:40 EET 2015 
-.. :dp: 13038 
+---
+title: "Yevmiye 13038"
+date: 2015-03-26 22:14:07 +0200
+dp: 13038
+draft: true
+tags: []
+---
 
 Birine *ben çok iyi bir insanım ama sen Allah'ın yarattığı bir
 öküzsün* diye söze girmek isterdim. Herhalde hayatımda hiç
@@ -54,4 +53,5 @@ başlayacaktım. Biliyorum. Ben böyle hayalbaz insanım.
 İnsanların hayalleriyle de oynuyorum. Kötülük. 
 
 Safi kötülük. 
+
 

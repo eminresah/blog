@@ -1,9 +1,10 @@
-=============
-Yevmiye 13280
-=============
-
-:date: 2015-11-28 15:49:46 +0200
-
+---
+title: "Yevmiye 13280"
+date: 2015-11-28 15:49:46 +0200
+dp: 13280
+draft: true
+tags: []
+---
 
 Memlekette ahlaklı kadın sayısının ahlaklı erkekten fazla olduğunu söylediğimde
 beğenirler. Kadınların genel olarak ahlakının erkeklerden daha iyi
@@ -68,6 +69,7 @@ Toplumun bu maddiyatçı değerlerine muhalif olup, hayatımın dairesi aha şur
 yok. Kendini ahlaklı sanarak yaşayıp gidersin ama çocukların o dairenin dışına
 çıkmak istediğinde, ya dünyayla anlaşmak, ya onları dünyaya terketmek zorunda
 kalacaksın.
+
 
 
 

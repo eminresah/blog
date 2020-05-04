@@ -1,11 +1,10 @@
-=====
-12092
-=====
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <12093 - Thu 14:10>
+---
+title: "12092"
+date: 2014-11-23 02:18:14 +0200
+dp: 12092
+draft: true
+tags: []
+---
 
 -  Zamyatin'in *Biz*'i Rand'ın *Anthem*'ine benziyor.
 
@@ -31,3 +30,4 @@ performansı istatistiksel olarak normalize edilebilir. (3) Yaşları
 
 Temmuz doğumlu biri olarak acaba Ocak doğumlulara kızmalı mıyım?
 Kıskanmalı mıyım?
+

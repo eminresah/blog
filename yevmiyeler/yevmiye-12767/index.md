@@ -1,11 +1,10 @@
-=============
-Yevmiye 12767
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12767
+---
+title: "Yevmiye 12767"
+date: 2014-11-23 02:18:14 +0200
+dp: 12767
+draft: true
+tags: []
+---
 
 *Ramazan'ın başlangıcıyla ilgili şüphemi*, Diyanet'in açıklamasını yapan
 Din İşleri Kurulu üyesi Prof. Ahmet Yaman'a gönderdim. Kendisi sağolsun
@@ -47,3 +46,4 @@ gibi, ömrümün üçte birini de uykuya vermem gerekiyor. Uykusu ödenmiş
 --------------
 
 Her gün üç şey, okumak, yazmak ve yürümek. Diğerleri tali konular.
+

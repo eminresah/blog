@@ -1,12 +1,10 @@
-Yevmiye 13272
-=============
-
-:date: 2015-11-16 22:57:53 +0200
-
-.. :author: Emin Reşah
-.. :date: Sun Nov 15 23:01:00 EET 2015 
-.. :dp: 13272 
-
+---
+title: "Yevmiye 13272"
+date: 2015-11-16 22:57:53 +0200
+dp: 13272
+draft: true
+tags: []
+---
 
 Uykuyla alakalı bir Brain Pickings yazısı okudum. Erken kalkmanın zamanımızda
 eskisi kadar önemli olmadığını anlatıyordu.
@@ -96,3 +94,4 @@ Teizm'in derdi de maalesef benzer, Tanrı vardır derken, o kadar büyük laflar
 ediyorlar, etmek zorunda kalıyorlar ki, Tanrı'ya dair insanların ihtiyacı bütün
 umutlar yok edip gidiyorlar. Tanrı vardır diyorsun ve Tanrı *sadece* var oluyor,
 bir Pirus tanrısı. Aferin.
+

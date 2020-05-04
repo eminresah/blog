@@ -1,7 +1,10 @@
-Yevmiye 13322
-=============
-
-:date: 2016-01-06 12:20:32 +0200
+---
+title: "Yevmiye 13322"
+date: 2016-01-06 12:20:32 +0200
+dp: 13322
+draft: true
+tags: []
+---
 
 Şükretmeyi bilene az yok, bilmeyene de çok. Bu cümleyi anlayayabiliyor olmak,
 mesela, şükür vesilesi, çünkü yeryüzünde kendisine lisan verilmiş ve lisanı
@@ -60,5 +63,6 @@ Belki söylenecek, artık Bilim ve bilim olarak ikiye ayrıldığı olabilir. Es
 oynuyor. Biraz daha sofistike belki, azıcık daha *mantıklı* ve yaratılış
 hikayelerini daha usturuplu kurmaya çalışıyor, amenna, ancak bu yeni Tanrı'nın
 kulları da öncekiler kadar bağnaz. 
+
 
 

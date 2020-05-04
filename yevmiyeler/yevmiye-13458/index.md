@@ -1,9 +1,10 @@
-Yevmiye 13458
-=========================
-
-:author: Emin Reşah
-:date: 2016-05-20 01:19:27 
-:dp: 13458 
+---
+title: "Yevmiye 13458"
+date: 2016-05-20 01:19:27
+dp: 13458
+draft: true
+tags: []
+---
 
 Yıkıntılar arasında dolaşıyormuş gibi bir his. Bir yandan buralarda bildiğimiz
 dışında bir dünyanın yaşandığına dair izler, bir yandan hepsini örten
@@ -65,4 +66,5 @@ faydaların ötesinde daha derin tedaviler sunduğu kanaatinde değilim. Bir ins
 başka şekillerde iyiliği öğrenmediği sürece, sırf edebiyat yaparak iyiliği
 öğrenmez, en fazla kendi küçük arzuları için istismar edebildiği araçlara bir de
 kelimeleri ekler.
+
 

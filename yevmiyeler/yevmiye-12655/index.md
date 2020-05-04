@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12655
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12655
+---
+title: "Yevmiye - 12655"
+date: 2014-11-23 02:18:14 +0200
+dp: 12655
+draft: true
+tags: []
+---
 
 Çok eğleniyor olmalısın. Halimize, yavaşlığımıza, dertlerimize ve bu
 dertlerin arasında hala büyük büyük laflar ediyor olmamıza bakıp
@@ -58,3 +58,4 @@ Bunları kendim için yazmıyorum. Karımla aram iyi. Umarım onun da benimle
 arası iyidir. Biraz yorgun düştüm. Erkeklerin büyük kısmının haline
 bakıp yazıyorum. Kendimle alakalı bir derdim yok. Kadınlarla ilgili
 yazınca mecburen böyle açıklamalar da gerekiyor.
+

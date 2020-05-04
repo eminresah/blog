@@ -1,11 +1,10 @@
-Yevmiye 13125
-=============
-
-:date: 2015-06-22 00:45:58 +0300
-
-.. :author: Emin Reşah
-.. :date: Mon Jun 22 00:20:29 EEST 2015 
-.. :dp: 13125 
+---
+title: "Yevmiye 13125"
+date: 2015-06-22 00:45:58 +0300
+dp: 13125
+draft: true
+tags: []
+---
 
 2 gün önce `bir yorum <http://eminresah.com/#comment-2087712209>`_
 geldi. *Başka Aşklar* isimli bir yazım varmış, zamanında bir deftere
@@ -48,4 +47,5 @@ ettirdiğim ne çok şey var. Hayatın kendisi bile böyle. Ancak burada
 yapıyorsan, onlar defterlerde senelerce bekleyip yine seni
 buluyor. Eldekilere de *emek verdim* bahanesiyle değil, hakkı varsa
 hakkını vermek maksadıyla bakmak lazım.
+
 

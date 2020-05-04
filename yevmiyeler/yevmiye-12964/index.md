@@ -1,11 +1,10 @@
-Yevmiye 12964
-=============
-
-:date: 2015-01-17 21:16:20 +0200
-
-.. :author: Emin Reşah
-.. :date: Mon Jan 12 09:29:35 EET 2015 
-.. :dp: 12964 
+---
+title: "Yevmiye 12964"
+date: 2015-01-17 21:16:20 +0200
+dp: 12964
+draft: true
+tags: []
+---
 
 Erkeklerin neden etek giymediğini düşünerek başladığım günlerden
 biri. Herhanlde fazla rahatlattığı içindir. İnsanların daim rahat
@@ -44,3 +43,4 @@ içinde yer almaya değil, sistemi değiştirmekle memuruz. Bunun yolunun
 da da gösterişten geçmediğini tahmin ediyorum. Çünkü o dili konuşarak,
 Adnan Oktar ne kadar değiştirebildiyse, en fazla o kadar değişir
 sistem. Hiç. Sıfır.
+

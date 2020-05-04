@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12111
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <12112 - Tue 16:51>
+---
+title: "Yevmiye - 12111"
+date: 2014-11-23 02:18:14 +0200
+dp: 12112
+draft: true
+tags: []
+---
 
 More Moral
 ~~~~~~~~~~
@@ -54,3 +53,4 @@ like that./ These remind me of more than a single verse of Qur'an.
 /What holds a person together is his patterns of likes and dislikes.
 [...] what holds together a society together is a pattern of likes and
 dislikes./
+

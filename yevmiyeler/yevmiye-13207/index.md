@@ -1,12 +1,10 @@
-Yevmiye 13207
-=============
-
-:date: 2015-09-14 19:10:06 +0300
-
-.. :author: Emin Reşah
-.. :date: Fri Sep 11 23:24:22 EEST 2015 
-.. :dp: 13207 
-
+---
+title: "Yevmiye 13207"
+date: 2015-09-14 19:10:06 +0300
+dp: 13207
+draft: true
+tags: []
+---
 
 Canım isterse yazacağım, canım istemezse yazmayacağım kıvamına gelmem
 üç ay sürdü. İnsanın yazmakla mükellef olduğunu hissetmesi ve buna
@@ -68,4 +66,5 @@ Belki anlamayışımın sebebi bu nehre uzak bir yerde yürümeye
 kesiiştiğim ve insanların nereye yüzdüklerini gözlediğim oluyor.
 
 Nehir kendi yatağında. Ben kendi yatağımda. 
+
 

@@ -1,11 +1,10 @@
-Yevmiye 13412
-=============
-
-:date: 2016-05-06 00:48:09 +0300
-
-.. :author: Emin Reşah
-.. :date: Sun Apr  3 22:29:35 EEST 2016 
-.. :dp: 13412 
+---
+title: "Yevmiye 13412"
+date: 2016-05-06 00:48:09 +0300
+dp: 13412
+draft: true
+tags: []
+---
 
 Eşari ve Mutezili itikadlar arasındaki temel fark, Emprisizm ve Rasyonalizm
 arasındaki farka benziyor. Eşarilik, bilgi konusunda tecrübeden başkasını kabul
@@ -100,3 +99,4 @@ sebebi, Kitab'ın önceliklerinin arasında bunun olmayışıdır.
 Bu sebeple, diyelim menfaatin sözkonusu olduğunda yalan söylememek gibi aslî
 konular dururken, asıl zor sınavlar beklerken, soruları çoğaltmanın 
 asıl sınavı müsbet değil, menfi etkileyeceği kanaatindeyim. 
+

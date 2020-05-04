@@ -1,8 +1,10 @@
-Title: Yevmiye 13477
-Author: Emin Reşah
-Date: 2016-06-07 18:00:15 
-Dp: 13477 
-Image: /img/header-77.jpg
+---
+title: Yevmiye 13477
+author: Emin Reşah
+date: 2016-06-07 18:00:15 
+dp: 13477 
+featured_image: /images/header-77.jpg
+---
 
 *Erdoğan'ın diploması.* Biz daha anlamlı bir muhalefet hakediyoruz yarabbi. 
 

@@ -1,11 +1,10 @@
-==============
-Murakabe 12884
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12884
+---
+title: "Murakabe 12884"
+date: 2014-11-23 02:18:14 +0200
+dp: 12884
+draft: true
+tags: []
+---
 
 İnsanın hayatta hedefi olmalı mıdır? Bir hedefin var mı yani?
 
@@ -65,3 +64,4 @@ serip ezilmesini seyretmek yerine. Bununla beraber bu hedeflerin
 kendisinden o kadar emin olmak da ayrı bir yanlış. Kendine mukabele
 mekanizmaları bulması gerekir. En azından uğraşmaya değer olup
 olmadığını ve sonunda vardığı yeri sevip sevmeyeceğini anlaması için.
+

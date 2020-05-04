@@ -1,7 +1,10 @@
-Yevmiye 13271
-=============
-
-:date: 2016-03-17 18:02:05 +0200
+---
+title: "Yevmiye 13271"
+date: 2016-03-17 18:02:05 +0200
+dp: 13271
+draft: true
+tags: []
+---
 
 **Ekran Apnesi** Son zamanlarda birkaç yerde okuduğum bir konu bu. Bazı
 insanların ekrana bakarken, diyelim telefon ekranlarına bakarken, mesajlara,
@@ -59,6 +62,7 @@ almayı unuttuğumu, hemen bir kaç fotoğraf bakayım, bir kaç twit okuyum ace
 girdiğimi farkettim.
 
 Şimdi (tam zamanında) kızım ağlamaya başladı. Ona bakmam lazım.
+
 
 
 

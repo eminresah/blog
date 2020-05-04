@@ -1,11 +1,10 @@
-Yevmiye 13058
-=============
-
-:date: 2015-04-18 22:25:44 +0300
-
-.. :author: Emin Reşah
-.. :date: Wed Apr 15 22:04:59 EEST 2015 
-.. :dp: 13058 
+---
+title: "Yevmiye 13058"
+date: 2015-04-18 22:25:44 +0300
+dp: 13058
+draft: true
+tags: []
+---
 
 **Özgürlük kaç para?**
 
@@ -50,3 +49,4 @@ defa uyumak demek. *Bir dönem* kaç ay sürdü, bundan kimse bahsetmez.
 Yaşlandıkça böyle *ani* çalışma aşklarına karşı şüphelerim
 artıyor. Devamlı olabileni seviyorum. Her gün az da olsa yazabilmenin
 *gerçekliğine* saygım, oturup bir haftada bir kitap yazmaktan fazla.
+

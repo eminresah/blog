@@ -1,11 +1,10 @@
-Yevmiye 13017
-=============
-
-:date: 2015-03-08 22:02:47 +0200
-
-.. :author: Emin Reşah
-.. :date: Fri Mar  6 09:21:28 EET 2015 
-.. :dp: 13017 
+---
+title: "Yevmiye 13017"
+date: 2015-03-08 22:02:47 +0200
+dp: 13017
+draft: true
+tags: []
+---
 
 Sorular soruları doğuruyor ve bazısında kasıt *neden böyle de şöyle
 değil?* anlamı var. *Neden böyle yaşıyorsun* aslında *neden şöyle
@@ -94,6 +93,7 @@ korkularla* yetiştirilmesi ve bu korkularının farkında olmasıyla
 alakalıdır belki. 
 
 Ahlakın hangi korkulardan kaynaklanıyor?
+
 
 
 

@@ -1,12 +1,10 @@
-Yevmiye 13362
-=============
-
-:date: 2016-02-29 22:56:34 +0200
-
-.. :author: Emin Reşah
-.. :date: Sat Feb 13 23:31:39 EET 2016 
-.. :dp: 13362 
-
+---
+title: "Yevmiye 13362"
+date: 2016-02-29 22:56:34 +0200
+dp: 13362
+draft: true
+tags: []
+---
 
 Amerika ve Rusya hakkında okudukça, ABD'nin soğuk savaş zamanındaki stratejisini
 yeniden uygulamaya başladığını düşünüyorum. Rusya'yı bütçesinin önemli bir
@@ -31,5 +29,6 @@ kalmaz.
 Nükleer silahı olan bir devleti silah zoruyla hizaya getiremeyeceğini bildiği
 için, onu yutabileceğinden büyük lokma yemeye teşvik etmek en iyisi. Bu arada
 kaybedilen canlar umurlarında değil. 
+
 
 

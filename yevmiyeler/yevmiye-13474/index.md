@@ -9,8 +9,6 @@ published: true
 tags: []
 ---
 
-
-
 Milletimiz bir *goygoy milleti.* Önem verdiği kavramları iğdiş etmekte,
 kullanılamayacak kadar bozmakta üstüne yok.
 

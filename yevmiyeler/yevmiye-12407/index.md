@@ -1,10 +1,10 @@
-==========
-12407. Gün
-==========
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
+---
+title: "12407. Gün"
+date: 2014-11-23 02:18:14 +0200
+dp: None
+draft: true
+tags: []
+---
 
 Yukarılardan haber var mı diye sordum. *Hayır* dedi bana. Yukarılardan
 haber yokmuş, ufak bir sessizlik anında bırakıp ağlamaya başladı. Ne
@@ -22,3 +22,4 @@ alternatiflerini düşününce değerli olabilir. *En kıymetli vazife budur*
 diyeceğimiz bir vazife yok. İyi addettiklerimizin hepsi,
 alternatiflerine göre iyi. Konuşmak ancak susmak kötüyse iyi. Susmak
 konuşmak kötüyse iyi.
+

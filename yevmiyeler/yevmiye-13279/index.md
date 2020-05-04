@@ -1,8 +1,10 @@
-==============
-Yevmiye 13279
-==============
-
-:date: 2015-11-23 10:51:52 +0200
+---
+title: "Yevmiye 13279"
+date: 2015-11-23 10:51:52 +0200
+dp: 13279
+draft: true
+tags: []
+---
 
 Coursera'nın Computational Investing diye bir dersi var, bu işler nasıl
 oluyormuş, borsa nasıl işliyormuş diye bir bakıyım dedim. Günümüz borsalarında
@@ -39,3 +41,4 @@ karşı çıkmayı düşünmediğim sürece meşru bir devlet sayılır.
 Devletin meşruiyeti hem sağladığı menfaatlere hem de ürettiği ve dayandığı
 hikayeye bağlı. İnsanların onun meşruiyetinden şüphe etmemesini sağlayabildiği
 sürece meşrudur. 
+

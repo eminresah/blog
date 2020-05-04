@@ -1,11 +1,10 @@
-Yevmiye 12930
-=============
-
-:date: 2014-12-09 14:45:58 +0200
-
-.. :author: Emin Reşah
-.. :date: Mon Dec  8 23:39:52 EET 2014 
-.. :dp: 12930 
+---
+title: "Yevmiye 12930"
+date: 2014-12-09 14:45:58 +0200
+dp: 12930
+draft: true
+tags: []
+---
 
 
 Savaşı kazanması mümkün olmayan biri varsa, muharebeyi kaybettiğini
@@ -28,4 +27,5 @@ ederim.
 
 RSS kısmını yayınlamadan denemek mümkün olmadığı için böyle hataları
 herkesle beraber öğreniyorum. 
+
 

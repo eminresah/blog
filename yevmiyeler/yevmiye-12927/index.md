@@ -1,11 +1,10 @@
-Yevmiye 12927
-=============
-
-:date: 2014-12-31 20:52:26 +0200
-
-.. :author: Emin Reşah
-.. :date: Sat Dec  6 01:20:23 EET 2014 
-.. :dp: 12927 
+---
+title: "Yevmiye 12927"
+date: 2014-12-31 20:52:26 +0200
+dp: 12927
+draft: true
+tags: []
+---
 
 Akşam kızımı kucağıma aldım, bir yandan *uyutma yürüyüşü*, bir yandan
 kitap okuyorum. Oliver Burkeman'ın *The Antidote* isimli *pozitif
@@ -93,4 +92,5 @@ dolu olsaydı, muhtemelen bir hayatımız olmazdı. Hepimiz (muhtemelen
 hayal kırıklığıyla sonuçlanan) hayallerin ürünüyüz ve insanın elinden
 bu gafletini söküp almaya çalışmak, ekseriyet için faydasız, diğerleri
 için de zararlı.
+
 

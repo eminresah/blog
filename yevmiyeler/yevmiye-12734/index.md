@@ -1,11 +1,10 @@
-=============
-Yevmiye 12734
-=============
-
-:date: 2015-11-21 22:16:07 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12734
+---
+title: "Yevmiye 12734"
+date: 2015-11-21 22:16:07 +0200
+dp: 12734
+draft: true
+tags: []
+---
 
 /Karanlık/ bana artık *maden karanlığını* hatırlatıyor. Sıkıldığımda *maden
 karanlığını* ve az sonra öleceğini bilen madenci umutsuzluğunu
@@ -62,3 +61,4 @@ başkalarına bırakmayı tercih etmem gerekiyor.
 --------------
 
 Kurduğun cümle aksıyorsa, her uzvuna bir Nobel monte etseler ne olacak?
+

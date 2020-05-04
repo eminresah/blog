@@ -1,11 +1,10 @@
-Yevmiye 13260
-=============
-
-:date: 2015-11-03 21:07:59 +0200
-
-.. :author: Emin Reşah
-.. :date: Tue Nov  3 20:47:59 EET 2015 
-.. :dp: 13260 
+---
+title: "Yevmiye 13260"
+date: 2015-11-03 21:07:59 +0200
+dp: 13260
+draft: true
+tags: []
+---
 
 
 Hayatın sıkıcılaşmasından sonraki günler insanın sıkıcılıkta eğlence bulmasıyla
@@ -85,3 +84,4 @@ birinin çıkıp HDP'ye yarım puan oy yazması hemen hemen imkansız. Bir kompl
 Lakin bunlara inanmak, bunların *rastgele* olduğuna inanmaktan daha
 güzel. *Hayat tamamen rastgeleliklerden ibaret* demenin kimseye cazip gelen bir
 tarafı yok. İnsan yaratıldığından beri güzel hikayelerin peşinde. 
+

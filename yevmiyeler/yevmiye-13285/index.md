@@ -1,7 +1,10 @@
-Yevmiye 13285
-=============
-
-:date: 2015-12-08 22:20:50 +0200
+---
+title: "Yevmiye 13285"
+date: 2015-12-08 22:20:50 +0200
+dp: 13285
+draft: true
+tags: []
+---
 
 Düşündüğünü nasıl biliyorsun demiş? Bunu bilen kim? İnsan bir şeyi seyreder gibi
 kendi düşüncesini seyredebilir mi?
@@ -24,4 +27,5 @@ Düşüncelerimize geldiğinde, hepimiz *el yordamıyla* hareket edebiliyoruz.
 İbn Sina, hiçbir algısı bulunmayan, ne gören, ne duyan, ne dokunabilen bir
 insanın bile düşündüğünü bilebileceğini söylemiş. Böyle biri ne düşünebilir?
 Böyle biri düşündüğünü nasıl bilebilir?
+
 

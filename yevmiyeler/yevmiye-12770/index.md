@@ -1,11 +1,10 @@
-=============
-Yevmiye 12770
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12770
+---
+title: "Yevmiye 12770"
+date: 2014-11-23 02:18:14 +0200
+dp: 12770
+draft: true
+tags: []
+---
 
     Rüzgara göre eğilen ufak saz, fırtına geçtikten sonra yeniden
     dikildi.
@@ -83,3 +82,4 @@ genelde yorgunluk göstergesi.
 İnsanın zamanını, enerjisini, dikkatini doğru tarafa yöneltmesi kendisi
 ve başkaları için yapabileceği tek şey. Bunları yönetmeyen
 insanlarınkini başkaları yönetiyor.
+

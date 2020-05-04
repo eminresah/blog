@@ -1,11 +1,9 @@
-===============
-Yevmiye - 12612
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12613
+---
+title: "Yevmiye - 12612"
+date: 2014-11-23 02:18:14 +0200
+dp: 12612
+tags: []
+---
 
 Bugün Bursa'dan Ankara'ya şoförlük yaptım. Eskisi kadar hızlı değilim,
 hızlı olmak işime gelmiyor. Yarım saat, 45 dakikada bir arabadan indiğim
@@ -126,3 +124,4 @@ sorunlar olur ve kendi de dahil herkes ondan sıkılır.
 
 İnsan kötümser olacaksa bile, daha iyi bir kötümser olmak için arada
 iyimser olmasında fayda var.
+

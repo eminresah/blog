@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12639
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12639
+---
+title: "Yevmiye - 12639"
+date: 2014-11-23 02:18:14 +0200
+dp: 12639
+draft: true
+tags: []
+---
 
 İkna ile ilgili bir kitap dinliyorum. Goldstein, Martin ve Cialdini
 isimli üç yazarı var. Sosyal psikoloji alanında yapılmış çalışmalardan
@@ -57,3 +57,4 @@ Bir süre önce *Duolingo* isimli bir siteden bahsetmişim. Ücretsiz dil
 sitesi. Şimdilerde Türkçe'den İngilizce öğrenimini de başlatmışlar.
 Android ve iPhone için telefon uygulamaları da var, çargahta, bargahta,
 dergahta ufak ufak dil çalışmak için uygun.
+

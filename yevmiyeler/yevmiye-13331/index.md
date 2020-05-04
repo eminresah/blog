@@ -1,7 +1,10 @@
-Yevmiye 13331
-=============
-
-:date: 2016-01-15 11:22:16 +0200
+---
+title: "Yevmiye 13331"
+date: 2016-01-15 11:22:16 +0200
+dp: 13331
+draft: true
+tags: []
+---
 
 Alışkanlıklarımız takip eden firmalar, bunlardan para kazanmak için hangi
 ürünlerle beraber hangilerini aldığımızı öğreniyor. Hangilerini almadığımızı
@@ -57,3 +60,4 @@ gerek.
 
 Belki de özgürlük doğru bir soru değildir. Belki asıl mesele, kimin kölesi
 olduğudur insanın.
+

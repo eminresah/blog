@@ -1,11 +1,10 @@
-==============
-Murakabe 12851
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12851
+---
+title: "Murakabe 12851"
+date: 2014-11-23 02:18:14 +0200
+dp: 12851
+draft: true
+tags: []
+---
 
 Nedir zaman nedir, bir su mu, bir kuş mu, nedir zaman nedir, iniş mi
 yokuş mu?
@@ -142,3 +141,4 @@ anlayacaklar vardır. Sustuğunda seni anlayacaklar mı?
 Bence anlamazlar.
 
 Bence anlarlar.
+

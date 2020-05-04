@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12664
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12664
+---
+title: "Yevmiye - 12664"
+date: 2014-11-23 02:18:14 +0200
+dp: 12664
+draft: true
+tags: []
+---
 
 Samimi olduğunu bildiğim, ahlakına güvendiğim biriyle ters düşmekten
 korkmam. Aslında insanlarla *hep* aynı fikirde olmak daha tehlikeli. Hiç
@@ -61,3 +61,4 @@ Günde sair bahanelerle sanırım 2000 kelime kadar yazmaya başladım. Ders
 notları, bilimsel makaleler, şirketin web sayfaları, raporlar, mailler
 derken giderek hızlanan bir hayatım var. Hızlı yaşamanın bendeki
 karşılığı *yazmak.* Ne kadar çok yazarsam, hayat o kadar hızlanıyor.
+

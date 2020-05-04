@@ -1,11 +1,10 @@
-=============
-Yevmiye 12743
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12743
+---
+title: "Yevmiye 12743"
+date: 2014-11-23 02:18:14 +0200
+dp: 12743
+draft: true
+tags: []
+---
 
     İnsanlarla ilgili düşüncelerini olduğu gibi kağıda dökmek bile,
     onlarla ilgili düşüncelerinin değişmesine yol açar.
@@ -61,3 +60,4 @@ Tekrar tekrar yazmaya üşendiği için (denden anlamında) ``==``
 işaretleriyle geçiştirmeye karar veren yazarın yaptığı. Ondan sonra
 matematik bir *sembol oyunu* halini almış ve hala öyle. Şimdilerdeki
 matematiği, semboller olmadan ifade etmek herhalde imkansız.
+

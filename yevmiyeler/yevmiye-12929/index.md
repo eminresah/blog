@@ -1,11 +1,10 @@
-Murakabe 12920
-==============
-
-:date: 2015-01-17 20:16:57 +0200
-
-.. :author: Emin Reşah
-.. :date: Sat Nov 29 15:18:38 EET 2014 
-.. :dp: 12920 
+---
+title: "Murakabe 12920"
+date: 2015-01-17 20:16:57 +0200
+dp: 12920
+draft: true
+tags: []
+---
 
 *Başarı için ölümü hatırla* yazmış.
 
@@ -31,5 +30,6 @@ Olmayan yolda gidebilme irademiz yok. Tren rayları yeterince sık
 olduğu için onlarla sınırlı olduğumuzu unutacak kadar çok
 *seçeneğimiz* var gibi duruyor. Ancak rayların arasına erişecek
 irademiz yok.
+
 
 

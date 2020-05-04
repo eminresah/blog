@@ -1,11 +1,10 @@
-=============
-Yevmiye 12804
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12804
+---
+title: "Yevmiye 12804"
+date: 2014-11-23 02:18:14 +0200
+dp: 12804
+draft: true
+tags: []
+---
 
 2000'lerin başında gördüğüm bir site vardı, sanırım okuldaki
 asistanlardan birinin sitesiydi. Adam camgöbeği arkaplana kocaman
@@ -73,3 +72,4 @@ ortaya çıkarılması değil, ancak anababada olan özelliklerin çocuklarda
 ne derecede ortaya çıkacağını belirlemekle ilgili. *100 çocuk yap ve en
 uygunlarını yaşat.* Daha giriş seviyesi belki ama bunun devamında neler
 olabileceğini tahmin ediyoruz.
+

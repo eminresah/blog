@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12633
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12633
-
+---
+title: "Yevmiye - 12633"
+date: 2014-11-23 02:18:14 +0200
+dp: 12633
+draft: true
+tags: []
+---
 /İnşallah kınadıklarını yaşarsın./ İnsanın ömrünün ikinci yarısı, ilk
 yarısında kınadıklarını yapmasıyla geçiyor sanırım. benim kınadığım pek
 bir şey yoktu. O sebeple olacak, hayat bir durgunlaştı.
@@ -98,3 +97,4 @@ takipçim daha olsun, biri beni *retweet* etsin de hayat güzelleşsin diye
 bekliyoruz. Bunun sonu yok. Buna ayırdığımız zaman, hayatın
 hızlanmasının getirdiği zamandan çok daha fazla. Onun için gerçek iş
 üretmek, gerçek peşinde koşmak, gerçek yazılar okumak daha zor artık.
+

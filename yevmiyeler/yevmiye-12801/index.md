@@ -1,11 +1,10 @@
-=============
-Yevmiye 12801
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12801
+---
+title: "Yevmiye 12801"
+date: 2014-11-23 02:18:14 +0200
+dp: 12801
+draft: true
+tags: []
+---
 
 /Yobaz/ deyince aklıma gelen tip Türk değil, Amerikalı. Belki
 okuduklarımın daha çok orayla ilgilisinden kaynaklanıyordur,
@@ -32,3 +31,4 @@ Ben böyle bir *kafaya*, Türkiye'nin en *yobaz* diyebileceğimiz
 kimselerinde bile rastlayacağımıza inanmam. Bir de bu *okumuş*, doktor
 olmuş ve söylediği şeye bak: *Çocuklar ölsün ki, doktorlara yapacak iş
 olsun.*
+

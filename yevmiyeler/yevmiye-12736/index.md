@@ -1,11 +1,10 @@
-=============
-Yevmiye 12736
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12736
+---
+title: "Yevmiye 12736"
+date: 2014-11-23 02:18:14 +0200
+dp: 12736
+draft: true
+tags: []
+---
 
 İnsanların kağıttan okudukları, ekrandan okuduklarına nazaran daha fazla
 akıllarında kalıyormuş. Siz bu okuduklarınızı yarına
@@ -67,3 +66,4 @@ kuyruğu cinsinden bir sağlık göstergesi. Şirketin keyfinin yerinde olup
 olmadığını sosyal medyadaki halinden ve paylaştığı içerikten
 anlıyorsunuz. Müşterilerine *iyi davranacak* kadar sağlam kuruluşların,
 sizi başka zaman yarı yolda bırakmayacağını da düşünürsünüz.
+

@@ -1,11 +1,10 @@
-=============
-Yevmiye 12897
-=============
-
-:date: 2015-11-13 23:20:13 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12897
+---
+title: "Yevmiye 12897"
+date: 2015-11-13 23:20:13 +0200
+dp: 12897
+draft: true
+tags: []
+---
 
 Uyandıran düşünceler. Uykunun gerisinden gelen düşünceler. Kimseye hayrı olmayan
 düşünceler.
@@ -113,3 +112,4 @@ olduğuna şahit olacağız. Hristiyan tutuculuğu değil ama başka bir şeyler
 muhtemelen ırkçılığın tutuculuğu. *Doğu'nun toplumculuğu, Batı'nın
 bireyciliğinin* yalınkat bir slogandan ibaret olduğunu göreceğiz. Biz
 görmeyeceğiz belki ama bizden sonrakiler görecek.
+

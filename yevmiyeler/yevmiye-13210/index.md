@@ -1,11 +1,10 @@
-Yevmiye 13210
-=============
-
-:date: 2016-03-23 00:49:21 +0200
-
-.. :author: Emin Reşah
-.. :date: Mon Sep 14 22:19:04 EEST 2015 
-.. :dp: 13210 
+---
+title: "Yevmiye 13210"
+date: 2016-03-23 00:49:21 +0200
+dp: 13210
+draft: true
+tags: []
+---
 
 Bugün bir koşu Ankara'ya gittim geldim. Toplamda 15 dakikalık bir kulak kontrolü
 için onbir saat yol. Geçen hafta hasbelkader muayeneye gittiğim doktor kulağımda
@@ -116,3 +115,4 @@ alıp almadığımı, aldıysam gidip *bataklık legosu* almamız gerektiğini
 söylüyor. Benim de onun kadar dirayetli olmam lazım.
 
 Maaşımı kendim ödüyorum ve bataklık benim içimde desem anlar mı acaba?
+

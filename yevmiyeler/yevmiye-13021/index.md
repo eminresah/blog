@@ -1,11 +1,10 @@
-Yevmiye 13021
-=============
-
-:date: 2015-03-13 21:13:18 +0200
-
-.. :author: Emin Reşah
-.. :date: Tue Mar 10 12:07:30 EET 2015 
-.. :dp: 13021 
+---
+title: "Yevmiye 13021"
+date: 2015-03-13 21:13:18 +0200
+dp: 13021
+draft: true
+tags: []
+---
 
 Hoca bekleyerek geçen günlerimin birindeyim. Hoca beklemekten
 sıkıldığım için akademisyenlikten ayrıldığımı söyledim mi? Hoca
@@ -66,3 +65,4 @@ bahsedeceğim. Nasıl yapacağımızı anlatacağım.
 Bu iş neden zor ve şimdiye kadar neden yapılmadı, ondan bahsetmem
 lazım. *Herkesin yaptığı işleri yapmıyorum.* Kimse de benim yaptığım
 işleri yapmıyor. *Sizin işiniz size, benim işim bana.*
+

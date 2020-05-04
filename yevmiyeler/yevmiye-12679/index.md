@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12679
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12679
+---
+title: "Yevmiye - 12679"
+date: 2014-11-23 02:18:14 +0200
+dp: 12679
+draft: true
+tags: []
+---
 
 Büyük işler başarmış bir milletin ahfadıyız. Bu büyük işlerin en büyüğü,
 tıbbın gelişmemiş olduğu zamanlarda çocuk sahibi olana kadar yaşamak.
@@ -70,3 +70,4 @@ sadece هوس دارم *heves darem*.
 
 Dün akşam uykudan gözlerim kapanırken yazdım bunu. O kadar kötü değildir
 umarım.
+

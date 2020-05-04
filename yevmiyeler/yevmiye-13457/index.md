@@ -1,10 +1,10 @@
-Yevmiye 13457
-=========================
-
-:author: Emin Reşah
-:date: 2016-05-19 13:41:21 
-:dp: 13457 
-:image: /img/header-57.jpg
+---
+title: "Yevmiye 13457"
+date: 2016-05-19 13:41:21
+dp: 13457
+draft: true
+tags: []
+---
 
 *Robert Benchley* diye biri: 
 
@@ -43,5 +43,6 @@ geliştirmeye ayırdıkları zamanın, çalışıyor göründükleri zamana oran
 bilmiyoruz. Belki de yetenek dedikleri sadece bu yanlışlarının üstesinden
 gelebilecek kadar sabırdır, kendini binlerce saat aptal gibi hissettiğin halde
 devam etmek.
+
 
 

@@ -1,11 +1,10 @@
-==============
-Murakabe 12888
-==============
-
-:date: 2014-12-18 14:32:18 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12888
+---
+title: "Murakabe 12888"
+date: 2014-12-18 14:32:18 +0200
+dp: 12888
+draft: true
+tags: []
+---
 
 Kafamda *söylemek istediğim şeyler var ama ne olduğunu bilmiyorum
 hissi*.
@@ -74,4 +73,5 @@ iyi tanıdığı ve onların istediği gibi olmasının daha doğru olduğunu d�
 İşte, bunu diyorum. Belki zaman konusunda kendini kandırıyorsundur. 
 
 Hayat bir kandırmaca. 
+
 

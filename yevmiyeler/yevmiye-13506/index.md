@@ -1,3 +1,12 @@
+---
+title: "Yevmiye 13506"
+date: 2016-07-06 18:00:11
+dp: 13506
+draft: true
+tags: []
+---
+
+
 Yevmiye 13506
 =================
 
@@ -26,4 +35,5 @@ Britanya'nın dünyayı yönettiğine inananlardan mısın? Kraliçe'nin tüm d�
 Brexit'in Kraliçe tarafından üretilmiş bir tezgah olduğuna inanıyor musun? İskoçya'nın bağımsızlık arzusunu nasıl açıklayacaksın? Neden sonuçları itibariyle riskli bir işe girdiğini?
 
 Dünyayı tek bir merkezin yönettiğine inanan kişinin bu merkezi her olayda biraz daha revize etmesi gerekir. Bu soruları sorup durmamın manası yok aslında, ancak bu ülkede bu çeşit kurgular *fikir* namına piyasaya sürülünce, sen de onların kurgunun imkansızlığını düşünmek zorunda kalıyorsun. 
+
 

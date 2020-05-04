@@ -1,11 +1,10 @@
-=============
-Yevmiye 12800
-=============
-
-:date: 2015-11-21 22:16:07 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12800
+---
+title: "Yevmiye 12800"
+date: 2015-11-21 22:16:07 +0200
+dp: 12800
+draft: true
+tags: []
+---
 
 Yazın imkan varsa abdest yerine *duşdest* almayı tercih ediyorum.  Üşendiğim
 vakit, *bir zamanlar* abdest almanın, şimdiki duştan daha zor olduğunu
@@ -29,3 +28,4 @@ ama (eğim + km cinsinden mesafe) x saat cinsinden süre oluyor bu birim. 5 dere
 eğimle 1 saat 5 km/saat'te yürümek veya 0 derece eğimle 1 saat 10 km/saat'te
 koşmak veya 2 derece eğimle 2 saat 3 km/saat yürümek gibi alternatifler mümkün
 olmalı. Haftada 50 birim olacak şekilde ayarlamak niyetindeyim.
+

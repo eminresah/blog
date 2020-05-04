@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12113
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <12114 - Thu 08:19>
+---
+title: "Yevmiye - 12113"
+date: 2014-11-23 02:18:14 +0200
+dp: 12114
+draft: true
+tags: []
+---
 
 Farmer & Giant
 ~~~~~~~~~~~~~~
@@ -53,3 +52,4 @@ look alike, talk alike and break all the rules alike?/ (p. 256)
 Yazacak şeylere sahip olmanın yazma faaliyetiyle çelişmesi. Yazı
 *Dinamik Keyfiyet* ile mümkün, ancak bunun kağıda dökülmesi ancak
 *statik keyfiyet* ile oluyor. (Keyfiyet = Quality)
+

@@ -1,8 +1,10 @@
-=============
-Yevmiye 13282
-=============
-
-:date: 2015-11-28 15:24:54 +0200
+---
+title: "Yevmiye 13282"
+date: 2015-11-28 15:24:54 +0200
+dp: 13282
+draft: true
+tags: []
+---
 
 Tweetleri mail ile okuyordum. Bugün kapattım. Yerine, her dört saatte bir ayet
 gönderecek bir ufak program yaptım. Programcağız. Daha faydalı olacağına imanım
@@ -35,4 +37,5 @@ korkmayan insanlar yetiştiriyor, bunun için telaşları. Çünkü ölüme çar
 başka devaya ihtiyacı yok. Müslümanlar ölüme çare buldukları için tehlikeli.
 
 Tarihin nereye yöneleceğini merak ediyorum.
+
 

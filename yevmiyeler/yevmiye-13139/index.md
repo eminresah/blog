@@ -1,11 +1,10 @@
-Yevmiye 13139
-=============
-
-:date: 2015-09-15 16:25:13 +0300
-
-.. :author: Emin Reşah
-.. :date: Mon Jul  6 13:56:15 EEST 2015 
-.. :dp: 13139 
+---
+title: "Yevmiye 13139"
+date: 2015-09-15 16:25:13 +0300
+dp: 13139
+draft: true
+tags: []
+---
 
 Bu yaklaşık 70 gün öncesinden. 
 
@@ -39,4 +38,5 @@ O zaman kendini aptal hissetmeye başlayan öğrencilere
 dönüşüyorlar. Lisede çok başarılı göründüğü halde, üniversiteye gidip,
 tamamen hayal kırıklığı yaşayan öğürencilerden bahsediyor. Calut'un
 üniversite versiyonları.
+
 

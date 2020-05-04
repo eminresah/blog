@@ -1,11 +1,10 @@
-=============
-Yevmiye 12791
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12791
+---
+title: "Yevmiye 12791"
+date: 2014-11-23 02:18:14 +0200
+dp: 12791
+draft: true
+tags: []
+---
 
 `Şurada <http://99u.com/workbook/27773/stuck-put-someone-else-in-your-shoes>`__
 diyor ki, bir soruna çözüm bulmak için başkasını sizin yerinizde
@@ -81,3 +80,4 @@ ekrandaki lekenin screenshot'ta görünmesi gibidir.
 `Şurada <http://mashable.com/2014/06/09/dream-jobs-that-pay/>`__ bazı
 *güzel işlerden* bahsetmişler. Sabahtan akşama panda eğlendirmenin
 neresi zevkli çok merak ettim.
+

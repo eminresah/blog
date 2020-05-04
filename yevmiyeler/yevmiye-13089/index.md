@@ -1,11 +1,10 @@
-Yevmiye 13089
-=============
-
-:date: 2015-05-17 18:24:16 +0300
-
-.. :author: Emin Reşah
-.. :date: Sun May 17 11:58:59 EEST 2015 
-.. :dp: 13089 
+---
+title: "Yevmiye 13089"
+date: 2015-05-17 18:24:16 +0300
+dp: 13089
+draft: true
+tags: []
+---
 
 Bir bakışta ne yazacağına karar veren adamlardan
 değilim. Olamıyorum. En büyük derdim, şu sıralar, yapacak işlere
@@ -66,4 +65,5 @@ eğlenceli bir kitap, onunla alakası yok. Sadece roman hammaliyesinin
 manasızlığı ve neticede amacın *okura sayfa çevirtmek* olduğunu
 tesbiti. Maksadınız sayfa çevirtmek olunca, hayat bitmeyen bir
 hanutçuluğa dönüşür. 
+
 

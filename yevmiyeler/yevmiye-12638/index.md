@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12638
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12638
+---
+title: "Yevmiye - 12638"
+date: 2014-11-23 02:18:14 +0200
+dp: 12638
+draft: true
+tags: []
+---
 
 `David Ogilvy'nin kitabıyla ilgili temmuzun sonlarında yazılmış bir
 yazıyı yeni
@@ -94,3 +94,4 @@ Bir de plan yerine *rutin* veya *ritüeli* teşvik ederler. Her sabah gün
 nasıl başlayacağın belli olursa, evet, belki plan yapmaya gerek kalmaz.
 Hatta tüm günün nasıl geçeceğini biliyorsan, plan yapmak zorunda
 kalmazsın ama bu *düz* plansızlıktan daha da uzak bir hayal.
+

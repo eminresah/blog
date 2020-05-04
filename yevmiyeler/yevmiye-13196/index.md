@@ -1,8 +1,10 @@
-===============
- Yevmiye 13196
-===============
-
-:date: 2016-03-30 23:33:30 +0300
+---
+title: "Yevmiye 13196"
+date: 2016-03-30 23:33:30 +0300
+dp: 13196
+draft: true
+tags: []
+---
 
 Uzun zamandır yazmamış gibi hissediyorum. Uzun zamandır yazmadım zaten. Yazı
 ihtiyacını raporlar ve benzerleriyle doldurunca, öyle hissetmem normal. Anormal
@@ -46,3 +48,4 @@ tabi tutan dönemler. Bu seferkinde neler olacağını bilmiyorum. Tutunduğum
 dalların elimden kaydığını görüyorum. Zamanında kazdığım hendekler doluyor.
 
 Işık. 
+

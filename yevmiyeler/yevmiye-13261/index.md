@@ -1,9 +1,10 @@
-===============
- Yevmiye 13261
-===============
-
-:date: 2015-11-05 19:27:54 +0300
-
+---
+title: "Yevmiye 13261"
+date: 2015-11-05 19:27:54 +0300
+dp: 13261
+draft: true
+tags: []
+---
 
 Dün bir sempozyumdaydım. Türkiye'de akademisyen olmanın rahatlığını gözledim
 yeniden.
@@ -22,5 +23,6 @@ nazaran, herkes cahil. Dahası herkes genel olarak da cahil. Bunu
 hissettirebiliyorsan, biliyormuş gibi duruyorsan, iyi akademisyen olmak
 kolay. Ne iş yaptığını anlayacak en yakın insanın onbin kilometre uzakta olması
 da büyük şans. 
+
 
 

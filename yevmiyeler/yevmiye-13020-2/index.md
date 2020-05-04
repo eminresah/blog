@@ -1,11 +1,10 @@
-Yevmiye 13020/2
-===============
-
-:date: 2015-07-03 13:13:33 +0300
-
-.. :author: Emin Reşah
-.. :date: Wed Mar 18 22:27:07 EET 2015 
-.. :dp: 13030 
+---
+title: "Yevmiye 13020/2"
+date: 2015-07-03 13:13:33 +0300
+dp: 13030
+draft: true
+tags: []
+---
 
 Dan Carlin'in *Hardcore History* isimli podcastinde Atom bombasının
 atılmasının ahlakiliğiyle ilgili bir bölüm dinliyorum. 2. Dünya
@@ -135,3 +134,4 @@ bir de hikaye anlatırsan, fiyatı nakdî değil de, aynî ve bilhassa
 hizmet cinsinden, hayatını sair şekilde kolaylaştırırak *ödersen*
 herhalde herkesi *ele alabilirsin.* Tabii bu *ele alan* için de
 geçerli.
+

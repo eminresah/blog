@@ -1,11 +1,10 @@
-==============
-Murakabe 12843
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12843
+---
+title: "Murakabe 12843"
+date: 2014-11-23 02:18:14 +0200
+dp: 12843
+draft: true
+tags: []
+---
 
 Meraksızlığımın sebebini buldum sanırım. Artık *bitmiş* işlerle
 meşgulüm. Başlanmış işlerin hayatımda sallanıp durması beni mutlu
@@ -228,3 +227,4 @@ enerji var. *Hepsi bu kadar olmamalı* enerjisi. Dikeyleri yatay hale
 getirecek o. Ancak birinin o enerjiye kablo uzatıp, başka bir ışık
 yakması gerekiyor. O kabloyu kim inşa edebilirse *dünyayı da o
 kurtaracak.*
+

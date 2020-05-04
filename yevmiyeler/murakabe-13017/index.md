@@ -1,11 +1,10 @@
-Murakabe 13017
-==============
-
-:date: 2015-03-14 01:25:04 +0200
-
-.. :author: Emin Reşah
-.. :date: Thu Mar  5 22:04:38 EET 2015 
-.. :dp: 13017 
+---
+title: "Murakabe 13017"
+date: 2015-03-14 01:25:04 +0200
+dp: 13017
+draft: true
+tags: []
+---
 
 Bir gerginlik halinde görüyorum seni, nedendir?
 
@@ -112,3 +111,4 @@ Hayır, neden olsun? İnsanların aslen nasıl yaşadıkları önemli. Ahlaken
 ne kadar doğru yaşadıkları, ne kadar iyi olabildikleri. Bunun için çok
 saçma da olsa bir takım şeylere inanmaları gerekiyorsa, inanmaya devam
 etmelerini tercih ederim.
+

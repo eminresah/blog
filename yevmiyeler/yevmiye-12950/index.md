@@ -1,11 +1,10 @@
-Yevmiye 12950
-=============
-
-:date: 2014-12-29 15:24:15 +0200
-
-.. :author: Emin Reşah
-.. :date: Sun Dec 28 23:45:01 EET 2014 
-.. :dp: 12950 
+---
+title: "Yevmiye 12950"
+date: 2014-12-29 15:24:15 +0200
+dp: 12950
+draft: true
+tags: []
+---
 
 Bir hafta önce Ankara'ya gittim. Gelişimle de hasta oldum. Bugün
 Pazar. Hala öksürüyorum. İşle de ilgilenemedim, yazıyla da. 
@@ -45,4 +44,5 @@ bir isim.
 Lakin işte bu *kendine hakim* kısmında bile o kadar rahat
 değilim. Kadere bırakmadan kendi ipimi kendimin bir kısmına
 çektiriyorum. Kendimi razı etmek için kendimden feragat ediyorum.
+
 

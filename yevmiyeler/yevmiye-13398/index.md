@@ -1,11 +1,10 @@
-Yevmiye 13398
-=============
-
-:date: 2016-03-22 00:21:06 +0200
-
-.. :author: Emin Reşah
-.. :date: Sun Mar 20 23:49:37 EET 2016 
-.. :dp: 13398 
+---
+title: "Yevmiye 13398"
+date: 2016-03-22 00:21:06 +0200
+dp: 13398
+draft: true
+tags: []
+---
 
 Doktor *neden (kan sulandırıcı) Coraspin almıyorsun?* dedi. Ben de *bilmem, bir
 ara bırakmıştım, herhalde tembellikten* dedim. İki gün sonra aklıma geldi, ben
@@ -25,4 +24,5 @@ bir an olmasa gerek. Sadece anda yaşayan bir insan, mukayese edecek bir başka
 zamanı hatırlamadığı için, hiçbir şekilde keyif alamaz. Şimdinin iyi olduğunu
 nasıl bilebilirsin? Ya eskide benzer bir iyi yaşamışsındır, ya eskide buna hiç
 benzemez bir kötü.
+
 

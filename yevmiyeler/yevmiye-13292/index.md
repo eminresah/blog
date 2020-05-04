@@ -1,8 +1,10 @@
-Yevmiye 13292
-=============
-
-:date: 2015-12-11 11:13:52 +0200
-
+---
+title: "Yevmiye 13292"
+date: 2015-12-11 11:13:52 +0200
+dp: 13292
+draft: true
+tags: []
+---
 
 Cumartesileri yemek konusunda serbestim. Diğer günler yemediklerimi yediğim. 
 
@@ -26,4 +28,5 @@ anlamak ve bundan korkmamak için.
 
 İnsanın varlığa bağımlılığını kırmak için ne yapması gerektiğini çok okudum ama
 yokluğa bağımlılığı nasıl kırabilir, hiçbir fikrim yok.
+
 

@@ -1,15 +1,11 @@
 ---
 title: "Murakabe 13765"
 date: 2017-04-04 11:03:48
-expiryDate: 2018-04-04 11:03:48
 dp: 13777
 featured_image: "/images/header-65.jpg"
 images: ["/images/header-65.jpg"]
-published: true
 tags: []
 ---
-
-
 
 Ufak bir esintide dahi hasta olan bedenin mi, ufak bir eleştiride hasta olan
 ruhun mu daha hassas? İnsanlara akıl veriyorsun, *derinizi kalın tutun* diye ama

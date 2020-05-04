@@ -1,11 +1,10 @@
-Yevmiye 13056
-=============
-
-:date: 2015-04-17 23:13:21 +0300
-
-.. :author: Emin Reşah
-.. :date: Tue Apr 14 00:14:47 EEST 2015 
-.. :dp: 13056 
+---
+title: "Yevmiye 13056"
+date: 2015-04-17 23:13:21 +0300
+dp: 13056
+draft: true
+tags: []
+---
 
 **Abdurrahman Abdi Paşa**
 
@@ -114,4 +113,5 @@ Hızımı almış yazıyorken karım yanıma geldi ve merhum MacBook
 bilgisayarından da bahsetmemi istedi. Ben de bahsedeyim bari. MacBook
 iyiydi, hoştu, ama 2013 senesinde kablosuz aksamı rahmetli olunca
 kullanılamaz oldu. Biraz da yavaşladı tabii. Ah MacBook Ünlü.
+
 

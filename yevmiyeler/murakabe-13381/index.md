@@ -1,11 +1,10 @@
-Murakabe 13381
-==============
-
-:date: 2016-03-13 21:49:47 +0200
-
-.. :author: Emin Reşah
-.. :date: Thu Mar  3 22:41:48 EET 2016 
-.. :dp: 13381 
+---
+title: "Murakabe 13381"
+date: 2016-03-13 21:49:47 +0200
+dp: 13381
+draft: true
+tags: []
+---
 
 
 -*- coding: utf-8 -*-
@@ -81,3 +80,4 @@ Milliyetçilik bir araya da getirebilir, bölebilir de. Eğer birleştirdiğinde
 fazla bölüyorsa, devlet için bir yük haline gelir. Bizim Kemalist milliyetçilik
 böyleydi. Bunun yerine doğal bir millet fikri lazım, Türkçe'nin *tek dil*
 olmadığı ancak pratik olarak öyle olduğu ve tartışılmadığı bir düzen mesela.
+

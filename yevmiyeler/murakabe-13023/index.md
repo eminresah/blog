@@ -1,11 +1,10 @@
-Murakabe 13023 
-==============
-
-:date: 2015-03-18 22:19:11 +0200
-
-.. :author: Emin Reşah
-.. :date: Thu Mar 12 01:21:19 EET 2015 
-.. :dp: 13023 
+---
+title: "Murakabe 13023"
+date: 2015-03-18 22:19:11 +0200
+dp: 13023
+draft: true
+tags: []
+---
 
 Uzun zamandır kendini murakabe etmiyorsun.
 
@@ -199,4 +198,5 @@ fazilet sonucu ulaşılmış bir yer değildi. Bununla beraber nehrin her
 an hızlı aktığını ve kayığı sadece nehrin yönlendirdiğini
 düşünmüyoruz, bazı yerlerde durgun ve oralarda kendi iradesiyle kürek
 çektiğini söyleyebiliriz.
+
 

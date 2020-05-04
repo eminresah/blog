@@ -1,9 +1,10 @@
-Yevmiye 13451
-=========================
-
-:author: Emin Reşah
-:date: 2016-05-12 23:24:21 
-:dp: 13451 
+---
+title: "Yevmiye 13451"
+date: 2016-05-12 23:24:21
+dp: 13451
+draft: true
+tags: []
+---
 
 `Guardian'da`_ okuduğum bir haber. Eski bakanlarından biri, Cameron'ın
 Britanya'nın Avrupa Birliği'nde kalmasını savunmasını, *Türkiye üye olursa, daha
@@ -99,3 +100,4 @@ fiillerin *inançlıca* olanlarını işletmekte de, *inançsızca* olanını i�
 de özgürdür ancak *inançlıca* olanını işlemekte daha özgürdür.
 
 تهلكهنك فرقنده‌مسنز؟
+

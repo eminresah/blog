@@ -1,7 +1,10 @@
-Yevmiye 13335
-=============
-
-:date: 2016-02-14 00:34:07 +0200
+---
+title: "Yevmiye 13335"
+date: 2016-02-14 00:34:07 +0200
+dp: 13335
+draft: true
+tags: []
+---
 
 Zamanında 
 
@@ -30,6 +33,7 @@ var çünkü o sistemin içindeki herkes bu durumda. Buradan *Linux kullanmayan 
 değildir* anlamı çıkmaz bence.
 
 Tavzih niyetine. 
+
 
 
 

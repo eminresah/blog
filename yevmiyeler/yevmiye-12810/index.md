@@ -1,11 +1,10 @@
-=============
-Yevmiye 12810
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12810
+---
+title: "Yevmiye 12810"
+date: 2014-11-23 02:18:14 +0200
+dp: 12810
+draft: true
+tags: []
+---
 
 Hocası, abisi *falancayı* işaret etse koşa koşa oy verecek insanlar
 yumurtasını beğenmeyen entel numarası yaptığında gülesim geliyor.
@@ -58,3 +57,4 @@ At Bollingen, Jung rose at 7:00 A.M.; said good morning to his
 saucepans, pots, and frying pans; and “spent a long time preparing
 breakfast, which usually consisted of coffee, salami, fruits, bread and
 butter,” the biographer Ronald Hayman notes.
+

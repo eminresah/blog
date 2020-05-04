@@ -1,11 +1,10 @@
-Yevmiye 13084
-=============
-
-:date: 2015-06-28 14:56:33 +0300
-
-.. :author: Emin Reşah
-.. :date: Mon May 11 23:22:11 EEST 2015 
-.. :dp: 13084 
+---
+title: "Yevmiye 13084"
+date: 2015-06-28 14:56:33 +0300
+dp: 13084
+draft: true
+tags: []
+---
 
 Bugün kainatın 2 boyutlu bir kaynağın, 3 boyut üzerindeki hologramı
 olabileceğine dair bir yazı okudum. Fizikçiler arasında bunu söylemeye
@@ -41,3 +40,4 @@ Giderek bir simülasyon fikrine alışıyorum sanırım. Her gün
 *enformasyondan* yarattığına inanıyor gibiyim. Belki *ol der olur*
 veya *başlangıçta söz vardı* da *Allah kainatı enformasyondan halketti*
 demektir.
+

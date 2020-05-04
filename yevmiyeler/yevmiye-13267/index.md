@@ -1,8 +1,10 @@
-=============
-Yevmiye 13267
-=============
-
-:date: 2015-11-11 21:55:57 +0200
+---
+title: "Yevmiye 13267"
+date: 2015-11-11 21:55:57 +0200
+dp: 13267
+draft: true
+tags: []
+---
 
 Gerçek hakkında konuşmanın bir yandan dil hakkında konuşmak olacağını
 söylüyorlar. Doğru. Dil çünkü gerçeğin örtüsü. Onu kaldırmadan gerçepe vasıl
@@ -78,6 +80,7 @@ belki. Ancak nedir, tarım yapanlar daha büyük çok topluluğu *beslediği* gi
 destekleyecek.
 
 Soyumuz tükeniyor. 
+
 
 
 

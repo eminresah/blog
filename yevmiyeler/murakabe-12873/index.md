@@ -1,11 +1,10 @@
-==============
-murakabe-12873
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12873
+---
+title: "murakabe-12873"
+date: 2014-11-23 02:18:14 +0200
+dp: 12873
+draft: true
+tags: []
+---
 
 Yine uykusuz bir gece. Uzun zamandır böyle göremiyordum seni.
 
@@ -40,3 +39,4 @@ azından uykunu almış olursun.
 Uyku yemekten hayırlıdır gibi mi?
 
 Bence evet, uyku yemekten hayırlıdır.
+

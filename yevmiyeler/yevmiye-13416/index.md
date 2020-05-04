@@ -1,12 +1,10 @@
-Yevmiye 13416
-=============
-
-:date: 2016-05-06 00:51:41 +0300
-:image: /img/header-16.jpg
-
-.. :author: Emin Reşah
-.. :date: Fri Apr  8 00:00:07 EEST 2016 
-.. :dp: 13416 
+---
+title: "Yevmiye 13416"
+date: 2016-05-06 00:51:41 +0300
+dp: 13416
+draft: true
+tags: []
+---
 
 7 Nisan güzel bir gün. İnsan 7 Nisan'da mahkemeye gitmez, gitmemelidir ama ben
 gittim.
@@ -49,3 +47,4 @@ liralık yazar kasasını kırmışlar, diğerinin dolabından plaketlerini çal
 sahibinden.com'da bulmuş ve polisi aramış, bilgisayarını geri almış. Kısacası
 cam açıp, kapı kırıp, balkona çıkıp çalmaya değecek şeyler değil ama başka
 eğlence bulamayınca, *kader kurbanı* oluyorlar.
+

@@ -1,11 +1,10 @@
-Yevmiye 12931
-=============
-
-:date: 2014-12-13 12:25:16 +0200
-
-.. :author: Emin Reşah
-.. :date: Wed Dec 10 00:29:19 EET 2014 
-.. :dp: 12931 
+---
+title: "Yevmiye 12931"
+date: 2014-12-13 12:25:16 +0200
+dp: 12931
+draft: true
+tags: []
+---
 
 Geçenlerde okuduğum bir kitapta, sanırım şu UCLA'li adamın bahsettiği
 Don Juan, artık her kimse, sol omuzunda ölümü hatırlatan bir karga
@@ -44,4 +43,5 @@ anlamaya cesaret etmek. Sonunda mükemmelen olmasa da, büyük ölçüde
 istediğim hayatın tam ortasında yaşadığımı farkediyorum.
 
 Ölüm olmasaydı hayat olmazdı. Her gün ölmek her gün doğmaya denk.
+
 

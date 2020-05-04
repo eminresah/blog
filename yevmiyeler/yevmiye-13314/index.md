@@ -1,11 +1,10 @@
-Yevmiye 13314
-=============
-
-:date: 2015-12-28 16:22:59 +0200
-
-.. :author: Emin Reşah
-.. :date: Mon Dec 28 00:03:32 EET 2015 
-.. :dp: 13314 
+---
+title: "Yevmiye 13314"
+date: 2015-12-28 16:22:59 +0200
+dp: 13314
+draft: true
+tags: []
+---
 
 Günün başında Munger'ın kitabını okudum biraz. Charlie iyi bir adam ama baktığı
 ölçek milyar dolar ölçeği olunca biraz alakasız kaçıyor. Bir otel almış
@@ -114,4 +113,5 @@ Böyle kitapları okuyunca, durduğu yerden her şeye muhalefet edenlerin neden
 dünyada hiçbir ağırlığı olamadığını anlıyor insan. Dünya, başı sonu belli
 problemleri çözmek için bile karmaşık, buna başı sonu belli olmayan lafları
 ekleyince daha iyi olmuyor.
+
 

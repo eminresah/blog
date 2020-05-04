@@ -1,11 +1,10 @@
-================
-Murakabe 12856/2
-================
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12856
+---
+title: "Murakabe 12856/2"
+date: 2014-11-23 02:18:14 +0200
+dp: 12856
+draft: true
+tags: []
+---
 
 Bundan sonra sana "bugün seni neler etkiledi?" diye soracağım. Okuduğun
 yazdığın senin olsun.
@@ -90,3 +89,4 @@ olmanın *acayip* durmaması için de zaman gerek.
 
 Eskilerin öleceği ve bu teknolojiyle hayatının erken yaşlarında tanışmış
 olanların büyüyeceği kadar zaman.
+

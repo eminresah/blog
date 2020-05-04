@@ -1,7 +1,6 @@
 ---
 title: "Kayı Boyusu"
 date: 2017-02-17 00:11:33
-expiryDate: 2018-02-17 00:11:33
 dp: 13731
 featured_image: "/images/header-31.jpg"
 images: ["/images/header-31.jpg"]

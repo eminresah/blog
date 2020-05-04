@@ -1,11 +1,10 @@
-=============
-Yevmiye 12747
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12747
+---
+title: "Yevmiye 12747"
+date: 2014-11-23 02:18:14 +0200
+dp: 12747
+draft: true
+tags: []
+---
 
 Bürokrasinin işi bürokrasiyi idare etmek. Kendini idare etmeye
 çalışırken bir yandan da toplumu idare ediyor. Hedef kendini
@@ -66,3 +65,4 @@ Zamanımızda bu ikisi için de üretilen, çok zaman bunun tam tersi.
 ezberden başka bir tecrübeyi işaret etmiyor çoğu zaman. İnsanların
 bunlardan anladıkları, bir nev'i düşünce dedikodusuyla, dini tecrübe
 dedikodusu. Kendisi değil.
+

@@ -1,11 +1,10 @@
-Yevmiye 12999
-=============
-
-:date: 2015-02-15 23:18:23 +0200
-
-.. :author: Emin Reşah
-.. :date: Sun Feb 15 23:09:45 EET 2015 
-.. :dp: 12999 
+---
+title: "Yevmiye 12999"
+date: 2015-02-15 23:18:23 +0200
+dp: 12999
+draft: true
+tags: []
+---
 
 Gündemle ilgili yazı yazıyım diye twitter'a bakayım dedim. Zihnime bir
 konu yapışmadı. Özgecan isimli bir kızcağızı öldürmüşler, dün karım
@@ -44,3 +43,4 @@ değiştirmek, onu mümkün mertebe maktulün bir kopyası yapmak. Katilin
 hayatını maktulünkinden ibaret hale getirmek.
 
 Bu muhtemelen idamdan daha etkili bir ceza olurdu.  
+

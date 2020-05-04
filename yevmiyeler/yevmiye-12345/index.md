@@ -1,14 +1,10 @@
-======================
-12345. Günün Yevmiyesi
-======================
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-
-.. role:: math(raw)
-   :format: html latex
-..
+---
+title: "12345. Günün Yevmiyesi"
+date: 2014-11-23 02:18:14 +0200
+dp: 12345
+draft: true
+tags: []
+---
 
     Yaşam ve ölüm arasında Ali bey, hep sevdiklerimizi yitirmekle
     uğraşırız. Onların yok olması bizi korkutur ve bu korku onların yok
@@ -122,3 +118,4 @@ Farketmiş olacağınız gibi sitenin üreteç ve RSS programları değişti.
 Üreteç artık ``org-mode`` kullanıyor, RSS programını yine kendim yaptım.
 Bir anormallik olursa *iletisim@eminresah.com* adresinden intikal
 edebilirsiniz.
+

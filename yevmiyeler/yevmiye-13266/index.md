@@ -1,8 +1,10 @@
-=============
-Yevmiye 13266
-=============
-
-:date: 2015-11-10 21:44:18 +0200
+---
+title: "Yevmiye 13266"
+date: 2015-11-10 21:44:18 +0200
+dp: 13266
+draft: true
+tags: []
+---
 
 Hayat kuru bir ekmek için binlerce ton suyun oradan oraya koşturması demek. Kuru
 bir dilim ekmek, gelip sofrana dursun diye.
@@ -136,3 +138,4 @@ dinletmeyi ve buraların politikasında az daha etkin olmayı ummaktadır. Yoksa
 son fetih siyaseti 1940'larda neler yaptığını bilen birinin o tarafları
 zorlamaz. Fikren bağımsız olursak, kendimizi ucuza satmazsak, karşımızdakinin de
 daha fazla saygı duyacağını tahmin ediyoruz. Derdimiz budur.
+

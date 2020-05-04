@@ -1,13 +1,12 @@
-=============
-Yevmiye 12731
-=============
+---
+title: "Yevmiye 12731"
+date: 2014-11-23 02:18:14 +0200
+dp: 12731
+draft: true
+tags: []
+---
 
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12731
-
-\*Kawasaki'nin eposta tavsiyeleri\*
+*Kawasaki'nin eposta tavsiyeleri*
 
 Adam demiş ki, yazdığınız postaları 5 cümleyle sınırlayın ve bunlar şu
 soruların cevabı olsun.
@@ -53,7 +52,7 @@ düşüncelerine iman demeye çalışıyorum. İnsanlar iman ettiklerini
 söylediklerine iman etmiyor, çoğuna sadece inanıyorlar. (Kimisi
 inanmıyor bile, onlar mevzu dışı.)
 
-\*Hayatını değiştirmeye gücü yetmeyen düşüncelere değer verme.\*
+*Hayatını değiştirmeye gücü yetmeyen düşüncelere değer verme.*
 
 --------------
 
@@ -72,3 +71,4 @@ de baktım yazılar birikmiş. Arada `Suat
 bey <http://twitter.com/feeyn>`__ gibi okuduğunu söyleyenler oluyor, ben
 de yazmaya devam ediyorum. Marifetin faydası var mı bilmem ama iltifat
 için teşekkür.
+

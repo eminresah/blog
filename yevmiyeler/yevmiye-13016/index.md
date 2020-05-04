@@ -1,11 +1,10 @@
-Yevmiye 13016
-=============
-
-:date: 2016-03-19 00:05:35 +0200
-
-.. :author: Emin Reşah
-.. :date: Thu Mar  5 08:15:55 EET 2015 
-.. :dp: 13016 
+---
+title: "Yevmiye 13016"
+date: 2016-03-19 00:05:35 +0200
+dp: 13016
+draft: true
+tags: []
+---
 
 
 
@@ -81,4 +80,5 @@ için özür dilemek aklıma gelebilir. Ha, *biz onlar gibi değiliz, onların
 sorumluluğu da benim üstümde değil* diyorsanız, ben de aynısını der
 geçerim. Benzeri İslam adına hareket ettiğini söyleyen diğerleri için de
 geçerli.
+
 

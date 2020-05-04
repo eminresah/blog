@@ -1,11 +1,10 @@
-=============
-Yevmiye 12803
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12803
+---
+title: "Yevmiye 12803"
+date: 2014-11-23 02:18:14 +0200
+dp: 12803
+draft: true
+tags: []
+---
 
 `Şurada <http://www.brainpickings.org/index.php/2013/09/04/charles-bukowski-on-writing/>`__
 bir kaç Bukowski lafı gördüm.
@@ -46,3 +45,4 @@ saçından dolayı, üniversite 3'ten terk biri, mezunmuş gibi para
 kazanabiliyormuş. Yüzü simetrik olanlar, olmayanlara nazaran daha
 başarılı oluyormuş, daha yakışıklı olanlar, işlediği suçlara karşılık
 daha az ceza alıyormuş. Hayat ne kadar *adil.*
+

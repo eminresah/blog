@@ -1,11 +1,10 @@
-==================
-Yevmiye -- 12625/2
-==================
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12625
+---
+title: "Yevmiye -- 12625/2"
+date: 2014-11-23 02:18:14 +0200
+dp: 12625
+draft: true
+tags: []
+---
 
 Kadınların *ilişki* yazısı, herhalde erkeklerinkinden daha çoktur. Hatta
 diyebilirim ki beş kat daha çoktur. Bir erkeğin kadınlardan şikayet
@@ -115,3 +114,4 @@ Onun yerine bu demir dövme işi aklıma yatıyor ama bu da tehlikeli. Şimdi
 parmaklarıma bir şey olsa yazamam. Ah, ben, piyanist gibi bir şeyim ben.
 
 Başka ne olur, başka?
+

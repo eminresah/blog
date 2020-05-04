@@ -1,11 +1,10 @@
-=============
-Yevmiye 12877
-=============
-
-:date: 2015-11-13 23:20:13 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12877
+---
+title: "Yevmiye 12877"
+date: 2015-11-13 23:20:13 +0200
+dp: 12877
+draft: true
+tags: []
+---
 
 Neden yazamadığımı sordular. Kısaca şöyle.
 
@@ -26,3 +25,4 @@ Yazmadan olmaz.
 
 .. |image0| image:: screenshot-20141017@012236.png
    :target: screenshot-20141017@012236.png
+

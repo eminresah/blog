@@ -1,11 +1,10 @@
-12952
-=====
-
-:date: 2015-01-17 20:50:41 +0200
-
-.. :author: Emin Reşah
-.. :date: Fri Jan  9 12:03:34 EET 2015 
-.. :dp: 12961 
+---
+title: "12952"
+date: 2015-01-17 20:50:41 +0200
+dp: 12952
+draft: true
+tags: []
+---
 
 İşimizin bir kısmı başarılı olmak ancak bu başarının da bizi
 sapıttırabileceğini bilmek tabii. Nasıl olacak da bir yandan başarılı
@@ -81,5 +80,6 @@ doğduğu için saygı duymak manasız. Aynısını bana da söyleyecekler,
 evet, doğru. Eğer söylediklerimin içeriği anlamsızsa, onlarla uzun
 süre zaman geçirmem veya *çok yazmış olmam* gerçekte hiçbir şey ifade
 etmez.
+
 
 

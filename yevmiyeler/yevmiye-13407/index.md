@@ -1,11 +1,10 @@
-Yevmiye 13407
-=============
-
-:date: 2016-03-30 23:38:36 +0300
-
-.. :author: Emin Reşah
-.. :date: Tue Mar 29 23:23:27 EEST 2016 
-.. :dp: 13407 
+---
+title: "Yevmiye 13407"
+date: 2016-03-30 23:38:36 +0300
+dp: 13407
+draft: true
+tags: []
+---
 
 Kaç gündür yazacak zaman bulamıyor olmamın sebebi, bir, araba kullanmak, iki,
 gezmek, üç, yazacağım konularda kendimi hazır hissetmemek. Sonra bir ses bu
@@ -90,3 +89,4 @@ imanmış, sadece bir tiyatro.
 
 Beni şu sıra meşgul eden soru da Pakistan bombacılarıyla nasıl aynı dinde
 olduğum.
+

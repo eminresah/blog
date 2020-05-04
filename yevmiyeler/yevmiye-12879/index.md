@@ -1,11 +1,10 @@
-=============
-Yevmiye 12879
-=============
-
-:date: 2014-12-04 16:50:12 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12910
+---
+title: "Yevmiye 12879"
+date: 2014-12-04 16:50:12 +0200
+dp: 12879
+draft: true
+tags: []
+---
 
 Aklıma ne gelmesi gerektiğini düşünüyorum. Bu tuhaf enerjinin,
 hayalinde kıyama kaldıran bu enerjinin beni yanıltıyor olabileceğinden
@@ -16,3 +15,4 @@ bulursam bulayım hangi kelimeleri bilirsem bileyim, ne dersem diyeyim:
 Ebedi suskunluğun güzelliğini bozmayacak.
 
 Muhterem tecridin sonu.
+

@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12699
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12699
+---
+title: "Yevmiye - 12699"
+date: 2014-11-23 02:18:14 +0200
+dp: 12699
+draft: true
+tags: []
+---
 
 Lisan peşinde gezmenin sonuçları.
 
@@ -109,3 +109,4 @@ bölümü* %30, *hafıza bölümü* %20, *hayal etme bölümü* %80 çalışıyo
 bu adamın kafasını o an pek kullanmadığını anlayabiliriz. Öğretmenlik
 de, eğitim de değişecek o zaman. Bilgisayarlar doğrudan kafamıza vura
 vura eğitecek bizi.
+

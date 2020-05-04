@@ -1,11 +1,10 @@
-==============
-Murakabe 12893
-==============
-
-:date: 2016-03-31 23:53:12 +0300
-
-.. :Author: Emin Reşah
-.. :Date:   12893
+---
+title: "Murakabe 12893"
+date: 2016-03-31 23:53:12 +0300
+dp: 12893
+draft: true
+tags: []
+---
 
 Günün anlam ve öneminden başlamak isterdim ama günün bir anlamı yok. Çok
 konuştuğum ve kendi sesimden yorulduğum bir gün daha.
@@ -65,3 +64,4 @@ organizasyona bir faydası olacağını düşünüyorum. Bakalım. *Düşünce y
 alanında tecrübe edinecek gibi görünüyoruz.
 
 Hayırlı tecrübeler.
+

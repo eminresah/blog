@@ -1,11 +1,10 @@
-Yevmiye 13213
-==================================
-
-:date: 2015-09-19 22:25:15 +0300
-
-.. :author: Emin Reşah
-.. :date: Thu Sep 17 22:39:40 EEST 2015 
-.. :dp: 13213 
+---
+title: "Yevmiye 13213"
+date: 2015-09-19 22:25:15 +0300
+dp: 13213
+draft: true
+tags: []
+---
 
 
 Sadece gerekliliğine inandığımız, bize fayda sağlayan işleri yapsaydık
@@ -17,5 +16,6 @@ yoktur. Tüm işlerin gereksiz olduğunu düşünerek büyümüşlerdir, bazı
 işlerin daha önemli olduğu veya onların severek yapılabileceği
 konusunda fikirleri yoktur. Belki bildikleri tüm iş ve iş görünüşlü
 faaliyetten kaçmaktır.
+
 
 

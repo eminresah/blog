@@ -1,11 +1,10 @@
-Yevmiye 13402
-=============
-
-:date: 2016-03-30 23:33:28 +0300
-
-.. :author: Emin Reşah
-.. :date: Thu Mar 24 23:43:31 EET 2016 
-.. :dp: 13402 
+---
+title: "Yevmiye 13402"
+date: 2016-03-30 23:33:28 +0300
+dp: 13402
+draft: true
+tags: []
+---
 
 Karaman'daki malum mevzuda bir mevzi bulup atlamaya imkan bulamadım. Konunun
 ayrıntılarını merak ettiğimden değil, ortalıktaki dezenformasyon acayip
@@ -62,3 +61,4 @@ aidiyetlerden, cemaatlikten bahsetmiyorum.
 Aramızda adaleti arayıp, birbirimize yumuşak davranmak ve dışarıya da sert ve
 tavizsiz olmak. Ahir zamanda genelde bunun tersi yapılıyor. Onun için de iflah
 olmuyoruz.
+

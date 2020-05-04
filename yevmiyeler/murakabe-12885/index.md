@@ -1,11 +1,10 @@
-==============
-Murakabe 12885
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12885
+---
+title: "Murakabe 12885"
+date: 2014-11-23 02:18:14 +0200
+dp: 12885
+draft: true
+tags: []
+---
 
 İnsanların yanlış kişileri dinlediğini düşünüyorsun. Seni dinlemedikleri
 için.
@@ -40,3 +39,4 @@ konuşulan konuları önce yazdıracağım. Üç cümle, beş cümle konuyla ilg
 ne düşündüğünü yaz ve gönder. Herkes kendi başına düşünsün ve sonra
 ortak bir fikir bulmaya çalışalım. Farklı düşünce geliştirenlere de
 böylece ödül verebiliriz.
+

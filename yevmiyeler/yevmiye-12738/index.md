@@ -1,11 +1,10 @@
-=============
-Yevmiye 12738
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12738
+---
+title: "Yevmiye 12738"
+date: 2014-11-23 02:18:14 +0200
+dp: 12738
+draft: true
+tags: []
+---
 
 Bir Japon masalları kitabı buldum, 1908'de yayınlanmış. Akşamları onu
 tercüme ederek anlatıyorum. *Hidesato* adlı kahramanın adı *Kaptan Ali*
@@ -68,3 +67,4 @@ zıplamaya çalışan *alim.*
 
 Bunu yazdıktan sonra *inanmam gerekir* kaydıyla nelere inanmayı
 sürdürdüğümü düşündüm. Liste uzun.
+

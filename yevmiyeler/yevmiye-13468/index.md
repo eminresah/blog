@@ -1,10 +1,10 @@
-Yevmiye 13468
-=========================
-
-:author: Emin Reşah
-:date: 2016-05-29 23:23:45 
-:dp: 13468 
-:image: /img/header-68.jpg
+---
+title: "Yevmiye 13468"
+date: 2016-05-29 23:23:45
+dp: 13468
+draft: true
+tags: []
+---
 
 Moleskine defterin yazmaya bir faydası olduğuna amatörler inanır. Güzel kalem
 alınca yazdığı yazının da güzelleşeceğine, üç sayfa yazıyı koşa koşa sevgilisine
@@ -85,3 +85,4 @@ Hayır, Hukuk'un mantıkla kasdettiğiyle, Bilgisayar Bilimi'nin mantıktan anla
 farklı. Biri günlük hayata ve insanlara dair önemli derecede kabul içeriyor,
 ikincisi ise neredeyse saf matematik. Eğer bu ikisi birbirinin yarısı olsaydı,
 şimdiye kadar yapay zekalı yargıçlarımız olurdu.
+

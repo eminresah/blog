@@ -1,11 +1,10 @@
-Yevmiye 13054
-=============
-
-:date: 2015-04-19 21:51:33 +0300
-
-.. :author: Emin Reşah
-.. :date: Sun Apr 12 00:24:26 EEST 2015 
-.. :dp: 13054 
+---
+title: "Yevmiye 13054"
+date: 2015-04-19 21:51:33 +0300
+dp: 13054
+draft: true
+tags: []
+---
 
 Her gece yatmadan evvel pijamalarımı giyip klavyeye basmaya
 başlıyorum. Aklıma gelenleri yazıyorum. *Niyet ettim Allah rızası için
@@ -142,4 +141,5 @@ gelişeceğiz ve bir yandan nasıl daha çok teknoloji geliştireceğiz ve
 bir yandan nasıl daha müslüman olacağız diye sorarsanız, soruya pek
 cevap alamazsınız. Sadece siyasetçilerden değil, namları güya fikir
 adamı olanlardan da alamazsınız. 
+
 

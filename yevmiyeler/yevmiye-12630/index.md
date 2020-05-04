@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12630
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12630
+---
+title: "Yevmiye - 12630"
+date: 2014-11-23 02:18:14 +0200
+dp: 12630
+draft: true
+tags: []
+---
 
 Hamdolsun kafam büyük. Büyük derken içi. Çok geniş. Herkes sığmış. Kimse
 dışarda kalmamış.
@@ -115,3 +114,4 @@ olduğunda zamanı esnetmem de mümkün. 3+7=10 olduğundan, ideal durumda
 bile aynı saatte uyuma beklentim yok.
 
 Bakalım bu ne kadar devam edecek ve neler öğreneceğim kendimle ilgili.
+

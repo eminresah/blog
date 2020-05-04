@@ -1,11 +1,10 @@
-Murakabe 12932
-==============
-
-:date: 2015-01-17 23:46:48 +0200
-
-.. :author: Emin Reşah
-.. :date: Thu Dec 11 01:11:13 EET 2014 
-.. :dp: 12932 
+---
+title: "Murakabe 12932"
+date: 2015-01-17 23:46:48 +0200
+dp: 12932
+draft: true
+tags: []
+---
 
 On yıl kadar sonra tamamen duymaz olacak birine göre pek endişeli
 göremiyorum seni.
@@ -100,4 +99,5 @@ istemiyor ve hayatı terkediyor.
 Kader konusunda çok yazıyorsun. Senin kaderin de bu mu?
 
 Herhalde. 
+
 

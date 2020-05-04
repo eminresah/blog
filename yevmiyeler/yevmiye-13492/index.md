@@ -1,3 +1,12 @@
+---
+title: "Yevmiye 13492"
+date: 2016-08-29 18:00:13
+dp: 13492
+draft: true
+tags: []
+---
+
+
 Yevmiye 13492
 =================
 
@@ -58,4 +67,5 @@ değişikliğini arzulamadıkça pek yavan bir hayalden öteye
 gidemeyecektir. Şeriatın adalet anlamına geldiği, geleceği, modern devletin de
 sair şartlarıyla İslam'ın boyunduruğuna dahil olacağı bir fikir üretmeden,
 hasılı, kimsenin *kalkışmayı* düşünmemesi yerinde olur. 
+
 

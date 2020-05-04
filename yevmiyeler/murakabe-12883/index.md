@@ -1,11 +1,10 @@
-==============
-Murakabe 12883
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12883
+---
+title: "Murakabe 12883"
+date: 2014-11-23 02:18:14 +0200
+dp: 12883
+draft: true
+tags: []
+---
 
 Konu sıkıntısı yaşamaya başlamış gibi hissediyor musun? Her şeyi
 halletmiş gibi bir ruh hali içinde görüyorum seni. Bazen. Gündemle ilgin
@@ -107,3 +106,4 @@ terketmez. Karışık düğümlerin çözülmesi de, onun yumak olarak
 algılanmasına engel değildir.
 
 Ha yumak, ha bilinç.
+

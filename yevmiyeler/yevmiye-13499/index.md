@@ -1,3 +1,12 @@
+---
+title: "Yevmiye 13499"
+date: 2016-06-29 18:00:50
+dp: 13499
+draft: true
+tags: []
+---
+
+
 Yevmiye 13499
 =================
 
@@ -16,4 +25,5 @@ seyrek yapabilirsiniz.
 
 Hasılı neticede kaba kendisinden fazlası dolmaz. Kabı genişletmek, nasihat
 vermek yerine beraber daha çok vakit geçirmek daha doğru. 
+
 

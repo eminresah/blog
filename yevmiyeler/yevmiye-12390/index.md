@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12390
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   <>
+---
+title: "Yevmiye - 12390"
+date: 2014-11-23 02:18:14 +0200
+dp: 12390
+draft: true
+tags: []
+---
 
 Kendimi yorgun hissettiğim zamanlar hep ölüm aklıma geliyor, belki
 düşüncemi oynatan adamın *nasılsa öleceksin, kendini yorma* demek
@@ -31,3 +30,4 @@ sakinlerinin de buna katılması korkutucu.
 Cemil Meriç aydının bir sınıfın sesi olabilirse duyulduğunu söylüyor.
 Aksi halde ne olur? Bazen bunu soruyorum, *yokluğun sesi nasıl
 olabilirsin?*
+

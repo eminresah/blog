@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12718
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12718
+---
+title: "Yevmiye - 12718"
+date: 2014-11-23 02:18:14 +0200
+dp: 12718
+draft: true
+tags: []
+---
 
 Quora'da birinin günde 16 km yürüyerek, 100 kilodan 80'e indiğini
 okudum. Benim de icadım olan, *bilgisayarlı yürüme bandı* kullanıyormuş
@@ -72,3 +72,4 @@ Amerikalıların kendilerinden daha dürüst olduğunu düşünüyormuş. Ancak 
 doğru çıkmamış, İngiltere'de de, İtalya'da da, Türkiye'de de,
 Hindistan'da da, Birleşik Devletler'de de, dürüstlük ve hilekarlık
 oranları aynı çıkmış. Kültürler arasında önemli bir fark bulamamışlar.
+

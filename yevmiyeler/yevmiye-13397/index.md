@@ -1,11 +1,10 @@
-Yevmiye 13397
-=============
-
-:date: 2016-03-20 23:47:19 +0200
-
-.. :author: Emin Reşah
-.. :date: Sun Mar 20 00:58:28 EET 2016 
-.. :dp: 13397 
+---
+title: "Yevmiye 13397"
+date: 2016-03-20 23:47:19 +0200
+dp: 13397
+draft: true
+tags: []
+---
 
 Bugün İstanbul'da yine bir terör saldırı oldu. Bu sefer muhtemelen Daiş'in işi.
 
@@ -72,4 +71,5 @@ Aralarında tabii ki bunu operasyon maksadıyla yapan, işi ajanlık, tabiatı
 hali, kötülükten çok aptallık ve inançlarına sıkı sıkıya bağlılık. İnkar bundan
 dolayı, kötülükten dolayı değil. Zihni yetersizliğe, karakter eksikliğine veya
 sabit fikre bağlanabilecek bir konuyu, kötülüğe bağlamak istemiyorum.
+
 

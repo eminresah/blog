@@ -1,11 +1,10 @@
-=============
-Yevmiye 12799
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12799
+---
+title: "Yevmiye 12799"
+date: 2014-11-23 02:18:14 +0200
+dp: 12799
+draft: true
+tags: []
+---
 
 Sıkıntıların kaynağı, yapacağın işi bilmemekle, bildiğin işi yapmamak.
 İkisi olmasa hayatta sıkıntı yok.
@@ -47,3 +46,4 @@ Hayatımın büyük kısmı dondurma erimesin diye yalamakla geçti. *Elimizde
 şu da var, değerlendirelim, elimizde bu da var, icabına bakalım.*
 Sonunda dondurmadan başka bir şey yiyemez ve yerimizden kalkamaz olduk.
 Bunu da buraya neden yazdığımı kendim de bilmiyorum.
+

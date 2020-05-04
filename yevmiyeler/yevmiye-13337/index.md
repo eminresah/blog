@@ -1,8 +1,10 @@
-===============
- Yevmiye 13337
-===============
-
-:date: 2016-02-14 00:49:47 +0200
+---
+title: "Yevmiye 13337"
+date: 2016-02-14 00:49:47 +0200
+dp: 13337
+draft: true
+tags: []
+---
 
 Aldatılabilmek insanın önemli hasletlerinden biri. İnsanın aldatılabilir olması,
 bir yandan da uyumlu olması demek. Aldatılamaz insanların, bu yüksek
@@ -54,3 +56,4 @@ edilmesi gibi sair tarafları fobi mertebesinde. Elime bir takım kağıtlar al�
 bunları birilerine *ben yazdım* diye göstermek bile çok tuhaf duygulara
 sebep. Allah'tan zaman bunların hiç ortada görünmeden okuyanlara
 ulaştırılabileceği bir zaman.
+

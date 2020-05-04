@@ -1,7 +1,10 @@
-Yevmiye 13264
-=============
-
-:date: 2016-02-14 00:23:33 +0200
+---
+title: "Yevmiye 13264"
+date: 2016-02-14 00:23:33 +0200
+dp: 13264
+draft: true
+tags: []
+---
 
 İnsanın düzenli yazmasının getirdiği bir zihin berraklığı varmış. Bana rast
 gelmedi. Kendimi daha çok yazının esiri gibi hissettim ve bazı akşamlar
@@ -70,3 +73,4 @@ burasından su almasına karşılık, yeni bahaneler ve önlemler geliştirmek
 gerekir. Daima kendi hikayesinin derdinde olan birinin onu sağlamlaştırması,
 genişletmesi, dinleyen insanları derinleştirmes ve hikayeyi yaşatması mümkün
 olmaz. Hak gelir, batıl zail olur.
+

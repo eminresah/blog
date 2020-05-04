@@ -1,11 +1,10 @@
-=============
-Yevmiye 12772
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12772
+---
+title: "Yevmiye 12772"
+date: 2014-11-23 02:18:14 +0200
+dp: 12772
+draft: true
+tags: []
+---
 
 İnsanın şahsi tarihi olması güzel. Geçmişe bakıp demek o zamanlarki
 dertlerim başkaymış demek. Dertlerim aynıymış demek de biraz
@@ -64,3 +63,4 @@ olunca, bunların tanınması da kolaylaşır ve karıştırma ihtimali azalır.
 
 Zamanın geçtiğini unutacak kadar çalışacak bir konu bulmanın mutlulukla
 doğrudan ilgisi var. Allah herkese böyle bir *iş* versin.
+

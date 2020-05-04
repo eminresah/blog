@@ -1,11 +1,10 @@
-Yevmiye 13219
-=============
-
-:date: 2015-09-30 22:12:48 +0300
-
-.. :author: Emin Reşah
-.. :date: Thu Sep 24 00:17:57 EEST 2015 
-.. :dp: 13219 
+---
+title: "Yevmiye 13219"
+date: 2015-09-30 22:12:48 +0300
+dp: 13219
+draft: true
+tags: []
+---
 
 Knut Hamsun'un *Açlık*'ını bitirdim iki günde. Uzun zamandır Türkçe
 kitap okumamışım. Buna rağmen Türkçe okuma hızım daima daha iyi olacak
@@ -137,3 +136,4 @@ yaratıklar olduğu kabulüyle başlarsanız, çıktığınızın üçüncü gü
 yolunuz şaşar.
 
 Şaşıyor nitekim. 
+

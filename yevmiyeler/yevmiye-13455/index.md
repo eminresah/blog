@@ -1,11 +1,10 @@
-Yevmiye 13455
-=========================
-
-:author: Emin Reşah
-:date: 2016-05-16 23:26:22 
-:dp: 13455 
-
-..
+---
+title: "Yevmiye 13455"
+date: 2016-05-16 23:26:22
+dp: 13455
+draft: true
+tags: []
+---
 
   Para olsun, bilgi olsun biriktirip duran insan asla özgür olamaz. -- **Krishnamurti**.
 
@@ -26,3 +25,4 @@ Krishnamurti'nin ne dediğini anlıyorum ama bu sınırı nasıl çizebilirsin? 
 insana bırakamayacağı servet vermesin* derler. Allah insana terkedemeyeceği
 makam veya unvan da vermesin. İnsanı yobazlaştıran ve körleştiren *bilgi* de
 vermesin. Parayı ve bilgiyi özgürlük aracı yapsın, kölelik değil. 
+

@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12621
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emre Sahin
-.. :Date:   <2014-02-03 Mon>
+---
+title: "Yevmiye - 12621"
+date: 2014-11-23 02:18:14 +0200
+dp: 12621
+draft: true
+tags: []
+---
 
 İnsanların birey birey haksızlığa uğratıldığından bahsetmek mümkün ancak
 toplumların haksızlığı uğradığından giderek daha az şüphe ediyorum.
@@ -102,3 +101,4 @@ nasıl isbat edebilirsin?
 
 Hayatta karşılaşmadığımız çok sayıda insan var. Pek çok. Belki bunlar
 aslında yok. Buraya figüran niyetine gelmişler.
+

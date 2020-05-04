@@ -1,11 +1,10 @@
-Yevmiye 13370
-=============
-
-:date: 2016-03-09 23:29:03 +0200
-
-.. :author: Emin Reşah
-.. :date: Sun Feb 21 23:51:03 EET 2016 
-.. :dp: 13370 
+---
+title: "Yevmiye 13370"
+date: 2016-03-09 23:29:03 +0200
+dp: 13370
+draft: true
+tags: []
+---
 
 Yine yazmayacaksın diye başladım kendime kızmaya. Nasıl kızmayayım?  Bir şeyler
 üretmek varken, neden kafanı faydasız laflara gömüyorsun?
@@ -69,5 +68,6 @@ yapabilir. Yapmıyorsa, yapamadığından değil, kibrinden ve insanların
 diğerlerinin arasına karışmaya kendini yedirememesindendir. Ortalıkta
 entelektüel pozu satmanın keyfi başka işte yok deyin de, biz de gayenizi ve bu
 gayeye matuf hakikatin çapının farkında olalım. 
+
 
 

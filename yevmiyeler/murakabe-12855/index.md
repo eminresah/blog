@@ -1,11 +1,10 @@
-==============
-Murakabe 12855
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12855
+---
+title: "Murakabe 12855"
+date: 2014-11-23 02:18:14 +0200
+dp: 12855
+draft: true
+tags: []
+---
 
 İnsanların onlarla ilgili hayallerimizden haberi olduğunu düşünsene!
 Dünya ne *eğlenceli* bir yer olurdu.
@@ -85,3 +84,4 @@ aptallık emaresidir. Ancak sporcuların, bilhassa profesyonel sporcuların
 aynı zamanda düşüncelerine de hakim olabilmesi gerekir. Neye
 odaklandığını kontrol edebilmesi. İnsanın kafasında kırk tilki
 dolanırken rahat koşamaz, diyorlar.
+

@@ -1,11 +1,10 @@
-Yevmiye 13026
-=============
-
-:date: 2015-03-18 22:56:33 +0200
-
-.. :author: Emin Reşah
-.. :date: Wed Mar 18 22:23:45 EET 2015 
-.. :dp: 13030 
+---
+title: "Yevmiye 13026"
+date: 2015-03-18 22:56:33 +0200
+dp: 13026
+draft: true
+tags: []
+---
 
 İnsanların *çalışmak* dediğinin sanırım bende tam bir karşılığı
 yok. Gün boyu okuyorum. Yeni şeyler öğreniyorum. Bunların bazısı çok
@@ -58,5 +57,6 @@ alamazdım legoları. Hala pahalı olduğunu düşünüyorum ama işin içine
 insanların olduğu bir memlekette yaşıyoruz.
 
  
+
 
 

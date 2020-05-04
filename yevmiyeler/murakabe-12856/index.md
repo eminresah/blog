@@ -1,11 +1,10 @@
-==============
-Murakabe 12856
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12856
+---
+title: "Murakabe 12856"
+date: 2014-11-23 02:18:14 +0200
+dp: 12856
+draft: true
+tags: []
+---
 
 (Bunu 22 gün önce yazmışım. *Gündemle* alakalı değil.)
 
@@ -113,3 +112,4 @@ olacağız?
 Allah imtihanlarımızı kazandırsın.
 
 Amin.
+

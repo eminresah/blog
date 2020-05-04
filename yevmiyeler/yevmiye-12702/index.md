@@ -1,14 +1,10 @@
-===============
-Yevmiye - 12702
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12702
-
-.. role:: math(raw)
-   :format: html latex
-..
+---
+title: "Yevmiye - 12702"
+date: 2014-11-23 02:18:14 +0200
+dp: 12702
+draft: true
+tags: []
+---
 
 Çocuk *sahibi* olmak değil, çocuğun *sahip* olması. Hayatına sahip ve
 bunu biliyor.
@@ -29,3 +25,4 @@ yine 4 milyon yıl süren *gece* geliyor. Brahma'nın bir günü. Brahma'nın
 ömrünün yüz yıl olduğuna inanıyorlar. :math:`100 \mult 360
 \mult 4320.000 \mult 2 = 311.040.000.000` insan yılı ömrü var
 Brahma'nın.
+

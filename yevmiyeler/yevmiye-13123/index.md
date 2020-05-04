@@ -1,11 +1,10 @@
-Yevmiye 13123
-=============
-
-:date: 2015-06-23 02:54:46 +0300
-
-.. :author: Emin Reşah
-.. :date: Sat Jun 20 01:12:30 EEST 2015 
-.. :dp: 13123 
+---
+title: "Yevmiye 13123"
+date: 2015-06-23 02:54:46 +0300
+dp: 13123
+draft: true
+tags: []
+---
 
 Harbetmek istiyorum. Dünyayı kaplayan adamla. Harbetmek
 istiyorum. Çaresiz. Kimsenin müttefik olmadığı bir harp.
@@ -75,4 +74,5 @@ sıkıldıklarımdan biri olmaktan korkuyorum.
 Oluyorsun zaten. Bak artık böyle yazıların kaldı mı?
 
 Kalmadı, değil mi?
+
 

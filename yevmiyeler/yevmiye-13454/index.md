@@ -1,10 +1,10 @@
-Yevmiye 13454
-=========================
-
-:author: Emin Reşah
-:date: 2016-05-15 19:47:55 
-:dp: 13454 
-:image: /img/header-54.jpg
+---
+title: "Yevmiye 13454"
+date: 2016-05-15 19:47:55
+dp: 13454
+draft: true
+tags: []
+---
 
 Nihayetinde tembellik yapamayacaksan, çalışmanın ne manası var?
 
@@ -107,4 +107,5 @@ bugün artık yanlış anlaşılmaya da, uygulanmaya da hayli müsait aşılar. 
 bunların faydalı olduğu durumlar var, faydalı olduğu insanlar da var, ancak yeni
 dertlere yeni aşılar da lazım. Bunun için de daha çok düşünüp, daha çok
 çalışmak.
+
 

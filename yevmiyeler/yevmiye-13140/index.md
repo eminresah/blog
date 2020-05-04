@@ -1,11 +1,10 @@
-Yevmiye 13140
-=============
-
-:date: 2015-07-08 03:23:39 +0300
-
-.. :author: Emin Reşah
-.. :date: Tue Jul  7 02:02:13 EEST 2015 
-.. :dp: 13140 
+---
+title: "Yevmiye 13140"
+date: 2015-07-08 03:23:39 +0300
+dp: 13140
+draft: true
+tags: []
+---
 
 Depresyon: Geçti gitti bir kaç günlük fasıldı.
 
@@ -61,3 +60,4 @@ gösterdiği merhameti bu farklılıklardan esirgiyor. Zihin
 farklılıkları, cinsel farklılıklardan daha büyük saygıyı ve dikkati
 hakettiği halde, yaygara yapmayı bilmedikleri için onları dinleyen
 yok.
+

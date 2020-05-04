@@ -1,10 +1,10 @@
-Yevmiye 13469
-=================
-
-:author: Emin Reşah
-:date: 2016-05-30 18:00:12 
-:dp: 13469 
-:image: /img/header-69.jpg
+---
+title: "Yevmiye 13469"
+date: 2016-05-30 18:00:12
+dp: 13469
+draft: true
+tags: []
+---
 
 `Atlantic'te okuduğum bir yazı
 <http://www.theatlantic.com/magazine/archive/2016/06/theres-no-such-thing-as-free-will/>`_
@@ -93,3 +93,4 @@ Zira, eğer bir insan, yaptıklarını aslında kendinin yapmadığını, beynin
 onu cezalandırmadığımızı, o determinist süreçleri devam ettirdiğimizi
 söyleyebiliriz. Eğer birinin suç işlerken iradesi yoksa, bizim de ceza verirken
 irademiz yok.
+

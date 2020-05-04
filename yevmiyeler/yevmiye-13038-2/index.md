@@ -1,11 +1,10 @@
-Yevmiye 13038/2
-===============
-
-:date: 2015-07-08 04:50:38 +0300
-
-.. :author: Emin Reşah
-.. :date: Thu Mar 26 22:14:39 EET 2015 
-.. :dp: 13038 
+---
+title: "Yevmiye 13038/2"
+date: 2015-07-08 04:50:38 +0300
+dp: 13038
+draft: true
+tags: []
+---
 
 İnsanları aldatarak bir yere gidemezsin ama şirketleri veya devleti?
 Bunları da aldatmamak mı lazım? Belki bunları aldatarak bir yerlere
@@ -47,3 +46,4 @@ hala bilmiyorum.
 
 Yukarıdaki notu yazmamın üzerinden de 80 gün geçmiş. Sorunun güzel bir
 soru olmadığını düşünüyorum ama cevabım hala yok. 
+

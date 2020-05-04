@@ -1,11 +1,9 @@
 ---
 title: "Yazarın Sorumluluğu"
 date: 2017-06-05 03:17:41
-expiryDate: 2018-06-05 03:17:41
 dp: 13839
 featured_image: "/images/header-39.jpg"
 images: ["/images/header-39.jpg"]
-published: true
 tags: []
 ---
 

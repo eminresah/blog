@@ -1,11 +1,10 @@
-Yevmiye 13081
-=============
-
-:date: 2015-05-13 11:06:55 +0300
-
-.. :author: Emin Reşah
-.. :date: Fri May  8 23:39:42 EEST 2015 
-.. :dp: 13081 
+---
+title: "Yevmiye 13081"
+date: 2015-05-13 11:06:55 +0300
+dp: 13081
+draft: true
+tags: []
+---
 
 İki üç gün oldu yazmayalı. Bir noktadan sonra düşüncelerin takibi
 zorlaşmaya başlıyor. Nedir bu bela bilir misin? İnsanın düşüncelerinin
@@ -52,3 +51,4 @@ Türkiye'deki siyaset savaşı *konuşulanı belirlemek* safhasını geçti,
 konuşulamayacağını belirleyen *beyazların* sıkıntısı bu. Çünkü *tabu*
 manasına çizilen sınırların aşılacağını ve yeni sınırlar tesis
 edilebileceğini görüyorlar.
+

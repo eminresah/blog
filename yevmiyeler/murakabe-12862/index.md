@@ -1,11 +1,10 @@
-==============
-Murakabe 12862
-==============
-
-:date: 2014-12-04 16:58:40 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12862
+---
+title: "Murakabe 12862"
+date: 2014-12-04 16:58:40 +0200
+dp: 12862
+draft: true
+tags: []
+---
 
 Kur'an'ı aracısız anlamak gerektiğini söyleyenler var, biliyorsun.
 Mümkün mü sence bu?
@@ -84,3 +83,4 @@ Nasıl mümkün? Kur'an Arapçası yaşayan bir dil değil, Kur'an Arapçası
 insanlarca konuşulurken, Türkler Orhun Yazıtlarındaki dili konuşuyordu.
 Bugünkü Araplar, Kur'an Arapçasını *aracısız* anlayabiliyor mu? Bir
 İtalyan'ın Latince bir metni anladığından daha fazla?
+

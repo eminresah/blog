@@ -9,8 +9,6 @@ published: true
 tags: []
 ---
 
-
-
 Sıcaktan korkmanın havaya faydası yok. Trump'tan (veya Erdoğan'dan) korkmanın
 da, insanın siyasi geleceğine.
 

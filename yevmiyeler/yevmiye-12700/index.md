@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12700
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12700
+---
+title: "Yevmiye - 12700"
+date: 2014-11-23 02:18:14 +0200
+dp: 12700
+draft: true
+tags: []
+---
 
 /Inside Job/'ı seyrettim. Filmleri böyle biraz geriden takip ederim,
 azıcık eskimeye bırakınca çer çöpün ayrılması daha kolay oluyor. Zaman
@@ -88,3 +88,4 @@ alıyorlar. Fazla dolandırmadan oligarşiyi işaret etmiş.
 
 Aristokrasiyle oligarşi arasında, *sebat* ve *inat* arasındaki fark var,
 hangi tarafta olduğunuza göre adı değişiyor.
+

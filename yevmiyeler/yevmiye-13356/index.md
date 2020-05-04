@@ -1,12 +1,10 @@
-Yevmiye 13356
-=============
-
-:date: 2016-02-10 23:59:20 +0200
-
-.. :author: Emin Reşah
-.. :date: Mon Feb  8 00:18:14 EET 2016 
-.. :dp: 13356 
-
+---
+title: "Yevmiye 13356"
+date: 2016-02-10 23:59:20 +0200
+dp: 13356
+draft: true
+tags: []
+---
 
 Bazı zamanlar dünyanın ne kadar tuhaf bir yer haline geldiğine bakıp
 üzülürüm. Bazı zamanlarsa, aman derim, ne hali varsa görsün. Dünya benden önce
@@ -111,4 +109,5 @@ işin genelde gördüğümüz şekilde *egolar yarışıyor* usulüyle olmayaca�
 doktrinde zayıf ve tutarsız da olsa, tasavvuf ehlinin dünya ve insana bakış
 konusunda daha ehil olduğunu da teslim ederim. Bu ikisinin arasında bir terkip
 lazım ama nasıl olacak, Allah bilir.
+
 

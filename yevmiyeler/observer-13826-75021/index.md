@@ -1,15 +1,11 @@
 ---
 title: "Observer"
 date: 2017-05-23 13:49:52
-expiryDate: 2018-05-23 13:49:52
 dp: 13826
 featured_image: "/images/header-26.jpg"
 images: ["/images/header-26.jpg"]
-published: true
 tags: []
 ---
-
-
 
 When I read Physics, the early stages of the universe, I *desire* to believe that there was *somebody* knowing all these facts. An observer, maybe, even not a creator. I need this because I want to believe that ultimately these are *knowable* facts and we are not that lost. 
 

@@ -1,11 +1,10 @@
-Yevmiye 13010
-=============
-
-:date: 2015-02-28 22:40:58 +0200
-
-.. :author: Emin Reşah
-.. :date: Fri Feb 27 06:22:54 EET 2015 
-.. :dp: 13010 
+---
+title: "Yevmiye 13010"
+date: 2015-02-28 22:40:58 +0200
+dp: 13010
+draft: true
+tags: []
+---
 
 Yazdıklarımı kim anlıyor sorusunu sormak zorudan hissediyorsan yazık
 sana. Kim okuyor? Kim okumuyor ki? 
@@ -66,3 +65,4 @@ başladı. Eğlenmek için gazete/yorum okuduğum oluyor ama bunları da
 öğrenmek maksadıyla değil, o an vakit geçirecek daha iyi bir şey yoksa
 istiyorum. *Daha iyi bir şey* derken, mesela İngilizce Red Kit okumak
 bile daha iyi bir şey.
+

@@ -1,11 +1,9 @@
 ---
 title: "Murakabe 13779"
 date: 2017-04-06 09:57:24
-expiryDate: 2018-04-06 09:57:24
 dp: 13779
 featured_image: "/images/header-79.jpg"
 images: ["/images/header-79.jpg"]
-published: true
 tags: []
 ---
 

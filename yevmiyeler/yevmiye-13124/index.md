@@ -1,11 +1,10 @@
-Yevmiye 13124
-=============
-
-:date: 2015-06-22 00:51:14 +0300
-
-.. :author: Emin Reşah
-.. :date: Sun Jun 21 01:54:58 EEST 2015 
-.. :dp: 13124 
+---
+title: "Yevmiye 13124"
+date: 2015-06-22 00:51:14 +0300
+dp: 13124
+draft: true
+tags: []
+---
 
 Burada amaç reklamımızı yapmak değil, insanların dertlerini beş dakika
 da olsa unutturmak. Onlara kendi dertlerinden başka dertler olduğunu
@@ -56,5 +55,6 @@ değilse de, devletçidir. Ona ulaşınca da, artık devletin tepesine
 ulaşınca onun siyasi mirasına konmuş, daha doğrusu *borcunu yüklenmiş*
 oldu. Devleti yüklenince, onunla ezelden uyuşmayan Kürtler'in ilk
 başta başka *muhalif* mahreçler bulması normal.
+
 
 

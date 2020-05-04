@@ -1,11 +1,10 @@
-Yevmiye 13343
-=============
-
-:date: 2016-01-26 02:10:48 +0200
-
-.. :author: Emin Reşah
-.. :date: Tue Jan 26 01:52:24 EET 2016 
-.. :dp: 13343 
+---
+title: "Yevmiye 13343"
+date: 2016-01-26 02:10:48 +0200
+dp: 13343
+draft: true
+tags: []
+---
 
 Beni arıyorlar. Fellik fellik arıyorlar. Burayı bilmeyenler arıyor. Benim bir
 şeyler yazdığımdan şüphelenen ama bilmeyenler. Burayı kimseye söylemiyorum,
@@ -84,4 +83,5 @@ da hayatın boş olduğuna inanmak için kendimizi zorluyoruz?
 gelmeye çalışması. Sıkıntıların anası, anladığını bildiğini anlamazlıktan
 gelmek. Nam-ı diğer küfür. Bildiği halde bilmezden gelmek. Ah, insan, nefsini
 inkar etmekte ne kadar kafirsin.
+
 

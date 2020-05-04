@@ -1,11 +1,10 @@
-================
-Yevmiye -- 12570
-================
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12570
+---
+title: "Yevmiye -- 12570"
+date: 2014-11-23 02:18:14 +0200
+dp: 12570
+draft: true
+tags: []
+---
 
 Dün çok yorgun olduğum halde, kafamdaki düşünceleri susturup uyuyamadım.
 Susturmayı öğrendiğimi, istediğim zaman uyuyabileceğimi sanıyordum. Hala
@@ -74,3 +73,4 @@ gerçekten akıllı olduğuna inanmalı mıyım?
 Tanıştıklarıma *insan* olduğu önyargısıyla yaklaşınca, ve onların her
 tür *insanlığı* yapabileceğini kabul edince, mutlu oluyorum. Belki tüm
 mutluluğun kaynağı da budur.
+

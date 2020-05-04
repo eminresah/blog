@@ -1,11 +1,10 @@
-=============
-Yevmiye 12888
-=============
-
-:date: 2014-12-18 14:35:22 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12888
+---
+title: "Yevmiye 12888"
+date: 2014-12-18 14:35:22 +0200
+dp: 12888
+draft: true
+tags: []
+---
 
 Where do you suppose yourself to go? Where do you feel that you should
 feel ashamed? Where can you feel at home? How can you, deliberately or
@@ -31,4 +30,5 @@ tutmaz. Hikayelerin gerçeğin yerini tutmadığını söyledikten sonra,
 nasıl, kendimizle alakalı şeylerden bahsedebiliriz?
 
 Kendimi bir hikaye gibi hissettiğim bir gün. 
+
 

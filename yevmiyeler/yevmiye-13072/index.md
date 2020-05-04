@@ -1,11 +1,10 @@
-Yevmiye 13072
-=============
-
-:date: 2015-04-30 22:03:14 +0300
-
-.. :author: Emin Reşah
-.. :date: Thu Apr 30 00:41:37 EEST 2015 
-.. :dp: 13072 
+---
+title: "Yevmiye 13072"
+date: 2015-04-30 22:03:14 +0300
+dp: 13072
+draft: true
+tags: []
+---
 
 Yazdıklarımın iki gün bekleyince neden zevk vermediğini
 düşünüyorum. Böyle çok yazı var. Kitap da var. Üzerinden zaman geçmiş,
@@ -105,3 +104,4 @@ diyalogu yapabilecek insanın muhtemelen bunların üzerinde durmaktan
 başka işleri olacaktır. Wittgenstein'ın Tractatus'un önsözünde dediği
 gibi, *yazdıklarım sadece bu konuyu evvelinden düşünmüşler için
 faydalı olabilir.*
+

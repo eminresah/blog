@@ -1,11 +1,10 @@
-================
-Yevmiye -- 12625
-================
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12625
+---
+title: "Yevmiye -- 12625"
+date: 2014-11-23 02:18:14 +0200
+dp: 12625
+draft: true
+tags: []
+---
 
 Günde 5 kilo yazıyorum. Beş kilo-bayt. İkibuçuk kilo-gramlık beynimin
 her gramına iki harf düşüyor. İşleri bölüştürünce kolay.
@@ -185,3 +184,4 @@ zaten açılmıyor o kapaklar.
 
 Sadece o kapaklarla hallolan lağım işi de pek görmedim, o açılınca
 genelde başka bir yeri de kazmak gerekir.
+

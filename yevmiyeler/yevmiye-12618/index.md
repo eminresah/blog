@@ -1,10 +1,10 @@
-=======================
-12618. Gün İçin Yevmiye
-=======================
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12618
+---
+title: "12618. Gün İçin Yevmiye"
+date: 2014-11-23 02:18:14 +0200
+dp: 12618
+draft: true
+tags: []
+---
 
 Reddit'te *tavır problemli* cerrahların neden öyle olduğunu anlatan ufak
 bir yazı vardı. *Haftada 80 saat bu işi yapan, devamlı uyku borcunda
@@ -109,3 +109,4 @@ derece bir samimiyetten, getirebileceği tüm sorunları da dikkate alarak
 uzak durduğunu tahmin ediyorum.
 
 İnsanlara dair hep tahminlerim var.
+

@@ -1,11 +1,10 @@
-Yevmiye 13057
-=============
-
-:date: 2015-04-17 22:49:16 +0300
-
-.. :author: Emin Reşah
-.. :date: Wed Apr 15 00:14:51 EEST 2015 
-.. :dp: 13057 
+---
+title: "Yevmiye 13057"
+date: 2015-04-17 22:49:16 +0300
+dp: 13057
+draft: true
+tags: []
+---
 
 Arada sırada iş yaptığımız bir emlakçı var. Adamcağız beni bir zaman
 şapkalı gördü. Şapkayı da meraklı olduğumdan veya sevdiğimden değil,
@@ -45,4 +44,5 @@ eğilip bükülenlere saygım yok.
 kolaydır. Zor olan sert olmak, doğru söylemek, net olmak. Bunlar bizde
 takdir edilen özellikler değil, bizim millet suratına başka, arkanı
 dönünce başka konuşur. Dedikodu ve ikiyüzlülük karakter olmuş.
+
 

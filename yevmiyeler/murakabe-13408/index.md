@@ -1,9 +1,10 @@
-Murakabe 13408
-==============
-
-:date: 2016-04-01 21:39:20 +0300
-:author: Emin Reşah
-:dp: 13408 
+---
+title: "Murakabe 13408"
+date: 2016-04-01 21:39:20 +0300
+dp: 13408
+draft: true
+tags: []
+---
 
 Geçenki Lahore saldırısından sonra, Mutezilî olarak uyandığını söylemişsin. Bunu
 biraz açıklaman lazım, nereden çıktı, ne alakası var?
@@ -184,3 +185,4 @@ haliyle, kafası bir sebeple kızmış insanların başkalarını öldürüp, bu
 *cihad* kılıfı bulabildiği bir çerçeve sunuyor. Bu katillerin derdinin ne
 olduğunu bilmiyorum, ne gibi bir amaçla bu çocukları öldürdüklerinden haberim
 yok ancak bu amacın, İslama dayandırılabiliyor olmasında önemli bir sorun var.
+

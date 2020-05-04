@@ -1,11 +1,10 @@
-Yevmiye 13138
-=============
-
-:date: 2015-08-06 07:54:32 +0300
-
-.. :author: Emin Reşah
-.. :date: Sun Jul  5 01:15:00 EEST 2015 
-.. :dp: 13138 
+---
+title: "Yevmiye 13138"
+date: 2015-08-06 07:54:32 +0300
+dp: 13138
+draft: true
+tags: []
+---
 
 Gece
 ****
@@ -83,5 +82,6 @@ arasında. Ancak Çince'yi, Mandarin Çincesini daha çok, daha derin
 öğrenme niyetim var. Bu çok kalabalık, eski ve kendini yalıtmış
 kültürün, bu karışık görünen yazı sisteminin ardında ne olduğunu
 çözmek.
+
 
 

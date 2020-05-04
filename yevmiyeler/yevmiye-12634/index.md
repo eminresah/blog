@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12634
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12634
+---
+title: "Yevmiye - 12634"
+date: 2014-11-23 02:18:14 +0200
+dp: 12634
+draft: true
+tags: []
+---
 
 Bugün gazete okurken, neden bu adamların ucuz fikirleriyle zamanımı
 öldürüyorum, diye bir düşünce gezindi kafamda. Sonra kendi *elitliğime*
@@ -33,3 +32,4 @@ olabilir ve ben de çok saf olabilirim.
 Bir gün insanları çiftliklerde yetiştirmek gerekecek mi? Yoksa insan
 tamamen lüzumsuz, neredeyse *evcil hayvan* mesabesinde bir şey mi
 olacak?
+

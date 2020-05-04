@@ -1,11 +1,10 @@
-Yevmiye 13257
-=============
-
-:date: 2015-11-01 02:56:03 +0300
-
-.. :author: Emin Reşah
-.. :date: Sun Nov  1 01:46:23 EEST 2015 
-.. :dp: 13257 
+---
+title: "Yevmiye 13257"
+date: 2015-11-01 02:56:03 +0300
+dp: 13257
+draft: true
+tags: []
+---
 
 Bugün Enes kardeşim bu günlükleri sabahları işe giderken okuduğunu
 söyledi. Okuduğunu biliyordum, ama bu derece düzenli okuduğundan haberim
@@ -123,3 +122,4 @@ değerlidir. Halkta telif edilecek kalp çok.
 
 Beklemediğim kadar siyasi bir yazı oldu. Önceki ruziye formatına döneriz yavaş
 yavaş.
+

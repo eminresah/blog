@@ -1,11 +1,10 @@
-==============
-Murakabe 12850
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12850
+---
+title: "Murakabe 12850"
+date: 2014-11-23 02:18:14 +0200
+dp: 12850
+draft: true
+tags: []
+---
 
 /Tanrılar, tanrılar, tanrılar./ Okudukların ne böyle hep?
 
@@ -122,3 +121,4 @@ Hayat başkalarının omzudur.
 Hayatını çekip yorumlayarak yayınlamalısın.
 
 Sağol.
+

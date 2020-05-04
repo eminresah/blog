@@ -1,11 +1,10 @@
-=============
-Yevmiye 12788
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12788
+---
+title: "Yevmiye 12788"
+date: 2014-11-23 02:18:14 +0200
+dp: 12788
+draft: true
+tags: []
+---
 
 Hayatımın yazı yazarak geçmesini istiyor gibiyim.
 
@@ -30,3 +29,4 @@ olabileceğimi sanıyorum. Bazen de, madem o kadar disiplinlisin, şu
 yazılarını bir araya toplamaya bile neden gücün yetmiyor diye soruyorum.
 Ancak çoğu zaman bu konuda bir yorumum yok. Ağırlıklarını atıp kaçmaya
 devam et.
+

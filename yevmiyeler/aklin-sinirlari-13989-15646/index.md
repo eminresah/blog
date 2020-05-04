@@ -1,7 +1,6 @@
 ---
 title: "Aklın Sınırları"
 date: 2017-11-01 21:20:00
-expiryDate: 2018-11-01 21:20:00
 dp: 13989
 featured_image: "/images/header-89.jpg"
 images: ["/images/header-89.jpg"]

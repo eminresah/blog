@@ -1,7 +1,10 @@
-Murakabe 13415
-==============
-
-:date: 2016-04-08 00:07:40 +0300
+---
+title: "Murakabe 13415"
+date: 2016-04-08 00:07:40 +0300
+dp: 13415
+draft: true
+tags: []
+---
 
 Bir zamandır bir *mezhep yazısı* yazmak istiyorum. Nereden başlayacağımı
 bilemediğimden kaldı.
@@ -75,3 +78,4 @@ Kaybedildi mi gerçekten?
 Yo, bence Ehl-i Sünnet diye net bir grup yok, tabiri caizse bir *koalisyon* var
 ve bu koalisyon her an yeni üyeler alabilir. Yüz yıl sonra, diyelim, Mehmet
 Okuyan'ın *Ehl-i Sünnet alimi* diye anlatıldığı bir zamana denk gelebiliriz.
+

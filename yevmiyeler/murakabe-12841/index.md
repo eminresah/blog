@@ -1,11 +1,10 @@
-==============
-Murakabe 12841
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12841
+---
+title: "Murakabe 12841"
+date: 2014-11-23 02:18:14 +0200
+dp: 12841
+draft: true
+tags: []
+---
 
 Mind Map yaparak yazıdan *yırtacağımı* düşünmüştüm. Dün işe yaradı.
 
@@ -124,3 +123,4 @@ uzun hece ve entonasyona alışmamış bir milletin ürettiği kelimelerde
 *iftiharlık* az. Yazarken elini, okurken dilini kavrayacak kelimeler.
 Yazı yazdığım dil böyle kaldığı müddetçe, yazıların da kıymeti bir yere
 kadar.
+

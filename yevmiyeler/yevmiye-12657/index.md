@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12657
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12657
+---
+title: "Yevmiye - 12657"
+date: 2014-11-23 02:18:14 +0200
+dp: 12657
+draft: true
+tags: []
+---
 
 Yeryüzü iyilikle kötülüğün savaşıysa, insan, her iki orduda da kadro
 bulabiliyor. İstediği tarafa yardım edebiliyor. İmkanı var. Her iki
@@ -61,3 +61,4 @@ kadar sakinleşmesi neden? Kendimi yokluyorum. Gözlerim uyku dolu. Bugün
 çok program yazamadım. Bitirmem gereken bir yazı var ve bugün yoklayan
 hayallerin arasında en tehlikelisi: Biri Moskova'ya elinde nükleer bir
 bombayla girdi ve uçurdu. Yazık oldu Kremlin'e.
+

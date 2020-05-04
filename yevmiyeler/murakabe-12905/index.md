@@ -1,11 +1,10 @@
-==============
-Murakabe 12905
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12905
+---
+title: "Murakabe 12905"
+date: 2014-11-23 02:18:14 +0200
+dp: 12905
+draft: true
+tags: []
+---
 
 Yazmayı bıraktın mı?
 
@@ -76,3 +75,4 @@ Belki günde yarım saatten fazla düşünemiyorsundur. Düşünce kapasiten
 dolunca, yazı düşünmeye imkanın olmuyor.
 
 Kafam ancak yarım saat düşünebiliyor.
+

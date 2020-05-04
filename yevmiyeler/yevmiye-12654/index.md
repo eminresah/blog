@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12654
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12654
+---
+title: "Yevmiye - 12654"
+date: 2014-11-23 02:18:14 +0200
+dp: 12654
+draft: true
+tags: []
+---
 
 Gittiğin bir yer var mı? Hemingway'in *menzil sahipliği şart ama mühim
 olan seyahat* demesi gibi, gittiğin bir yer var mı? Yolculuğun menzile
@@ -59,3 +59,4 @@ etmek daha kolay. *Amacı iyi ama aracı kötü* kabilinden laflar.
 ve araçlarının insicamıyla uğraştığım zamanı savdım. İnsanın şaşırdığım
 vechesi kalmadı. Dünya yerine oturdu ve herkes *doğru* söylemeye
 başladı.
+

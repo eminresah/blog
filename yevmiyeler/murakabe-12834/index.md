@@ -1,11 +1,10 @@
-==============
-Murakabe 12834
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12834
+---
+title: "Murakabe 12834"
+date: 2014-11-23 02:18:14 +0200
+dp: 12834
+draft: true
+tags: []
+---
 
 Yoksun bugünlerde?
 
@@ -103,3 +102,4 @@ biliyorum. Bilmiyorsam da, *ne yapacağımı öğrenmek* bir iş sayılabilir.
 
 Evet. Kullandığım sistemi bir ara yazmam lazım. Belki isteyenlere de
 faydası olur.
+

@@ -1,8 +1,10 @@
-=============
-Yevmiye 13275 
-=============
-
-:date: 2015-11-22 11:51:04 +0200
+---
+title: "Yevmiye 13275"
+date: 2015-11-22 11:51:04 +0200
+dp: 13275
+draft: true
+tags: []
+---
 
 Bir yerde *sen kimsin* yazıyordu? Kimden ibaretsin? Senin anlamın nedir?
 
@@ -96,3 +98,4 @@ Bildiği iki dil Türkçe ve Kürtçe'ymiş ama başka dilleri de öğrenmek
 istermiş. Altı çocuğundan biri Mardin'de askermiş. 28 gün kalmış. Allah sağ
 salim kavuştursun diye dua ettik. Siz de edin. Böyle adamlar evlat acısı
 yaşamasın.
+

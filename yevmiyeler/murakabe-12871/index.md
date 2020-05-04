@@ -1,11 +1,10 @@
-==============
-Murakabe 12871
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date: 12871
+---
+title: "Murakabe 12871"
+date: 2014-11-23 02:18:14 +0200
+dp: 12871
+draft: true
+tags: []
+---
 
 Derler ki zamansızlıktan şikayet biraz övünme içerir. *Çok meşgulüm, bu
 gibi fani işlerle uğraşamayacağım* gibi.
@@ -109,3 +108,4 @@ gitmenin bile *çok lüks* geleceği bir hayatın olacak.
 Değil mi?
 
 Değil. Sinema eve geliyor.
+

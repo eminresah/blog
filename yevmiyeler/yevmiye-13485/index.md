@@ -1,8 +1,10 @@
-Title: Yevmiye 13485
-Author: Emin Reşah
-Date: 2016-06-15 18:00:24
-Dp: 13485
-Image: /img/header-85.jpg
+---
+title: Yevmiye 13485
+author: Emin Reşah
+date: 2016-06-15 18:00:24
+dp: 13485
+featured_image: /images/header-85.jpg
+---
 
 *Bu yazı 15 Temmuz'dan bir ay önce yazıldı.* 
 

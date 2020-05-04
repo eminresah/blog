@@ -1,15 +1,10 @@
-==============
-Murakabe 12858
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12858
-
-.. role:: math(raw)
-   :format: html latex
-..
+---
+title: "Murakabe 12858"
+date: 2014-11-23 02:18:14 +0200
+dp: 12858
+draft: true
+tags: []
+---
 
 Hayatında eksikliğini hissettiğin ne var?
 
@@ -73,3 +68,4 @@ getirmez. Düşünceleri değiştirmek için de, zihne giren bilgiyi
 değiştirmek lazım. Hep abur cubur yiyen insanın zayıflamaya çalışması
 gibi oluyor. Lafta dinlenmeye/zayıflamaya çalışıyor ama yaptıkları buna
 hizmet etmiyor.
+

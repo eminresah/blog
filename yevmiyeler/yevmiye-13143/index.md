@@ -1,11 +1,10 @@
-Yevmiye 13143
-=============
-
-:date: 2015-09-15 18:27:45 +0300
-
-.. :author: Emin Reşah
-.. :date: Fri Jul 10 12:12:05 EEST 2015 
-.. :dp: 13143 
+---
+title: "Yevmiye 13143"
+date: 2015-09-15 18:27:45 +0300
+dp: 13143
+draft: true
+tags: []
+---
 
 *10 Temmuz 2015 Cuma*
 
@@ -93,3 +92,4 @@ Türklükleri, Araplıkları veya Kürtlüklerinin hayatlarında önemli hale
 gelmesine yol açtı.
 
 *Havaalanı açtık, yine de bize oy vermediler* diyenlere ihbarımdır. 
+

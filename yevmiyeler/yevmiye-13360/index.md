@@ -1,11 +1,10 @@
-Yevmiye 13360
-=============
-
-:date: 2016-03-10 23:50:14 +0200
-
-.. :author: Emin Reşah
-.. :date: Thu Feb 11 23:38:25 EET 2016 
-.. :dp: 13360 
+---
+title: "Yevmiye 13360"
+date: 2016-03-10 23:50:14 +0200
+dp: 13360
+draft: true
+tags: []
+---
 
 Mehmet Okuyan'ın videolarını dinlerken aklıma gelen konulardan biri
 kader idi. İnsanın imtihan edilmesi için Allah'ın insana alınyazısı manasında
@@ -153,3 +152,4 @@ kaybederse üç milyon kaybedeceği bir piyango biletini almaz. Tasavvufun bazı
 pratikleri de böyle ama bunu *şirk* diye vasıflandırmak mı, hayır.
 
 Tekrar olacaksa olsun: Bu konuda net fikirlerim yok. 
+

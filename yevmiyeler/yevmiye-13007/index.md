@@ -1,11 +1,10 @@
-Yevmiye 13007
-=============
-
-:date: 2016-04-09 01:15:40 +0300
-
-.. :author: Emin Reşah
-.. :date: Wed Mar 18 22:34:54 EET 2015 
-.. :dp: 13007
+---
+title: "Yevmiye 13007"
+date: 2016-04-09 01:15:40 +0300
+dp: 13007
+draft: true
+tags: []
+---
 
 
 Neden çalışıyoruz? 
@@ -79,3 +78,4 @@ olan gurur meselesinden ibaret aslında. Yaptın, yapmadım, katilsin, ben katil
 olmam, o toprak benim, bu toprak benim...
 
 *18 Mart 2015*
+

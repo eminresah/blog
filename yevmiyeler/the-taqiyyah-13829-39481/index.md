@@ -1,11 +1,9 @@
 ---
 title: "The Taqiyyah"
 date: 2017-05-26 03:47:14
-expiryDate: 2018-05-26 03:47:14
 dp: 13829
 featured_image: "/images/header-29.jpg"
 images: ["/images/header-29.jpg"]
-published: true
 tags: []
 ---
 

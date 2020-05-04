@@ -1,11 +1,10 @@
-Yevmiye 13025
-=============
-
-:date: 2015-03-14 01:19:06 +0200
-
-.. :author: Emin Reşah
-.. :date: Sat Mar 14 01:14:05 EET 2015 
-.. :dp: 13025 
+---
+title: "Yevmiye 13025"
+date: 2015-03-14 01:19:06 +0200
+dp: 13025
+draft: true
+tags: []
+---
 
 Bugün bir yazının sadece başlığı çıkmış. Düzelttim. Artık sadece
 başlık yazmak isteyen birine dönüştüğümü düşünmenizden korktum. Yazı
@@ -88,3 +87,4 @@ program üretiyorum. Bilgisayar programı. Ufacık bazı programların pek
 Ama, biz bunları anlamıyoruz, dediğini duyar gibiyim. 
 
 Ben de bu dünyayı dolduran yazıların maksadını anlamıyorum.
+

@@ -1,11 +1,9 @@
-==============
-Günlük - 12093
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   <12093 - Thu 21:13>
+---
+title: "Günlük - 12093"
+date: 2014-11-23 02:18:14 +0200
+dp: 12093
+tags: []
+---
 
 Otobüsü Bekletmek
 ~~~~~~~~~~~~~~~~~
@@ -36,3 +34,4 @@ hepimizin derisini biraz kalınlaştırdı.
 
 -  iyilik ederseniz kendiniz için etmiş olursunuz, kötülük ederseniz de
    onun için.
+

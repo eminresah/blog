@@ -1,11 +1,10 @@
-Yevmiye 13066
-=============
-
-:date: 2015-04-30 22:33:06 +0300
-
-.. :author: Emin Reşah
-.. :date: Thu Apr 23 22:33:13 EEST 2015 
-.. :dp: 13066 
+---
+title: "Yevmiye 13066"
+date: 2015-04-30 22:33:06 +0300
+dp: 13066
+draft: true
+tags: []
+---
 
 Atlantic'te halihazırda okumakta olduğum bir yazı var. İnsanların
 cömertliğinin de bir nev'i akıl hastalığı olduğundan
@@ -45,4 +44,5 @@ paylaşmamak için bahane arayanlara, böyle bir bahane sunmak işime
 gelmiyor. Bununla beraber, emanetin bu tarafını, yani sana emanet
 edilmişi hakkıyla değerlendirmek tarafında da bir şeyler söylemek
 lazım.
+
 

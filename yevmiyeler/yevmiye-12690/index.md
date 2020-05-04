@@ -1,14 +1,10 @@
-===============
-Yevmiye - 12690
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12690
-
-.. role:: math(raw)
-   :format: html latex
-..
+---
+title: "Yevmiye - 12690"
+date: 2014-11-23 02:18:14 +0200
+dp: 12690
+draft: true
+tags: []
+---
 
 Tarihin tekerrür ettiğini düşünmemiz, geçmişe baktığımızda hep bugüne
 ilişkin olaylar görmemizden mi kaynaklanıyor? Yeni araba alan adamın,
@@ -71,3 +67,4 @@ kadar uzman, mali müşavir, hakim. Burada yukarıya doğru bir hareket var
 ama yeterince hızlı değil. Ve yukarıdaki insanların yerini aldığında
 daha başarılı olacakların bazısı, sınavı geçemediği için hiç fırsat
 bulamıyor.
+

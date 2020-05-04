@@ -1,11 +1,10 @@
-=============
-Yevmiye 12861
-=============
-
-:date: 2015-11-16 00:07:17 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12861
+---
+title: "Yevmiye 12861"
+date: 2015-11-16 00:07:17 +0200
+dp: 12861
+draft: true
+tags: []
+---
 
 Pek yazamıyor, pek okuyamıyorsun. Hayatın insanların kararlarını vermek ve at
 pazarlığı yapmak gibi *çok sevdiğin* iki işle doluyor ve bunlardan kurtulup, iki
@@ -42,3 +41,4 @@ ediyor. Hayret.
 
 Bir insan nasıl olur da senelerce önce yazdığını utanmadan satmaya devam
 eder bilemiyorum. Belki ucunda para olunca utanmayı da bırakıyorlardır.
+

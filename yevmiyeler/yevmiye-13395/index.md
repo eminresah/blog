@@ -1,11 +1,10 @@
-Yevmiye 13395
-=============
-
-:date: 2016-03-18 23:20:30 +0200
-
-.. :author: Emin Reşah
-.. :date: Thu Mar 17 22:05:01 EET 2016 
-.. :dp: 13395 
+---
+title: "Yevmiye 13395"
+date: 2016-03-18 23:20:30 +0200
+dp: 13395
+draft: true
+tags: []
+---
 
 Hayat felsefesi kumarı diye bir yazı yazmışım zamanında. İnsanların hayatlarını
 üzerine kurdukları fikirlerin, ardında çoğu zaman ufak tefek tecrübeler
@@ -44,3 +43,4 @@ olunuyorsa demek.
 Kısacası, bunları gördükçe, bir kültür mafyasının tezgah ürünleri oldukları
 intibaı kuvvetlendikçe, yazar çizer takımına ihtiramım da, ihtiyacım da
 azalıyor. Türk kültürü bunlara kaldıysa, zaten kayıp gitmiş bir yıldız sayalım.
+

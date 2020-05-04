@@ -1,11 +1,9 @@
-===============
-Yevmiye - 12118
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <>
+---
+title: "Yevmiye - 12118"
+date: 2014-11-23 02:18:14 +0200
+dp: 12118
+tags: []
+---
 
 ~12::46
 ~~~~~~~
@@ -15,3 +13,4 @@ Yevmiye - 12118
   directly control biological patterns. Only social patterns control
   biological patterns and the instrument of conversation between society
   and biology is not words. (p. 355)
+

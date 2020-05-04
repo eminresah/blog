@@ -1,11 +1,10 @@
-Yevmiye 13365
-=============
-
-:date: 2016-02-29 22:48:44 +0200
-
-.. :author: Emin Reşah
-.. :date: Tue Feb 16 22:23:45 EET 2016 
-.. :dp: 13365 
+---
+title: "Yevmiye 13365"
+date: 2016-02-29 22:48:44 +0200
+dp: 13365
+draft: true
+tags: []
+---
 
 Bir toplumu fertlerine bakarak anlayabilir misin? Parça bütünden fazlasını mı
 ihtiva eder ve bu fazlalık parçanın hangi bütüne ait olduğunu bulmamıza imkan
@@ -65,4 +64,5 @@ yorumlarını koymaya çlaışanlar, bana pastanın şekerini bir kapta toplayı
 gerisini atanlara benziyor. *Pastaya tadını bu veriyo, o halde asıl pasta budur*
 diyorlar. Amenna, pastaya tadını o veriyor ama ötekiler olmayınca tek başına
 şeker yenmiyor hacı. 
+
 

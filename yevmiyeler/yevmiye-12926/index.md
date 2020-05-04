@@ -1,10 +1,10 @@
-Yevmiye 12926
-=============
-.. :author: Emin Reşah
-.. :date: Thu Dec  4 22:54:04 EET 2014 
-.. :dp: 12926 
-
-:date: 2014-12-08 17:09:31 +0200
+---
+title: "Yevmiye 12926"
+date: Thu Dec  4 22:54:04 EET 2014
+dp: 12926
+draft: true
+tags: []
+---
 
 Bunu nasıl yazdığımı görseniz acırsınız. Kucağımda, daha doğrusu
 omzumdan aşağıya koala gibi yapışmış bir bebek var. Hanımefendiyi
@@ -64,5 +64,6 @@ açılardan *hayal alemi* gibi geliyor bana. İnsanların aksiyona
 geçmeyişinin sebebi negatif düşünce de olabilir, pozitif düşünce
 de. Bunların kişilere doğru dozlarda, kendilerine uygun şekilde
 verilmesi gerek.
+
 
 

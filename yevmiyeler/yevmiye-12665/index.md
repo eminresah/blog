@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12665
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12665
+---
+title: "Yevmiye - 12665"
+date: 2014-11-23 02:18:14 +0200
+dp: 12665
+draft: true
+tags: []
+---
 
 Veri Analizi dersinde söylenenlere göre insanların %13'ü yaptıkları işle
 tam meşgul oluyorlarmış. Bizde biraz daha düşüktür bu oran herhalde.
@@ -73,3 +73,4 @@ mensupları için kötü olabilir ama gerçekte pek de değil. Tasavvuftan
 *kişi kültünü* anlayanların da akıbeti bu. Abdulhakim Arvasi'nin
 *hükümet onları kapatmadan evvel, tarikatlar kendini kapattı* deyişinin
 hikmetini de herhalde anlayacağız.
+

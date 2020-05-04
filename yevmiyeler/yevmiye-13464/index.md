@@ -1,9 +1,10 @@
-Yevmiye 13464
-=========================
-
-:author: Emin Reşah
-:date: 2016-05-25 22:44:39 
-:dp: 13464 
+---
+title: "Yevmiye 13464"
+date: 2016-05-25 22:44:39
+dp: 13464
+draft: true
+tags: []
+---
 
 Geçen gün, bilgisayarın dört saatte bir gönderdiği ayetlerde Meryem
 Suresi'nin 28. ayeti teşrif etti. Malumdur, veya değildir ki, *Kur'an'daki
@@ -59,3 +60,4 @@ literatürün önemli bir kısmı. Yoksa tarihte de, mezhep imamları olsun, onl
 etmemiş zevat olsun, zamanın akilleri kadar akıl sahibiydi. Hata etmiş
 olabilirler, hatalı aktarmış olabilirler, ancak topyekun *ihanet* içinde görmek,
 biraz Temel'in *ne birisu, hepisu hepisu* fıkrasına benziyor.
+

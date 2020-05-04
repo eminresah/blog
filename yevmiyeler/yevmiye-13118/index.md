@@ -1,12 +1,9 @@
-Yevmiye 13118
-=============
-
-:date: 2015-06-15 22:50:59 +0300
-
-.. :author: Emin Reşah
-.. :date: Sun Jun 14 23:59:02 EEST 2015 
-.. :dp: 13118 
-
+---
+title: "Sana mahsus bir gün"
+date: 2015-06-15 22:50:59 +0300
+dp: 13118
+tags: []
+---
 
 İkisi de Amerikan mahreçli olduğuna göre devrin ruhunda böyle günler
 ihdas etmek olduğunu söyleyebiliriz. Analar günü, Babalar
@@ -49,6 +46,7 @@ ettiriyor. En kötü ihtimal o törene bağlı kalır, diğer günler anneni
 düşünmezsin, iyi ihtimal, alttaki *etrafındaki herkesin annesi var,
 bak onlar bundan hiç bahsediyor mu?* mesajını kavrar ve *kariyerin*
 için annenden de vazgeçersin. 
+
 
 
 

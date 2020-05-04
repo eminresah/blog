@@ -1,11 +1,10 @@
-=================
-Yevmiye - 12636/2
-=================
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12636
+---
+title: "Yevmiye - 12636/2"
+date: 2014-11-23 02:18:14 +0200
+dp: 12636
+draft: true
+tags: []
+---
 
 İnsanların iyi iletişim kurabiliyor olması için içlerinde de iyilik
 olması gerektiği kanaati hasıl oldu bende. Bir de kitapçı gezdim ve
@@ -60,3 +59,4 @@ giden metnine aykırı düşen her bilgiye bu kadar ateş püskürmeleri ondan.
 Şiddet ve yalan üzerine kurulan hiçbir mit ayakta kalamaz. Gezi miti de
 şiddet ve yalan üzerine bina edildi. Tek faydası ona inananların
 kendilerini kandırması olabilir ve sanırım bu o kadar da kötü değil.
+

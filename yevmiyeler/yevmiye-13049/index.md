@@ -1,11 +1,10 @@
-Yevmiye 13049
-=============
-
-:date: 2015-04-08 01:25:22 +0300
-
-.. :author: Emin Reşah
-.. :date: Tue Apr  7 03:04:49 EEST 2015 
-.. :dp: 13049 
+---
+title: "Yevmiye 13049"
+date: 2015-04-08 01:25:22 +0300
+dp: 13049
+draft: true
+tags: []
+---
 
 Bir şeyler söyle bana Internet. Sıkıntımı geçirsin. İçinden bir şeyler
 çıkar. Ne ektiysek, onu biçelim. Sana senelerdir kelimeler ekiyorum
@@ -193,5 +192,6 @@ fantaziler gibi gelir bana.
 *Rüya görmeyelim mi?* diyeceksin. *İşin rüya görmekse, bunu da en iyi
 şekilde yap* derim. Ancak *ne yapmalı?* diye sorunca, cevabın yine
 gelip *işini iyi yapmalı* olacağını bilerek tabii.
+
 
 

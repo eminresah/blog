@@ -1,11 +1,10 @@
-Yevmiye 12919
-=============
-
-:date: 2014-12-30 18:40:27 +0200
-
-.. :author: Emin Reşah
-.. :date: Fri Nov 28 00:01:05 EET 2014 
-.. :dp: 12919 
+---
+title: "Yevmiye 12919"
+date: 2014-12-30 18:40:27 +0200
+dp: 12919
+draft: true
+tags: []
+---
 
 Yapılacaklar listesinin en önemli vazifesi kafanda tutmaya çalıştığın
 işleri barındırması. Gidecek bir yer bulamayan *evsiz* düşüncelerin
@@ -46,6 +45,7 @@ yaşayabilirsin. Evet.
 
 *Kendini inşa etmek* dediği, gerçekte kendin hakkında istediğin hayali
  kurma hürriyeti. Bu hayallerin ne kadar *gerçek* olduğu ise ayrı bir konu. 
+
 
 
 

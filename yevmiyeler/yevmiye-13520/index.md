@@ -1,3 +1,12 @@
+---
+title: "Yevmiye 13520"
+date: 2016-08-12 18:00:11
+dp: 13520
+draft: true
+tags: []
+---
+
+
 Yevmiye 13520
 =================
 
@@ -34,4 +43,5 @@ gelecek ve ifade akışı normalleşecektir. Anlamlı fikrin, kendisine bir mecr
 bulacağı bir ortam meydana gelecektir.  Ancak bugünün kapitalist dünyasında
 ifade özgürlüğünün asıl tehdidi devletten değil, kapitalden
 kaynaklanmaktadır.
+
 

@@ -1,9 +1,10 @@
-Yevmiye 13450
-=========================
-
-:author: Emin Reşah
-:date: 2016-05-12 23:33:34 
-:dp: 13450 
+---
+title: "Yevmiye 13450"
+date: 2016-05-12 23:33:34
+dp: 13450
+draft: true
+tags: []
+---
 
 Depresyona giren kadının saçını değiştirmesi gibi depresyona giren blogcu da
 temasını değiştirir. Benimkisi öyle değil, daha çok tebdil-i mekanda ferahlık
@@ -47,3 +48,4 @@ yapmadığında, çünkü, başka kesinlikler daha kesin hale gelecek.
 toplamış gibi yapınca inanması yüzyılın en büyük belası. Suyun canlı için elzem
 olduğu gibi, veri de zihin için gerekli velakin fazla su bizi boğduğu gibi,
 fazla veri de zihinleri boğuyor.
+

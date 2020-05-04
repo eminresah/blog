@@ -1,10 +1,10 @@
-=============
-yevmiye-12615
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12615
+---
+title: "yevmiye-12615"
+date: 2014-11-23 02:18:14 +0200
+dp: 12615
+draft: true
+tags: []
+---
 
 Bu site benim babamın malı değil. Babam zamanında Internet yoktu, onun
 için babamın malı olması biraz zor.
@@ -132,3 +132,4 @@ Bazen aydınlanma (veya *erme*) dediklerinin, insanların karşısına geçip,
 *aydınlandım* diyecek cesaretten başka bir şey olmadığını düşünüyorum.
 Bu hikayeler de gelebilecek sorulardan kaçma yolu: *Hepimiz biriz, o
 halde haydi bu soruları unutup sevişmeye bakalım.*
+

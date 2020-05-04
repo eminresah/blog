@@ -1,11 +1,10 @@
-Yevmiye 13153
-=============
-
-:date: 2015-09-15 18:06:52 +0300
-
-.. :author: Emin Reşah
-.. :date: Sun Jul 19 18:23:48 EEST 2015 
-.. :dp: 13153 
+---
+title: "Yevmiye 13153"
+date: 2015-09-15 18:06:52 +0300
+dp: 13153
+draft: true
+tags: []
+---
 
 
 *17 Temmuz 2015, Cuma*
@@ -93,5 +92,6 @@ belki bunların daha ucuz yolları da vardır.
 İnsanları aydınlatmak vs. kendini adylatmak.
 
 Bu ikisi aynı anda mümkün mü? 
+
 
 

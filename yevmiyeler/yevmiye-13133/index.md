@@ -1,11 +1,10 @@
-Yevmiye 13133
-=============
-
-:date: 2015-08-07 11:06:41 +0300
-
-.. :author: Emin Reşah
-.. :date: Tue Jun 30 03:12:49 EEST 2015 
-.. :dp: 13133 
+---
+title: "Yevmiye 13133"
+date: 2015-08-07 11:06:41 +0300
+dp: 13133
+draft: true
+tags: []
+---
 
 Yazıya Yarayan
 %%%%%%%%%%%%%%
@@ -184,3 +183,4 @@ kullanılamaz hale gelmesi bizim elimizde. Bir yerde bir yara varsa,
 kaşıyacak bulunur. Bizim de başkalarının yaralarını tesbit edip
 kaşımadan evvel, kendi yaralarımızı tedavi etmeye ihtiyacımız
 var.
+

@@ -1,11 +1,9 @@
 ---
 title: "Stone and Mortar"
 date: 2017-06-12 02:20:43
-expiryDate: 2018-06-12 02:20:43
 dp: 13846
 featured_image: "/images/header-46.jpg"
 images: ["/images/header-46.jpg"]
-published: true
 tags: []
 ---
 

@@ -1,11 +1,10 @@
-Yevmiye 13002
-=============
-
-:date: 2015-02-22 22:04:43 +0200
-
-.. :author: Emin Reşah
-.. :date: Wed Feb 18 21:14:56 EET 2015 
-.. :dp: 13002 
+---
+title: "Yevmiye 13002"
+date: 2015-02-22 22:04:43 +0200
+dp: 13002
+draft: true
+tags: []
+---
 
 Zihnimde gül A-.
 
@@ -59,3 +58,4 @@ bunun gibi *bilinmeyene süpürme* yöntemi de kullanmaz. İkinci adımda
 *ideler yenir mi?* veya *ruh nedir?* diyorsun ve söz doğruluğunu
 hiçbir şekilde anlayamayacağımız şekilde ilerliyor. Onun için *oradan
 pek fikir çıkmaz.*
+

@@ -1,8 +1,10 @@
-=============
-Yevmiye 13263
-=============
-
-:date: 2015-11-07 02:23:04 +0300
+---
+title: "Yevmiye 13263"
+date: 2015-11-07 02:23:04 +0300
+dp: 13263
+draft: true
+tags: []
+---
 
 Gözlerimden akana uyku diyorlar. Bugünlerde uyku eksikliği ve bunun getirdiği
 verimsizlik ve bunun da getirdiği suçlulukla meşgulüm. İnsanın iyi hissetmesinin
@@ -88,3 +90,4 @@ engelliyoruz. Serbest bıraktığımızı söylüyoruz ve onlar da sair
 rüzgarüreteçleriyle şekillenmiş *düşüncelerine* göre davranıyor. Bu üreteçler
 kimin elindeyse, insanlar da öyle düşünüyor. Hepimiz özgürlüğümüzün sonuna kadar
 idrakindeyiz.
+

@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12109
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <12109 - Sat 19:35>
+---
+title: "Yevmiye - 12109"
+date: 2014-11-23 02:18:14 +0200
+dp: 12109
+draft: true
+tags: []
+---
 
 Zar atıcı yazarlık
 ~~~~~~~~~~~~~~~~~~
@@ -27,3 +26,4 @@ başka bir maharet. Okuduğum çok az Türk romancısında (mesela
 Tanpınar'da) bu mahareti gözledim. Meslekten edebiyatçı değilim, sade
 bir okurum, naçizane neyin *güzel*, kimi *yazar* olduğu konusundaki
 fikrim budur.
+

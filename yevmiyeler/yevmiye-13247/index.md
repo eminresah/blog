@@ -1,11 +1,10 @@
-Yevmiye 13247
-=============
-
-:date: 2016-02-14 00:07:10 +0200
-
-.. :author: Emin Reşah
-.. :date: Wed Oct 21 22:04:10 EEST 2015 
-.. :dp: 13247 
+---
+title: "Yevmiye 13247"
+date: 2016-02-14 00:07:10 +0200
+dp: 13247
+draft: true
+tags: []
+---
 
 Günümü yeniden *yazabilir* hale getirmeye çalışıyorum. Yazmanın bir bağımmlılık
 olduğu zamanları hamdolsun atlattım. Terkedebilmek gerekiyordu, yazmaya
@@ -64,5 +63,6 @@ Erdoğan gidebilir, ölebilir, Türkiye'de siyaset kitlenebilir, iç savaş
 yolları vardır. Geçmişte çıkıldı, yine çıkılır. Bir şekilde salim limanlara
 erişiriz, ancak bu limanların ötesinde söyleyecek sözümüz kalmazsa, o zaman
 zaten kavgayı kazanmanın da manası kalmaz.
+
 
 

@@ -1,8 +1,10 @@
-Title: Yevmiye 13478
-Author: Emin Reşah
-Date: 2016-06-08 18:00:17 
-Dp: 13478 
-Image: /img/header-78.jpg
+---
+title: Yevmiye 13478
+author: Emin Reşah
+date: 2016-06-08 18:00:17 
+dp: 13478 
+image: /images/header-78.jpg
+---
 
 Cari olanda hayat vardır. 
 

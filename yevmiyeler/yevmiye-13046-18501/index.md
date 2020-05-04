@@ -1,11 +1,10 @@
-Yevmiye 13046
-=============
-
-:date: 2015-04-20 22:14:45 +0300
-
-.. :author: Emin Reşah
-.. :date: Fri Apr  3 23:58:24 EEST 2015 
-.. :dp: 13046 
+---
+title: "Yevmiye 13046"
+date: 2015-04-20 22:14:45 +0300
+dp: 13046
+draft: true
+tags: []
+---
 
 
 Budapeşte izleniimleri diye bir şeyler yazmak isterdim. Çocuklarla
@@ -91,3 +90,4 @@ hem manen deva olabilmektir.
 Batı'nın derdinin sadece daha sofistike oyuncaklar bulmak olduğu bir
 devirde, bizim hala bunları dert edebiliyor olmamız, belki de imtihanı
 nihayeten bizim kazanacağımızı işaret ediyor.
+

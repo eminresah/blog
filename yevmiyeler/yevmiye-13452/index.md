@@ -1,11 +1,10 @@
-Yevmiye 13452
-=========================
-
-:author: Emin Reşah
-:date: 2016-05-13 23:10:53 
-:dp: 13452 
-
-..   
+---
+title: "Yevmiye 13452"
+date: 2016-05-13 23:10:53
+dp: 13452
+draft: true
+tags: []
+---
 
   Mutluluk hayali bir durumdur. Önceleri yaşayanlarca ölmüşlere atfedilirdi,
   şimdilerde yetişkinler çocuklara, çocuklar da yetişkinlere atfediyor. --
@@ -40,4 +39,5 @@ irade* sahibi olmadıkları, diyelim elini kaldırmak isteyen bir insanın, bunu
 *istemesinin*, kaslarına elektrik sinyali gitmesinden *sonra* gerçekleştiği
 biliniyor. Yani fiil önce halkediliyor ve insan daha sonra bunu *kendi fiili*
 olarak *irade ediyor.* İnsanın şuur dediği, aslını bilmediği bir isim. 
+
 

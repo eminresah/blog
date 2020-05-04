@@ -1,11 +1,10 @@
-==============
-Murakabe 12846
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12846
+---
+title: "Murakabe 12846"
+date: 2014-11-23 02:18:14 +0200
+dp: 12846
+draft: true
+tags: []
+---
 
 Kibirli bir insan olduğunu duydun mu hiç? Bunu söyleyen oldu mu?
 
@@ -106,3 +105,4 @@ iyi pek çok insan tanıdım. Zevkleri rafine pek çok hokkabaz da. *Priming
 effect* diyorlar. İyi insan olmanın, nasıl derler, daha iyi giyinmek
 veya daha güzel yemeklerle alakası varmış hissi vardır, onun için
 dolandırıcılar şık giyinir. Yanlış bir düşünce.
+

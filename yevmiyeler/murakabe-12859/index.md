@@ -1,11 +1,10 @@
-==============
-Murakabe 12859
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12859
+---
+title: "Murakabe 12859"
+date: 2014-11-23 02:18:14 +0200
+dp: 12859
+draft: true
+tags: []
+---
 
 Ara sıra aklıma geldiğinde, FG meselesinin aslında *Türk müslümanlığı*
 denen daha geniş bir problemle ilgili olduğunu görüyorum. Türk
@@ -236,3 +235,4 @@ zahireciyle köy bakkalı arasında bir mertebedeydi, yavaş yavaş
 fabrikayla alışveriş merkezini andırır hale gelecek. İyi midir kötü
 müdür bilmiyorum ancak merasim müslümanlığının artık defnedileceğini
 tahmin ediyorum.
+

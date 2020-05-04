@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12623
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12623
+---
+title: "Yevmiye - 12623"
+date: 2014-11-23 02:18:14 +0200
+dp: 12623
+draft: true
+tags: []
+---
 
 Hayatın bir ölçüde aptallık gerektirdiğini düşünüyorum. Aptallık, zira,
 her şeyi bilen adamın ekseriyetindeki kötülüğü kafasından atabilmesi
@@ -103,3 +102,4 @@ beceremem.
 Bunlar olmasaydı bile, insanın yaratacağı etkiyi düşünüp, duygularını
 kontrol edebilmesi mümkün olabilir diye düşünüyorum. Duygularını kontrol
 edemese bile fiilini kontrol edebilir. Değil mi?
+

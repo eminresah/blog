@@ -1,11 +1,10 @@
-=============
-Yevmiye 12818
-=============
-
-:date: 2015-05-16 23:14:55 +0300
-
-.. :Author: Emin Reşah
-.. :Date:   12818
+---
+title: "Yevmiye 12818"
+date: 2015-05-16 23:14:55 +0300
+dp: 12818
+draft: true
+tags: []
+---
 
 Hayat neyi hemen yapıp, neyi ertelediğinize göre şekillenir. *Tembeller*
 de bir şeyler yapar. Eli boş, kafası dingin durmak hemen hiçkimsenin
@@ -72,3 +71,4 @@ buradaki sıraya giriyor.
 Bugün üzerinde çalıştığım bütün yazılar bitti. Yani hepsine bakmış
 oldum. Yeni yazılar yazıyorum ancak bunlar da bana yarın görünecek.
 Kendimi boşlukta hissediyorum.
+

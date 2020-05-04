@@ -1,9 +1,10 @@
-Yevmiye 13466
-=========================
-
-:author: Emin Reşah
-:date: 2016-05-28 13:45:23 
-:dp: 13466 
+---
+title: "Yevmiye 13466"
+date: 2016-05-28 13:45:23
+dp: 13466
+draft: true
+tags: []
+---
 
 «Senden gelecek medeniyet olmaz olsun» diyecek kadar inatçı mısın? Yoksa
 «medeniyet olsun da, kimden gelirse gelsin» mi diyorsun? 
@@ -78,6 +79,7 @@ maddeyi kazanırken manada kaybetti, Doğu ise manayı hala koruyor. Doğu'nun m
 eksiklerini tamamlaması mümkündür ama Batı'da maneviyatı yeniden inşa
 edemeyiz. Bir sonraki savaşta bunun için yenileceğiz.» demesini mi ciddiye
 almalıyız?
+
 
 
 

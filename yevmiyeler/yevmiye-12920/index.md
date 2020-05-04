@@ -1,11 +1,10 @@
-Yevmiye 12920
-=============
-
-:date: 2014-12-30 18:40:27 +0200
-
-.. :author: Emin Reşah
-.. :date: Sat Nov 29 02:10:06 EET 2014 
-.. :dp: 12920 
+---
+title: "Yevmiye 12920"
+date: 2014-12-30 18:40:27 +0200
+dp: 12920
+draft: true
+tags: []
+---
 
 Geceyarısına çeyrek kala bilgisayarın başına oturdum ve baktım, saat 2
 olmuş. Sitede bazı değişiklikler var. Bunları özetlemek isterim.
@@ -56,3 +55,4 @@ göstermeyecek. Eski yazıları kimseye haber vermeden budamak istiyorum.
 
 .. _Org-mode: http://orgmode.org
 .. _Sphinx: http://sphinx-doc.org
+

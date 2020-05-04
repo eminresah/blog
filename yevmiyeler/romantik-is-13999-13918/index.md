@@ -1,11 +1,9 @@
 ---
 title: "Romantik İş"
 date: 2017-11-11 20:51:35
-expiryDate: 2018-11-11 20:51:35
 dp: 13999
 featured_image: "/images/header-99.jpg"
 images: ["/images/header-99.jpg"]
-published: true
 tags: []
 ---
 

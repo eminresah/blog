@@ -1,11 +1,10 @@
-Yevmiye 13188
-=============
-
-:date: 2015-11-20 22:24:20 +0200
-
-.. :author: Emin Reşah
-.. :date: Sun Aug 23 23:04:35 EEST 2015 
-.. :dp: 13188 
+---
+title: "Yevmiye 13188"
+date: 2015-11-20 22:24:20 +0200
+dp: 13188
+draft: true
+tags: []
+---
 
 
 Aslında yapmam gereken önce düşünmek babından bir zihin haritası yapmak. Bu
@@ -65,6 +64,7 @@ dörtbin yıllık, bu zamana kadar kimse düşünceyi insandan ayıramadı, baka
 şimdikiler ayırabilecek mi?
 
 Ha belki ayırmıştır da biz bilmiyoruz.
+
 
 
 

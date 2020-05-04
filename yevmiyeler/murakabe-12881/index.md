@@ -1,11 +1,10 @@
-==============
-Murakabe 12881
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12881
+---
+title: "Murakabe 12881"
+date: 2014-11-23 02:18:14 +0200
+dp: 12881
+draft: true
+tags: []
+---
 
 Telefonun sonunda kırılmış. Uzun zamandır bekliyordun sanırım.
 
@@ -58,3 +57,4 @@ telefon numaralarını merkezi bir yerde tutması mesela veya akıllı
 alarmlar gibi programlar. Artısı eksisinden çok, ancak bunun bu kadar
 *önemli* hale gelmesinde bir anormallik var. Bir telefonun çıkması haber
 değeri taşımamalı.
+

@@ -1,11 +1,10 @@
-Murakabe 13379
-==============
-
-:date: 2016-03-13 21:13:01 +0200
-
-.. :author: Emin Reşah
-.. :date: Tue Mar  1 22:05:51 EET 2016 
-.. :dp: 13379 
+---
+title: "Murakabe 13379"
+date: 2016-03-13 21:13:01 +0200
+dp: 13379
+draft: true
+tags: []
+---
 
 Ne yazmak isterdin diye bir giriş yapmalıyım, uzun zamandır yazdığın ilk murakabe yazısına. 
 
@@ -88,5 +87,6 @@ sanmıyordum. Sanmadığım kadar da varmış. Nihayetinde olduğum şey, o zama
 olmaya başladığım şeydi. Tüh, keşke daha çok ders çalışsaymışım demedim. Bazen
 matematikle fazla uğraşınca, eskiden zorlandığım taraflarını gülümseyerek
 hatırlıyorum. Gereğinden fazla dert etmişim. Daha basit düşünmeliymişim. 
+
 
 

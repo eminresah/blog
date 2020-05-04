@@ -1,15 +1,10 @@
-================
-Yevmiye -- 12616
-================
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12616
-
-.. role:: math(raw)
-   :format: html latex
-..
+---
+title: "Yevmiye -- 12616"
+date: 2014-11-23 02:18:14 +0200
+dp: 12616
+draft: true
+tags: []
+---
 
 /Nuri bey iyi bir adamdır. Kendisini tanırım. Uzun zamandır./
 
@@ -250,3 +245,4 @@ Vamık Volkan'ın *Ölümsüz Atatürk*'teki Freudyen tahliline benzer bir
 --------------
 
 Allah bana, hangi formda olursa olsun, sarhoş edecek *güç* vermesin.
+

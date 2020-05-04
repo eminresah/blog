@@ -1,11 +1,10 @@
-=============
-Yevmiye 12765
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12765
+---
+title: "Yevmiye 12765"
+date: 2014-11-23 02:18:14 +0200
+dp: 12765
+draft: true
+tags: []
+---
 
 Yavaşlamanın Yeniden Keşfi
 --------------------------
@@ -81,3 +80,4 @@ bir dünya yarat.*
 Belki kendimi bırakıp, aklıma ne gelirse yazdığım günlere dönmeliyim.
 *Enhar* dediğim cinsten, düzeltilmemiş yazılar. Onları sevenler vardı.
 (Ben değil.)
+

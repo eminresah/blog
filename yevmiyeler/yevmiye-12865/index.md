@@ -1,11 +1,10 @@
-=============
-Yevmiye 12865
-=============
-
-:date: 2015-11-15 00:29:59 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12865
+---
+title: "Yevmiye 12865"
+date: 2015-11-15 00:29:59 +0200
+dp: 12865
+draft: true
+tags: []
+---
 
 Kahveyle beraber ne gider?
 
@@ -98,3 +97,4 @@ acınası gelen hallerimiz, üçyüz sene sonra kurtuluşumuza vesile olacak.
 Belki de onlar alıp başını gidecek.
 
 Onların gelişmesi *boş arazi* bulmalarıyla ilgiliydi, o arazi bitti.
+

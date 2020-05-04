@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12100
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <12101 - Fri 14:19>
+---
+title: "Yevmiye - 12100"
+date: 2014-11-23 02:18:14 +0200
+dp: 12100
+draft: true
+tags: []
+---
 
 Genesis
 ~~~~~~~
@@ -57,3 +56,4 @@ fırsatın bir anlamı olmaz; aynı şekilde kendini sergileyecek bir fırsat
 bulamamış donanımlı bir insanın başarılı olması zordur. Yine de, *benim
 elimden gelen nedir?* dediğimde, çalışmaktan ve gerisini fırsatların
 sahibine havale etmekten başka bir yol göremiyorum.
+

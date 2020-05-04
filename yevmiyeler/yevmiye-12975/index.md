@@ -1,11 +1,10 @@
-Yevmiye 12975
-=============
-
-:date: 2015-01-26 18:31:10 +0200
-
-.. :author: Emin Reşah
-.. :date: Fri Jan 23 00:45:09 EET 2015 
-.. :dp: 12975 
+---
+title: "Yevmiye 12975"
+date: 2015-01-26 18:31:10 +0200
+dp: 12975
+draft: true
+tags: []
+---
 
 `Piyango Bileti'ni`_ 11947'de yazmaya başlamışım, 12974'te bitti. 1000
 günden fazla. Birkaç gün yazıp bıraktığımı ve *bundan bir şey çıkmaz*
@@ -35,3 +34,4 @@ Unutkan bir insanım. Yazdıklarımı da unutmak işime geliyor. Bir de
 unuttuklarımdan korkmasam.
 
 .. _Piyango Bileti'ni: /hikayeler/piyango-bileti/
+

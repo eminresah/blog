@@ -1,7 +1,10 @@
-Yevmiye 13323
-=============
-
-:date: 2016-02-14 00:13:33 +0200
+---
+title: "Yevmiye 13323"
+date: 2016-02-14 00:13:33 +0200
+dp: 13323
+draft: true
+tags: []
+---
 
 Neyi ölçüyorsan onu teşvik ediyorsun, neyi teşvik ediyorsan, onu
 büyütüyorsun. Bir organizasyonda, *başarı* neyse ölçülüyorsa, sonunda herkes
@@ -69,4 +72,5 @@ takım faydalar sağlamak lazım.
 dökmeyle ikna edemediğim çoluk çocuk ve büyük cinsiyle olan tecrübem, insanların
 ekseriyetinin böyle vazife mazife kavramları yerine basit ödüllerle
 *çalıştığı*.
+
 

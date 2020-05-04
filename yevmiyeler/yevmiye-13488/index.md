@@ -1,7 +1,9 @@
-Title: Yevmiye 13488
-Author: Emin Reşah
-Date: 2016-06-18 18:00:10 
-Dp: 13488 
+---
+title: Yevmiye 13488
+author: Emin Reşah
+date: 2016-06-18 18:00:10 
+dp: 13488 
+---
 
 *O bizi ilgilendirmez.*
 

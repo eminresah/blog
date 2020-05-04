@@ -1,11 +1,10 @@
-==============
-Murakabe 12832
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12832
+---
+title: "Murakabe 12832"
+date: 2014-11-23 02:18:14 +0200
+dp: 12832
+draft: true
+tags: []
+---
 
 Gece. Neden seninle hep böyle iki arada bir derede görüşüyoruz?
 
@@ -118,3 +117,4 @@ kitapta karşılaşmadım.
 Bu o kadar önem verilen bir konu gibi durmuyor. Yaptığınız işte ahlaklı
 davranmak önemli ama hakkıyla yapmak konusunda pek ahlakî uyarı yok.
 Bizde daha çok *bu dünya nasılsa geçicidir, öte dünyaya bak* yazar.
+

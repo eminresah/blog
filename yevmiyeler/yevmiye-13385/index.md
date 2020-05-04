@@ -1,11 +1,10 @@
-Yevmiye 13385
-=============
-
-:date: 2016-03-17 00:20:13 +0200
-
-.. :author: Emin Reşah
-.. :date: Tue Mar  8 00:06:30 EET 2016 
-.. :dp: 13385 
+---
+title: "Yevmiye 13385"
+date: 2016-03-17 00:20:13 +0200
+dp: 13385
+draft: true
+tags: []
+---
 
 21 aylık kızım üç meyvenin adını biliyor. Mandini, ağma ve na. Portakalı
 mandani, armutu ağma kategorisinde sayıyor. Bugün meyve yemek isteyip
@@ -19,5 +18,6 @@ bakmadığım için bu yazıların gün ışığına çıkması belki bir ayı b
 hakkında yazdıklarımı da, rüzgar çoktan kesilmiş olduğu ve söylediklerim sadece
 malumu ilam kabilinden bayat laflara döndüğünden siliyorum. Önceden yazı silmeye
 kıyamazdım. Artık *tavuk keser gibi* yazı kesiyorum. 
+
 
 

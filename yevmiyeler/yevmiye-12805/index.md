@@ -1,11 +1,10 @@
-=============
-Yevmiye 12805
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12805
+---
+title: "Yevmiye 12805"
+date: 2014-11-23 02:18:14 +0200
+dp: 12805
+draft: true
+tags: []
+---
 
 Bir tuşa basarak yazı yazmaya başlıyorum. Siyah bir kutu açılıyor ve
 bana sadece yazdığım kelime sayısını gösteriyor.
@@ -158,3 +157,4 @@ iyi, *Büyük Doğu'nun Ortası* mı derseniz, ikincisi derim, naçizane.
 Telgraf ilk çıktığında, *gerçek için çok hızlı* demişler. Internet (ve
 Twitter) için de aynısını söylüyoruz. Gerçek hep yavaş, bazılarına hiç
 ulaşmıyor.
+

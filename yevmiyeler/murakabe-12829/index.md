@@ -1,11 +1,10 @@
-==============
-Murakabe 12829
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12830
+---
+title: "Murakabe 12829"
+date: 2014-11-23 02:18:14 +0200
+dp: 12829
+draft: true
+tags: []
+---
 
 Bugün nelerle meşgulsün?
 
@@ -286,3 +285,4 @@ imtihanını onun yerine halletme imkanımız yok. Onun fizyolojisini,
 bağımlı olduğu şeyin onu ne derece etkilediğini bilmiyoruz. **Toplum
 hayatını etkilemediği müddetçe** bu konuda itirazımız ancak sınırlı
 olabilir.
+

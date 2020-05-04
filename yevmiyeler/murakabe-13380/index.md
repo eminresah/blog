@@ -1,11 +1,10 @@
-Murakabe 13380
-==============
-
-:date: 2016-03-13 21:44:57 +0200
-
-.. :author: Emin Reşah
-.. :date: Thu Mar  3 00:11:52 EET 2016 
-.. :dp: 13380 
+---
+title: "Murakabe 13380"
+date: 2016-03-13 21:44:57 +0200
+dp: 13380
+draft: true
+tags: []
+---
 
 İnsanın tabiatı mı belirliyor hayatını, yetiştirilme tarzı mı?
 
@@ -99,3 +98,4 @@ insanın tamamen bir makineye dönüşmesi zor. Ancak o organik tarafları tedri
 önemini kaybeder, hayatımızı makinelere daha çok bağlarız, bu mümkün. Bunun da
 getirdiği sıkıntılar var tabii, insanlığın genel olarak *içi boş* bir hayat
 yaşadığını düşünmesinin sebebi de biraz bu.
+

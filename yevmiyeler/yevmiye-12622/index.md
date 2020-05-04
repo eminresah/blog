@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12622
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12622
+---
+title: "Yevmiye - 12622"
+date: 2014-11-23 02:18:14 +0200
+dp: 12622
+draft: true
+tags: []
+---
 
 Zaman insanların ne dediğinden habersiz bir takım işaretler sunuyor.
 Yardım ettiğini sanıyor belki, belki engel oluyor. Zamanın nehrinde
@@ -83,3 +82,4 @@ dışarıdan baktıklarında, o kadar çok insandan kaynaklanan bir güç
 vehmediyorlar ancak bürokrasilerin nasıl iflah olacağı konusunda
 kimsenin bir çözümü yok. Her organizasyon bürokrasiyi tadacaktır. Sadece
 pınar sahibi insanlardan oluşan bir organizasyon kurmak mümkün değil.
+

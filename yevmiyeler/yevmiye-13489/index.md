@@ -1,8 +1,10 @@
-Title: Yevmiye 13489
-Author: Emin Reşah
-Date: 2016-06-19 18:00:09 
-Dp: 13489 
-Image: /img/header-89.jpg
+---
+title: Yevmiye 13489
+author: Emin Reşah
+date: 2016-06-19 18:00:09 
+dp: 13489 
+featured_image: /img/header-89.jpg
+---
 
 #### Nobel Cinayet Ödülü
 

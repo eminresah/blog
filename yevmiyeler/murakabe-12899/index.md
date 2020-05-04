@@ -1,11 +1,10 @@
-==============
-Murakabe 12899
-==============
-
-:date: 2014-12-04 16:52:51 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12899
+---
+title: "Murakabe 12899"
+date: 2014-12-04 16:52:51 +0200
+dp: 12899
+draft: true
+tags: []
+---
 
 Düşünceler geçiyor kafamdan ama toplayamıyorum.
 
@@ -74,3 +73,4 @@ yol gösterir gibi romanları sevmiyorum.
 *Vuracaksam kendim vururum, aracı kullanmam* diyorsun.
 
 Evet, onun gibi.
+

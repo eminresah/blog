@@ -1,11 +1,9 @@
-===============
-Yevmiye - 12094
-===============
-
-:date: 2015-11-17 21:46:59 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   <12095 - Sat 09:35>
+---
+title: "Yevmiye - 12094"
+date: 2015-11-17 21:46:59 +0200
+dp: 12094
+tags: []
+---
 
 - İyi görünmek kolay da, içini doldurmak zor. İçini dolduramamaktan korktuğum
   için iyi görünmek istemediğim çok oluyor. İnsanlara elma gösterince, elma
@@ -65,3 +63,4 @@ programlama, 10 sene müzik, 10 sene yazı, 10 sene *her neyse* yapmadan
 ~~~~~~~
 
 Bu işaret günün 18den başlayan saatini gösteriyor. *Hora Peregrini.*
+

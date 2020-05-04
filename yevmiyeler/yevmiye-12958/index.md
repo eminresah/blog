@@ -1,11 +1,10 @@
-12958
-=====
-
-:date: 2015-01-17 20:30:04 +0200
-
-.. :author: Emin Reşah
-.. :date: Tue Jan  6 12:57:55 EET 2015 
-.. :dp: 12958 
+---
+title: "12958"
+date: 2015-01-17 20:30:04 +0200
+dp: 12958
+draft: true
+tags: []
+---
 
 Ali Ünal'ın bir köşe yazısı varmış. *Cemaat hata yapmadı mı* diye
 sormak, Fethullaf efendiye hakaret demekmiş. Benim peygamberime
@@ -45,5 +44,6 @@ Yeryüzünde *sahibim* diyebileceğimiz tek şey düşünceler çünkü. Bunlara
 Moralimin bozulması gereken zamanlarda veya aşırı mutluluk
 zamanlarında yazarak, kendimi bulandığım düşüncelerden, dipsiz kuyudan
 kurtarmak. Hayatın *anlamı* bu olabilir. Hayatın anlamı.
+
 
 

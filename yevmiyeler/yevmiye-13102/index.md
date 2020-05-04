@@ -1,12 +1,10 @@
-Yevmiye 13102
-=================
-
-:date: 2015-06-23 03:28:36 +0300
-
-.. :author: Emin Reşah
-.. :date: Sat May 30 22:56:35 EEST 2015 
-.. :dp: 13103 
-
+---
+title: "Yevmiye 13102"
+date: 2015-06-23 03:28:36 +0300
+dp: 13102
+tags: []
+markup: rst
+---
 
 The Atlantic'teki bir yazı `Çin demokrasisi neden kaçınılmaz değil
 <http://www.theatlantic.com/international/archive/2015/05/chinese-democracy-isnt-inevitable/394325/>`_
@@ -87,6 +85,7 @@ kapatıp açmanızı söylüyoruz? Hiçbir fikrimiz yok ve kapatıp açınca
 içindeki kendini düzeltme mekanizmalarının devreye gireceğini umut
 ediyoruz. 
  
+
 
 
 

@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12696
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12696
+---
+title: "Yevmiye - 12696"
+date: 2014-11-23 02:18:14 +0200
+dp: 12696
+draft: true
+tags: []
+---
 
 Dünya seni uyuşturmaya çalışıyor, sen uyanmaya çabalıyorsun. Ö
 
@@ -44,3 +44,4 @@ Yeşiller sonunda kahverengiye dönüyor. Hayat kimseye yeşil kalma imkanı
 bahşetmiyor ama yeşilliği de öldürmüyor. Belki hayat sadece yeşilin
 hayatıdır ve diğerleri onun yatağı, yorganı ve oyuncağı olduğu için
 varolup, sıkıldığı için yok oluyorlardır.
+

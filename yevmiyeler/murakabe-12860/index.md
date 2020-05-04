@@ -1,11 +1,10 @@
-==============
-Murakabe 12860
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12860
+---
+title: "Murakabe 12860"
+date: 2014-11-23 02:18:14 +0200
+dp: 12860
+draft: true
+tags: []
+---
 
 İşe bir mühendis alma niyetim var, adaylara teknik soru gönderdim, biri
 bana *soruyu açıklayabilir misiniz* diye cevap yazdı.
@@ -72,3 +71,4 @@ romandır.
 Bunlar da bitmeyen diyaloglar oluyor.
 
 Evet.
+

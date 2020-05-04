@@ -1,11 +1,10 @@
-Yevmiye 13020
-=============
-
-:date: 2015-03-14 01:19:21 +0200
-
-.. :author: Emin Reşah
-.. :date: Mon Mar  9 16:18:02 EET 2015 
-.. :dp: 13020 
+---
+title: "Yevmiye 13020"
+date: 2015-03-14 01:19:21 +0200
+dp: 13020
+draft: true
+tags: []
+---
 
 
 
@@ -16,5 +15,6 @@ asked to lend money.*
 *Arkadaşlığın kutsal bağı o kadar tatlı ve devamlı ve sadık ve
 dayanıklı bir tabiattadır ki bir hayat boyu sürer, borç para
 istenmediği sürece. -- Mark Twain*
+
 
 

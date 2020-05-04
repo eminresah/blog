@@ -1,12 +1,10 @@
-Yevmiye 13393
-=============
-
-:date: 2016-03-17 00:41:21 +0200
-
-.. :author: Emin Reşah
-.. :date: Wed Mar 16 00:06:16 EET 2016 
-.. :dp: 13393 
-
+---
+title: "Yevmiye 13393"
+date: 2016-03-17 00:41:21 +0200
+dp: 13393
+draft: true
+tags: []
+---
 
 Komployla meşgul olanların, insanların (politik doğrucu günümde değilim)
 *aptallığını* gözardı ettiğini düşünüyorum. Aptallık dünyada akıldan, zekadan ve
@@ -36,3 +34,4 @@ Komplolar vardır, her şey göründüğü gibi değildir, ancak her şey anlat�
 kadar yalınkat da değildir. 
 
 İnsan zihnine düşen, bir gölgeye dönüşüyor. 
+

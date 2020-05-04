@@ -1,11 +1,10 @@
-Yevmiye 12838
-=============
-
-:date: 2015-06-19 11:42:26 +0300
-
-.. :author: Emin Reşah
-.. :date: Sat May 30 21:48:11 EEST 2015 
-.. :dp: 13103 
+---
+title: "Yevmiye 12838"
+date: 2015-06-19 11:42:26 +0300
+dp: 12838
+draft: true
+tags: []
+---
 
    *Bu yazı yaklaşık 280 gün önce yazılmış. Bilgisayarda olmayınca
     sırası yeni geldi.*
@@ -176,6 +175,7 @@ getirdiğinden fazla olduğunu düşünüyorum. İnsanlar hayatlarının asla
 *o kadar* ilginç olmayacağını ve bu sebeple Allah'ın rahmetinin
 kendilerine yönelmeyeceğini de bu hikayelere gerçek muamelesi yaparak
 öğreniyor.
+
 
 
 

@@ -1,11 +1,10 @@
-==============
-Murakabe 12876
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12876
+---
+title: "Murakabe 12876"
+date: 2014-11-23 02:18:14 +0200
+dp: 12876
+draft: true
+tags: []
+---
 
 Ne okuyorsun bugünlerde?
 
@@ -68,3 +67,4 @@ Evet, gerçeğin romanlardan daha ilginç olmasının sebebi de belki budur.
 Yazar romanını yeterince işlese, duyguları, olayları ve kişileri
 derinliğince verse, belki okumanın *saat zayiatı* olarak görülmediği
 eserler de bulabileceğiz. Velakin bunlara pek de rastlamıyoruz.
+

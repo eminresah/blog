@@ -1,11 +1,10 @@
-=============
-Yevmiye 12839
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12839
+---
+title: "Yevmiye 12839"
+date: 2014-11-23 02:18:14 +0200
+dp: 12839
+draft: true
+tags: []
+---
 
 Badem ABD'nin en çok tüketilen çerezi haline gelmiş. Buna bağlı üretimi
 de artmış.
@@ -128,3 +127,4 @@ hallerinin de korkulardan kaynaklandığını görebiliriz. Bir yere
 
 Lüzumsuz bilgi kabilinden: Franz Ferdinand'ın şoförü yolunu değiştirmese
 belki Birinci Dünya Savaşı çıkmayacaktı.
+

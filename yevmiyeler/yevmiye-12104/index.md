@@ -1,11 +1,9 @@
-===============
-Yevmiye - 12104
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <12105 - Tue 11:44>
+---
+title: "Yevmiye - 12104"
+date: 2014-11-23 02:18:14 +0200
+dp: 12104
+tags: []
+---
 
 Kolesterol
 ~~~~~~~~~~
@@ -20,3 +18,4 @@ değerleri ciddiye almamak zor. *Boşver yaa* diyebileceğim kadar ufak bir
 fark yok.
 
 Bakalım bir ay ilaç kullandıktan sonra değerler nasıl değişecek.
+

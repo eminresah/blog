@@ -1,11 +1,10 @@
-=============
-Yevmiye 12774
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12774
+---
+title: "Yevmiye 12774"
+date: 2014-11-23 02:18:14 +0200
+dp: 12774
+draft: true
+tags: []
+---
 
 Film seyretmek ne zor geliyor. Çok yavaş. İnsanlar sevdikleri filmleri
 paylaştığında kendimden utanıyorum. Ne ara böyle oldum? Korkutucu bir
@@ -42,3 +41,4 @@ pek etkisi yok. Bu da böyle tuhaf bir durum.
 Kafirun suresi **ben sizin taptıklarınıza tapmam** diye başlıyor. Önce
 bir red var. Bu redden sonra **siz benim taptıklarıma tapmazsınız** diye
 devam ediyor.
+

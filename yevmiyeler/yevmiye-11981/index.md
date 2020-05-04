@@ -1,11 +1,9 @@
-=====
-11981
-=====
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <11981 - Thu 06:47>
+---
+title: "11981"
+date: 2014-11-23 02:18:14 +0200
+dp: 11981
+tags: []
+---
 
 Kafamın içinde *beni yaz, beni yaz* diye bağıran, ama ne olduklarını
 anlamadığım bir takım klişelerle uyandım. Rüyanın ortasında mıydım,
@@ -87,3 +85,4 @@ verdiği cevapların çoğunun bir şekilde *kritikle* uğraşması da
 bir soru uyandırdı ama soracak kadar yakın değildiler.
 
 Hikaye yazmam lazımdı sanırım. Belki de bunu istiyordun.
+

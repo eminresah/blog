@@ -1,8 +1,10 @@
-=============
-Yevmiye 13265
-=============
-
-:date: 2015-11-09 21:36:18 +0200
+---
+title: "Yevmiye 13265"
+date: 2015-11-09 21:36:18 +0200
+dp: 13265
+draft: true
+tags: []
+---
 
 İnsanın ne anlatacağını bilip, nasıl anlatacağını bilmeyişi ilginç. Demek ki
 sözsüz düşüncelerimiz de var. Bir yandan gitmek istediğin yeri biliyorsun, bir
@@ -96,4 +98,5 @@ taca atmaktan başka bir manası yok. Öyle bir Altın Çağ yoktu, vardıysa da
 kısa sürdü ve oradaki insanların bizimkiyle durumları aynı değildi. Doğru, insan
 yaratılışı itibariyle bunu *bahane* olarak da kullanabilir, ancak imtihan zaten
 o bahaneleri ortadan kaldıracak kadar iyi olabilmekte.
+
 

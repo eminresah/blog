@@ -1,11 +1,10 @@
-==============
-Murakabe 12840
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12840
+---
+title: "Murakabe 12840"
+date: 2014-11-23 02:18:14 +0200
+dp: 12840
+draft: true
+tags: []
+---
 
 İnsanın kendini öğrenmesi mümkün mü?
 
@@ -286,3 +285,4 @@ için.
 Pahalı yaşamak için mi para kazanıyorlar?
 
 Yaşın oldu otuzbeş, hala anlamadın mı?
+

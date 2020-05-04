@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12659
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12659
+---
+title: "Yevmiye - 12659"
+date: 2014-11-23 02:18:14 +0200
+dp: 12659
+draft: true
+tags: []
+---
 
 Yazı faaliyeti, biraz para kazanmaya benziyor. Yazdıkça yazmayı
 öğreniyor, hangi konuya girip, hangisinden uzak durmak gerektiğini,
@@ -62,3 +62,4 @@ böyledir. Her biri 1 sene süren 10 iş yapmak, 10 sene süren tek bir iş
 yapmaktan daha kolaydır. Çok uzaktaki bir ilahı konu edinmek, buna
 benzer bir zorlukta. *10 küçük ilaha inanmak*, 1 büyük ilaha inanmaktan
 daha kolay.
+

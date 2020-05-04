@@ -1,7 +1,9 @@
-Title: Yevmiye 13483
-Author: Emin Reşah
-Date: 2016-06-13 18:00:18 
-Dp: 13483 
+---
+title: Yevmiye 13483
+author: Emin Reşah
+date: 2016-06-13 18:00:18 
+dp: 13483 
+---
 
 *Kanun önünde fakirin de, zenginin de ekmek çalması eşittir.*
 

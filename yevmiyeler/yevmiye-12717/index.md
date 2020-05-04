@@ -1,10 +1,10 @@
-=============
-yevmiye-12717
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12717
+---
+title: "yevmiye-12717"
+date: 2014-11-23 02:18:14 +0200
+dp: 12717
+draft: true
+tags: []
+---
 
 Roma'nın ilk devrinde bir baba (*pater*) karısını öldürüp, çocuklarını
 köle olarak satmaya kanunen hak sahibiymiş. Dünya algılamaları da buna
@@ -88,3 +88,4 @@ bir insan için, bu davranışı bir süre sonra irade harcamayı bırakır.
 
 İnsanların gerçekten değişimi ve eğitimi de belki ancak böyle
 gerçekleşiyordur.
+

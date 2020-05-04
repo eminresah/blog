@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12648
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12648
+---
+title: "Yevmiye - 12648"
+date: 2014-11-23 02:18:14 +0200
+dp: 12648
+draft: true
+tags: []
+---
 
 Kolay konularda zor yazılar yazmaktansa, zor konularda kolay yazılar
 yazmayı tercih ediyorum. İlki daha *saygın* bulunuyor, insanlar
@@ -78,3 +78,4 @@ diyerek onlara intisap edip, onun kölesi olmuş. Ahlaken doğru olduğuna
 inansak, içinin dışının bir, altının üstünün benzer piştiğini gözlesek
 sırf bunu söylediği için onunla kimse uğraşmaz. Ama ikiyüzlülük ve
 ihanetin karşılığı her yerde, herkes için aynı.
+

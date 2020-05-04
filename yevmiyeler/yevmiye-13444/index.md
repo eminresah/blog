@@ -1,9 +1,10 @@
-Yevmiye 13444
-=============
-
-:date: 2016-05-06 00:33:01 +0300
-:dp: 13444 
-:image: /img/header-44.jpg
+---
+title: "Yevmiye 13444"
+date: 2016-05-06 00:33:01 +0300
+dp: 13444
+draft: true
+tags: []
+---
 
 Herkesin Türkiye için çalıştığı zamanlardayız. Kimse kendisi için çalışmıyor,
 herkes halk için, başkaları için, en kötü ihtimal ailesi için yaşıyor.
@@ -19,4 +20,5 @@ hali. Bencil insana bir ahlaki önermeyle yaklaşabilirsiniz, iyi davranmanın
 kendisi için iyi olduğunu, kötülüğün kendisi için kötü olduğunu
 söyleyebilirsiniz ve bunların anlamı olur. Ancak insanlar, kendileri için değil,
 başkaları için kötülük yapabiliyorsa, onları iyiliğe nasıl çağırabilirsiniz?
+
 

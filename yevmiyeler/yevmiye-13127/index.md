@@ -1,11 +1,10 @@
-Yevmiye 13127
-=============
-
-:date: 2015-06-25 03:22:17 +0300
-
-.. :author: Emin Reşah
-.. :date: Wed Jun 24 03:13:22 EEST 2015 
-.. :dp: 13127 
+---
+title: "Yevmiye 13127"
+date: 2015-06-25 03:22:17 +0300
+dp: 13127
+draft: true
+tags: []
+---
 
 Ramazan'a bu sene geç başladım. Oniki saatte bir almam gereken
 ilaçları almaya devam edip, bir yandan da oruç tutmak *zor* olduğu
@@ -92,4 +91,5 @@ oynayalım onlar büyürken.
 Ancak bir yandan da onların bunu gerçekten isteyip istemediğinin
 endişesi var. Belki onların ihtiyacı sabahtan akşama çalışıp, onlara
 daha çok maddi imkan sunacak bir babadır. Bunu da bilmiyorum.
+
 

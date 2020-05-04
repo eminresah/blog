@@ -1,11 +1,10 @@
-Yevmiye 13057 / 2
-=================
-
-:date: 2015-04-17 22:57:04 +0300
-
-.. :author: Emin Reşah
-.. :date: Tue Apr 14 22:49:23 EEST 2015 
-.. :dp: 13057 
+---
+title: "Yevmiye 13057 / 2"
+date: 2015-04-17 22:57:04 +0300
+dp: 13057
+draft: true
+tags: []
+---
 
 Sabahları ne yazdığımı hatırlasam, akşamları hülasasını sunarım.
 
@@ -111,4 +110,5 @@ diye.
 ------
 
 Varoluş krizini sadece Allah'ın zikriyle çözebiliyorum.
+
 

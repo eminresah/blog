@@ -1,11 +1,10 @@
-Yevmiye 13030
-=============
-
-:date: 2015-03-26 22:20:48 +0200
-
-.. :author: Emin Reşah
-.. :date: Thu Mar 19 17:45:24 EET 2015 
-.. :dp: 13031 
+---
+title: "Yevmiye 13030"
+date: 2015-03-26 22:20:48 +0200
+dp: 13030
+draft: true
+tags: []
+---
 
 Sanırım twitter haftada kaç *takipçi* kazanıp/kaybettiğimi
 yolluyor. Başka bir servis de olabilir.
@@ -74,3 +73,4 @@ bittiğindeki hissi hatırlıyorum. Ama güzel romandı. Adamları yolda
 görsem tanırım. 
 
 .. _4cumle: http://4cumle.org 
+

@@ -1,11 +1,10 @@
-==============
-Murakabe 12835
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12835
+---
+title: "Murakabe 12835"
+date: 2014-11-23 02:18:14 +0200
+dp: 12835
+draft: true
+tags: []
+---
 
 Bakıyorum yine eski hobin mezheplere takılıyorsun.
 
@@ -90,3 +89,4 @@ inanırım. Allah günahlarımı affetsin. Ancak Allah'a (sanki bilmiyormuş
 gibi) hangi ibadetin kabul olup, hangisinin kabul olmayacağını anlatmaya
 varan bir uygulama değil. Sadece fiilin sözden önemli bir olduğunu
 tanımak lazım. Takva lafta ve gösterişte değil, fiilde ve imtihanda.
+

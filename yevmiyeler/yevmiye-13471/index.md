@@ -1,10 +1,10 @@
-Yevmiye 13471
-=========================
-
-:author: Emin Reşah
-:date: 2016-06-02 12:33:00 
-:dp: 13471 
-:image: /img/header-71.jpg
+---
+title: "Yevmiye 13471"
+date: 2016-06-02 12:33:00
+dp: 13471
+draft: true
+tags: []
+---
 
 *Internet neden eskisi gibi değil?*
 
@@ -61,3 +61,4 @@ herkes ekranlarla çalışıyor olur, takması gerektiğinde beş-on saniye bak�
 
 Buna rağmen Facebook bu şirkete ikibuçuk milyar dolar mı, öyle bir fiyat
 ödedi. 
+

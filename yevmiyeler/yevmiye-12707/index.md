@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12707
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12707
+---
+title: "Yevmiye - 12707"
+date: 2014-11-23 02:18:14 +0200
+dp: 12707
+draft: true
+tags: []
+---
 
 Elime Ahmet Cevat Emre'nin *Eski Türk Yazısının Menşei* diye bir
 kitapçığı geçti. Göktürk alfabesinin ne kadar orijinal olduğunu
@@ -62,3 +62,4 @@ ot vermiyor. Eğitim de ot cinsinden ve onun kendini tanımasını değil,
 
 .. |image0| image:: yuce-takdirleri.png
 .. |image1| image:: eyi.png
+

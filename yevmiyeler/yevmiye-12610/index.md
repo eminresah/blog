@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12610
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12611
+---
+title: "Yevmiye - 12610"
+date: 2014-11-23 02:18:14 +0200
+dp: 12610
+draft: true
+tags: []
+---
 
 /Yakarışlarımızı kimse duymuyor/ diye başladı sözlerine rahip. *Sen duy,
 sen*.
@@ -92,3 +91,4 @@ Hayata dair konuşmanın anlamı ve anlamsızlığı da burada. *Kimin hayatı?*
 sorusunun cevabını veren varsa, anlam da zaten kendiliğinden ortaya
 çıkar. Bu sorunun cevabını veremiyorsa kişi, hiç oturup da anlam
 aramasın, bulamayacaktır.
+

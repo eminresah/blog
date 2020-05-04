@@ -1,11 +1,10 @@
-Yevmiye 12998
-=============
-
-:date: 2015-02-15 16:58:40 +0200
-
-.. :author: Emin Reşah
-.. :date: Sat Feb 14 22:00:21 EET 2015 
-.. :dp: 12998 
+---
+title: "Yevmiye 12998"
+date: 2015-02-15 16:58:40 +0200
+dp: 12998
+draft: true
+tags: []
+---
 
 Eski yazıları düzeltirken, bazı cümleleri hangi vesileyle yazdığımı
 merak ediyorum.  Çok önyargım varmış.  Gençlik önyargıları.  Belki
@@ -60,4 +59,5 @@ olduğu *fantazisi* propagandadan başka bir şey değil.  Aynı zamanda
 bir devlet başkanı olan ve Batı standartlarına göre hayli faşist bir
 yönetimi temsil eden Dalay Lama'nın, *barış elçisi* olarak
 dolanabilmesi de bu propagandaya bağlı biraz. 
+
 

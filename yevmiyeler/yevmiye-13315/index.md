@@ -1,7 +1,10 @@
-Yevmiye 13315
-=============
-
-:date: 2016-01-06 11:54:14 +0200
+---
+title: "Yevmiye 13315"
+date: 2016-01-06 11:54:14 +0200
+dp: 13315
+draft: true
+tags: []
+---
 
 24 Kasım'dan beri yazmadım herhalde. Şu sıralar politika yazmak istemiyorum ama
 hiçbir yerde okumadığım bir iki cümle yazayım.
@@ -87,6 +90,7 @@ nikotin kandan atılıncaya kadarmış, o da 48 saatten kısa sürüyor. Bu sür
 sonraki bağımlılık psikolojik bağımlılık, onu da sakızla bile aşabilmesi lazım
 insanın. Veya mutfağa girince, buzdolabından yiyecek yerine kitap almaya
 alışırsan, can sıkıntını yemekle değil, kitapla gideriyorsun. 
+
 
 
 

@@ -1,11 +1,10 @@
-Yevmiye 13371
-=============
-
-:date: 2016-03-09 23:43:58 +0200
-
-.. :author: Emin Reşah
-.. :date: Mon Feb 22 23:19:52 EET 2016 
-.. :dp: 13371 
+---
+title: "Yevmiye 13371"
+date: 2016-03-09 23:43:58 +0200
+dp: 13371
+draft: true
+tags: []
+---
 
 Bunu yazmasam olur aslında. Bahsetmek istediğim konular değil. İncir çekirdeğini
 doldurmayacak konularda sayfalarca anlaşılmaz, uyduruk kelimeyle dolu cümleler
@@ -70,3 +69,4 @@ gözden kaçırmaya çalışıyor, suret-i haktan görünerek nifaka hizmet ediy
 Kaypaklık entelektüelin mütemmim cüzü müdür, bilmem. Kimseden *bizim orduya*
 asker yazılmasını beklemiyorum. Velakin savaş hukukunun, barış hukukundan farklı
 olduğunu yaşayarak öğrenmelerinde bir mahzur yok.
+

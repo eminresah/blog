@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12673
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12673
+---
+title: "Yevmiye - 12673"
+date: 2014-11-23 02:18:14 +0200
+dp: 12673
+draft: true
+tags: []
+---
 
 Üç gündür yazamıyorum. Ev taşıyoruz. Ev taşımak mı daha sinir bozucu, bu
 arada yazamamak mı bilemedim.
@@ -66,3 +66,4 @@ kolaydı, ancak düşman bir defa mağlup olduğunda, o ittifakların
 çatladığını görüyoruz. Bugün Gülenizm karşısında birleşmiş İslamcılar
 da, yarın bu düşman ortadan kalktığında aynı sorunlar ortaya çıkacak.
 Laikliği eleştirmesi kolay ancak yerine ne koyacaksınız?
+

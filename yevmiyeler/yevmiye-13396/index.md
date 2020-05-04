@@ -1,11 +1,10 @@
-Yevmiye 13396
-=============
-
-:date: 2016-03-20 23:50:23 +0200
-
-.. :author: Emin Reşah
-.. :date: Sat Mar 19 00:03:41 EET 2016 
-.. :dp: 13396 
+---
+title: "Yevmiye 13396"
+date: 2016-03-20 23:50:23 +0200
+dp: 13396
+draft: true
+tags: []
+---
 
 Falancanın Türkiye'de 5350 dolara sattığı ekran kartının amazon.com'daki fiyatı
 3000 dolar. 1000 dolara Amerika'ya gidip gelsen, gelirken de bunlardan 4 tane
@@ -49,4 +48,5 @@ aynı sebepte hala komikler.
 
 Soğuk savaş kelimesi ilk defa Fransızlar tarafından, Hitler'in sinir savaşı için
 kullanılmış. La guerre froide.
+
 

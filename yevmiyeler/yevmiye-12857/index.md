@@ -1,11 +1,10 @@
-=============
-Yevmiye 12857
-=============
-
-:date: 2015-11-16 00:07:17 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12857
+---
+title: "Yevmiye 12857"
+date: 2015-11-16 00:07:17 +0200
+dp: 12857
+draft: true
+tags: []
+---
 
 Duygularımız, şüphelerimiz, aklımızdan geçenler birbirine benziyor. Bizi
 birbirimizden ayıran, bunlara nasıl yaklaştığımız.
@@ -41,3 +40,4 @@ unutulan gibi, kendin de, o her duygunun ardındaki kendin de unutulunca
 zulme uğrar. Onu unutma. Kendine zulmetme.
 
 Nefsini bilenin rabbini bilmesini de böylece anlarsın.
+

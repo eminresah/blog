@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12636
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12636
+---
+title: "Yevmiye - 12636"
+date: 2014-11-23 02:18:14 +0200
+dp: 12636
+draft: true
+tags: []
+---
 
 Her gün okuduğum binlerce kelime arasından bir şeyler kalıyor aklımda,
 onları mı yazıya geçirmeliyim, pratik tavsiyelerde mi bulunmalıyım,
@@ -138,3 +137,4 @@ salatası.
 
 Laf salatası da bir romanın vazgeçilmez tarafı, çünkü sayfa sayısına
 göre etiket basılıyor üzerine.
+

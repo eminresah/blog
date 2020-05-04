@@ -1,8 +1,10 @@
-Yevmiye 13270
-=============
-
-:date: 2015-11-15 00:10:28 +0200
-
+---
+title: "Yevmiye 13270"
+date: 2015-11-15 00:10:28 +0200
+dp: 13270
+draft: true
+tags: []
+---
 
 Coursera'da *Learning How To Learn* diye bir dersi takip ediyorum. Ara sıra
 videolarını seyrediyorum, takip edip de fazla bir ilgim yok. 
@@ -68,5 +70,6 @@ oluyor?» diye sorasım geldi ama bakalım daha bitmedi yazı.
 
 Kitap müslüman halimle beni ikna edemiyor, Ateistler okuyunca ne düşünüyor merak
 ettim.
+
 
 

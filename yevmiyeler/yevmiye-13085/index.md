@@ -1,11 +1,10 @@
-Yevmiye 13085
-=============
-
-:date: 2015-06-05 12:29:25 +0300
-
-.. :author: Emin Reşah
-.. :date: Wed May 13 01:53:51 EEST 2015 
-.. :dp: 13085 
+---
+title: "Yevmiye 13085"
+date: 2015-06-05 12:29:25 +0300
+dp: 13085
+draft: true
+tags: []
+---
 
 
 
@@ -51,3 +50,4 @@ ayıklamaya tercih ediyor. Kim ne yapsın?
 Bu durumda politika bu beraberliğin, Batı'yla beraberliğin en iyi ne
 şekilde olacağını takdirle olur. Bağımsız gibi mi yapmak daha iyidir,
 bağımlı gibi yapmak mı?
+

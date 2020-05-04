@@ -1,11 +1,10 @@
-Yevmiye 13037
-=============
-
-:date: 2015-04-02 01:24:59 +0300
-
-.. :author: Emin Reşah
-.. :date: Thu Mar 26 09:05:36 EET 2015 
-.. :dp: 13037 
+---
+title: "Yevmiye 13037"
+date: 2015-04-02 01:24:59 +0300
+dp: 13037
+draft: true
+tags: []
+---
 
 Bir rüya gördüm. Bir banko gibi bir yerde, kadın bir polise benzeyen
 birinin işini bitirmesini bekliyordum. Sonra bir kağıt uzatıp, *kaç
@@ -53,3 +52,4 @@ dedi. Şahsi de olabilir. Ecelden kaçış yok.
 
 Bu rüyanın başka bir tabiri ise herhalde *sıkıntıdan kurtulmak*
 şeklinde olacaktır. Belki doğru. Bakalım. Hayrolsun. 
+

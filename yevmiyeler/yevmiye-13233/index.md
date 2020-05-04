@@ -1,11 +1,10 @@
-Yevmiye 13233
-=============
-
-:date: 2016-02-14 00:03:38 +0200
-
-.. :author: Emin Reşah
-.. :date: Wed Oct  7 21:36:45 EEST 2015 
-.. :dp: 13233 
+---
+title: "Yevmiye 13233"
+date: 2016-02-14 00:03:38 +0200
+dp: 13233
+draft: true
+tags: []
+---
 
 *Ölmeden önce nefsinizi hesaba çekin* demiş peygamber. Ben nefsimi hesaba
 çekmekten öldüm. 
@@ -20,3 +19,4 @@ yavaş her öğün belirli şeyler yemeye başlayacağım sanırım. Sabah ve ak
 yiyeceğim, ne giyeceğim belli.
 
 Az konuda daha derin hesaplar, hedefim bu. 
+

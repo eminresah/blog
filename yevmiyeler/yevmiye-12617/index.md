@@ -1,10 +1,10 @@
-=============
-Yevmiye 12617
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12617
+---
+title: "Yevmiye 12617"
+date: 2014-11-23 02:18:14 +0200
+dp: 12617
+draft: true
+tags: []
+---
 
 Bugün faydalandığım, takip ettiğim blogları ve kaynakları soran bir
 eposta aldım. Internet'te takip ettiklerimin çoğu teknik ve normal
@@ -116,3 +116,4 @@ Serbest Ticaret'e geçiş olarak anılıyor.
 
 Bu yazıyı çabuk yazmak gayesiyle link kullanmadım. Google emrinize
 amade.
+

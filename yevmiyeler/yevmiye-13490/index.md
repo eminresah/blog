@@ -1,8 +1,10 @@
-Title: Yevmiye 13490
-Author: Emin Reşah
-Date: 2016-06-20 18:00:14 
-DP: 13490 
-Image: /img/header-90.jpg
+---
+title: Yevmiye 13490
+author: Emin Reşah
+date: 2016-06-20 18:00:14 
+dp: 13490 
+featured_image: /img/header-90.jpg
+---
 
 ## Obama'nın Adaleti
 

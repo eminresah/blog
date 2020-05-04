@@ -1,11 +1,10 @@
-Yevmiye 13215
-=============
-
-:date: 2015-09-20 05:12:06 +0300
-
-.. :author: Emin Reşah
-.. :date: Sun Sep 20 04:51:34 EEST 2015 
-.. :dp: 13215 
+---
+title: "Yevmiye 13215"
+date: 2015-09-20 05:12:06 +0300
+dp: 13215
+draft: true
+tags: []
+---
 
 Gece saat iki civarında içim içime sığmayarak uyandım. Midemdeki
 kelebeklerin hepsi birden havalanmış gibi bir his. Çalışması gerektiği
@@ -59,4 +58,5 @@ gösterecek bir çözüm de üretmem gerekiyor sanırım.
 Veyahut yazılara bakıp, imla ve ifade hatalarını bulacak ve biraz
 (bilgisayarda) Osmanlı Türkçesiyle uğraşacak bir editöre ihtiyacım
 var. Maaş bile vermem mümkün.
+
 

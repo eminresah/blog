@@ -1,7 +1,10 @@
-Yevmiye 12962
-=============
-
-:date: 2015-01-22 13:54:29 +0200
+---
+title: "Yevmiye 12962"
+date: 2015-01-22 13:54:29 +0200
+dp: 12962
+draft: true
+tags: []
+---
 
 Angara'nın Bitmeyen Angaryası. Bulduğum fikirlerin bataryası. Sönük ve
 ışıltısız. Kendime sayarken zırıltısız. Ah, ağlamak kimin işi? Benim
@@ -119,3 +122,4 @@ yapamayacağımızı da anlamak icap ederdi. Kan akmayacaksa, bizimki de
 akmayacak.
 
 .. _No True Scotsman Safsatası: http://en.wikipedia.org/wiki/No_true_Scotsman
+

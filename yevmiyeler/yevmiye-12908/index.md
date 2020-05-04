@@ -1,11 +1,10 @@
-=============
-Yevmiye 12908
-=============
-
-:date: 2014-12-04 16:46:22 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12908
+---
+title: "Yevmiye 12908"
+date: 2014-12-04 16:46:22 +0200
+dp: 12908
+draft: true
+tags: []
+---
 
 Tecrübe ettiğim kadarıyla düşünmemek bende ancak yazmakla mümkün.
 Yazmayı hayatın kendisi haline getirebilirsem veya her an yazacak hale
@@ -76,5 +75,6 @@ böyle olur* kurallarına inanmıyorum. İnanmak istemediğimden değil,
 aydınlatmalarını isteyeceğim. Açıkça söylesem olur herhalde: *Ben sizi
 yönetmeyi bilmiyorum, onun için mümkün olduğunda açık olun ve beni
 mahcup etmeyin.*
+
 
 

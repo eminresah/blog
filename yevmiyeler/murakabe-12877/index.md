@@ -1,11 +1,10 @@
-==============
-Murakabe 12877
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12877
+---
+title: "Murakabe 12877"
+date: 2014-11-23 02:18:14 +0200
+dp: 12877
+draft: true
+tags: []
+---
 
 `Şu paylaştığın ekran
 görüntüsünü <file:~/Repository/eminresah/yevmiye-12877/>`__\ açıklaman
@@ -107,3 +106,4 @@ ve tasarımla uğraşanlar sırf o işi yapan tabletler edinebildiğinde hepsi
 daha iyi olacak.
 
 Bugünkü yazı da pek bir teknik oldu.
+

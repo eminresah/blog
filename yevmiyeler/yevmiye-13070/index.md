@@ -1,11 +1,10 @@
-Yevmiye 13070
-=============
-
-:date: 2015-04-30 22:21:56 +0300
-
-.. :author: Emin Reşah
-.. :date: Mon Apr 27 23:44:10 EEST 2015 
-.. :dp: 13070 
+---
+title: "Yevmiye 13070"
+date: 2015-04-30 22:21:56 +0300
+dp: 13070
+draft: true
+tags: []
+---
 
 Bu memleketle, daha doğrusu memleketin insanıyla ilgili
 sevmediklerimin başında, bir işi çıktığında illa *tanıdık* araması
@@ -36,3 +35,4 @@ alenen fitneden başka bir şey olmadığını da biliyorlar herhalde.
 
 Merak ettiğim, içeride kimler *ötmeye* başladı da, böyle bir aceleyle
 adamları çıkarmaya çalıştılar. Pasaportlar da hazır mıydı?
+

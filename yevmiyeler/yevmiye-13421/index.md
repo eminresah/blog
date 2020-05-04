@@ -1,9 +1,10 @@
-Yevmiye 13421
-=============
-
-:date: 2016-05-06 00:54:55 +0300
-:dp: 13421 
-:image: /img/header-21.jpg
+---
+title: "Yevmiye 13421"
+date: 2016-05-06 00:54:55 +0300
+dp: 13421
+draft: true
+tags: []
+---
 
 Telefonlarla ilgili acayip bir yılgınlık içindeyim. İnsana bu kadar yakın duran
 bir cihazın, bu kadar hassas ve kırılgan olmasından herhalde. Bir senedir
@@ -67,3 +68,4 @@ Yazarken yazarken farkettim ki, Hinduların ineklere bakışıyla, Cemaatinin
 Gülen'e bakışı neredeyse aynı. Karakterindeki o vericilik, o sakinlik, o geviş
 getiriyormuş gibi vaazlar ve salına salına yürümesi... Acaba, acaba Brahma'nın
 avatarı mı kendisi?
+

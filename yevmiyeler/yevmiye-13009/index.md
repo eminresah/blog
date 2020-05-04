@@ -1,11 +1,10 @@
-Yevmiye 13009
-=============
-
-:date: 2015-05-16 23:14:55 +0300
-
-.. :author: Emin Reşah
-.. :date: Fri Feb 27 12:41:21 EET 2015 
-.. :dp: 13010 
+---
+title: "Yevmiye 13009"
+date: 2015-05-16 23:14:55 +0300
+dp: 13009
+draft: true
+tags: []
+---
 
 
 Tırnaklarımı kesmem lazım. Epizodik işler. Elim yavaş yazıyor yeni
@@ -64,4 +63,5 @@ kadar çarpıcı değil.
 
 Doğru görünüm peşindeyiz. Altından ne çıktığı hiçbir uzvumuza temas
 etmiyor.
+
 

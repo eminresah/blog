@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12756
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12756
+---
+title: "Yevmiye - 12756"
+date: 2014-11-23 02:18:14 +0200
+dp: 12756
+draft: true
+tags: []
+---
 
 Eskiden, henüz cep telefonları ve kameralar bu kadar yaygın değilken,
 çok fazla UFO hikayesi olurdu. Kaçırıldığını söyleyenler, görenler,
@@ -46,3 +45,4 @@ yönelmesi. Küçük cihadın küçüklüğü, problemin daha kolay olmasından
 değil, tecrübeye daha kolay dökülmesinden. Çünkü insan kendiyle cihad
 ederken, beyana çok daha rahat kapılıp, kendini terbiye etmek yerine
 kuralları değiştiriveriyor.
+

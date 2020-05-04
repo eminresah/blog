@@ -1,13 +1,10 @@
-Yevmiye 13408
-=============
-
-:date: 2016-04-01 17:23:46 +0300
-
-.. :author: Emin Reşah
-.. :date: Wed Mar 30 23:41:47 EEST 2016 
-.. :dp: 13408 
-
-.. 
+---
+title: "Yevmiye 13408"
+date: 2016-04-01 17:23:46 +0300
+dp: 13408
+draft: true
+tags: []
+---
 
    Önce isimleri, sonra yüzleri, sonra fermuarını çekmeyi, en son da fermuarını
    indirmeyi unutursun.  -- George Burns
@@ -32,5 +29,6 @@ karpuz taşıma becerisini kaybediyor. Bir işten başkasına geçmek daha zorla
 bunu farkediyorum. Dimağ yorulduğu vakit, ne kitap okumaya, ne podcast dinlemeye
 mecalim oluyor. Geriden geriden bir baş ağrısı, gözlerimi kapatıp, uykuya dalmak
 istiyorum.
+
 
 

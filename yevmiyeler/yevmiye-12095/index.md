@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12095
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   <12096 - Sun 09:22>
+---
+title: "Yevmiye - 12095"
+date: 2014-11-23 02:18:14 +0200
+dp: 12095
+draft: true
+tags: []
+---
 
 Hint-Avrupa Dilleri
 ~~~~~~~~~~~~~~~~~~~
@@ -88,3 +87,4 @@ en iyisiyle tanıştırmak gibi bir *vazifeniz* vardır; pratik zekası o
 kadar fazla olmayan insanların da yapabileceklerinin en iyisini
 yapmaları için bir fark yaratmak gerekir. Bu fark da, yeterince zeki
 olmayanları *suçlamamakla* başlar.
+

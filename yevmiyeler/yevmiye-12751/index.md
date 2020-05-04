@@ -1,11 +1,10 @@
-=============
-Yevmiye 12751
-=============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12751
+---
+title: "Yevmiye 12751"
+date: 2014-11-23 02:18:14 +0200
+dp: 12751
+draft: true
+tags: []
+---
 
 Hatıralarını hatırlayan biri gibi hissetmeye başladım. Eski günlerini
 tüm çıplaklığıyla hatırlayan ve gözden geçiren biri gibi. Düşünüp
@@ -53,3 +52,4 @@ Hikayenin hızlanmasını ve böylece çabucak akıp gitmesini isteyenler de
 yanlış bir şey istemiyorlar. Aslına bakarsanız, hayat hakkındaki tüm
 görüşlerin aynı anda mümkün olduğunu da hissetmeye başladım. Bakalım
 nereye varacak.
+

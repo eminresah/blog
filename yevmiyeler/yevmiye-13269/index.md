@@ -1,9 +1,10 @@
-=============
-Yevmiye 13269
-=============
-
-:date: 2015-11-13 23:08:14 +0200
-
+---
+title: "Yevmiye 13269"
+date: 2015-11-13 23:08:14 +0200
+dp: 13269
+draft: true
+tags: []
+---
 
 Adem
 ####
@@ -88,4 +89,5 @@ kadarını uygularız, daha falzasını da Allah'ın üzerimize sorumlu tutmamas
 dileriz. Falanca hadis dindendir, filanca hadis değildir, diye bir tartışma,
 bugüne dair bir şeyi değiştirmeyecekse, manasızdır. Allah hepimize hidayet
 etsin.
+
 

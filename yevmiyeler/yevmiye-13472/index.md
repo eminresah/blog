@@ -1,10 +1,10 @@
-Yevmiye 13472
-=========================
-
-:author: Emin Reşah
-:date: 2016-06-02 18:05:29 
-:dp: 13472 
-:image: /img/header-72.jpg
+---
+title: "Yevmiye 13472"
+date: 2016-06-02 18:05:29
+dp: 13472
+draft: true
+tags: []
+---
 
 Bir arkadaş *sana doktorayı bitirmek aslında çok yakışır, belki akademisyen
 olmak da öyle. Senin yeni insanlar yetiştirmen gerekir.* dedi.
@@ -185,3 +185,4 @@ tavsiyesi vermek en iyisi elbette. Ancak bunun pek çok durumda, anahtarları
 olabilir, yani çalışınca yaparsın ancak olmayabilir de. Ancak orada değilse,
 yani çalışarak yapamayacaksan, elinde başka bir imkan olmadığı için yine de en
 iyisi çalışmak. 
+

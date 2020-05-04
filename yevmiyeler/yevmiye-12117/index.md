@@ -1,11 +1,9 @@
-===============
-Yevmiye - 12117
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <>
+---
+title: "Yevmiye - 12117"
+date: 2014-11-23 02:18:14 +0200
+dp: 12117
+tags: []
+---
 
 ~17::48
 ~~~~~~~
@@ -38,3 +36,4 @@ of evil that Islam has fought for centuries to control./ (p. 353)
 they had these codes built into them from childhood and so were
 unaffected by the breakdown they produced. But their descendants, raised
 without the codes, have suffered./ (p. 354)
+

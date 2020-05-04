@@ -1,11 +1,10 @@
-Yevmiye 12958/2
-===============
-
-:date: 2015-11-21 22:16:07 +0200
-
-.. :author: Emin Reşah
-.. :date: Mon Jan  5 22:16:30 EET 2015 
-.. :dp: 12958 
+---
+title: "Yevmiye 12958/2"
+date: 2015-11-21 22:16:07 +0200
+dp: 12958
+draft: true
+tags: []
+---
 
 Bazı kelimeler dizmek istiyorum sana okur. Gününü ve geceni unutmanı sağlayacak
 kelimeler. Bildiğin cinsten kelimeler. Belki sana bir faydası olmayacak ancak en
@@ -63,3 +62,4 @@ Ve yine nihayetinde olanın hayatın içinde bir şeyler yapmak olduğunu, başa
 değilse de, anlamlı işler peşinde koşmak olduğu ve mutluluğun da, *hayatını
 yaşamanın* da ancak böyle mümkün olduğu kanaati hasıl oldu bende. Yaptığın işi
 hakkıyla yap ve hayatını hakkıyla yaşa.
+

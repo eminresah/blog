@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12689
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12689
+---
+title: "Yevmiye - 12689"
+date: 2014-11-23 02:18:14 +0200
+dp: 12689
+draft: true
+tags: []
+---
 
 Bugün neler öğrendiğime dairdir.
 
@@ -62,3 +62,4 @@ Kudüs de Müslümanlar için diğer iki Harem kadar acı verici değil, çünk�
 sembolik bir anlamı var ama kimse Kudüs'e haccetmeye gitmiyor.
 Müslümanların en kötü olduğu zamanlarda bile o derece bir yıkım olmadı,
 Müslümanlar değişmemekte haklı değil mi?
+

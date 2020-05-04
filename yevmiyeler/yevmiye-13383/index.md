@@ -1,11 +1,10 @@
-Yevmiye 13383
-=============
-
-:date: 2016-03-16 00:15:33 +0200
-
-.. :author: Emin Reşah
-.. :date: Sun Mar  6 01:14:27 EET 2016 
-.. :dp: 13383 
+---
+title: "Yevmiye 13383"
+date: 2016-03-16 00:15:33 +0200
+dp: 13383
+draft: true
+tags: []
+---
 
 Anlattığımı direkt anlatmayı tercih ediyorum. İstiare sanatı benim gibi odunlara
 uygun değil. Telmihleri inşa edecek sabrım yok. Ne diyorsam onu diyorum ve bunu
@@ -58,3 +57,4 @@ yazı yazan adam aklıma geldi. Aralarında erkek kalmamış gibi, sırf tribün
 *başörtülülere zulüm* fotoğrafı göstermek için öne sürdükleri kızları görünce
 *Hizmet'e şiddet yakışmıyor* dedim. Dedim evet. Allah onlara diğer Müslümanlara
 yapmayı istediklerinden fazlasını yaşatmasın, ama azını da yaşatmasın.
+

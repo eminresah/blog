@@ -1,11 +1,10 @@
-Yevmiye 13148
-=============
-
-:date: 2015-07-15 01:42:39 +0300
-
-.. :author: Emin Reşah
-.. :date: Wed Jul 15 01:29:29 EEST 2015 
-.. :dp: 13148 
+---
+title: "Yevmiye 13148"
+date: 2015-07-15 01:42:39 +0300
+dp: 13148
+draft: true
+tags: []
+---
 
 Bu yazıyı sana adıyorum. Bu yazıdan başka adayacak bir şeyim yok. Ne
 var ki yazıdan başka adayacak sana?
@@ -110,3 +109,4 @@ manasızca bir iş olmak zorunda ama yetişmek de zorunda değil. Ne
 olacak bizim bu derdimizin çözümü?  Kafamın içine kurdukları bir RNN
 vasıtasıyla yazdırıyorlar bu metni. Ne dediğimi, elimin ne yazdığını
 ben de bilmiyorum.
+

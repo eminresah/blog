@@ -1,10 +1,9 @@
-===============
-Yevmiye - 12609
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
+---
+title: "Yevmiye - 12609"
+date: 2014-11-23 02:18:14 +0200
+dp: 12609
+tags: []
+---
 
 İnsanın yaşamak istediğinden emin olmayışı kadar, emin olması da problem
 mi? Nedir bizi hayata bağlayan iplik? O ipliği kalınlaştırmak veya
@@ -56,3 +55,4 @@ Nasıl olduğunu açıklayan bir fikir değil bu.
 bir sorun var: Bu yapıtaşları bölünemez mi? "Bölünme" de yukarda
 bahsettiğim dönüşümlere benziyor. Bu dönüşümlerden biri "bölünme" ancak
 hayalin bölünmesi nasıl olacak?
+

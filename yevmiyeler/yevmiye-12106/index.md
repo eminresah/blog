@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12106
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <12106 - Wed 23:50>
+---
+title: "Yevmiye - 12106"
+date: 2014-11-23 02:18:14 +0200
+dp: 12106
+draft: true
+tags: []
+---
 
 İsimlerin ve Resimlerin Ardı
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -77,3 +76,4 @@ mind to matter, of the discontinuity of matter at the subatomic level,
 of the apparent purposelessness of the universe and the life within it
 are all monster platypi created by the subject-object metaphysics. (p.
 117)
+

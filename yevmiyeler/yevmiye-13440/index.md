@@ -1,9 +1,10 @@
-Yevmiye 13440
-=============
-
-:date: 2016-05-01 23:28:34 +0300
-:dp: 13440 
-:image: /img/header-40.jpg
+---
+title: "Yevmiye 13440"
+date: 2016-05-01 23:28:34 +0300
+dp: 13440
+draft: true
+tags: []
+---
 
 Ne bu işaret? Yorgunluk işareti? 
 
@@ -98,3 +99,4 @@ kıymetli olduğunu farzeden bende) uyandırdığı ise, geleneğin fikren iflas
 çok yakın olduğu. Çocukluktan beri sevdiğimiz ve bildiğimiz tek güzel ekmeği
 üreten fırının, kötü işletmeciler yüzünden kapanmaya doğru gittiğini görmek gibi
 bir şey bu. Üzücü.
+

@@ -1,11 +1,10 @@
-Yevmiye 12996
-=============
-
-:date: 2015-02-15 17:27:07 +0200
-
-.. :author: Emin Reşah
-.. :date: Thu Feb 12 22:40:57 EET 2015 
-.. :dp: 12996 
+---
+title: "Yevmiye 12996"
+date: 2015-02-15 17:27:07 +0200
+dp: 12996
+draft: true
+tags: []
+---
 
 İnsanın hayatta en önemli işi kendini kandırmak. Kendini ne kadar
 kandırabilirsen, o kadar başarılısın. Kendini kandıramıyorsan,
@@ -115,3 +114,4 @@ hikayelerinden önce Atatürk hikayelerimiz vardı ve onlar da Osmanlı
 hikayelerinden daha anlamlı sayılmazdı.
 
 .. _`Happy Hacking Keyboard`: http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard
+

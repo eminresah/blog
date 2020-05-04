@@ -1,11 +1,10 @@
-=======================
-Slaughterhouse-five (M)
-=======================
-
-:date: 2016-03-30 23:33:30 +0300
-
-.. :Author: Emin Reşah
-.. :Date:   12837
+---
+title: "Slaughterhouse-five (M)"
+date: 2016-03-30 23:33:30 +0300
+dp: 12837
+draft: true
+tags: []
+---
 
 Uzun zamandır istediğim bir kitaptı Slaughterhouse-five.
 
@@ -125,3 +124,4 @@ hepimizin Tanrı'nın oğlu olabileceğine dairdir.*
 Hmm. *Tanrı'nın oğlu* telmih tabii. *Ermek* dedikleri gibi mi?
 
 Fazla girmeyelim bu konuya, çıkamıyoruz sonra.
+

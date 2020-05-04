@@ -1,14 +1,11 @@
 ---
 title: "Overpromising"
 date: 2017-05-12 06:37:53
-expiryDate: 2018-05-12 06:37:53
 dp: 13815
 featured_image: "/images/header-15.jpg"
 images: ["/images/header-15.jpg"]
-published: true
 tags: []
 ---
-
 
 
 In [The Art of Manliness][taom] I've read the following and instantly felt bad about the emails I've not responded and words I've not kept.

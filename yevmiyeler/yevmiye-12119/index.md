@@ -1,11 +1,9 @@
-===============
-Yevmiye - 12119
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <>
+---
+title: "Yevmiye - 12119"
+date: 2014-11-23 02:18:14 +0200
+dp: 12119
+tags: []
+---
 
 ~14::6
 ~~~~~~
@@ -44,3 +42,4 @@ would have made the halos the same size. But they were both painting
 something they were seeing separately, which implied that that
 "something" they were painting had a real, independent existence./ (p.
 389)
+

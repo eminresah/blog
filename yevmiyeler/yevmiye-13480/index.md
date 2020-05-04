@@ -1,8 +1,10 @@
-Title: Yevmiye 13480
-Author: Emin Reşah
-Date: 2016-08-21 18:00:15 
-Dp: 13480
-Image: /img/header-80.jpg
+---
+title: Yevmiye 13480
+author: Emin Reşah
+date: 2016-08-21 18:00:15 
+dp: 13480
+image: /img/header-80.jpg
+---
 
 ### Kavganın Özü
 

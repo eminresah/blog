@@ -1,12 +1,10 @@
-Yevmiye 13399
-=============
-
-:date: 2016-03-23 00:39:10 +0200
-
-.. :author: Emin Reşah
-.. :date: Tue Mar 22 00:37:33 EET 2016 
-.. :dp: 13399 
-
+---
+title: "Yevmiye 13399"
+date: 2016-03-23 00:39:10 +0200
+dp: 13399
+draft: true
+tags: []
+---
 
 Muhalefet olmak güzel. Muhaliflikte bir büyü var. Gençlik büyüsü beğenmeme
 büyüsü. İnsanı dünyanın tepesine çıkaran *ben bu dünyadan ve onun sefil
@@ -74,3 +72,4 @@ virgül bir puan indirim yaptırmaları bile mümkün.
 Ben böyle muhalifleri görünce hem gülesim, hem ağlayasım geliyor. Memleketin
 halihazırdaki yöneticilerinden daha iyisini hakettiğini ben de düşünüyorum,
 ancak *daha iyisi* bunlar değil, o açık.
+

@@ -1,11 +1,10 @@
-=============
-Yevmiye 12867
-=============
-
-:date: 2015-11-15 00:29:59 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12867
+---
+title: "Yevmiye 12867"
+date: 2015-11-15 00:29:59 +0200
+dp: 12867
+draft: true
+tags: []
+---
 
 Kafamın dolduğu ve içindeki parçaların sağa sola çarptığı günlerin biri.
 Saydım, üç gündür klavye almamışım elime. Bayram gelince böyle oluyor.
@@ -88,3 +87,4 @@ Belki mevzu, Kumpanya'nın ihtiyacı olan yerde, doğru zamanda
 bulunmaktır. Çalışma, yetenek veya doğru kişileri tanımak ancak ondan sonra
 anlam kazanıyordur. Kumpanyanın neye ihtiyacı olduğunu kestirebiliyorsan, işini
 büyütebilirsin.
+

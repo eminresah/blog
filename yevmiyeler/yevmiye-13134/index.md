@@ -1,11 +1,10 @@
-Yevmiye 13134
-=============
-
-:date: 2015-08-06 07:49:22 +0300
-
-.. :author: Emin Reşah
-.. :date: Wed Jul  1 11:22:52 EEST 2015 
-.. :dp: 13134 
+---
+title: "Yevmiye 13134"
+date: 2015-08-06 07:49:22 +0300
+dp: 13134
+draft: true
+tags: []
+---
 
 Komplolar vs.
 $$$$$$$$$$$$$
@@ -88,3 +87,4 @@ $$$$$$$$
 
 Bu yayınlandığında 36 günlüktü. Gündem ne halde bilmiyorum ama onunla
 bir ilgisi yok.
+

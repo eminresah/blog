@@ -1,11 +1,10 @@
-===============
- Yevmiye 13479
-===============
-
-:author: Emin Reşah
-:date: 2016-06-09 18:00:16 
-:dp: 13479 
-:image: /img/header-79.jpg
+---
+title: "Yevmiye 13479"
+date: 2016-06-09 18:00:16
+dp: 13479
+draft: true
+tags: []
+---
 
 Kendini kandırmanın latincesi nedir?
 
@@ -74,5 +73,6 @@ Geçen bir bilgisayar geldi. Dışardan alındığı için klavyesinde Türkçe 
 yok. Ben de *fırsat bu fırsat, acaba artık İngilizce mi yazsam hep*
 dedim. İçimde bunun yavaş yavaş büyüdüğünü hissediyorum. Niyetim Türkçe
 yazdıklarımı elifba ile ve alfabeyle yazdıklarımı İngilizce yazmak. 
+
 
 

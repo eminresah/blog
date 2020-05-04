@@ -1,11 +1,10 @@
-Yevmiye 13400
-=============
-
-:date: 2016-03-30 23:21:11 +0300
-
-.. :author: Emin Reşah
-.. :date: Wed Mar 23 00:29:21 EET 2016 
-.. :dp: 13400 
+---
+title: "Yevmiye 13400"
+date: 2016-03-30 23:21:11 +0300
+dp: 13400
+draft: true
+tags: []
+---
 
 Arada sırada bilgisayar şifrelerini değiştirmek gibi bir adetim vardır. Kimsenin
 eline düşeceğinden korktuğum için değil ama sıkıldığım için. Linux'ta çok kolay,
@@ -84,3 +83,4 @@ bırakabileceğine inanmaktan farklı değil.
 ihtiyaçlarıyla hizaya getirmek arasında çok fark yok. Bunlardan ilkini,
 insanın faziletlerine uygun değil bir kenara atıp, ikincisine muhtaç olmak ve
 hayatımızı sermayenin belirlemesine bırakmak özgürlük değil.
+

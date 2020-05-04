@@ -1,10 +1,10 @@
-===============
-Yevmiye - 12701
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Date:   12701
+---
+title: "Yevmiye - 12701"
+date: 2014-11-23 02:18:14 +0200
+dp: 12701
+draft: true
+tags: []
+---
 
 Yaşamaktan daha manalı bir şeyler söyle bana.
 
@@ -68,3 +68,4 @@ yarıyor. *Önünde duranın farkındayken düşünmezsin* diyordu Watts bugün.
 Algıladığının farkındaysan düşünmezsin. Düşünce ise, bir hikayeden
 ibaret. Kendi kendine anlattığın bir hikaye. Gözünün önündekini görmeyi
 engelleyen bir hikaye. Bu yazılar da hikaye.
+

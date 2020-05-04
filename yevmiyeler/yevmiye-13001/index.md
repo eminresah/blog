@@ -1,11 +1,10 @@
-Yevmiye 13001
-=============
-
-:date: 2015-03-26 22:27:50 +0200
-
-.. :author: Emin Reşah
-.. :date: Tue Feb 17 23:50:01 EET 2015 
-.. :dp: 13001 
+---
+title: "Yevmiye 13001"
+date: 2015-03-26 22:27:50 +0200
+dp: 13001
+draft: true
+tags: []
+---
 
 Nir Eyal isimli bir *yazılım geliştirme danışmanının* *Hooked* isimli
 bir kitabına bakıyorum. Kitap *alışkanlık üreten ürünler*, bilhassa
@@ -66,4 +65,5 @@ olmayan çiziktirmelerle dolu olduğunu insandan başka cihazların
 bulacak olmasına üzülüyor. 1000 sayfalık bir kitap alıyorsun,
 hikaye 100. sayfada bitiyor ve geri kalanı anlamadığın bir dilde
 yazılmış. Merak etmez misin?
+
 

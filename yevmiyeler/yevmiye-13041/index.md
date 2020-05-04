@@ -1,11 +1,10 @@
-Yevmiye 13041
-=============
-
-:date: 2015-03-29 19:49:50 +0300
-
-.. :author: Emin Reşah
-.. :date: Sun Mar 29 19:36:21 EEST 2015 
-.. :dp: 13041 
+---
+title: "Yevmiye 13041"
+date: 2015-03-29 19:49:50 +0300
+dp: 13041
+draft: true
+tags: []
+---
 
 Hayatında en çok plan yapan benmişim. Öyle dedi karım bana. Belki
 hayatında başka plan yapan kimse görmemiştir.
@@ -123,6 +122,7 @@ inanabilir. Buna kötülüğün yeryüzünün tek yolu olduğunu ve nasılsa her
 Her şeye inanan insan, aslında zamanımızın asıl derdi belki
 budur. İnsanların genel olarak hayatı gibi görmeyişlerinde belki de bu
 var. 
+
 
 
 

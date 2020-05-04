@@ -1,9 +1,10 @@
-Yevmiye 13436
-=============
-
-:date: 2016-05-01 23:57:51 +0300
-:dp: 13436 
-:image: /img/header-36.jpg
+---
+title: "Yevmiye 13436"
+date: 2016-05-01 23:57:51 +0300
+dp: 13436
+draft: true
+tags: []
+---
 
 Sanırım sadece bomba patladığı günler yazmaya başlayacağım. Ulu Cami'nin yanında
 bomba patladı.
@@ -61,3 +62,4 @@ yanlış, ben doğru* dediğinde, Allah'a başkalarından daha yakın olduğunu
 gösterebilmen gerekir ve bu da genelde ibadetle ve dünya işlerinden uzak durarak
 olur. Yoksa atılan tohumları kuşlar yer ve tarlanda buğday değil, diken biter,
 bilemezsin.
+

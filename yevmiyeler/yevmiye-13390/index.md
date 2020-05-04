@@ -1,11 +1,10 @@
-Yevmiye 13390
-=============
-
-:date: 2016-03-13 21:56:20 +0200
-
-.. :author: Emin Reşah
-.. :date: Sun Mar 13 00:53:32 EET 2016 
-.. :dp: 13390 
+---
+title: "Yevmiye 13390"
+date: 2016-03-13 21:56:20 +0200
+dp: 13390
+draft: true
+tags: []
+---
 
 Anaxagoras'a öldüğünde nasıl bir tören istediğini sormuşlar. Rivayet odur ki,
 okul çocuklarının bir ay tatil yapmasını istemiş. Çocukların halinden anlayan
@@ -76,3 +75,4 @@ Reşid Rıza eksenini takip eden, bugün yaşasa hayli modernist bir müslüman
 olacakken, bizim tasavvuf ehlinin elinde keramet ve velayet sahibi olup
 evliyalaşmaya başladı. Elimizde ebcedle Safahat'a dalsak ne kerametler ve sırlar
 buluruz kim bilir. Hz. Akif diyorlar ya. Aleyhisselatüvesselam.
+

@@ -1,11 +1,10 @@
-=============
-Yevmiye 12887
-=============
-
-:date: 2014-12-15 10:22:56 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12887
+---
+title: "Yevmiye 12887"
+date: 2014-12-15 10:22:56 +0200
+dp: 12887
+draft: true
+tags: []
+---
 
 En önemli olayın ölüm olduğu bir yer burası. Birinin ölümü, bir türün
 ölümü veya onun gibi ölümler. Bir kerede hayatı değiştiren daha büyük
@@ -74,3 +73,4 @@ haberdar, Türklerin *ipso facto ayı* olduğuna inanmayan Batıcılara
 veyahut tarihinin hesabını verebilecek, aklı başında ve alnı secdede,
 menakıbdan başka fikri bulunan, yeri sağlam basan ve güneşe yürüyen
 Doğululara.
+

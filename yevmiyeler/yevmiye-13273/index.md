@@ -1,7 +1,10 @@
-Yevmiye 13273
-=============
-
-:date: 2015-11-20 21:37:56 +0200
+---
+title: "Yevmiye 13273"
+date: 2015-11-20 21:37:56 +0200
+dp: 13273
+draft: true
+tags: []
+---
 
 *Allah, Felsefe ve Bilim* kitabında Plantinga'nın yazdığı makaleyi
  okuyorum. Naturalizm'in Bilim'e Teizm'den daha uzak olduğunu söylüyor.
@@ -104,6 +107,7 @@ Bu soruya *tutarlılıkla* cevap vermek lazım. Düşüncelerimiz ve algılarım
 algıların konusu olan kainat beynin kendi kendine üreteceği kadar küçük ve
 insicamsız değil. Kainatın insicamını Tanrı'nın delili olarak kullanabiliyorsak,
 bu insicamı beynin üretmediğini de kabul etmek gerek. 
+
 
 
 

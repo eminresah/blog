@@ -1,11 +1,10 @@
-===============
-Yevmiye - 12105
-===============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin
-.. :Date:   <12106 - Wed 04:35>
+---
+title: "Yevmiye - 12105"
+date: 2014-11-23 02:18:14 +0200
+dp: 12105
+draft: true
+tags: []
+---
 
 Blogun Ölümü
 ~~~~~~~~~~~~
@@ -230,3 +229,4 @@ olursunuz. Plan yoksa kavga da olmaz.
 ~~~~~~~
 
 Herkesi memnun etmenin gerekmediğini anlayınca yaşanan özgürlük.
+
