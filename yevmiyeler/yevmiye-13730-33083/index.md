@@ -1,7 +1,6 @@
 ---
 title: "Manada Ustura"
 date: 2017-02-16 02:11:00
-expiryDate: 2018-02-16 02:11:00
 dp: 13730
 featured_image: "/images/header-30.jpg"
 images: ["/images/header-30.jpg"]

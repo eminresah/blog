@@ -1,7 +1,6 @@
 ---
 title: "Yevmiye 13947"
 date: 2017-09-20 22:50:30
-expiryDate: 2018-09-20 22:50:30
 dp: 13947
 featured_image: "/images/header-47.jpg"
 images: ["/images/header-47.jpg"]

@@ -1,7 +1,6 @@
 ---
 title: "Devrik Zamandan Kalan"
 date: 2017-03-16 22:18:16
-expiryDate: 2018-03-16 22:18:16
 dp: 13759
 featured_image: "/images/header-59.jpg"
 images: ["/images/header-59.jpg"]

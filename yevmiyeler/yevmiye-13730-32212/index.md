@@ -1,7 +1,6 @@
 ---
 title: "Yalana Üşenmek"
 date: 2017-02-16 01:55:13
-expiryDate: 2018-02-16 01:55:13
 dp: 13730
 featured_image: "/images/header-30.jpg"
 images: ["/images/header-30.jpg"]

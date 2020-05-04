@@ -3,7 +3,7 @@ title: Yevmiye 13481
 author: Emin Reşah
 date: 2016-06-11 18:00:10 
 dp: 13481 
-image: /img/header-81.jpg
+featured_image: /images/header-81.jpg
 ---
 
 Başımdaki bu hissin *aptallık hissi* olduğuna kanaat etmeme az kaldı. Beynim

@@ -1,7 +1,6 @@
 ---
 title: "Yevmiye 14011-01"
 date: 2017-11-24 01:03:42
-expiryDate: 2018-11-24 01:03:42
 dp: 14011
 featured_image: "/images/header-11.jpg"
 images: ["/images/header-11.jpg"]

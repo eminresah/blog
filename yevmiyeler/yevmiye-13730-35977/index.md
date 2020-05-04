@@ -1,7 +1,6 @@
 ---
 title: "Acıların İlacı"
 date: 2017-02-16 02:56:47
-expiryDate: 2018-02-16 02:56:47
 dp: 13730
 featured_image: "/images/header-30.jpg"
 images: ["/images/header-30.jpg"]

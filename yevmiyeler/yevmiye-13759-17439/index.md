@@ -1,7 +1,6 @@
 ---
 title: "2. Yüzleşme"
 date: 2017-03-16 21:50:30
-expiryDate: 2018-03-16 21:50:30
 dp: 13759
 featured_image: "/images/header-59.jpg"
 images: ["/images/header-59.jpg"]

@@ -3,7 +3,7 @@ title: Yevmiye 13480
 author: Emin Reşah
 date: 2016-08-21 18:00:15 
 dp: 13480
-image: /img/header-80.jpg
+featured_image: /images/header-80.jpg
 ---
 
 ### Kavganın Özü

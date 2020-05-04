@@ -1,7 +1,6 @@
 ---
 title: "Refah Çağında Gerçek"
 date: 2017-02-16 03:32:10
-expiryDate: 2018-02-16 03:32:10
 dp: 13730
 featured_image: "/images/header-30.jpg"
 images: ["/images/header-30.jpg"]

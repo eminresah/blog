@@ -1,7 +1,6 @@
 ---
 title: "Yevmiye 14004-20"
 date: 2017-11-16 19:30:32
-expiryDate: 2018-11-16 19:30:32
 dp: 14004
 featured_image: "/images/header-4.jpg"
 images: ["/images/header-4.jpg"]

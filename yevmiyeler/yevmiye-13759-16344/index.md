@@ -1,7 +1,6 @@
 ---
 title: "İthaf"
 date: 2017-03-16 21:32:15
-expiryDate: 2018-03-16 21:32:15
 dp: 13759
 featured_image: "/images/header-59.jpg"
 images: ["/images/header-59.jpg"]

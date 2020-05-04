@@ -1,7 +1,6 @@
 ---
 title: "Benim Adım Mustafa Değil"
 date: 2017-02-20 01:15:47
-expiryDate: 2018-02-20 01:15:47
 dp: 13734
 featured_image: "/images/header-34.jpg"
 images: ["/images/header-34.jpg"]

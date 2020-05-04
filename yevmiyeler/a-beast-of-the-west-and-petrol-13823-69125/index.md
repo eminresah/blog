@@ -1,7 +1,6 @@
 ---
 title: "A beast of the West and petroleum: Wahhabism"
 date: 2017-05-20 12:05:15
-expiryDate: 2018-05-20 12:05:15
 dp: 13823
 featured_image: "/images/header-23.jpg"
 images: ["/images/header-23.jpg"]

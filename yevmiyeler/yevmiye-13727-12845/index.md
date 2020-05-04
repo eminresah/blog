@@ -1,7 +1,6 @@
 ---
 title: "1. Yüzleşme"
 date: 2017-02-12 22:26:29
-expiryDate: 2018-02-12 22:26:29
 dp: 13727
 featured_image: "/images/header-27.jpg"
 images: ["/images/header-27.jpg"]

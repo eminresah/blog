@@ -1,7 +1,6 @@
 ---
 title: "Yevmiye 14003-15"
 date: 2017-11-16 14:47:17
-expiryDate: 2018-11-16 14:47:17
 dp: 14003
 featured_image: "/images/header-3.jpg"
 images: ["/images/header-3.jpg"]

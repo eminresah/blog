@@ -1,7 +1,6 @@
 ---
 title: "Yevmiye 13856"
 date: 2017-06-22 04:08:55
-expiryDate: 2018-06-22 04:08:55
 dp: 13856
 featured_image: "/images/header-56.jpg"
 images: ["/images/header-56.jpg"]

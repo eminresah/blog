@@ -1,7 +1,6 @@
 ---
 title: "Yevmiye 16/12 23:48"
 date: 2017-12-16 23:48:54
-expiryDate: 2018-12-16 23:48:54
 dp: 14034
 featured_image: "/images/header-57.jpg"
 images: ["/images/header-57.jpg"]

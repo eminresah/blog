@@ -1,7 +1,6 @@
 ---
 title: "Temel Yardım, Mülkiyet ve Devlet"
 date: 2017-02-16 03:25:41
-expiryDate: 2018-02-16 03:25:41
 dp: 13730
 featured_image: "/images/header-30.jpg"
 images: ["/images/header-30.jpg"]

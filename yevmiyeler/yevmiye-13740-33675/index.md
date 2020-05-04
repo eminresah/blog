@@ -1,7 +1,6 @@
 ---
 title: "Erken Fikir"
 date: 2017-02-26 02:21:06
-expiryDate: 2018-02-26 02:21:06
 dp: 13740
 featured_image: "/images/header-40.jpg"
 images: ["/images/header-40.jpg"]
