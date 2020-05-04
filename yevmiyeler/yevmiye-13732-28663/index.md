@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 *Seri katiller genelde Yengeç erkeği oluyormuş.* Bunu geçenlerde karım söyledi,
 beni kendime yermeye çalışırken. *Beni bana yermene gerek yok, nasılsa pek bir
 şey yaramıyor ve kusura bakma, kendimi kötü hissetmiyorum.*

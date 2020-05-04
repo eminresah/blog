@@ -20,7 +20,7 @@ Geçenlerde [Engin Ardıç'ın yazdığı şöyle bir şey](http://www.sabah.com
 > zamanlar yeterli protein tüketilemiyordu belki de, imparatorluk çöküyordu
 > ya...
 
-Yasemin de geçenlerde bu olayın *ne kadar inanılmaz* olduğunu, okulun
+XY- geçenlerde bu olayın *ne kadar inanılmaz* olduğunu, okulun
 öğretmenler odasında konuştuklarını söylemişti. Sanırım halkımız Kemalist
 mitlere karşı şüpheciliğini konuşturmaya başladı. 
 

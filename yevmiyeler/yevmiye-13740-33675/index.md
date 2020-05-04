@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Buraya yazdığım pek çok konunun *henüz vaktinin gelmediğini* düşünüyorum. Yaymak
 konusundaki isteksizliğimin sebebi de bu, bazıları daha çok işlense, daha çok
 konuşulsa iyi olur bence de. Açıklarını kendim düşünmesem de, birileri söylese

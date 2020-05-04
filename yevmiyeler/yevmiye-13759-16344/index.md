@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Tezini yazıp bitirdiğinde bunu annebabasına ithaf eden gibi, zengin olup,
 yeryüzünün *iktidarını* ele geçirince, bunun *İsa Mesih'in vergisi* olduğunu
 söylemek mümkün.

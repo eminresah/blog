@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Neden kendini kontrol etmekten bu kadar acizsin?
 
 Düşündün mü?

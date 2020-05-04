@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Hiçbir şey yapmamak zordur. Bize *hiçbir şey yapmayın* diyenler de bunu
 beceremedikleri için söylemişlerdir, çünkü becerebilseler önce ağızlarını
 açmamaları gerekirdi. 

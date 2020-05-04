@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Yıllar yıldırıyor herkesi. 
 
 İdealler hayatla karşılaşınca ne kadar yaşar?

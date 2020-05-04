@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Tarihselciliğin benim için asıl arızalı kısmının mutlak ahlaktan uzaklaştırması
 olduğunu [yazmıştım](/yevmiyeler/yevmiye-13727-12845/) Orada eğer dini ahlakı,
 tarihi bir çerçevede ele alacaksak, bugün için aralarında kebair günahların da

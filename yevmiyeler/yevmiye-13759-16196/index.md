@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 İçimi yakan konularda daha çok konuşmalıyım ve yakmayan, sadece yazı olsun diye
 yazdıklarımı daha az yazmalıyım. Profesyonel bir yazar değilim, kimseye karşı da
 sorumluluğum yok. Bir cemaatim ve kendimi kanıtlamam gereken bir takım zevat da

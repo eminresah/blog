@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Geçenlerde Nişanyan'ın blogunda [Barbarlar Kapımızda](http://nisanyan1.blogspot.com.tr/2017/01/barbarlar-kapmzda.html) diye bir yazısını
 okudum. Barbarlar, yani, aklın yerine *dogmayı* tercih edenler. Liberallerin son
 üçyüz yıllık en büyük krizi olduğunu söylüyor. 

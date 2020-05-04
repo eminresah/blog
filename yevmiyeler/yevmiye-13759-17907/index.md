@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Hayal neden bu kadar güzel? İnsanın kaybolup gitmesi, önündeki gerçeği bırakıp,
 ne onun kadar bütün, ne onun kadar girift bir hayalin peşinden gitmesi neden bu
 kadar eğlenceli?

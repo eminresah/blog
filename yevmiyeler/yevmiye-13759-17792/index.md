@@ -8,8 +8,6 @@ draft: true
 tags: []
 ---
 
-
-
 Dennett'in *Breaking the Spell* kitabından beklediğim derecede kuvvetli bir
 pozisyon bulamadım. Biz Ateist'in dine küfredenine, bütün kötülükleri ona
 bağlayanına alışmışız, böyle *belki iyi tarafları da vardır ama insanların
