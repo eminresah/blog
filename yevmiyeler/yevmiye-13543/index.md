@@ -1,8 +1,10 @@
-Title: Yevmiye 13543
-Author: Emin Reşah
-Date: 2016-08-12 18:30:12 
-Dp: 13543 
+---
+title: Yevmiye 13543
+author: Emin Reşah
+date: 2016-08-12 18:30:12 
+dp: 13543 
 featured_image: /images/header-43.jpg
+---
 
 ### Ebediyete Bölünen 
 

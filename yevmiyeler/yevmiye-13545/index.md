@@ -1,8 +1,10 @@
-Title: Yevmiye 13545
-Author: Emin Reşah
-Date: 2016-09-10 18:30:11 
-Dp: 13545 
+---
+title: Yevmiye 13545
+author: Emin Reşah
+date: 2016-09-10 18:30:11 
+dp: 13545 
 featured_image: /images/header-45.jpg
+---
 
 ### 14 Ağustos
 

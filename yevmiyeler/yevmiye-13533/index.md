@@ -1,7 +1,9 @@
-Title: Yevmiye 13533
-Author: Emin Reşah
-Date: 2016-08-02 18:00:14 
-Dp: 13533 
+---
+title: Yevmiye 13533
+author: Emin Reşah
+date: 2016-08-02 18:00:14 
+dp: 13533 
+---
 
 Belki kıyamet kopmuştur endişem. 
 

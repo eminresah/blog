@@ -6,14 +6,6 @@ draft: true
 tags: []
 ---
 
-
-Yevmiye 13519
-=================
-
-:author: Emin Reşah
-:date: 2016-07-19 18:00:14 
-:dp: 13519 
-
 Cui Bono
 ********
 

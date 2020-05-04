@@ -6,16 +6,6 @@ draft: true
 tags: []
 ---
 
-
-Yevmiye 13506
-=================
-
-:author: Emin Reşah
-:date: 2016-07-06 18:00:11 
-:modified: 2016-09-04 19:53:00
-:dp: 13506 
-:image: /img/header-06.jpg
-
 Oyunla Öğrenme
 **************
 

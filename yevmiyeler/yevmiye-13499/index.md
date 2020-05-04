@@ -6,14 +6,6 @@ draft: true
 tags: []
 ---
 
-
-Yevmiye 13499
-=================
-
-:author: Emin Reşah
-:date: 2016-06-29 18:00:50 
-:dp: 13499 
-
 Sanırım insanların *insülin direnci* gibi bir *nasihat direnci* var. İnsülin
 direnci, dokuların *şekeri tut* diyen insülinin sözünü dinlemez hale gelmesi ve
 kan şekerinin hep normalden yüksek seyretmesi. Nasihat direnci de, insanlara

@@ -6,15 +6,6 @@ draft: true
 tags: []
 ---
 
-
-Yevmiye 13520
-=================
-
-:author: Emin Reşah
-:date: 2016-08-12 18:00:11 
-:dp: 13520 
-:image: /img/header-20.jpg
-
 *İfade özgürlüğü nedir?* 
 
 İfade özgürlüğü herkesin istediğini konuşması ve herkesin bunu dinlemesi

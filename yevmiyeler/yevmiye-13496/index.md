@@ -8,9 +8,6 @@ published: true
 tags: []
 ---
 
-
-
-
 Dipnot
 ------
 

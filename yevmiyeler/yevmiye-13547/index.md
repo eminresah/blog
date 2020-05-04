@@ -1,9 +1,11 @@
-Title: Yevmiye 13547
-Author: Emin Reşah
-Date: 2016-08-16 18:30:15 
-Modified: 2016-09-04 17:55:00 
-Dp: 13547 
+---
+title: Yevmiye 13547
+author: Emin Reşah
+date: 2016-08-16 18:30:15 
+modified: 2016-09-04 17:55:00 
+dp: 13547 
 featured_image: /images/header-47.jpg
+---
 
 ### Felsefecinin Ahlakı
 

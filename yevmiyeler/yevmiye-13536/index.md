@@ -1,8 +1,10 @@
-Title: Yevmiye 13536
-Author: Emin Reşah
-Date: 2016-08-05 18:00:15 
-Dp: 13536 
+---
+title: Yevmiye 13536
+author: Emin Reşah
+date: 2016-08-05 18:00:15 
+dp: 13536 
 featured_image: /images/header-36.jpg
+---
 
 Darbe hakkında okumadığım bir *teori* kalmadı herhalde. Kendiminkini ekleyeyim: 
 
