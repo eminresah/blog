@@ -1,6 +1,9 @@
-% Takipperest
-% E
-% <12286 - Mon 23:02>
+---
+title:  Takipperest
+date: 
+dp:  <12286 - Mon 23:02>
+---
+
 
 Popülerliği bu derece ölçülebilir hale getirmiş olmanın mutlu etmekten
 çok mutsuz etmeye yaradığını düşünüyorum. İnsanlar kimin daha çok

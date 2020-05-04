@@ -1,6 +1,9 @@
-% Kayıt
-% 
-% <12230 - Mon 16:32>
+---
+title:  Kayıt
+date: 
+dp:  <12230 - Mon 16:32>
+---
+
 
 Hayatını kayıtsızlıkla ördüğünde sana duyulan kayıtsızlığa kayıtsız
 kalabilirsin. Hayatını kayıtla ördüğünde birileri senin kadar kayıtlı

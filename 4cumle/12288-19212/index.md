@@ -1,6 +1,9 @@
-% Kısayollar
-% E
-% <12288 - Wed 22:22>
+---
+title:  Kısayollar
+date: 
+dp:  <12288 - Wed 22:22>
+---
+
 
 İnsan başarısının atlanan tarafı _kısayollar._ Herkesin yürümeye
 çalıştığı yolları değil, kimsenin bilmediği, herkesin giremediği

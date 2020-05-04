@@ -1,6 +1,9 @@
-% Dil Bilmek
-% 
-% <12246 - Wed 23:06>
+---
+title:  Dil Bilmek
+date: 
+dp:  <12246 - Wed 23:06>
+---
+
 
 Bir dili bilmek ne demek? _Hangi dilleri biliyorsun?_ dediklerinde
 _hiçbiri_ tercihi olmuyor. _Annemden Türkçe'yi kullanmayı, okulda

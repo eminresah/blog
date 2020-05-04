@@ -1,6 +1,9 @@
-% Doz
-% 
-% <12296 - Thu 21:30>
+---
+title:  Doz
+date: 
+dp:  <12296 - Thu 21:30>
+---
+
 
 Aziz Augustine _bir çokları için bir şeylerden kat'i olarak kaçınmak,
 dozunu mükemmel ayarlamaktan kolaydır_ demiş. Bu birçoklarına ben de

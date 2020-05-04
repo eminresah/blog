@@ -1,6 +1,9 @@
-% Takipperest
-% E
-% <12301 - Tue 11:46>
+---
+title:  Takipperest
+date: 
+dp:  <12301 - Tue 11:46>
+---
+
 
 Sosyal medyada takipçi peşinde koşmak boş insanların boş işlerinden
 biri haline geldi. Hayatımız o kadar sahte ki, normal şartlar altında

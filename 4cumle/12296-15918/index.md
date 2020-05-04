@@ -1,6 +1,9 @@
-% Yavaş Söz
-% 
-% <12296 - Thu 21:28>
+---
+title:  Yavaş Söz
+date: 
+dp:  <12296 - Thu 21:28>
+---
+
 
 Rousseau demiş ki _söz vermekte en yavaş olan yerine getirmekte en
 sadık olandır._ Bu adamın insanları ne kadar az tanıdığına bir delil

@@ -1,6 +1,9 @@
-% Rapor Kipi
-% 
-% <>
+---
+title:  Rapor Kipi
+date: 
+dp:  <>
+---
+
 
 Rapor yazarken sık kullanılan bir fiil kipi: _yapılabilecektir,
 olabilmektedir, olabilirliği vardır._ Şarta bağlı temenni cümlesi,

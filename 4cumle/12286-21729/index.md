@@ -1,6 +1,9 @@
-% Stoa
-% 
-% <12286 - Mon 23:05>
+---
+title:  Stoa
+date: 
+dp:  <12286 - Mon 23:05>
+---
+
 
 Stoacılığın özeti: _Canın ne istiyorsa tersini yap._ Bir defa
 duyguların sana düşman olduğunu ve faziletten uzaklaştırdığını

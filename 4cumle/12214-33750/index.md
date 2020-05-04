@@ -1,6 +1,9 @@
-% İsmin Halleri
-% 
-% <12215 - Sun 02:25>
+---
+title:  İsmin Halleri
+date: 
+dp:  <12215 - Sun 02:25>
+---
+
 
 _İsmin Halleri_ derken neden beşini sayıyorlar da _genitive_ halini
 saymıyorlar. Onu isim tamlaması diye anlatıyorlar ve iyelik eki olmuş

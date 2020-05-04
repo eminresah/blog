@@ -1,6 +1,9 @@
-% Sosyal Sos
-% E 
-% <12288 - Wed 22:20>
+---
+title:  Sosyal Sos
+date: 
+dp:  <12288 - Wed 22:20>
+---
+
 
 Sosyal medya hayatımızda daha önemli yer edindikçe, daha steril
 insanlara dönüşeceğiz herhalde. İnsan iletişimi her an tanıdıklarının

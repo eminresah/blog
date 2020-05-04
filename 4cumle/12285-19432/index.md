@@ -1,6 +1,9 @@
-% Kontrol 
-% Emin
-% <12285 - Sun 22:27>
+---
+title:  Kontrol 
+date: 
+dp:  <12285 - Sun 22:27>
+---
+
 
 Kontrol karşılıklıdır. Bir insanı veya eşyayı kontrol ettiğini
 düşündükçe, o da seni kontrol etmeye, hayatında yer işgal etmeye

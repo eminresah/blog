@@ -1,6 +1,9 @@
-% Twitter
-% Sami Bayındır
-% <11984 - Sun 16:13>
+---
+title:  Twitter
+date: 
+dp:  <11984 - Sun 16:13>
+---
+
 
 Bir fikri Twitter'dan paylaşmak _bunu ciddiye almayın, siz işinize
 bakın_ demek gibi. Sosyal medyanın önemli bir tarafı varsa insanların

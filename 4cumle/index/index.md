@@ -1,6 +1,9 @@
-% 4 Cümle
-% Ali Makasoğlu
-% <11979 - Tue 06:53>
+---
+title:  4 Cümle
+date: 
+dp:  <11979 - Tue 06:53>
+---
+
 
 <center> 4 cümle her şeyi anlatır. Doğduk. Öğreniyoruz. Öleceğiz. 
 

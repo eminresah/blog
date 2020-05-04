@@ -1,6 +1,9 @@
-% Kötülük
-% 
-% <12249 - Sat 01:49>
+---
+title:  Kötülük
+date: 
+dp:  <12249 - Sat 01:49>
+---
+
 
 Kötülük varsa ahiret olmalıdır, yoksa hiçbir şeyin anlamı
 olmaz. Kötülük kâdir-i mutlak yaratıcının olmadığına değil, hikayenin

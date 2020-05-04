@@ -1,6 +1,9 @@
-% Konsil
-% 
-% <12231 - Tue 12:51>
+---
+title:  Konsil
+date: 
+dp:  <12231 - Tue 12:51>
+---
+
 
 İznik Konsili'nin İsa Mesih'in tanrı mı, insan mı olduğuna karar
 vermeye çalışması bana hep tuhaf gelmiştir. (Aziz) Konstantin'in ölüm

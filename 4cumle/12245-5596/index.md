@@ -1,6 +1,9 @@
-% Matematik Cehaleti
-% 
-% <12245 - Tue 18:35>
+---
+title:  Matematik Cehaleti
+date: 
+dp:  <12245 - Tue 18:35>
+---
+
 
 İnsanın cehaletiyle övünmesine pek rastlamazsınız. Matematik cahilleri
 dışında. Hakikate giden kral yolunu bulduğunu ve bunun matematiksiz

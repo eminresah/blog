@@ -1,6 +1,9 @@
-% Üretkenlik
-% E
-% <12302 - Wed 12:38>
+---
+title:  Üretkenlik
+date: 
+dp:  <12302 - Wed 12:38>
+---
+
 
 _En verimli çağında öldü_ diyorlar. Verimlilik sıkıcılığı da
 beraberinde getiriyorsa, _en sıkıcı çağında öldü_ de denebilir. _Artık

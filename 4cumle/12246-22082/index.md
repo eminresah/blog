@@ -1,6 +1,9 @@
-% Evrim Teorisinin En Sorunlu Kısmı ... 
-% 
-% <12246 - Wed 23:11>
+---
+title:  Evrim Teorisinin En Sorunlu Kısmı ... 
+date: 
+dp:  <12246 - Wed 23:11>
+---
+
 
 ... _maymun_ kısmı. Şunu _aslan_ yapsak, _kurt_ yapsak, _kartal_
 yapsak meselenin büyüğü hallolacak. Kurdu atası olarak kabul etmeye

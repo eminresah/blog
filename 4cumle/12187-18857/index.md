@@ -1,6 +1,9 @@
-% Alem-i Dem
-% 
-% <12187 - Sun 22:15>
+---
+title:  Alem-i Dem
+date: 
+dp:  <12187 - Sun 22:15>
+---
+
 
 Zamanın sahibi, gökleri ve yeri zamana bağlı kıldığında, hepimizi aciz
 ve idrakten uzak bıraktı. Zamansız oluş nasıl bir şeydir

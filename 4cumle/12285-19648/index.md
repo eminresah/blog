@@ -1,6 +1,9 @@
-% Bilmediğini Öğrenmek
-% Emin
-% <12285 - Sun 22:29>
+---
+title:  Bilmediğini Öğrenmek
+date: 
+dp:  <12285 - Sun 22:29>
+---
+
 
 Bir şey bilmediğini öğrenmek için çok şey öğrenmek ve bunların hemen
 tamamının hiçbir işe yaramadığını da öğrenecek ferasete sahip olmak

@@ -1,6 +1,9 @@
-% İştahdar Marşı'na Kıta
-% E 
-% <12293 - Mon 22:28>
+---
+title:  İştahdar Marşı'na Kıta
+date: 
+dp:  <12293 - Mon 22:28>
+---
+
 
 Midemin senden ilahi şudur ancak emeli 
 

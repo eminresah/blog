@@ -1,6 +1,9 @@
-% Oy Pişmanlığı
-% E
-% <12294 - Tue 08:51>
+---
+title:  Oy Pişmanlığı
+date: 
+dp:  <12294 - Tue 08:51>
+---
+
 
 Hiç oy kullanmadım. Bundan dolayı da hiç pişman olmadım. Sonucu
 değiştireceğimi düşünmüyorum ama oy kullanmanın getirdiği sorumluluk

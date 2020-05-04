@@ -1,6 +1,9 @@
-% Sıkıcı Okul
-% E
-% <12292 - Sun 23:07>
+---
+title:  Sıkıcı Okul
+date: 
+dp:  <12292 - Sun 23:07>
+---
+
 
 Hayatım okullarda sıkılarak geçti, hala sıkılıyorum. Tembellik
 akademisinden mezun olamadım. Hayatım başlamadan bitecek. Kendimden

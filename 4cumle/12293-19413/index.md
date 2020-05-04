@@ -1,6 +1,9 @@
-% Bir karar
-% E
-% <12293 - Mon 22:25>
+---
+title:  Bir karar
+date: 
+dp:  <12293 - Mon 22:25>
+---
+
 
 Hayatta _bir kararda kalmak_ veya _ne uzayıp, ne kısalmak_ gerçekte
 mümkün değil. Herkesin gittiği tarafa doğru, herkes kadar hızlı
