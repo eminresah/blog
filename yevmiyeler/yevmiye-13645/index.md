@@ -1,9 +1,15 @@
-Title: Yevmiye 13645
-Author: Emin Reşah
-Date:  2016-11-22 23:46:54
-Dp: 13645
-Status: published
-Image: /img/header-45.jpg
+---
+title: "Yevmiye 13645"
+date: 2016-11-22 23:46:54
+expiryDate: 2017-11-22 23:46:54
+dp: 13645
+featured_image: "/images/header-45.jpg"
+images: ["/images/header-45.jpg"]
+published: true
+tags: []
+---
+
+
 
 ### 1
 
@@ -206,4 +212,5 @@ olabilir?
 demiyorum? Neden sanki bir film gibi gelmeye başladı bu? Cevabını tahmin
 ettiğim, belki de bildiğim sorular bunlar. Ama telaffuz etmek istemediğim
 cevaplar. 
+
 

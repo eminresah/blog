@@ -1,9 +1,15 @@
-Title: Yevmiye 13856
-Author: Emin Reşah
-Date:  2017-06-22 04:08:55
-Dp: 13856
-Status: published
-Image: /img/header-56.jpg
+---
+title: "Yevmiye 13856"
+date: 2017-06-22 04:08:55
+expiryDate: 2018-06-22 04:08:55
+dp: 13856
+featured_image: "/images/header-56.jpg"
+images: ["/images/header-56.jpg"]
+published: true
+tags: []
+---
+
+
 
 macOS ve iOS'ta [Flowstate][flowstate] diye bir program kullanmaya başladım.
 5-10-15-30... dakika ayarlayıp, devamlı yazıyorsunuz. Yazmayı bırakınca o zamana
@@ -40,4 +46,5 @@ sayılan gezegenden.
 Yağırdamak diye bir kelime olsaydı, belki kendimi ifade etmek daha kolay olurdu.
 
 [flowstate]: http://hailoverman.com/flowstate
+
 

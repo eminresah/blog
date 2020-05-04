@@ -1,9 +1,15 @@
-Title: Yevmiye 13735
-Author: Emin Reşah
-Date:  2017-04-04 13:51:47
-Dp: 13777
-Status: published
-Image: /img/header-35.jpg
+---
+title: "Yevmiye 13735"
+date: 2017-04-04 13:51:47
+expiryDate: 2018-04-04 13:51:47
+dp: 13777
+featured_image: "/images/header-35.jpg"
+images: ["/images/header-35.jpg"]
+published: true
+tags: []
+---
+
+
 
 *Fikirlerinden memnun musun?*
 
@@ -43,4 +49,5 @@ doğrular varken, bunları neden görmezden geldin?* mi derler, yoksa *insanlar�
 kalbini kıracak şeyleri neden söyledin?* mi?
 
 İlkinin olacağını ümid ediyorum. 
+
 

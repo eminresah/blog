@@ -1,9 +1,15 @@
-Title: Overpromising
-Author: Emin Reşah
-Date:  2017-05-12 06:37:53
-Dp: 13815
-Status: published
-Image: /img/header-15.jpg
+---
+title: "Overpromising"
+date: 2017-05-12 06:37:53
+expiryDate: 2018-05-12 06:37:53
+dp: 13815
+featured_image: "/images/header-15.jpg"
+images: ["/images/header-15.jpg"]
+published: true
+tags: []
+---
+
+
 
 In [The Art of Manliness][taom] I've read the following and instantly felt bad about the emails I've not responded and words I've not kept.
 
@@ -21,3 +27,4 @@ The subject matter of the work should also be considered. In some cases, we are 
 I understand what kind of *business* the article talks but there is also a reason why Google never gives a deadline for their services. 
     
 [taom]: http://www.artofmanliness.com/2016/10/10/myth-scarcity-12-stupidly-easy-things-thatll-set-apart-pack/
+

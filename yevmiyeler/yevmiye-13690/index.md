@@ -1,9 +1,15 @@
-Title: Yevmiye 13690
-Author: Emin Reşah
-Date:  2017-01-07 01:33:32
-Dp: 13690
-Status: published
-Image: /img/header-90.jpg
+---
+title: "Yevmiye 13690"
+date: 2017-01-07 01:33:32
+expiryDate: 2018-01-07 01:33:32
+dp: 13690
+featured_image: "/images/header-90.jpg"
+images: ["/images/header-90.jpg"]
+published: true
+tags: []
+---
+
+
 
 ## Kültür Hiyerarşisi
 
@@ -176,3 +182,4 @@ doğru akmıyor, maalesef.
     içinde Türk milliyetçileri var, ancak bu ayrı bir partini "en öz milliyetçi"
     olmasına mani değil. Her partide Kürtlerin olması da, bu hareketin Kürtleri
     temsil etmediği anlamına gelmiyor.
+

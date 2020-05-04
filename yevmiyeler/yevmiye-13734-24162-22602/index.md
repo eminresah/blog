@@ -1,9 +1,15 @@
-Title: Benim Adım Mustafa Değil
-Author: Emin Reşah
-Date:  2017-02-20 01:15:47
-Dp: 13734
-Status: published
-Image: /img/header-34.jpg
+---
+title: "Benim Adım Mustafa Değil"
+date: 2017-02-20 01:15:47
+expiryDate: 2018-02-20 01:15:47
+dp: 13734
+featured_image: "/images/header-34.jpg"
+images: ["/images/header-34.jpg"]
+published: true
+tags: []
+---
+
+
 
 Geçenlerde [Engin Ardıç'ın yazdığı şöyle bir şey](http://www.sabah.com.tr/yazarlar/ardic/2017/01/15/ben-size-genisletivereyim) geldi önüme: 
 
@@ -27,6 +33,7 @@ diye bir incelik. Muhtemelen Mustafa Kemal'in kendi uydurması ama hikaye o kada
 abullabut değil. 
 
 Atatürk mitlerini izah etmek bile bana düştü, ne günlere kaldık Yarabbim. 
+
 
 
 

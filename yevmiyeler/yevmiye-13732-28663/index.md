@@ -1,9 +1,15 @@
-Title: Katil Yengeç
-Author: Emin Reşah
-Date:  2017-02-18 00:57:53
-Dp: 13732
-Status: published
-Image: /img/header-32.jpg
+---
+title: "Katil Yengeç"
+date: 2017-02-18 00:57:53
+expiryDate: 2018-02-18 00:57:53
+dp: 13732
+featured_image: "/images/header-32.jpg"
+images: ["/images/header-32.jpg"]
+published: true
+tags: []
+---
+
+
 
 *Seri katiller genelde Yengeç erkeği oluyormuş.* Bunu geçenlerde karım söyledi,
 beni kendime yermeye çalışırken. *Beni bana yermene gerek yok, nasılsa pek bir
@@ -25,3 +31,4 @@ bırakarak.
 
 Gökcisimlerinin insan bilmemnesine etkisi, duvardaki saatin etkisiyle
 aynı. Saate ilerlediği için zaman geçmiyor, zaman geçtiği için saat ilerliyor. 
+

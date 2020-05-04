@@ -1,9 +1,15 @@
-Title: Hikayelerin Tanrısı
-Author: Emin Reşah
-Date:  2017-02-18 00:35:09
-Dp: 13732
-Status: published
-Image: /img/header-32.jpg
+---
+title: "Hikayelerin Tanrısı"
+date: 2017-02-18 00:35:09
+expiryDate: 2018-02-18 00:35:09
+dp: 13732
+featured_image: "/images/header-32.jpg"
+images: ["/images/header-32.jpg"]
+published: true
+tags: []
+---
+
+
 
 Her birimizde bir hikaye yarattığına göre, hikayeleri seviyor olmalısın
 Tanrım. Hepimize ayrı maceralar yaşatıyor, ayrı acılar çektiriyor ve bunları
@@ -50,3 +56,4 @@ olduğunda kilitleniyor. Simülasyonun en ilginç yerlerinin bu küçücük fı�
 dünyada olmadığına eminim, oraları kim gözetliyor?
 
 Hikaye yazmak da hikayeye dahil mi?
+

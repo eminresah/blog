@@ -1,13 +1,18 @@
-Title: İrade Kasları
-Author: Emin Reşah
-Date:  2017-04-04 13:54:52
-Dp: 13777
-Status: published
-Image: /img/header-77.jpg
+---
+title: "İrade Kasları"
+date: 2017-04-04 13:54:52
+dp: 13777
+featured_image: "/images/header-77.jpg"
+images: ["/images/header-77.jpg"]
+published: true
+tags: ["ben"]
+---
+
+
 
 İradenin *sonlu* olduğunu söylüyorlar. İradeni sağlıklı (ve tatsız) yemek yemeye
 ayırınca, twitter'ı bırakmaya ayıramıyorsun, ders çalışmaya ayırınca, *okuman
-gerektiğini düşündüğün ama sevmediğin* kitaba ayıramıyorsun, vs.
+gerektiğini düşündüğün sıkıcı kitaba* ayıramıyorsun, vs.
 
 İradenin kas dokusu gibi geliştirilebilir olduğunu da söylüyorlar. Onun için
 oruç tutunca, kendine diğer konularda daha çok söz geçirebiliyorsun. İrade
@@ -38,5 +43,6 @@ söyleyemem, [Trello](https://trello.com)'da biten işlerin kartlarına *enerji*
 etiketi koyuyorum, *bu iş ne kadar irademi yedi?* ve bunun ödülleri var ama
 böyle yapınca da bu sefer kendi koyduğun kuralların arkasından dolanmak için
 yollar aramaya başlıyorsun. İrade terbiyesi zor. 
+
 
 

@@ -1,9 +1,15 @@
-Title: Klavyeps
-Author: Emin Reşah
-Date:  2017-02-16 02:04:34
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Klavyeps"
+date: 2017-02-16 02:04:34
+expiryDate: 2018-02-16 02:04:34
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 Aklımda çözmem gerektiğine inandığım sorular yok, bunların yerine bulduğum
 cevaplara uygun sorular arıyorum. Ki bu çok daha zevkli ve faydalı. İnsanın
@@ -25,4 +31,5 @@ Bunu söylemek biraz tuhaf olacak ama aşık olunacak klavyeler var. Sanırım
 bendeki bu tutku, *bir arkadaşın* daktilo tutkusu gibi bir şey, ancak ben, bir
 mühendis olduğum için aklıma da yatan şeylere *aşık* oluyorum. Çünkü daktiloda
 yazsaydım muhtemelen ya kafam şişer bırakırdım, ya bilek ağrısından duramazdım.
+
 

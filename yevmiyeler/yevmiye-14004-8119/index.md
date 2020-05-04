@@ -1,9 +1,15 @@
-Title: Yevmiye 14003-15
-Author: Emin Reşah
-Date:  2017-11-16 14:47:17
-Dp: 14003
-Status: published
-Image: /img/header-3.jpg
+---
+title: "Yevmiye 14003-15"
+date: 2017-11-16 14:47:17
+expiryDate: 2018-11-16 14:47:17
+dp: 14003
+featured_image: "/images/header-3.jpg"
+images: ["/images/header-3.jpg"]
+published: true
+tags: []
+---
+
+
 
 Nasıl anlaşıldığından korkmaya başladığında artık yazamazsın. *Söylediklerin
 aleyhinde delil olarak kullanılabilir* dediklerinde, konuşmak imkansızlaşır.
@@ -149,3 +155,4 @@ dünyada, bir yerde solipsizme çıkan, bu kainatın tamamen *benim için
 yaratıldığı* veya *benden ibaret olduğu* gibi düşünceler var. Bu bir yandan da,
 dünyanın kurallarının *o kadar da net* olmadığı telmihini içeriyor. Simülasyon
 ise, kuralların net olduğunu, ancak eksikler bulunabileceğini söylüyor.
+

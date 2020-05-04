@@ -1,9 +1,15 @@
-Title: Hayalin İncelikleri
-Author: Emin Reşah
-Date:  2017-03-16 21:57:13
-Dp: 13759
-Status: published
-Image: /img/header-59.jpg
+---
+title: "Hayalin İncelikleri"
+date: 2017-03-16 21:57:13
+expiryDate: 2018-03-16 21:57:13
+dp: 13759
+featured_image: "/images/header-59.jpg"
+images: ["/images/header-59.jpg"]
+published: true
+tags: []
+---
+
+
 
 Hayal neden bu kadar güzel? İnsanın kaybolup gitmesi, önündeki gerçeği bırakıp,
 ne onun kadar bütün, ne onun kadar girift bir hayalin peşinden gitmesi neden bu
@@ -42,5 +48,6 @@ etmek olmalı. İnsanlara (diyelim okul için) imkan sahibi olmamanın da bazı
 durumlarda avantajlı olabileceğini söylemek bir şey, *hayal ettiğiniz her şey
 gerçekleşir* demek başka. Onun için meraktayım, bu cins insanların ataları nasıl
 olmuş da genlerini aktaracak kadar hayatlarını devam ettirmiş?
+
 
 

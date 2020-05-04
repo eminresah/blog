@@ -1,11 +1,8 @@
-==============
-Murakabe 12811
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12811
+---
+title: Murakabe 12811
+date: 2014-11-23 02:18:14 +0200
+dp: 12811
+---
 
 İ: Bugün yorgun görünüyorsun.
 
@@ -38,8 +35,8 @@ edebiliriz sanki.
 
 İ: *Ölmeden önce ölmenin* böyle bir anlamı da olabilir.
 
-E: Atlantic'te `*İyi çalışmanın yolu az
-çalışmak* <http://www.theatlantic.com/business/archive/2014/08/to-work-better-work-less>`__
+E: Atlantic'te [İyi çalışmanın yolu az
+çalışmakl(http://www.theatlantic.com/business/archive/2014/08/to-work-better-work-less)
 diye bir yazıda okudum bunu. Henry Ford'un, haftalık 48 saat olan
 çalışma süresini çalışanları fazla hata yaptığı için 40 saate
 indirdiğini de söylüyordu.
@@ -68,8 +65,7 @@ görülüyormuş.
 İ: Bir Yahudi olsaydım, tarihe bakınca ben de böyle düşünebilirdim.
 
 E: Yahudilik deyince, bazen cuma günleri *elektronik sebt* yapmayı
-düşünüyorum. Elime hiç elektronik alet almamak. `Böyle bir yazı da
-vardı <http://calnewport.com/blog/2014/07/22/dont-pursue-promotions-contrarian-career-advice-from-ancient-sources-of-wisdom>`__
+düşünüyorum. Elime hiç elektronik alet almamak. [Böyle bir yazı da vardı](http://calnewport.com/blog/2014/07/22/dont-pursue-promotions-contrarian-career-advice-from-ancient-sources-of-wisdom)
 bugün okuduklarımda. Adamın biri farklı din ve felsefelerin
 söylediklerinden kendine hayat kuralları çıkarmış. İslam'dan namazı
 almış mesela, bunun insana tevazu getirdiğini söylüyor. Stoacılıktan

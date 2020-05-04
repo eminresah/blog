@@ -1,11 +1,8 @@
-Yevmiye 13048
-=============
-
-:date: 2015-04-19 22:17:53 +0300
-
-.. :author: Emin Reşah
-.. :date: Mon Apr  6 02:27:03 EEST 2015 
-.. :dp: 13048 
+---
+title: Yevmiye 13048
+date: Mon Apr  6 02:27:03 EEST 2015 
+dp: 13048 
+---
 
 Prag'dayız. Prag'ı sevmedim. Fazla turistik geldi. Budapeşte'den
 geldiğimiz trenden indiğimiz istasyonda para bozdurmaya çalışırken,
@@ -62,7 +59,7 @@ değildik ve hala yapacak çok işimiz var, ancak Budapeşte'den Prag'a
 getiren trenin yemekli vagonundaki takoz garsonlara rastlayınca
 mesela, bu adamların *o kadar da* ileri olmadığını düşünüyor insan
 veyahut, saat 6'dan sonra açık market bulamayınca, o kadar da çalışkan
-olmadıklarını anlıyor veya *yerel yemek* namına Yasemin'in yemek sayıp
+olmadıklarını anlıyor veya *yerel yemek* namına Türk kadının yemek sayıp
 sofraya koymadığı cinsten bir takım şeyler sununca, eh, gerek yokmuş
 aslında bu kadar uğraşmaya. 
 

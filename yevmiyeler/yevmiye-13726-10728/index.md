@@ -1,9 +1,15 @@
-Title: Yevmiye 13726-10728
-Author: Emin Reşah
-Date:  2017-02-11 20:59:06
-Dp: 13726
-Status: published
-Image: /img/header-26.jpg
+---
+title: "Yevmiye 13726-10728"
+date: 2017-02-11 20:59:06
+expiryDate: 2018-02-11 20:59:06
+dp: 13726
+featured_image: "/images/header-26.jpg"
+images: ["/images/header-26.jpg"]
+published: true
+tags: []
+---
+
+
 
 Hayatın sanık sandalyesinde yargılanmayı bekleyen, verilmiş idam hükmünün ne
 zaman infaz edileceğini hesaplayan bir mahkum gibiyiz. Yeterince geniş bir
@@ -17,5 +23,6 @@ mükemmel değil misin?* Buna da bir cevap alabileceğimi sanmıyorum.
 
 Dünya karanlık. Beynim ağrıyor. Mezar taşımın bir oyun olmasını istiyorum,
 tetris gibi bir oyun, bu sadece oğlum ziyaretime geldiğinde canı sıkılmaz. 
+
 
 

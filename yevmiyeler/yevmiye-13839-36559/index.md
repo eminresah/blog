@@ -1,9 +1,15 @@
-Title: Yevmiye 13839
-Author: Emin Reşah
-Date:  2017-06-05 03:04:29
-Dp: 13839
-Status: published
-Image: /img/header-39.jpg
+---
+title: "Yevmiye 13839"
+date: 2017-06-05 03:04:29
+expiryDate: 2018-06-05 03:04:29
+dp: 13839
+featured_image: "/images/header-39.jpg"
+images: ["/images/header-39.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 En büyük sorunum çocuklardan daha çok sevdiğim bir işin olmayışı. Bu durumda tek
@@ -36,4 +42,5 @@ lead to more lies.
 
 So even if you don't believe that language is not capable to produce a true
 sentence, we cannot stop search for *better lies*. 
+
 

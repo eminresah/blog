@@ -1,9 +1,15 @@
-Title: Yevmiye 14018
-Author: Emin Reşah
-Date:  2017-11-30 22:50:46
-Dp: 14018
-Status: published
-Image: /img/header-55.jpg
+---
+title: "Yevmiye 14018"
+date: 2017-11-30 22:50:46
+expiryDate: 2018-11-30 22:50:46
+dp: 14018
+featured_image: "/images/header-55.jpg"
+images: ["/images/header-55.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -172,3 +178,4 @@ my food, I'm shortening my life.
 #### 10
 
 Hell is I. 
+

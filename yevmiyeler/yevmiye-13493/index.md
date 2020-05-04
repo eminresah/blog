@@ -1,9 +1,15 @@
-Title: Yevmiye 13493
-Author: Emin Reşah
-Date: 2016-11-15 18:00:15
-Dp: 13493
-Status: published
-Image: /img/header-93.jpg
+---
+title: "Yevmiye 13493"
+date: 2016-11-15 18:00:15
+expiryDate: 2017-11-15 18:00:15
+dp: 13493
+featured_image: "/images/header-93.jpg"
+images: ["/images/header-93.jpg"]
+published: true
+tags: []
+---
+
+
 
 Ezkiya
 [daha az konuşur diyorlar.](https://www.quora.com/Why-are-some-very-smart-people-so-quiet/answer/Rahul-Adhikari-12) Neden
@@ -37,4 +43,5 @@ bulmak ve işimizi önemli ölçüde hafifletmek daha iyidir. Yoksa sıfırdan b
 devlet kurmaya çalışmanın tarihte çok örneği yok, örnekler de bir şekilde
 meşruiyet kazanmış insanların örnekleri. Artık öyle meşruiyetler de kazanmak
 mümkün değil. 
+
 

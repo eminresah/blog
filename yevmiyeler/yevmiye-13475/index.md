@@ -1,9 +1,15 @@
-Title: Yevmiye 13475
-Author: Emin Reşah
-Date: Sun Feb 19 01:17:20 2017
-Dp: 13475 
-Image: /img/header-75.jpg
-Status: published
+---
+title: "Yevmiye 13475"
+date: 2017-02-19 01:17:20
+expiryDate: 2018-02-19 01:17:20
+dp: 13475
+featured_image: "/images/header-75.jpg"
+images: ["/images/header-75.jpg"]
+published: true
+tags: []
+---
+
+
 
 Sıcaktan korkmanın havaya faydası yok. Trump'tan (veya Erdoğan'dan) korkmanın
 da, insanın siyasi geleceğine.
@@ -21,3 +27,4 @@ Ben bu *ileri gelenlerden* biri olsaydım, başarılı olma ihtimali olanları k
 bünyeme dahil etmeyi, elimdeki adamları başarılı yapmaya tercih
 ederdim. Bünyendeki insanı başarılı hale getirmek mi kolay, başarılı insanı
 bünyene dahil etmek mi? İkincisi çok daha emin bir yol. 
+

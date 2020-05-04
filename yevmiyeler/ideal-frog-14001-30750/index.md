@@ -1,9 +1,15 @@
-Title: Ideal Frog
-Author: Emin Reşah
-Date:  2017-11-14 01:32:09
-Dp: 14001
-Status: published
-Image: /img/header-113.jpg
+---
+title: "Ideal Frog"
+date: 2017-11-14 01:32:09
+expiryDate: 2018-11-14 01:32:09
+dp: 14001
+featured_image: "/images/header-113.jpg"
+images: ["/images/header-113.jpg"]
+published: true
+tags: ["philosophy"]
+---
+
+
 
 It looks from the standpoint of the reality, there is some ideal. Probably, from
 the standpoint of ideal, it seems there is some reality.
@@ -25,3 +31,4 @@ scheme* of things, it boils down to my pocket. Idealism is similar in this case,
 although it talks about *ideal* world, it becomes a burden for man at the end. 
 
 Because frogs don't have ideals.
+

@@ -1,9 +1,15 @@
-Title: Yevmiye 13946
-Author: Emin Reşah
-Date:  2017-09-19 23:13:53
-Dp: 13946
-Status: published
-Image: /img/header-46.jpg
+---
+title: "Yevmiye 13946"
+date: 2017-09-19 23:13:53
+expiryDate: 2018-09-19 23:13:53
+dp: 13946
+featured_image: "/images/header-46.jpg"
+images: ["/images/header-46.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 Aziz ve muhterem biçareler. Ruhzedeler. Sarhoşken bilip, ayıkken unutanlar.
@@ -73,5 +79,6 @@ Kusursuz cinayet gibi bu, kusursuzluğundan dolayı muhtemel katili buluyorsun.
 Ancak Kagan'ın söylediğini de aşağı yukarı anlıyorum. Ölüm fikrinin ölümden
 sonra pek anlamı olduğunu sanmıyorum. Ölüm hayattayken, hayata dair bir anlam.
 Öldükten sonra insanın ölümle bir ilgisi de kalmıyor.
+
 
 

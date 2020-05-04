@@ -1,9 +1,15 @@
-Title: Yevmiye 14015-01
-Author: Emin Reşah
-Date:  2017-11-28 00:14:00
-Dp: 14015
-Status: published
-Image: /img/header-17.jpg
+---
+title: "Yevmiye 14015-01"
+date: 2017-11-28 00:14:00
+expiryDate: 2018-11-28 00:14:00
+dp: 14015
+featured_image: "/images/header-17.jpg"
+images: ["/images/header-17.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 #### 1
@@ -72,3 +78,4 @@ arayacağız.
 Tahminimce itikaden Vahdet-i Vücuda dayanan, amel ve ahlaken de ince dokunmuş
 bir tarihselcilikle beslenen bir noktaya gidiyoruz. Yavaş yavaş pişen bir dini
 devrim var Türkiye'de, alttan alta artık *biz farklıyız* demeye hazırlanıyoruz.
+

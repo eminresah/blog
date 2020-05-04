@@ -1,9 +1,15 @@
-Title: Yevmiye 13999-21
-Author: Emin Reşah
-Date:  2017-11-11 21:48:36
-Dp: 13999
-Status: published
-Image: /img/header-99.jpg
+---
+title: "Yevmiye 13999-21"
+date: 2017-11-11 21:48:36
+expiryDate: 2018-11-11 21:48:36
+dp: 13999
+featured_image: "/images/header-99.jpg"
+images: ["/images/header-99.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 Gün ağardığında geceyi hepimiz unutacağız.
@@ -55,4 +61,5 @@ var.
 Türkiye'ye bir faydası olmak isteyenin, elindeki doları bozdurmak yerine,
 yurtdışına satacağı bir şeyleri olması daha iyi olur. Önceki gün aldığın doları
 bir defa bozdurursun, ancak devamlı bir ihracat kalemi çok daha iyidir.
+
 

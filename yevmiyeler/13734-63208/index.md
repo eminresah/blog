@@ -1,9 +1,14 @@
-Title: Donarsak Ölürüz
-Author: Emin Reşah
-Date:  2017-02-20 12:21:21
-Dp: 13734
-Status: published
-Image: /img/header-34.jpg
+---
+title: "Donarsak Ölürüz"
+date: 2017-02-20 12:21:21
+dp: 13734
+featured_image: "/images/header-34.jpg"
+images: ["/images/header-34.jpg"]
+published: true
+tags: ["siyaset"]
+---
+
+
 
 [Avrupa'ya dönersek ölürüz](http://gercekhayat.com.tr/avrupaya-donersek-oluruz/)
 diye bir röportaj okudum, Profesör Teoman Duralı'yla yapılmış.
@@ -75,3 +80,4 @@ Velakin zaman artık o zaman değil, *sus* deyince susmuyor insanlar, konuşmak
 için imkanları çok geniş. Konuşmaya konuşmayla karşılık vermek için de, zeminini
 sağlam oluşturman, ödevini yapmış olman lazım. Ödevini tarih okuyarak yaptığını
 sanırsan, sınavda sana beklemediğin yerden soru gelince düşüverirsin.
+

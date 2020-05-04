@@ -1,9 +1,15 @@
-Title: Yevmiye 13950
-Author: Emin Reşah
-Date:  2017-09-24 04:31:24
-Dp: 13950
-Status: published
-Image: /img/header-50.jpg
+---
+title: "Yevmiye 13950"
+date: 2017-09-24 04:31:24
+expiryDate: 2018-09-24 04:31:24
+dp: 13950
+featured_image: "/images/header-50.jpg"
+images: ["/images/header-50.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 > "Işık hızında gidene ışık denir." 
@@ -48,4 +54,5 @@ görmediğini anlatıyor... Sanırım.
 Bu insanların böyle olmasına şaşırmıyorum, yeryüzü her çeşit insanla kaynıyor.
 Şaşırdığım bu zevatın itibar bulması. Hayatını obskürantist boş lafa adayan
 insanların *üstad* sayılması. 
+
 

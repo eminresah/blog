@@ -1,9 +1,15 @@
-Title: Yevmiye 13889
-Author: Emin Reşah
-Date:  2017-07-24 22:23:33
-Dp: 13889
-Status: published
-Image: /img/header-89.jpg
+---
+title: "Yevmiye 13889"
+date: 2017-07-24 22:23:33
+expiryDate: 2018-07-24 22:23:33
+dp: 13889
+featured_image: "/images/header-89.jpg"
+images: ["/images/header-89.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 > In this earliest phase, the alphabet is a quick and dirty tool of foreign
@@ -32,3 +38,4 @@ Basitleştiren kazanıyor, çünkü unsurların aptal olması değil, birleştik
 neleri ifade edebildikleri önemli. Onun için kurallara uyan sıkıcı insanların
 oluşturduğu Avrupa toplumlarında, her ne kadar bizimki kadar *becerikli*
 insanlar olmasa da, nihayetinde daha verimli bir hayat yaşanıyor. 
+

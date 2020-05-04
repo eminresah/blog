@@ -1,9 +1,15 @@
-Title: Yevmiye 13951
-Author: Emin Reşah
-Date:  2017-09-25 11:41:06
-Dp: 13951
-Status: published
-Image: /img/header-51.jpg
+---
+title: "Yevmiye 13951"
+date: 2017-09-25 11:41:06
+expiryDate: 2018-09-25 11:41:06
+dp: 13951
+featured_image: "/images/header-51.jpg"
+images: ["/images/header-51.jpg"]
+published: true
+tags: []
+---
+
+
 
 *İbret alınsaydı tarih tekerrür eder miydi?* 
 
@@ -43,5 +49,6 @@ yoldan ancak nüfusun genelinin *inorganik* beslenmesiyle olabilir. Yoksa
 insanların ufak bir kısmı, *geleneksel* yöntemlerle yaşamaya devam edebilir,
 ancak hastalandığında gittiği doktorun veya evindeki kaloriferi tamire gelen
 teknisyenin *inorganik* beslenmesiyle.
+
 
 

@@ -1,9 +1,15 @@
-Title: Yevmiye 13947
-Author: Emin Reşah
-Date:  2017-09-20 22:50:30
-Dp: 13947
-Status: published
-Image: /img/header-47.jpg
+---
+title: "Yevmiye 13947"
+date: 2017-09-20 22:50:30
+expiryDate: 2018-09-20 22:50:30
+dp: 13947
+featured_image: "/images/header-47.jpg"
+images: ["/images/header-47.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 Bir noktada inkar ettiğin, görmezden geldiğin tüm işaretlerin doğruyu
@@ -61,3 +67,4 @@ Bir şekilde başkaları tarafından belirlenir diyorsun.
 İnsanın hayatının en önemli öğeleri, en önemli tercihleri başka insanların ona
 sunduğu seçenekler arasından tercih edilir. Bunu diyorum. En önemliler
 böyleyken, kafayı özgürlüğe takmanın bir anlamı yok. 
+

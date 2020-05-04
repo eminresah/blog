@@ -1,9 +1,15 @@
-Title: Yevmiye 13904 - 2
-Author: Emin Reşah
-Date:  2017-08-09 00:31:13
-Dp: 13904
-Status: published
-Image: /img/header-4.jpg
+---
+title: "Yevmiye 13904 - 2"
+date: 2017-08-09 00:31:13
+expiryDate: 2018-08-09 00:31:13
+dp: 13904
+featured_image: "/images/header-4.jpg"
+images: ["/images/header-4.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 > The wrong idea underlying all confused stances is that things must be either
@@ -42,3 +48,4 @@ görüşü doğru. Bu yukarıdakileri yazan adamın söyledikleri de, neticede a
 subjektifliği konusunda önemli bir çözüm sunmuyor ama sanki böyle yapması da bir
 adaptasyon çalışmasından ibaret.
     
+

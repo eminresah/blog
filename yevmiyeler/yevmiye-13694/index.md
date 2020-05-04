@@ -1,9 +1,15 @@
-Title: Yevmiye 13694
-Author: Emin Reşah
-Date:  2017-01-11 00:37:35
-Dp: 13694
-Status: published
-Image: /img/header-94.jpg
+---
+title: "Yevmiye 13694"
+date: 2017-01-11 00:37:35
+expiryDate: 2018-01-11 00:37:35
+dp: 13694
+featured_image: "/images/header-94.jpg"
+images: ["/images/header-94.jpg"]
+published: true
+tags: []
+---
+
+
 
 [Superintelligence: The Idea That Smart People Refuse to Think About](https://hackernoon.com/superintelligence-the-idea-that-smart-people-refuse-to-think-about-be9dae3b8d62?gi=230f62806c39) (Superzeka:
 Zeki insanların düşünmeyi reddettiği fikir) diye bir yazı okudum. Yapay Zeka'nın
@@ -55,6 +61,7 @@ alacakken, robotlar için (insanın ihtiyaç duyduklarına ihtiyaçları olmadı
 bu süre hayli kısa. Onların önünde kolayca yayılabilecekleri bir galaksi, bizim
 elimizde dengesi ne zaman bozulacağını bilmediğimiz bir gezegen. Bahis oynuyor
 olsam, hangisine oynayacağımı biliyorum.
+
 
 
 

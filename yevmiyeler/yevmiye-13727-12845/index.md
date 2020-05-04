@@ -1,9 +1,15 @@
-Title: 1. Yüzleşme
-Author: Emin Reşah
-Date:  2017-02-12 22:26:29
-Dp: 13727
-Status: published
-Image: /img/header-27.jpg
+---
+title: "1. Yüzleşme"
+date: 2017-02-12 22:26:29
+expiryDate: 2018-02-12 22:26:29
+dp: 13727
+featured_image: "/images/header-27.jpg"
+images: ["/images/header-27.jpg"]
+published: true
+tags: []
+---
+
+
 
 Yüzleşmem gerekenle yüzleşmeye hazırlanıyorum. *Tarihselcilik.*
 
@@ -106,3 +112,4 @@ meselesinde bahsi geçen sorunları taşıyor.
 *Biz neden zina etmeyiz? Zina eden insanlar olmadığımız için.*
 
 Net bir cevaba ulaşamadık, daha sonra dönmek üzere burada bırakalım. 
+

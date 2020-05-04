@@ -1,9 +1,15 @@
-Title: Yevmiye 13762
-Author: Emin Reşah
-Date:  2017-03-20 01:14:29
-Dp: 13762
-Status: published
-Image: /img/header-62.jpg
+---
+title: "Yevmiye 13762"
+date: 2017-03-20 01:14:29
+expiryDate: 2018-03-20 01:14:29
+dp: 13762
+featured_image: "/images/header-62.jpg"
+images: ["/images/header-62.jpg"]
+published: true
+tags: []
+---
+
+
 
 Dan Ariely'nin *Payoff* isimli kitabını okudum. *Honest Truth about
 (Dis)Honesty* kitabının bir özeti gibi duruyor bu haliyle. Daha kolay okunan
@@ -127,6 +133,7 @@ sahibi olamayan bu kadar insan varken, bir de istemeyenleri kafaya takmaya gerek
 yok. Bununla beraber anlatmak istediğim o işlerin *çocuklu aile sıkıcılığı* ile
 bitmediği, o ailelerin dışarıdan bu kadar birbirine benzemesindeki sebep, belki
 de çocukların getirdiği ve başka şekilde edinilmesi zor sekinettir, onu diyorum.
+
 
 
 

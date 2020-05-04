@@ -1,9 +1,14 @@
-Title: Kudret ve İyilik
-Author: Emin Reşah
-Date:  2017-11-15 01:43:11
-Dp: 14002
-Status: published
-Image: /img/header-57.jpg
+---
+title: "Kudret ve İyilik"
+date: 2017-11-15 01:43:11
+dp: 14002
+featured_image: "/images/header-57.jpg"
+images: ["/images/header-57.jpg"]
+published: true
+tags: ["islam"]
+---
+
+
 
 Allah'ın kudretine iman ediyor olmamız, onun bu kudretini bizim için, biz *ufak*
 ve *fani* insanlar için de kullanacağı anlamına gelir mi? 
@@ -29,3 +34,4 @@ O halde, insanın Tanrı'ya *iyilik* atfetmesi o kadar anlamlı değil. *Tanrı 
 midir?* Herhalde öyledir ancak bu iyilik, mahiyetini bilmediğimiz ve
 anlamadığımız bir iyiliktir. Kendi ezeli ilmi içinde bir iyilik. O sebeple,
 *madem iyisin, neden bu kadar kötülük?* anlamsız bir soru, manasız bir kibir. 
+

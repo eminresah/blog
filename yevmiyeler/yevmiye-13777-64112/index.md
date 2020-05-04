@@ -1,9 +1,15 @@
-Title: Bilginin Kalitesi
-Author: Emin Reşah
-Date:  2017-03-16 21:28:48
-Dp: 13759
-Status: published
-Image: /img/header-59.jpg
+---
+title: "Bilginin Kalitesi"
+date: 2017-03-16 21:28:48
+expiryDate: 2018-03-16 21:28:48
+dp: 13759
+featured_image: "/images/header-59.jpg"
+images: ["/images/header-59.jpg"]
+published: true
+tags: []
+---
+
+
 
 Din ve bilim tartışmalarında hep *Evrim* diye bir konu var, daha doğrusu bilimin
 aslında ne kadar *ideolojik* olduğunun bu tartışma gündeme gelince
@@ -105,6 +111,7 @@ sorulması ve tam bir cevap alınması mümkün olmayan noktalarda insana rehber
 etmesidir. Bunları görmezden gelir, bilimden beklediğimizi dinden, dinden
 beklediğimizi bilimden beklemeye başlarsak, elimizdeki bilim de, din de asli
 fonksiyonlarını icra edemez hale gelir. 
+
 
 
 

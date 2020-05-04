@@ -1,9 +1,15 @@
-Title: 13955
-Author: Emin Reşah
-Date:  2017-09-28 23:55:38
-Dp: 13955
-Status: published
-Image: /img/header-55.jpg
+---
+title: "13955"
+date: 2017-09-28 23:55:38
+expiryDate: 2018-09-28 23:55:38
+dp: 13955
+featured_image: "/images/header-55.jpg"
+images: ["/images/header-55.jpg"]
+published: true
+tags: []
+---
+
+
 
 A- bana gülerek *kötü bir babasın* diyor. Çünkü ona bunu ben söyledim. Dün
 abisi ve halasıyla beraber okul asıp İstanbul'a gittik. Babanne görmeye. 
@@ -122,4 +128,5 @@ dünyası hakkında soru sorması anlamsızlaşırdı. Her soruya *yaşayıp gö
 diye bir cevap vermek mümkün olurdu.
 
 Ölüm olduğu için bir anlamda hayat var, yoksa, kocaman bir hiçlik. 
+
 

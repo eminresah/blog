@@ -1,9 +1,15 @@
-Title: Yevmiye 13548
-Author: Emin Reşah
-Date: 2016-08-17 18:30:16 
-Dp: 13548 
-Status: published
-Image: /img/header-48.jpg
+---
+title: "Yevmiye 13548"
+date: 2016-08-17 18:30:16
+expiryDate: 2017-08-17 18:30:16
+dp: 13548
+featured_image: "/images/header-48.jpg"
+images: ["/images/header-48.jpg"]
+published: true
+tags: []
+---
+
+
 
 ### FETÖ ve *sağcılık* 
 
@@ -98,4 +104,5 @@ tembellik gören bir milletin, uyku ihtiyacını *ayakta* uyuyarak nasıl
 giderdiğini anlatıyor. Toplum içinde uyumanın bizdeki kadar anormal
 görülmemesinin sebebi de, ta çocukluktan itibaren bir arada uyumaya
 alışmalarıymış. 
+
 

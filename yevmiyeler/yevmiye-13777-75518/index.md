@@ -1,9 +1,15 @@
-Title: Yevmiye 13748
-Author: Emin Reşah
-Date:  2017-04-04 13:58:20
-Dp: 13777
-Status: published
-Image: /img/header-48.jpg
+---
+title: "Yevmiye 13748"
+date: 2017-04-04 13:58:20
+expiryDate: 2018-04-04 13:58:20
+dp: 13777
+featured_image: "/images/header-48.jpg"
+images: ["/images/header-48.jpg"]
+published: true
+tags: []
+---
+
+
 
 Bu klişeler içinde kendini nasıl arayacaksın?
 
@@ -39,4 +45,5 @@ kanser olmadığım ortaya çıkar ve iyi haber budur, onu da bilmiyorum. Hasıl
 haberin hangi konuda olduğunu da merak ettim, umarım bana kardeşimle haber
 gönderecek kadar *mahir* bu falcı, çok defa başıma geldiği gibi *temenni*
 cinsiden konuşmuyordur.
+
 

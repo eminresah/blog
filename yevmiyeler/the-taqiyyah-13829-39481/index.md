@@ -1,9 +1,15 @@
-Title: The Taqiyyah
-Author: Emin Reşah
-Date:  2017-05-26 03:47:14
-Dp: 13829
-Status: published
-Image: /img/header-29.jpg
+---
+title: "The Taqiyyah"
+date: 2017-05-26 03:47:14
+expiryDate: 2018-05-26 03:47:14
+dp: 13829
+featured_image: "/images/header-29.jpg"
+images: ["/images/header-29.jpg"]
+published: true
+tags: []
+---
+
+
 
 Yesterday I was in the supermarket to buy charcoal for barbecue. At the checkout
 line, there was a man in front of me and a woman with headscarf in front of him.
@@ -115,3 +121,4 @@ always taqiyyah, need to hide your true face. And that true face doesn't *exist*
 without necessary conditions anyway. If you're afraid of someone's taqiyyah,
 it's better to remove the conditions for their true face to appear, than being
 slave to constant fear.
+

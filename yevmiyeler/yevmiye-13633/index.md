@@ -1,9 +1,15 @@
-Title: Yevmiye 13633
-Author: Emin Reşah
-Date:  2016-11-11 07:18:29
-Dp: 13633
-Status: published
-Image: /img/header-33.jpg
+---
+title: "Yevmiye 13633"
+date: 2016-11-11 07:18:29
+expiryDate: 2017-11-11 07:18:29
+dp: 13633
+featured_image: "/images/header-33.jpg"
+images: ["/images/header-33.jpg"]
+published: true
+tags: []
+---
+
+
 
 Dünyanın sonu olmadığını söylüyorlar. Beynimin yarısı bunu söylüyor, yarısı da
 bu hafta içinde kıyametin kopacağını. 
@@ -57,6 +63,7 @@ da, herhangi bir gazetede yazacağı kadar karanlık da değil. Ancak karartmak 
 okura asap bozucu bir korku sunmak durumundayız ki, korkup bizi alsın. *İşler o
 kadar da kötü değil* değil, *dünya birkaç hafta içinde batacak* diyene itibar
 etsin. 
+
 
 
 

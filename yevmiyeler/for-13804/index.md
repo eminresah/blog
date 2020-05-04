@@ -1,9 +1,14 @@
-Title: For 13804
-Author: Emin Reşah
-Date:  2017-05-01 10:45:38
-Dp: 13804
-Status: published
-Image: /img/header-4.jpg
+---
+title: "Wikipedia Turned Off"
+date: 2017-05-01 10:45:38
+dp: 13804
+featured_image: "/images/header-4.jpg"
+images: ["/images/header-4.jpg"]
+published: true
+tags: ["siyaset"]
+---
+
+
 
 Sometimes the world forgets you, sometimes you forget the world. 
 
@@ -24,7 +29,8 @@ difficult to believe it. But in this case, no, I really can't find a good
 *reason* to turn this around. 
 
 The optimistic side in this story is this: When people are afraid of a Sauron-like
-Erdogan, they forget how incompetent his allies and bureaucracy are. Not that
+Erdoğan, they forget how incompetent his allies and bureaucracy are. Not that
 they want to limit personal freedoms to an ancient level but they don't have
 means and capacity for this. You cannot dress a Hitler to Erdoğan's body, not
 enough equipment for it.
+

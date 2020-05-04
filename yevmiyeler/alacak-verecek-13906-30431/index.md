@@ -1,9 +1,13 @@
-Title:  Alacak Verecek
-Author: Emin Reşah
-Date:  2017-08-11 01:22:55
-Dp: 13906
-Status: published
-Image: /img/header-6.jpg
+---
+title: "Alacak Verecek"
+date: 2017-08-11 01:22:55
+dp: 13906
+featured_image: "/images/header-6.jpg"
+images: ["/images/header-6.jpg"]
+published: true
+tags: ["islam"]
+---
+
 
 Dini düşünce dışında insanın hayatla alacak verecek muhasebesini dengeleyen
 başka bir fikir var mı? Ölümün ötesine dair bir şekilde *adalete* inanmıyorsak,
@@ -34,7 +38,7 @@ insan bir yerden sonra hayatın biteviye saçmalığından bıktığı için öl
 da uyuşmuş bir uzaklıkla bakmaya başlıyor. İdrak etmeyi ve düşünmeyi bırakıyor.
 Bir de eğer çocukları varsa, herhalde *nasılsa genlerim yaşamaya devam edecek*
 ilhamıyla o kadar derin korkular duymuyor. Şahsen kendi ölümümden çok,
-çocuklarımınkinden korkuyorum sanırım.
+çocuklarımınkinden korkuyorum.
 
 Bununla beraber yine de hayat bana kazık attığında, Zilzal suresinin son
 ayetleri, *kim zerre kadar hayır yaparsa, onu görür ve kim zerre kadar şer
@@ -58,3 +62,4 @@ Dönüp dolaşıp aynı yere geldiğimi farkediyorum: Benim Allah'tan başka ç�
 yok. Eğer Allah yoksa ve hepimiz ezkaza varolmuş yaratıklarsak, bizi ölüm
 fikriyle buluşturan mutasyonla mücadele için Tanrı'yı *uydurmamızın* gayet
 gerçekçi olduğunu söylemek mümkün. Öleceğime inandığım gün Allah'a da inandım. 
+

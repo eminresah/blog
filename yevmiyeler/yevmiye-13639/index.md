@@ -1,9 +1,15 @@
-Title: Yevmiye 13639
-Author: Emin Reşah
-Date:  2016-11-16 22:04:24
-Dp: 13639
-Status: published
-Image: /img/header-39.jpg
+---
+title: "Yevmiye 13639"
+date: 2016-11-16 22:04:24
+expiryDate: 2017-11-16 22:04:24
+dp: 13639
+featured_image: "/images/header-39.jpg"
+images: ["/images/header-39.jpg"]
+published: true
+tags: []
+---
+
+
 
 Hazırda ne var? Hazırda ben varım. Hazırda ne lafların var? Hiçbir lafım yok,
 herkes kadar konuşuyorum.  Doktrinlere kafam bozuk. Yan bakıyorum. Aklı reddeden
@@ -78,3 +84,4 @@ kaybederse, müslümanlar da onların yerini alır.  Aklîlik burada asıl soru
 değil. Asıl soru, toplumların çürümüşlüğü. Liberal demokrasi herkesin her
 derdine çare olabilir mi? İslam'ı kendi kendine bırakıp, Batı İslam ülkelerini
 neden bu hale getirdi, onu konuşsa daha faydalı olur.
+

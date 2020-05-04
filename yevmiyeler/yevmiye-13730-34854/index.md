@@ -1,9 +1,15 @@
-Title: Emanet Otorite
-Author: Emin Reşah
-Date:  2017-02-16 02:40:32
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Emanet Otorite"
+date: 2017-02-16 02:40:32
+expiryDate: 2018-02-16 02:40:32
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 > İslam'ı temsil selahiyetini haiz değilim ve bu selahiyeti kimin kime
 > verebileceğini bilmiyorum.
@@ -46,4 +52,5 @@ uygun yaşamaya başlamışsa, bunun yolunun İslam'ın telaffuz edilmesinden
 geçmeyebileceğini düşünmeye başladım. Siyasi fikrimde İslam'ın doğrudan
 etkisinin görülmemesinin sebebi ve kendimi İslam adına konumlayıp,
 söylediklerimin dini hükmünü arama gayreti duymamam da bundandır.
+
 

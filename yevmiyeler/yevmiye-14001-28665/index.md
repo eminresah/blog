@@ -1,9 +1,15 @@
-Title: Yevsen ne olur? 
-Author: Emin Reşah
-Date:  2017-11-14 00:56:55
-Dp: 14001
-Status: published
-Image: /img/header-70.jpg
+---
+title: "Yevsen ne olur?"
+date: 2017-11-14 00:56:55
+expiryDate: 2018-11-14 00:56:55
+dp: 14001
+featured_image: "/images/header-70.jpg"
+images: ["/images/header-70.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 Hayatta öğrendiğim bir şey varsa, söze dökülenin sahte olduğudur. söz hali
@@ -32,6 +38,7 @@ farketmez. İnsanlar aşk deyince saçmalamaya alışkın.
 aşık olur, hayatın yavanlığı bu sorumlulukların en büyüğü. Yaşamak
 mecburiyetinde kalmanın, hayatla muhatap olmanın getirdiği aynı yerde dönme
 hissinden çıkmak için.
+
 
 
 

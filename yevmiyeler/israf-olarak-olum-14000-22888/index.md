@@ -1,9 +1,12 @@
-Title: İsraf olarak ölüm 
-Author: Emin Reşah
-Date:  2017-11-12 23:20:53
-Dp: 14000
-Status: published
-Image: header-01.jpg
+---
+title: İsraf olarak ölüm 
+author: Emin Reşah
+date:  2017-11-12 23:20:53
+dp: 14000
+status: published
+featured_image: header-01.jpg
+tags: ["ölüm"]
+---
 
 Ölümün varlığını düşününce, sanki biri bu konuda temel bir kural koymak istemiş
 gibi geliyor. Sırf organizma açısından düşünüldüğünde büyük bir *israf.*

@@ -1,9 +1,15 @@
-Title: Yevmiye 17/12 21:21
-Author: Emin Reşah
-Date:  2017-12-17 21:22:11
-Dp: 14035
-Status: published
-Image: /img/header-85.jpg
+---
+title: "Yevmiye 17/12 21:21"
+date: 2017-12-17 21:22:11
+expiryDate: 2018-12-17 21:22:11
+dp: 14035
+featured_image: "/images/header-85.jpg"
+images: ["/images/header-85.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -35,4 +41,5 @@ anlattılar.
 Konuyu hemen bir *Batı medeniyeti kritiğine* dönüştüresim geldi ama
 yapmayacağım. *Dışarıdan ne kadar ahlaksızca görünürse görünsün, bütün insan
 faaliyetleri kendi ahlakını oluşturur* deyip bırakacağım. 
+
 

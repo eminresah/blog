@@ -1,9 +1,15 @@
-Title: Otonomobiller Ne Kadar Hazır?
-Author: Emin Reşah
-Date:  2017-02-20 01:32:42
-Dp: 13734
-Status: published
-Image: /img/header-34.jpg
+---
+title: "Otonomobiller Ne Kadar Hazır?"
+date: 2017-02-20 01:32:42
+expiryDate: 2018-02-20 01:32:42
+dp: 13734
+featured_image: "/images/header-34.jpg"
+images: ["/images/header-34.jpg"]
+published: true
+tags: []
+---
+
+
 
 Toyota'nın *otonomobil* demeyi sevdiğim *kendi giden arabalarından* sorumlu
 bölümün başıyla yapılmış bir [röportajdan:](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/toyota-gill-pratt-on-the-reality-of-full-autonomy)
@@ -34,4 +40,5 @@ kullanması gerekiyor. Röportajın bir yerinde *güvenlik hiçbir zaman %100
 olmayacak* da diyor ama makul hedefler lazım. Bir zaman gelip, araç kazalarının
 şimdiki uçak kazaları kadar nadir olacağına inanmak istiyorum ama o zaman bile,
 robotların hatası tarafından ölmek daha farklı duygular uyandıracaktır. 
+
 

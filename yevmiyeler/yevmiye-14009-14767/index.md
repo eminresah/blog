@@ -1,9 +1,15 @@
-Title: Yevmiye 14009
-Author: Emin Reşah
-Date:  2017-11-21 21:05:17
-Dp: 14009
-Status: published
-Image: /img/header-9.jpg
+---
+title: "Yevmiye 14009"
+date: 2017-11-21 21:05:17
+expiryDate: 2018-11-21 21:05:17
+dp: 14009
+featured_image: "/images/header-9.jpg"
+images: ["/images/header-9.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -91,5 +97,6 @@ Doğulular hala ışığın bu taraftan yükselmesinden memnun, kanunun buradan 
 #### 14
 
 "Chair has five letters is FALSE, 'Chair' has five letters in TRUE" is the unspeakable truth.
+
 
 

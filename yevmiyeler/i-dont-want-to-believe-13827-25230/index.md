@@ -1,9 +1,14 @@
-Title: I don't want to believe
-Author: Emin Reşah
-Date:  2017-05-24 00:00:04
-Dp: 13827
-Status: published
-Image: /img/header-27.jpg
+---
+title: "I don't want to believe"
+date: 2017-05-24 00:00:04
+dp: 13827
+featured_image: "/images/header-27.jpg"
+images: ["/images/header-27.jpg"]
+published: true
+tags: ["islam"]
+---
+
+
 
 > When people use the word ‘science’ they normally mean the process of tying
 > concepts together into theories and testing them against ‘experience’. This
@@ -34,7 +39,7 @@ Humanity evolves and its *gods* too. Where we arrive, however, denouncing *God*
 and laughing all the way to the beginning of history about the idea of *God.*
 
 The insignificant man also evolves, his ideas, his gods, his ghosts. It's almost
-impossible not to evolve today, we are continuously under flood of different
+impossible not to evolve today, we are continuously under flood of differing
 information and opinions. One has to lock himself to the basement with the
 religious books written a thousand years ago not to evolve.
 
@@ -44,4 +49,5 @@ I don't know what will I think next, (can you?), but from the journey I took,
 it's obvious that I'm not becoming more religious. 
 
 The insignificant man has his crises. He will find God, maybe, or himself. 
+
 

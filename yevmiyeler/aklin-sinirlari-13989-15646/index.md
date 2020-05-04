@@ -1,9 +1,15 @@
-Title: Aklın Sınırları - 13989
-Author: Emin Reşah
-Date:  2017-11-01 21:20:00
-Dp: 13989
-Status: published
-Image: /img/header-89.jpg
+---
+title: "Aklın Sınırları"
+date: 2017-11-01 21:20:00
+expiryDate: 2018-11-01 21:20:00
+dp: 13989
+featured_image: "/images/header-89.jpg"
+images: ["/images/header-89.jpg"]
+published: true
+tags: ["akil"]
+---
+
+
 
 Aklı reddeden adam, bunu akılla yapıyorsa, sadece bahane üretiyordur ve aklın
 olmadan aklı nasıl reddedebilirsin?
@@ -79,7 +85,4 @@ müslümanlar onların yerini alabilir ve bu dünyanın da *tercih edeceği* bir
 olur.
 
 Aklîlik burada asıl soru değil. Asıl soru, toplumların çürümüşlüğü. Liberal demokrasi herkesin her derdine çare olabilir mi? İslam'ı kendi kendine bırakıp, Batı bu ülkeleri neden bu hale getirdi, onu konuşsa daha faydalı olur.
-    
 
-    
-    

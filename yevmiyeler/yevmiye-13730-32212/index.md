@@ -1,9 +1,15 @@
-Title: Yalana Üşenmek
-Author: Emin Reşah
-Date:  2017-02-16 01:55:13
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Yalana Üşenmek"
+date: 2017-02-16 01:55:13
+expiryDate: 2018-02-16 01:55:13
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 Gözyaşı nelere perde? Daha genel manasıyla, insanın yüzü nelere perde? 
 
@@ -67,3 +73,4 @@ zorluğu sebebiyle yalana başvurmuyorum. Çünkü neden, çünkü risk.
 Kendimi sorgulamak güzel. Başkalarını bu konularda sorgulayamadığım için tek
 denek kendimim. Kendimle ilgili pek çok konunun gelip *tembelliğe* bağlanması da
 hoşuma gidiyor. Çünkü ben utanmaz bir tembelim. 
+

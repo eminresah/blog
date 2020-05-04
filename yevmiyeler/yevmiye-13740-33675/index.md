@@ -1,9 +1,15 @@
-Title: Erken Fikir
-Author: Emin Reşah
-Date:  2017-02-26 02:21:06
-Dp: 13740
-Status: published
-Image: /img/header-40.jpg
+---
+title: "Erken Fikir"
+date: 2017-02-26 02:21:06
+expiryDate: 2018-02-26 02:21:06
+dp: 13740
+featured_image: "/images/header-40.jpg"
+images: ["/images/header-40.jpg"]
+published: true
+tags: []
+---
+
+
 
 Buraya yazdığım pek çok konunun *henüz vaktinin gelmediğini* düşünüyorum. Yaymak
 konusundaki isteksizliğimin sebebi de bu, bazıları daha çok işlense, daha çok
@@ -64,5 +70,6 @@ olurdu. Ancak *fikir erken* olduğu için, memleket evet/hayır kavgası verirke
 bunlardan bahsetmek biraz manasız görülüyor. *Rastgele seçilmiş insanlara emanet
 edemeyecek* kadar kıymetli memleketimiz var. Onun için de böylelerini şişeye
 yazıp bırakıyorum. Belki 20, belki 50 yıl sonra çıkarıp bakan olursa diye. 
+
 
 

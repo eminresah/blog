@@ -1,9 +1,15 @@
-Title: Bölünen Akıl
-Author: Emin Reşah
-Date:  2017-02-14 00:25:17
-Dp: 13728
-Status: published
-Image: /img/header-28.jpg
+---
+title: "Bölünen Akıl"
+date: 2017-02-14 00:25:17
+expiryDate: 2018-02-14 00:25:17
+dp: 13728
+featured_image: "/images/header-28.jpg"
+images: ["/images/header-28.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 İnsanın *din* veya *gelenek* yerine kendi aklını koymaya çalışması, *birey*
@@ -65,4 +71,5 @@ olmadığını. Tek bir zihnin ahlaken karar verici olup olamayacağını
 tartışmıyoruz. Kendisi için en iyi kararı vermek mümkün müdür,
 bilmiyoruz. Buradan kaynaklanan tüm düşünceler de böyle yalınkat. Belki de
 krizimizin sebebi budur. Bütünü görmek. 
+
 

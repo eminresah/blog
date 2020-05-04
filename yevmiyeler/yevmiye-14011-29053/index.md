@@ -1,9 +1,15 @@
-Title: Yevmiye 14011-01
-Author: Emin Reşah
-Date:  2017-11-24 01:03:42
-Dp: 14011
-Status: published
-Image: /img/header-11.jpg
+---
+title: "Yevmiye 14011-01"
+date: 2017-11-24 01:03:42
+expiryDate: 2018-11-24 01:03:42
+dp: 14011
+featured_image: "/images/header-11.jpg"
+images: ["/images/header-11.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -102,3 +108,4 @@ Türkiye'den silindi. Birbirlerine destek olmaya devam etseler bile, artık
 *hocaefendi* dedikleri hainin adını açıkça telaffuz edemeyecekler. Fikren de ne
 İsa'ya, ne Musa'ya yarayacak, sade suya tirit saçmalıklar mecmuası olduğundan,
 iflahı kesildi ve bitti. Allah onu rezil etti. 
+

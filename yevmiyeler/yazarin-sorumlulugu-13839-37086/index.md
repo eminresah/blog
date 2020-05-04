@@ -1,9 +1,15 @@
-Title: Yazarın Sorumluluğu
-Author: Emin Reşah
-Date:  2017-06-05 03:17:41
-Dp: 13839
-Status: published
-Image: /img/header-39.jpg
+---
+title: "Yazarın Sorumluluğu"
+date: 2017-06-05 03:17:41
+expiryDate: 2018-06-05 03:17:41
+dp: 13839
+featured_image: "/images/header-39.jpg"
+images: ["/images/header-39.jpg"]
+published: true
+tags: []
+---
+
+
 
 Bir kitabın garantisi ne kadar? Herhangi bir alet aldığınızda bunun bir
 garantisi var, işte 2 yıl içinde bozulursa tamir ediyor veya değiştiriyorlar.
@@ -45,3 +51,4 @@ büyük, müphem ve uzak geliyor. Gerçeği düşünmek, hakikati aramak yıldı
 güzel hikayeler bulup, bunların gerçek olduğuna inanarak daha güzel yaşıyoruz.
 Yazarın sorumluluğu da bize bu hikayeleri sunmak, bizi yeterince meşgul
 ediyorsa, ondan daha fazlasını beklemiyoruz. 
+

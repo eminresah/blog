@@ -1,9 +1,15 @@
-Title: Yevmiye 13854
-Author: Emin Reşah
-Date:  2017-07-19 04:43:58
-Dp: 13883
-Status: published
-Image: /img/header-83.jpg
+---
+title: "Yevmiye 13854"
+date: 2017-07-19 04:43:58
+expiryDate: 2018-07-19 04:43:58
+dp: 13883
+featured_image: "/images/header-83.jpg"
+images: ["/images/header-83.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 Evrim konusunda söylemeye çalıştığım şu: İki market var, biri eski ürünler
@@ -134,3 +140,4 @@ işaret eden parmak gibi değerli, ışığın kendisi gibi değil.
 
 Ayrıca tabii, bir elin gökyüzünün yarısını işaret edip, *hakikat şuralarda bir
 yerde* demesiyle, bir noktayı işaret edip *hakikat şurada* demesi aynı değil.
+

@@ -1,9 +1,15 @@
-Title: Yevmiye 13994-21
-Author: Emin Reşah
-Date:  2017-11-06 21:26:47
-Dp: 13994
-Status: published
-Image: /img/header-94.jpg
+---
+title: "Yevmiye 13994-21"
+date: 2017-11-06 21:26:47
+expiryDate: 2018-11-06 21:26:47
+dp: 13994
+featured_image: "/images/header-94.jpg"
+images: ["/images/header-94.jpg"]
+published: true
+tags: []
+---
+
+
 
 Bana sosyal medya üzerinde *sen* denmesini daha faydalı buluyorum. İnsanımız
 *siz* dediğinde söyleyebileceklerini kısıtlıyor. Bir hiyerarşi, bir büyüklük,
@@ -24,4 +30,5 @@ bence bir öğrenme fırsatını kaçırmış oluyorum.
 
 İnsanları öğrenemediğim için çok hata yaptım. Onun için mümkün mertebe, en
 samimi düşüncelerine vakıf olmayı tercih ederim. 
+
 

@@ -1,9 +1,15 @@
-Title: Yevmiye 13991-22
-Author: Emin Reşah
-Date:  2017-11-03 22:46:10
-Dp: 13991
-Status: published
-Image: /img/header-91.jpg
+---
+title: "Yevmiye 13991-22"
+date: 2017-11-03 22:46:10
+expiryDate: 2018-11-03 22:46:10
+dp: 13991
+featured_image: "/images/header-91.jpg"
+images: ["/images/header-91.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 28 Şubat devrinde, sonradan Mesih olduğunu iddia edecek Hasan Mezarcı, Atatürk
@@ -48,4 +54,5 @@ you're able to suspend, and able to continue whenever you desire, probably you
 can also select what to think and what to focus. 
 
 If enlightenment is any other thing, I don't know. 
+
 

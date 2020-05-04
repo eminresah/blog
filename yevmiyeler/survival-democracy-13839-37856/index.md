@@ -1,9 +1,15 @@
-Title: Survival of Democracy
-Author: Emin Reşah
-Date:  2017-06-05 03:30:19
-Dp: 13839
-Status: published
-Image: /img/header-39.jpg
+---
+title: "Survival of Democracy"
+date: 2017-06-05 03:30:19
+expiryDate: 2018-06-05 03:30:19
+dp: 13839
+featured_image: "/images/header-39.jpg"
+images: ["/images/header-39.jpg"]
+published: true
+tags: []
+---
+
+
 
 From [Will Democracy Survive Big Data and Artificial Intelligence?][article]
 
@@ -28,4 +34,5 @@ when we see that people select gadgets and toys over democracy. Yes, they do, as
 they always did.
 
 [article]: http://ift.tt/2kVZiqR
+
 

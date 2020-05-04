@@ -1,9 +1,15 @@
-Title: Yevmiye 13623
-Author: Emin Reşah
-Date:  2016-11-01 00:45:29
-Dp: 13623
-Status: published
-Image: /img/header-23.jpg
+---
+title: "Yevmiye 13623"
+date: 2016-11-01 00:45:29
+expiryDate: 2017-11-01 00:45:29
+dp: 13623
+featured_image: "/images/header-23.jpg"
+images: ["/images/header-23.jpg"]
+published: true
+tags: []
+---
+
+
 
 Bugün neler okudum? Okuduklarımı paylaşma ihtiyacı neden kaynaklanıyor?
 
@@ -65,4 +71,5 @@ felsefe üzerinde çalışmak mümkün değil mi?
 
 İnsanın dünyevi gerçeği görmesi için illa hakikate vasıl olmuş olması mı
 gerekiyor? 
+
 

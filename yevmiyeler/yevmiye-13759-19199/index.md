@@ -1,9 +1,15 @@
-Title: Devrik Zamandan Kalan 
-Author: Emin Reşah
-Date:  2017-03-16 22:18:16
-Dp: 13759
-Status: published
-Image: /img/header-59.jpg
+---
+title: "Devrik Zamandan Kalan"
+date: 2017-03-16 22:18:16
+expiryDate: 2018-03-16 22:18:16
+dp: 13759
+featured_image: "/images/header-59.jpg"
+images: ["/images/header-59.jpg"]
+published: true
+tags: []
+---
+
+
 
 Bu yazı anlaşıldığı kadarıyla eski, pek yazı da denmez, geçen seneden ama
 taslakların arasında buldum. *Bu yazıysa ben de yazarım* demeniz için burada. 
@@ -247,6 +253,7 @@ Y. onların arasından yürüyor. Bazı kaktüsler pembe çiçekler açmış ve 
 sera gibi bir yerde duruyorlar. Y. onların arasından yürüyor, sanki
 boyukısalmışgibi duruyor ama kaktüslerin de boyu uzamış ve insan boyuna ulaşmış
 olabilirler.
+
 
 
 

@@ -1,9 +1,15 @@
-Title: Yevmiye 13852
-Author: Emin Reşah
-Date: 2017-06-17 18:30:19 
-Dp: 13852 
-Status: published
-Image: /img/img-52.jpg
+---
+title: "Yevmiye 13852"
+date: 2017-06-17 18:30:19
+expiryDate: 2018-06-17 18:30:19
+dp: 13852
+featured_image: "/images/img-52.jpg"
+images: ["/images/img-52.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 *İmparatorluğa Türk İsyanı* isimli bir hikaye yazsam. 80-100 sene sonrasında
@@ -47,5 +53,6 @@ Onun için bir sonraki savaş, belki de hiç olmayacak.
 ---------
 
 *Ben kendimi tekrar etmiyorum, senin hafızan fazla iyi* 
+
 
 

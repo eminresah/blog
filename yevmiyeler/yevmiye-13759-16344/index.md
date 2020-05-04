@@ -1,9 +1,15 @@
-Title: İthaf
-Author: Emin Reşah
-Date:  2017-03-16 21:32:15
-Dp: 13759
-Status: published
-Image: /img/header-59.jpg
+---
+title: "İthaf"
+date: 2017-03-16 21:32:15
+expiryDate: 2018-03-16 21:32:15
+dp: 13759
+featured_image: "/images/header-59.jpg"
+images: ["/images/header-59.jpg"]
+published: true
+tags: []
+---
+
+
 
 Tezini yazıp bitirdiğinde bunu annebabasına ithaf eden gibi, zengin olup,
 yeryüzünün *iktidarını* ele geçirince, bunun *İsa Mesih'in vergisi* olduğunu
@@ -14,4 +20,5 @@ edeceğimize yeminler ettiğimiz Rabbimiz'den kitap için yardım dilenip
 duruyoruz. 
 
 Kitap öyle yazılmıyor. 
+
 

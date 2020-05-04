@@ -1,11 +1,9 @@
-==============
-Murakabe 12827
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12827
+---
+title: Murakabe 12827
+date: 2014-11-23 02:18:14 +0200
+dp: 12827
+draft: true
+---
 
 Bugünkü kelimelerinle başlayalım. 827'de ne var?
 

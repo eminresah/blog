@@ -1,9 +1,14 @@
-Title: Duruş ve Çelişki
-Author: Emin Reşah
-Date:  2017-04-08 20:40:36
-Dp: 13782
-Status: published
-Image: /img/header-82.jpg
+---
+title: "Duruş ve Çelişki"
+date: 2017-04-08 20:40:36
+dp: 13782
+featured_image: "/images/header-82.jpg"
+images: ["/images/header-82.jpg"]
+published: true
+tags: ["duruş"]
+---
+
+
 
 > Stances are unstable The antidotes to this whole process are the complete
 > stances. Unfortunately, they too are unstable. They are unstable not because
@@ -49,4 +54,5 @@ Bunun çözümü nedir? Kendine itiraf etmek mi? Bunlardan birini tercih edip de
 etmek mi? Bu duruşlardan herhangi birine tüm kalbinle bağlanmak, mesela *din
 sadece insanlarla iyi geçinmek için araçtır* demek mümkün mü? Aslında hiçbir
 değere inanmadığı halde, insanın inanıyormuş gibi yapmasını getirmez mi?
+
 

@@ -1,9 +1,15 @@
-Title: Yevmiye 13668
-Author: Emin Reşah
-Date:  2016-12-15 21:33:27
-Dp: 13668
-Status: published
-Image: /img/header-68.jpg
+---
+title: "Yevmiye 13668"
+date: 2016-12-15 21:33:27
+expiryDate: 2017-12-15 21:33:27
+dp: 13668
+featured_image: "/images/header-68.jpg"
+images: ["/images/header-68.jpg"]
+published: true
+tags: []
+---
+
+
 
 ## 1
 
@@ -270,3 +276,4 @@ yerimizin olması için, burada bir şeyleri yiyip, bir şeyleri üretip, döng�
 kendine yeten canlılar olarak bundan sonraki maceramıza devam etmemiz gibi
 duruyor. Bize ihtiyaç duyan bir ekosistem olmadığında, sadece kendi kendimize
 ihtiyaç duyarak yaşayabileceğimizi sanıyoruz. Yanılıyoruz. 
+

@@ -1,9 +1,15 @@
-Title: Yevmiye 13732-1
-Author: Emin Reşah
-Date:  2017-02-18 00:45:29
-Dp: 13732
-Status: published
-Image: /img/header-32.jpg
+---
+title: "Yevmiye 13732-1"
+date: 2017-02-18 00:45:29
+expiryDate: 2018-02-18 00:45:29
+dp: 13732
+featured_image: "/images/header-32.jpg"
+images: ["/images/header-32.jpg"]
+published: true
+tags: []
+---
+
+
 
 İnsanların ilişkileri konusunda ne yazmam gerek? Bir şey yazmana gerek yok
 aslında. Dedikodu kabilinden çok laf dönüyor. *Muhafazakarlarda evlilik dışı
@@ -29,3 +35,4 @@ dürüst olabiliyorsunuz, iyi.
 Ancak insanlar için anlamlı bir davranış bu, yani bir insanı o kadar sevebilmek
 de makul geliyor. Bunu anlayabiliyoruz yani. Bir insanın bir hobisi için tahttan
 feragat etmesinden makul buluyoruz.
+

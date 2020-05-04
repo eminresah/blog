@@ -1,9 +1,15 @@
-Title: Yılların Yıldırdığı
-Author: Emin Reşah
-Date:  2017-02-18 01:01:22
-Dp: 13732
-Status: published
-Image: /img/header-32.jpg
+---
+title: "Yılların Yıldırdığı"
+date: 2017-02-18 01:01:22
+expiryDate: 2018-02-18 01:01:22
+dp: 13732
+featured_image: "/images/header-32.jpg"
+images: ["/images/header-32.jpg"]
+published: true
+tags: []
+---
+
+
 
 Yıllar yıldırıyor herkesi. 
 
@@ -61,5 +67,6 @@ eriştiğimi kabul ediyorum.
 Yıllar beni de yıldırdı. Yaşamak beni öldürüyor. Sonsuzluğun gölgesinde,
 yokluğun ruh yakan alevlerinden korunmaya çalışıyorum ama bir yandan da, bu
 zamana kadar ne olduysa, bundan sonra da onlar olacak diyor.
+
 
 

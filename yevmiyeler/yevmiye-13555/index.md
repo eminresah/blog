@@ -1,9 +1,15 @@
-Title: Yevmiye 13555
-Author: Emin Reşah
-Date: 2016-08-24 18:30:17 
-Dp: 13555 
-Status: published
-Image: /img/header-55.jpg
+---
+title: "Yevmiye 13555"
+date: 2016-08-24 18:30:17
+expiryDate: 2017-08-24 18:30:17
+dp: 13555
+featured_image: "/images/header-55.jpg"
+images: ["/images/header-55.jpg"]
+published: true
+tags: []
+---
+
+
 
 ### Ahlakın Mantığı
 
@@ -99,4 +105,5 @@ Sonra biz onun kafasındaki *insana* hiç uymayan bir hareket yaptığımızda *
 insan olamaz* da diyor. Hayır, insan benim, benim gibiler, hastalar, sakatlar,
 çirkinler, topallar, hırsızlar, sapıklar. Asıl senin kafandaki resim *insan*
 değil.
+
 

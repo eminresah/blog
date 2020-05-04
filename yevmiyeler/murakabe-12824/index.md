@@ -1,11 +1,9 @@
-==============
-Murakabe 12824
-==============
-
-:date: 2015-12-03 23:52:29 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12824
+---
+title: Murakabe 12824
+date: 2015-12-03 23:52:29 +0200
+dp: 12824 
+draft: true
+---
 
 Bugün erkencisin?
 

@@ -1,9 +1,15 @@
-Title: Yevmiye 13711
-Author: Emin Reşah
-Date:  2017-01-28 00:27:20
-Dp: 13711
-Status: published
-Image: /img/header-11.jpg
+---
+title: "Yevmiye 13711"
+date: 2017-01-28 00:27:20
+expiryDate: 2018-01-28 00:27:20
+dp: 13711
+featured_image: "/images/header-11.jpg"
+images: ["/images/header-11.jpg"]
+published: true
+tags: []
+---
+
+
 
 ## 1
 
@@ -273,3 +279,4 @@ eskiyi düşünmeden daha yeninin peşinde koşmaya çalışanlar ama onların d
 bu *rahatlığı* kaybedeceklerini düşünürüm. Yaşlanan insan artık *yenilikten*,
 daha doğrusu yenilik dedikleri saçmalıklardan o kadar zevk alamaz hale
 geliyor. Yaşlanan insanların başka acıyla başa çıkma yollarına ihtiyacı var.
+

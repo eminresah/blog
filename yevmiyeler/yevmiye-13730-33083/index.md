@@ -1,9 +1,15 @@
-Title: Manada Ustura
-Author: Emin Reşah
-Date:  2017-02-16 02:11:00
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Manada Ustura"
+date: 2017-02-16 02:11:00
+expiryDate: 2018-02-16 02:11:00
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 İnsanların *hayatın manası* kabilinden söyledikleri, amaç bu dünyadan
 kaynaklanmıyorsa, gördüğüm kadarıyla dünyadan daha primitif oluyor. Bu şu demek:
@@ -28,5 +34,6 @@ insanların imtihanı mümkündü. Daha doğrusu eğri ve doğru bu kadar birbir
 karışmış olmasa da imtihan olabilirdik. Ancak karışıklığın kendisi, yani iyi ve
 kötünün ayrılmasının zorluğu, insanın iyilikten kötülüğe, kötülükten iyiliğe
 geçmesinin kolaylığı bize konunun *sadece imtihan* olmadığını gösteriyor. 
+
 
 

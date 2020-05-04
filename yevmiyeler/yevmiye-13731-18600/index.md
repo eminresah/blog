@@ -1,9 +1,15 @@
-Title: Doğru Oyunlar
-Author: Emin Reşah
-Date:  2017-02-16 23:20:52
-Dp: 13731
-Status: published
-Image: /img/header-31.jpg
+---
+title: "Doğru Oyunlar"
+date: 2017-02-16 23:20:52
+expiryDate: 2018-02-16 23:20:52
+dp: 13731
+featured_image: "/images/header-31.jpg"
+images: ["/images/header-31.jpg"]
+published: true
+tags: []
+---
+
+
 
 Oyun haberlerini, fiyatlarını ve değerlendirmelerini takip etmek, oyun
 oynamaktan daha eğlenceli gelmeye başladığına göre büyümüşüm demektir. 
@@ -28,4 +34,5 @@ hayatlarını riske edecek insanlar çoğunlukta dünyada.
 boşvermesi, söylediklerinin boşluğuna işaret ediyor. İnsan oyunla yaşıyor,
 oyunla öğreniyor. Doğru oyunları, doğru şekilde oynamayı ve doğru oyunlar
 kurmayı öğrenmek, doğru yaşamak demek. 
+
 

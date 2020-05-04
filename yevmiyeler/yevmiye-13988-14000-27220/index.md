@@ -1,9 +1,15 @@
-Title: Yevmiye 13988
-Author: Emin Reşah
-Date:  2017-10-31 22:08:52
-Dp: 13988
-Status: published
-Image: /img/header-88.jpg
+---
+title: "Yevmiye 13988"
+date: 2017-10-31 22:08:52
+expiryDate: 2018-10-31 22:08:52
+dp: 13988
+featured_image: "/images/header-88.jpg"
+images: ["/images/header-88.jpg"]
+published: true
+tags: []
+---
+
+
 
 Bugün suçluluğun ne olduğunu ve nasıl insanı yapmak istemediklerine biraz daha
 ittiğini hatırladım. Birine haketmediğini düşündüğünüz kadar kötü davranınca,
@@ -41,3 +47,4 @@ gütmeye başlıyorsun.
 o kadar da değil* diyecek kimse yoksa, artık iş *şeriatın* parmak kesmesine
 kalıyor. İşin sonu hiçkimse için iyi değil ama gerçeklerle arası nahoş olanlar
 için hiç değil.
+

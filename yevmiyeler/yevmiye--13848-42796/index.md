@@ -1,9 +1,15 @@
-Title: Yevmiye 13848
-Author: Emin Reşah
-Date:  2017-06-14 04:52:58
-Dp: 13848
-Status: published
-Image: /img/header-48.jpg
+---
+title: "Yevmiye 13848"
+date: 2017-06-14 04:52:58
+expiryDate: 2018-06-14 04:52:58
+dp: 13848
+featured_image: "/images/header-48.jpg"
+images: ["/images/header-48.jpg"]
+published: true
+tags: []
+---
+
+
 
 Kültürpark'ta koşarak *beni bu dünyadan alııınn, yanlış yere attınııızz* diye
 bağırsam, acaba bir ambulans gelip de beni alır mı?
@@ -53,4 +59,5 @@ hikayelerimizden daha gerçek. Ancak insan kendi gözünü göremediği gibi, ke
 bedenini de, çalışıp dururken anlayamıyor. Hikayelerimiz daha gerçek duruyor
 onun için, bedenin gerçek olmadığına ve *ruhun* asıl gerçek olduğuna inanmanın
 sebebi de bu.
+
 

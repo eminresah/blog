@@ -1,9 +1,15 @@
-Title: Stone and Mortar
-Author: Emin Reşah
-Date:  2017-06-12 02:20:43
-Dp: 13846
-Status: published
-Image: /img/header-46.jpg
+---
+title: "Stone and Mortar"
+date: 2017-06-12 02:20:43
+expiryDate: 2018-06-12 02:20:43
+dp: 13846
+featured_image: "/images/header-46.jpg"
+images: ["/images/header-46.jpg"]
+published: true
+tags: []
+---
+
+
 
 > Let us suppose there was a super-intelligent machine with godlike knowledge
 > and superhuman abilities: would we follow its instructions? This seems
@@ -51,3 +57,4 @@ it knows how to reach it the fastest? And why do you need to think a rebellion
 against such an intelligence?
 
 [article]: https://www.scientificamerican.com/article/will-democracy-survive-big-data-and-artificial-intelligence/
+

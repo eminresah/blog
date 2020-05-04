@@ -1,9 +1,15 @@
-Title: Dünyayı Anlayan Şair
-Author: Emin Reşah
-Date:  2017-02-18 00:54:50
-Dp: 13732
-Status: published
-Image: /img/header-32.jpg
+---
+title: "Dünyayı Anlayan Şair"
+date: 2017-02-18 00:54:50
+expiryDate: 2018-02-18 00:54:50
+dp: 13732
+featured_image: "/images/header-32.jpg"
+images: ["/images/header-32.jpg"]
+published: true
+tags: []
+---
+
+
 
 Dünyayı değiştireceğini sanacak kadar genç olmak, dünyayı olduğu gibi kabul
 ederek yaşlanmak, dünyayı değiştirdiğini anlayamadan ölmek. 
@@ -56,4 +62,5 @@ Dünyayı anlamak şairlerin işi değil. Zihin sakinliği onların derdi değil
 onların derdi içlerini köpürtüp, kabarcıkların renklerini insanlara sunmak ve
 beğenmelerini beklemek. Benim derdim içimi mümkün mertebe sakinleştirip,
 berraklaştırmak. Köpükleriyle oyalananları beğenmeyişim bundan.
+
 

@@ -1,17 +1,22 @@
-Title: Davud'un Bilekleri
-Author: Emin Reşah
-Date:  2017-02-17 00:29:22
-Dp: 13731
-Status: published
-Image: /img/header-31.jpg
+---
+title: "Davud'un Bilekleri"
+date: 2017-02-17 00:29:22
+dp: 13731
+featured_image: "/images/header-31.jpg"
+images: ["/images/header-31.jpg"]
+published: true
+tags: ["geçmiş"]
+---
+
+
 
 Dünyanın en ünlü heykeli herhalde Michelangelo'nun Floransa'da yaptığı Davud
 heykeli. *Hz. Davud* demeli miyim bilmiyorum, çünkü bizim için anadan üryan bir
-heykelin *peygamber heykeli* olduğuna inanmak biraz tuhaf oluyor.
+heykelin *peygamber heykeli* olduğuna inanmak biraz tuhaf.
 
 Hristiyan ve Yahudiler zaten *nebi* (prophet) olduğuna inanmadıkları için, *Kral
 Davud'un* böyle *somutlaştırılmasına* o kadar da acayip bakmıyorlardır. Dahası
-bizdeki ve onlardaki *peygamber* kavramı tamamen farklı, peygamberin onlar için
+bizdeki ve onlardaki *peygamber* kavramı farklı, peygamberin onlar için
 *antisosyal kahin evliya* gibi bir anlamı var, anlatılan Eski Ahit peygamberleri
 genelde böyle. Onun için *biz (a.s) İsa'yı da peygamber sayıyoruz* deyince,
 adamlar, *ooo, İsa hiç peygamber olur mu, bu hakaret sayılır* diyorlar.
@@ -35,4 +40,5 @@ yetmesi bekleniyormuş kısacası. Bu arada bir deprem olursa dünyanın en meş
 
 Bir an, bir müslüman istilasından önceki büyük bir depremde Avrupa medeniyetini
 temsil eden bu heykelin yıkıldığı bir sahne canlandı gözümde. 
+
 

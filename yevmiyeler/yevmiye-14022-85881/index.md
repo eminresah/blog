@@ -1,9 +1,15 @@
-Title: Yevmiye 14022-16
-Author: Emin Reşah
-Date:  2017-12-05 16:49:09
-Dp: 14022
-Status: published
-Image: /img/header-124.jpg
+---
+title: "Yevmiye 14022-16"
+date: 2017-12-05 16:49:09
+expiryDate: 2018-12-05 16:49:09
+dp: 14022
+featured_image: "/images/header-124.jpg"
+images: ["/images/header-124.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -120,3 +126,4 @@ bir tımarhane veya varlığın özüne ihanet eden ruhların atıldığı bir h
 Dünya hayatı bana çok defa bir *askerlik* gibi gelir, vazife. Tayinin buraya
 çıkıyor, *şark görevi* gibi, vazifeni yaptıktan sonra da gidiyorsun. Ne için
 geldiğini bulmak da vazifenin şartlarından.
+

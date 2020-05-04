@@ -1,9 +1,15 @@
-Title: Yevmiye 14001-00
-Author: Emin Reşah
-Date:  2017-11-14 00:07:34
-Dp: 14001
-Status: published
-Image: /img/header-86.jpg
+---
+title: "Yevmiye 14001-00"
+date: 2017-11-14 00:07:34
+expiryDate: 2018-11-14 00:07:34
+dp: 14001
+featured_image: "/images/header-86.jpg"
+images: ["/images/header-86.jpg"]
+published: true
+tags: []
+---
+
+
 
 Siyaset konusunda düşüncem: *Tanımadığınız insanlar için tanıdıklarınızı
 kırmayın.* (FETÖ hariç)
@@ -33,3 +39,4 @@ dönemlerinde gösterdiği idealist duruşun hemen hemen kalmayışının sebebi
 önceliklerin arasında artık ülkeyi dönüştürmek değil, bir arada tutmak var. 
 
 Ülke için riski azalttığında, kendi için riski azalttığını da farketmiş olmalı.
+

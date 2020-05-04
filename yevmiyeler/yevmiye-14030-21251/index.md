@@ -1,9 +1,15 @@
-Title: Yevmiye 14030-22
-Author: Emin Reşah
-Date:  2017-12-12 22:53:46
-Dp: 14030
-Status: published
-Image: /img/header-39.jpg
+---
+title: "Yevmiye 14030-22"
+date: 2017-12-12 22:53:46
+expiryDate: 2018-12-12 22:53:46
+dp: 14030
+featured_image: "/images/header-39.jpg"
+images: ["/images/header-39.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -41,5 +47,6 @@ var, yazmanın okumaktan daha faydalı olduğu durumlar da. Hedefine göre deği
 Ne yapmak amacındasın?
 
 *Hedefim dünyayı düzeltmek.* 
+
 
 

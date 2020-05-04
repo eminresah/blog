@@ -1,9 +1,15 @@
-Title: Yevmiye 16/12 17:09
-Author: Emin Reşah
-Date:  2017-12-16 17:09:57
-Dp: 14034
-Status: published
-Image: /img/header-61.jpg
+---
+title: "Yevmiye 16/12 17:09"
+date: 2017-12-16 17:09:57
+expiryDate: 2018-12-16 17:09:57
+dp: 14034
+featured_image: "/images/header-61.jpg"
+images: ["/images/header-61.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -88,3 +94,4 @@ Naçizane bu iki yoldan da farklı bir yol düşüncem var ama herhangi bir mode
 şu anki durumdan daha iyi olduğunu da görebiliyorum. Hamaset (bugün bize verdiği
 gibi) dizi takipçilerine de bıkkınlık verdiğinde, yeni hamasetler üretmeye
 çalışmak değil, insanların memnun olduğu bir hayat sunmak. 
+

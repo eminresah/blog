@@ -1,9 +1,15 @@
-Title: Yevmiye 13851-2
-Author: Emin Reşah
-Date:  2017-06-17 05:06:33
-Dp: 13851
-Status: published
-Image: /img/header-51.jpg
+---
+title: "Yevmiye 13851-2"
+date: 2017-06-17 05:06:33
+expiryDate: 2018-06-17 05:06:33
+dp: 13851
+featured_image: "/images/header-51.jpg"
+images: ["/images/header-51.jpg"]
+published: true
+tags: []
+---
+
+
 
 > Kimseyi yaslanacak kadar güçlü görmüyorum. Kimse beni taşıyamazmış gibi. Ben bir
 > dağım, orada bulunacağıma güvenirler, deprem olsa da, sallansam da, içimden
@@ -22,3 +28,4 @@ benim boyumun ölçüsünü aşar.* İnsan ancak kendini bildiği ölçüler iç
 güvenilebilir. Kendini bilmeyenin kendi hakkında söylediklerine de ne gibi bir
 güvenimiz olabilir?
  
+

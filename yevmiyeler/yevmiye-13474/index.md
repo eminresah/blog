@@ -1,9 +1,15 @@
-Title: Yevmiye 13474
-Author: Emin Reşah
-Date: Sun Feb 19 01:16:05 2017
-Dp: 13474 
-Image: /img/header-74.jpg
-Status: published
+---
+title: "Yevmiye 13474"
+date: 2017-02-19 01:16:05
+expiryDate: 2018-02-19 01:16:05
+dp: 13474
+featured_image: "/images/header-74.jpg"
+images: ["/images/header-74.jpg"]
+published: true
+tags: []
+---
+
+
 
 Milletimiz bir *goygoy milleti.* Önem verdiği kavramları iğdiş etmekte,
 kullanılamayacak kadar bozmakta üstüne yok.
@@ -31,3 +37,4 @@ Dertlerimiz ve bizi rezil eden sorular hiç bitmiyor.
 geldiğine bakarlar önce, kim söylemiş bunu veyahut bu neye yarıyor? Anlamı
 nedir? Kötü bir şey olmasın? Bu sebeple *sevgi* çok zaman bir istismar
 aracıdır. *Benden misin, değil misin?* 
+

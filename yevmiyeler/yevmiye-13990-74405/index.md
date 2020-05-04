@@ -1,9 +1,15 @@
-Title: Yevmiye 13990
-Author: Emin Reşah
-Date:  2017-11-03 13:39:41
-Dp: 13990
-Status: published
-Image: /img/header-90.jpg
+---
+title: "Yevmiye 13990"
+date: 2017-11-03 13:39:41
+expiryDate: 2018-11-03 13:39:41
+dp: 13990
+featured_image: "/images/header-90.jpg"
+images: ["/images/header-90.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 Yeterince aradığında aradığını bulacağına inanıyor musun? 
@@ -22,3 +28,4 @@ bulamayacağını *kendi* görünce, *yeter* desin diye.
 
 İdeallerin bize faydası, gideceğimiz yere kadar yarenlik etmeleri. Daha
 fazlasını onlardan beklemeye hakkımız yok.
+

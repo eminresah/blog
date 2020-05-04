@@ -1,9 +1,15 @@
-Title: Yevmiye 13663
-Author: Emin Reşah
-Date:  2016-12-10 22:14:57
-Dp: 13663
-Status: published
-Image: /img/header-63.jpg
+---
+title: "Yevmiye 13663"
+date: 2016-12-10 22:14:57
+expiryDate: 2017-12-10 22:14:57
+dp: 13663
+featured_image: "/images/header-63.jpg"
+images: ["/images/header-63.jpg"]
+published: true
+tags: []
+---
+
+
 
 ## 1
 
@@ -237,3 +243,4 @@ algılarımızın gerçek olduğunu nasıl bilebiliriz?* diye sorular soruyoruz 
 Ateistler de kendilerine çeki düzen veriyorlar. Sonunda bazı insanların hakikate
 yaklaşması da ancak onu inkar ederek olabiliyor, daha iyi inkar ederse, belki
 inkarın sonunda iman olduğunu kabul edecek.
+

@@ -1,9 +1,15 @@
-Title: Yevmiye 13899
-Author: Emin Reşah
-Date: 2017-08-03 18:30:19 
-Dp: 13899 
-Status: published
-Image: /img/header-7.jpg
+---
+title: "Yevmiye 13899"
+date: 2017-08-03 18:30:19
+expiryDate: 2018-08-03 18:30:19
+dp: 13899
+featured_image: "/images/header-7.jpg"
+images: ["/images/header-7.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 
@@ -26,3 +32,4 @@ soyut mevzularla uğraşabilmek için çözmem gereken sorunlar var ve onları
 
 Poz satacak değilim, aslında çok da mühim konular değil bunlar. Nefes
 alabiliyorsa, sorun yok. 
+

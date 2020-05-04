@@ -1,9 +1,14 @@
-Title: Ideology and Religion 
-Author: Emin Reşah
-Date:  2017-09-24 04:35:41
-Dp: 13950
-Status: published
-Image: /img/header-50.jpg
+---
+title: "Ideology and Religion"
+date: 2017-09-24 04:35:41
+dp: 13950
+featured_image: "/images/header-50.jpg"
+images: ["/images/header-50.jpg"]
+published: true
+tags: ["siyaset"]
+---
+
+
 
 What are the differences of ideology and religion?
 
@@ -24,3 +29,4 @@ Therefore we have to update both at the same time. When you need to update the d
 Some people may desire to conform their daily life to metaphysics. *Radicalism* stems from this view. However no radical can be enough radical to change the course of time. It's cherry-picking at the end, you try to conform some aspects of your ideology and let the other parts go away. 
 
  
+

@@ -1,11 +1,8 @@
-==============
-Murakabe 12810
-==============
-
-:date: 2014-11-23 02:18:14 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   12810
+---
+title: Murakabe 12810
+date: 2014-11-23 02:18:14 +0200
+dp: 12810
+---
 
 İ: Bugün *hakikat* hakkında konuşalım mı?
 

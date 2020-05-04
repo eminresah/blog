@@ -1,22 +1,20 @@
-Yevmiye 13061
-=============
+---
+title: Yevmiye 13061
+date: 2015-04-19 21:44:38 +0300
+dp: 13061
+tags: ["yazi"]
+---
 
-:date: 2015-04-19 21:44:38 +0300
-
-.. :author: Emin Reşah
-.. :date: Sun Apr 19 00:05:54 EEST 2015 
-.. :dp: 13061 
-
-Yasemin bugün bana *yazıların ciddi konularda gibi duruyor ama bir
+<!-- Yasemin bugün bana *yazıların ciddi konularda gibi duruyor ama bir
 yandan da eğleniyor gibisin* dedi. *Eğleniyorum* dedim. Okuyan
-eğleniyorsa, yazan da eğleniyordur bir yazıda.
+eğleniyorsa, yazan da eğleniyordur bir yazıda. -->
 
 Fazla ciddi yazmak beni yoruyor. Yazıları da, kendimi de fazla ciddiye
 alamıyorum. Üsluba yansıyan bu gayrıciddiyet. Üzerinde cümle kurmaya
 değer konuların genelde *ciddi* olduğu düşünüldüğü için, bu
 ciddiyetsizlik tuhaf geliyordur. Bir yandan *edebiyat yapmaya* da pek
 hevesli olmadığım için yazılar acayip bir renk alıyor. *Ne ikna etmeye
-uğraşırım, ne fikrimden vazgeçerim* duruşu.
+uğraşırım, ne fikrimden vazgeçerim.* 
 
 Öyle bir şey kaldı mı bilmiyorum ama *Türk entelijansiyanın* önemli
 bir ciddiyet meselesi var. Kendini de, dünyayı da fazla ciddiye alıyor

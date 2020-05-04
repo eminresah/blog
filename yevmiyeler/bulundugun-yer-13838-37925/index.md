@@ -1,9 +1,14 @@
-Title: Bulunduğun Yer 
-Author: Emin Reşah
-Date:  2017-06-04 03:30:26
-Dp: 13838
-Status: published
-Image: /img/header-38.jpg
+---
+title: "Bulunduğun Yer"
+date: 2017-06-04 03:30:26
+dp: 13838
+featured_image: "/images/header-38.jpg"
+images: ["/images/header-38.jpg"]
+published: true
+tags: ["islam"]
+---
+
+
 
 Birkaç ay evvel Ayaan Hirsi Ali ile Sam Harris'in bir [podcast'ini][podcast]
 dinledim. Hirsi Ali'yi daha öncesinden tanımıyorum ama anladığım kadarıyla
@@ -38,4 +43,5 @@ yanlış olmadığı anlamına da gelmiyor.
 Kısacası insanları dinlerken, nereden, kim adına, hangi geçmişten gelerek
 konuştuklarına bakmak icap ediyor. Hepimiz zamanın, geçmişimizin,
 yaşadıklarımızın kölesiyiz, özgürlüğümüz de bu köleliği idrak etmekle geçiyor.
+
 

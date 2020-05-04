@@ -1,9 +1,15 @@
-Title: Yevmiye 13786
-Author: Emin Reşah
-Date:  2017-04-13 12:11:20
-Dp: 13786
-Status: published
-Image: /img/header-86.jpg
+---
+title: "Yevmiye 13786"
+date: 2017-04-13 12:11:20
+expiryDate: 2018-04-13 12:11:20
+dp: 13786
+featured_image: "/images/header-86.jpg"
+images: ["/images/header-86.jpg"]
+published: true
+tags: []
+---
+
+
 
 > I won't take my religion from any man who never works except with his mouth.
  
@@ -45,3 +51,4 @@ hilafetinin yıkıldığı 751 TK tarihinden beri tek bir *İslam devleti* yok, 
 kaynaklı olarak tek bir *İslam* da yok, çünkü her *ideolojik odak* kendine
 mahsus yorumlar yapabilecek durumda. O halde burada *mümkün mü?* diye
 tartışılacak da bir konu yok. 
+

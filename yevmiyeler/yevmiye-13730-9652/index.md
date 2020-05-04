@@ -1,9 +1,15 @@
-Title: Kanser olamayacak kadar kötü
-Author: Emin Reşah
-Date:  2017-02-16 01:47:58
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Kanser olamayacak kadar kötü"
+date: 2017-02-16 01:47:58
+expiryDate: 2018-02-16 01:47:58
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 *Kanser olamayacak kadar kötüyüm.*
 
@@ -20,6 +26,7 @@ yaşayacak. *En ortalama* ne demek, onu da bilmiyorum.
 Ancak ortalamanın yaşayanlara nazaran değiştiğini düşününce, bu hesabın sadece
 Allah'ın yapabileceği türden bir hesap olduğunu idrak ediyoruz. Susuyoruz ve
 saçmalamalarımızı başka konulara kaydırıyoruz. 
+
 
 
 

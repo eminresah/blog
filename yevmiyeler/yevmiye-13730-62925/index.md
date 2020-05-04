@@ -1,9 +1,15 @@
-Title: Hikayelerin Kalitesi
-Author: Emin Reşah
-Date:  2017-02-16 11:47:57
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Hikayelerin Kalitesi"
+date: 2017-02-16 11:47:57
+expiryDate: 2018-02-16 11:47:57
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 Sana bir beyin atkısı lazım, soğuktan üşümesin diye. Esen rasyonel rüzgarlar,
 bencil rüzgarlar beynini dondurup, bir külçe et yığınına çevirmesin
@@ -42,5 +48,6 @@ alırım.)
 İnsan duygularıyla çalışan bir makine. Hikayeleri *bilgi kalitesi* açısından pek
 değerlendirmiyor o sebeple, tek derdi kısa ömrünü anlamla dolduracak *duygusal
 kalitesi* yüksek hikayeler. Bir sonraki *karanlık çağ* da bundan neşet edecek. 
+
 
 

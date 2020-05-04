@@ -1,9 +1,12 @@
-Title: Gülenci Paradoksu
-Author: Emin Reşah
-Date:  2017-06-11 20:28:52
-Dp: 13846
-Status: published
-Image: /img/header-46.jpg
+---
+title: "Gülenci Paradoksu"
+date: 2017-06-11 20:28:52
+dp: 13846
+featured_image: "/images/header-46.jpg"
+images: ["/images/header-46.jpg"]
+published: true
+tags: ["siyaset"]
+---
 
 12 Ağustos 2016'da şöyle bir şey yazmışım ama yayınlamamışım. Bugün baktığımda
 genel manada tahminimin doğru olduğunu görüyorum. 
@@ -42,4 +45,5 @@ ancak tahminim, bu operasyonların büyük ölçüde asıl FETÖ yapısını ata
 ekseriyetinin devlette yapışık kalmaya devam edeceği yönünde. Dahası devletin
 bir kısmı da, temizliği yapmak yerine, Gülen'in ölümünden sonra, bu *paralel
 devletin* asıl devlet hesabına kullanılmasını tercih edebilir.
+
 

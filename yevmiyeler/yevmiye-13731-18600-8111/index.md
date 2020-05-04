@@ -1,9 +1,15 @@
-Title: Son Totaliterlik
-Author: Emin Reşah
-Date:  2017-02-17 00:00:20
-Dp: 13731
-Status: published
-Image: /img/header-31.jpg
+---
+title: "Son Totaliterlik"
+date: 2017-02-17 00:00:20
+expiryDate: 2018-02-17 00:00:20
+dp: 13731
+featured_image: "/images/header-31.jpg"
+images: ["/images/header-31.jpg"]
+published: true
+tags: []
+---
+
+
 
 [What We Get Wrong about Hannah Arendt | Hannah Arendt hakkında neyi yanlış anlıyoruz?](http://ift.tt/2j5Ihpe) başlıklı
 yazıdan: 
@@ -48,6 +54,7 @@ ve tüm ihtiyaçlarımızı akvaryumdaki sevgili balıklarını besler gibi gör
 *efendimiz robotlar* geldiğinde, artık bu tartışmaları da yapmamıza gerek
 kalmayacak. Yeryüzünün tek bir beyin olduğunu ve bizim de onun *muhabbet
 kuşları* olduğumuzu düşünün. Gerçekle alakamızın son demleri. 
+
 
 
 

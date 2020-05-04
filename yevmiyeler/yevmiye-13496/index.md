@@ -1,9 +1,15 @@
-Title: Yevmiye 13496
-Author: Emin Reşah
-Date: 2016-11-15 18:00:10
-Dp: 13496
-Status: published
-Image: /img/header-96.jpg
+---
+title: "Yevmiye 13496"
+date: 2016-11-15 18:00:10
+expiryDate: 2017-11-15 18:00:10
+dp: 13496
+featured_image: "/images/header-96.jpg"
+images: ["/images/header-96.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 Dipnot
@@ -138,4 +144,5 @@ gerekiyor.
 
 Allah'ı insandan ayrı kabul ettiğimiz, birini CEO, diğerini halifesi
 kabul ettiğimiz sürece bu meseleden çıkmamız zor.
+
 

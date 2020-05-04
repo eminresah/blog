@@ -1,9 +1,15 @@
-Title: Ruhumda Yükselemeyen Ateş
-Author: Emin Reşah
-Date:  2017-07-18 11:49:54
-Dp: 13882
-Status: published
-Image: /img/header-82.jpg
+---
+title: "Ruhumda Yükselemeyen Ateş"
+date: 2017-07-18 11:49:54
+expiryDate: 2018-07-18 11:49:54
+dp: 13882
+featured_image: "/images/header-82.jpg"
+images: ["/images/header-82.jpg"]
+published: true
+tags: []
+---
+
+
  
 *Ruhumda yükselen ateş.*
 
@@ -20,5 +26,6 @@ ve insanın sınırlarını bilmek. Edebiyat da aynı hastalığın başka sempt
 sınırlarını hafife alan insanın, *söz* aracını gereksiz işlerde kullanması. 
 
 *Ne gerekli?* diyeceksin? Edebiyat gereksizse, gerekli olan ne olabilir?
+
 
 

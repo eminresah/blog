@@ -1,9 +1,15 @@
-Title: Anlaşılmaz Hayat
-Author: Emin Reşah
-Date:  2017-07-24 21:26:33
-Dp: 13889
-Status: published
-Image: /img/header-89.jpg
+---
+title: "Anlaşılmaz Hayat"
+date: 2017-07-24 21:26:33
+expiryDate: 2018-07-24 21:26:33
+dp: 13889
+featured_image: "/images/header-89.jpg"
+images: ["/images/header-89.jpg"]
+published: true
+tags: ["hakikat"]
+---
+
+
 
 
 Hayatın anlaşılmaz bir yer olduğunu düşünnerek ne kadar yaşarsın? Kendini ne
@@ -21,3 +27,4 @@ size sözsüz gelecektir dediğimizde, ne denmeye çalışıldığını bile anl
 Çünkü bir hüküm verip, bir sonraki ava geçmek istiyoruz. Çünkü bizi hayatımız
 boyunca, zamandan bağımsız kuşatan *hakikat* diye bir şeyi geçmenin mümkün
 olmadığını anlayamıyoruz.
+

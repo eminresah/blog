@@ -1,9 +1,15 @@
-Title: Yevmiye 13945
-Author: Emin Reşah
-Date:  2017-09-18 22:38:58
-Dp: 13945
-Status: published
-Image: /img/header-45.jpg
+---
+title: "Yevmiye 13945"
+date: 2017-09-18 22:38:58
+expiryDate: 2018-09-18 22:38:58
+dp: 13945
+featured_image: "/images/header-45.jpg"
+images: ["/images/header-45.jpg"]
+published: true
+tags: []
+---
+
+
 
 95 gün önce yazmışım bunu. 15 Haziran 2017 ediyor.
 
@@ -44,4 +50,5 @@ sahiplenmeyi ve kendimi teselli etmeyi öğreneceğim.*
 *Bensiz* dedi kadın. 
 
 *Sensiz* dedi adam. 
+
 

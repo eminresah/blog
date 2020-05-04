@@ -1,9 +1,15 @@
-Title: 2. Yüzleşme
-Author: Emin Reşah
-Date:  2017-03-16 21:50:30
-Dp: 13759
-Status: published
-Image: /img/header-59.jpg
+---
+title: "2. Yüzleşme"
+date: 2017-03-16 21:50:30
+expiryDate: 2018-03-16 21:50:30
+dp: 13759
+featured_image: "/images/header-59.jpg"
+images: ["/images/header-59.jpg"]
+published: true
+tags: []
+---
+
+
 
 Tarihselciliğin benim için asıl arızalı kısmının mutlak ahlaktan uzaklaştırması
 olduğunu [yazmıştım](/yevmiyeler/yevmiye-13727-12845/) Orada eğer dini ahlakı,
@@ -70,3 +76,4 @@ Kur'an-ı Kerim selefilerin elindeki en önemli silaha dönüştü.
 Şimdi birkaç nesilde, dini düşünceyi ne selefilerin eline bırakıp, ne
 anlamsızlaştıracak kadar zayıflatmak, hem de modern insanı doyurabilir hale
 getirmek gerek. *Nasıl?* diye soruyorum ve cevabını bulamıyorum. 
+

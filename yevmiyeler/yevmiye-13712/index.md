@@ -1,9 +1,15 @@
-Title: Yevmiye 13712
-Author: Emin Reşah
-Date:  2017-01-29 00:26:46
-Dp: 13712
-Status: published
-Image: /img/header-12.jpg
+---
+title: "Yevmiye 13712"
+date: 2017-01-29 00:26:46
+expiryDate: 2018-01-29 00:26:46
+dp: 13712
+featured_image: "/images/header-12.jpg"
+images: ["/images/header-12.jpg"]
+published: true
+tags: []
+---
+
+
 
 ## 1
 
@@ -82,3 +88,4 @@ etki eden *gözlemci* de aslında kuantum mekaniğinin kurallarına tâbi. *Göz
 ve onun *nöronları* ve *beyni* aslında kolaylık olsun diye kullandığımız
 sembollerden ibaret. Eğer nesneler bildiğimiz manada mevcut değilse, gözlemci de
 yok demektir. Gözlemci yoksa, gözleyen kim?
+

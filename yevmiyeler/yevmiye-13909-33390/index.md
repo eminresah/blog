@@ -1,9 +1,15 @@
-Title: Yevmiye 13909
-Author: Emin Reşah
-Date:  2017-08-14 02:16:15
-Dp: 13909
-Status: published
-Image: /img/header-9.jpg
+---
+title: "Yevmiye 13909"
+date: 2017-08-14 02:16:15
+expiryDate: 2018-08-14 02:16:15
+dp: 13909
+featured_image: "/images/header-9.jpg"
+images: ["/images/header-9.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 
@@ -23,3 +29,4 @@ Ha, belki, bazı meselelerin çözümü için milat olsun, zaten Araplar da yak�
 ayrılacak, bizim için de yangında çözülecek sorunlar var, demişlerdir. Belki
 aculluk değildir de, bile isteye devletin fişini çekmektir. O da mümkün ama
 değer miydi?
+

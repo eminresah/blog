@@ -1,9 +1,15 @@
-Title: Yevmiye 13686
-Author: Emin Reşah
-Date:  2017-01-02 22:19:25
-Dp: 13686
-Status: published
-Image: /img/header-86.jpg
+---
+title: "Yevmiye 13686"
+date: 2017-01-02 22:19:25
+expiryDate: 2018-01-02 22:19:25
+dp: 13686
+featured_image: "/images/header-86.jpg"
+images: ["/images/header-86.jpg"]
+published: true
+tags: []
+---
+
+
 
 ### 1 Yansıma
 
@@ -183,3 +189,4 @@ düşünmek daha makul.
 Yasakların bir kötü tarafı da devleti kolaycılaştırması. Sorunları çözmek yerine
 süpürmek daha kolay geliyor. Kötülük tarihin başından beri vardı ve ortadan
 kalkmayacak. Mücadele yolu da bu değil. 
+

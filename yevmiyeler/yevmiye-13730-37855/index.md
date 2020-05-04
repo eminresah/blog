@@ -1,9 +1,15 @@
-Title: Yevmiye 13730/1
-Author: Emin Reşah
-Date:  2017-02-16 03:29:55
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Yevmiye 13730/1"
+date: 2017-02-16 03:29:55
+expiryDate: 2018-02-16 03:29:55
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 A- hanım (2.5) artık tuvalete oturmaya başladı. Bugün annesi tuvalette onu
 unutmuş, onu oraya oturtup başka işler yapmış, onlara dalmış, kızımın da sesi
@@ -18,4 +24,5 @@ sevgi görmediğimi de onunla tanıştıktan sonra anladım sanırım.
 
 Bunu düşünürken çocukluğumun, oğlumun yaşındaki çocukluğumun ne kadar zor
 geçtiği aklıma geldi.
+
 

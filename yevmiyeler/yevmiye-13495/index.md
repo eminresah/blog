@@ -1,9 +1,15 @@
-Title: Yevmiye 13495
-Author: Emin Reşah
-Date: 2016-11-15 18:00:09
-Dp: 13495
-Status: published
-Image: /img/header-95.jpg
+---
+title: "Yevmiye 13495"
+date: 2016-11-15 18:00:09
+expiryDate: 2017-11-15 18:00:09
+dp: 13495
+featured_image: "/images/header-95.jpg"
+images: ["/images/header-95.jpg"]
+published: true
+tags: []
+---
+
+
 
 Bu yazı 25 Haziran'dan beri yazılmayı bekliyormuş. İçini, benim senelerdir
 biriktirdiğim gibi, biriktirmiş ve yazılmayı bekliyormuş. 
@@ -72,4 +78,5 @@ daima haklı olmak daha iyi.
 Bu gibi insanları ciddiye almaya gerek yok ama tepemize çıkmaları muhtemel
 olduğunda, onları sakin sakin dinleyip, *bugün için ne düşünüyorsun* diye sormak
 iyi olabilir. 
+
 

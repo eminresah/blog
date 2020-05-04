@@ -1,9 +1,15 @@
-Title: Yevmiye 13999-20
-Author: Emin Reşah
-Date:  2017-11-11 20:46:27
-Dp: 13999
-Status: published
-Image: /img/header-99.jpg
+---
+title: "Yevmiye 13999-20"
+date: 2017-11-11 20:46:27
+expiryDate: 2018-11-11 20:46:27
+dp: 13999
+featured_image: "/images/header-99.jpg"
+images: ["/images/header-99.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 Nesnelerin gücü adına. Nesnelerin kayboluşu ve yaratılışı adına. Nesnelerin
@@ -56,4 +62,5 @@ bir faydası yoksa?
 
 Başının ağrısı gripten de olabilir, açlıktan da. Uyku ikisine de iyi gelecektir.
 O halde sebebini mi araştırmalısın, kendini yastığa mı bırakmalısın?
+
 

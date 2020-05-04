@@ -1,9 +1,15 @@
-Title: Looking Inward 
-Author: Emin Reşah
-Date:  2017-05-06 17:30:53
-Dp: 13810
-Status: published
-Image: /img/header-10.jpg
+---
+title: "Dialog: Looking Inward"
+date: 2017-05-06 17:30:53
+expiryDate: 2018-05-06 17:30:53
+dp: 13810
+featured_image: "/images/header-10.jpg"
+images: ["/images/header-10.jpg"]
+published: true
+tags: ["philosophy"]
+---
+
+
 
 Looking inward what do you see?
 
@@ -12,7 +18,7 @@ outside as well. All my inner reflections seem to be based on my outer
 experience.
 
 That shouldn't be right, you have to find some guidance in your inner world, at
-least thats what is said by others.
+least that's what is said by others.
 
 Do you think it's possible for a human to think outside of the experience he
 has? We build out thoughts from that experience. That's the fabric, right?
@@ -42,7 +48,8 @@ mind, are we citizens of nature as an empiricist may claim or a subjects of
 mind?
 
 Nowadays everything is political, so there is no surprise that you reduce this
-debate to a political one. :neutral_face:
+debate to a political one. 
+
 
 
 

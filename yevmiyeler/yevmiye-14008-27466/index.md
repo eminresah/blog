@@ -1,9 +1,15 @@
-Title: Yevmiye 14008-00
-Author: Emin Reşah
-Date:  2017-11-21 00:37:31
-Dp: 14008
-Status: published
-Image: /img/header-125.jpg
+---
+title: "Yevmiye 14008-00"
+date: 2017-11-21 00:37:31
+expiryDate: 2018-11-21 00:37:31
+dp: 14008
+featured_image: "/images/header-125.jpg"
+images: ["/images/header-125.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 ### 1
@@ -249,4 +255,5 @@ değil mi?
 
 Sorun şu ki, bu hedef mümkün ve makul bir hedef değil. *O iş* tamama ermeyecek
 ve gördüğüm kadarıyla, o yoldaki yanlışlar yüzünden kazanılan da kaybedilecek. 
+
 

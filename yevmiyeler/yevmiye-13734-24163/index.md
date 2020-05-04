@@ -1,9 +1,15 @@
-Title: Barbarlar Paramparça
-Author: Emin Reşah
-Date:  2017-02-20 01:28:11
-Dp: 13734
-Status: published
-Image: /img/header-34.jpg
+---
+title: "Barbarlar Paramparça"
+date: 2017-02-20 01:28:11
+expiryDate: 2018-02-20 01:28:11
+dp: 13734
+featured_image: "/images/header-34.jpg"
+images: ["/images/header-34.jpg"]
+published: true
+tags: []
+---
+
+
 
 Geçenlerde Nişanyan'ın blogunda [Barbarlar Kapımızda](http://nisanyan1.blogspot.com.tr/2017/01/barbarlar-kapmzda.html) diye bir yazısını
 okudum. Barbarlar, yani, aklın yerine *dogmayı* tercih edenler. Liberallerin son
@@ -36,3 +42,4 @@ Bilim-Kurgu gibi geliyor bunları söylediğimde ama insan günlerinin sonların
 belki son ikiyüz yılını, belki daha azını yaşıyoruz. İnsan korkulduğu gibi
 silahla kendini yok etmek yerine, makinelerle birleşip *sonsuza kadar mutlu
 yaşayacak* gibi duruyor. 
+

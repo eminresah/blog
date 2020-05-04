@@ -1,9 +1,15 @@
-Title: Kolay Gürültü
-Author: Emin Reşah
-Date:  2017-02-12 17:43:47
-Dp: 13727
-Status: published
-Image: /img/header-27.jpg
+---
+title: "Kolay Gürültü"
+date: 2017-02-12 17:43:47
+expiryDate: 2018-02-12 17:43:47
+dp: 13727
+featured_image: "/images/header-27.jpg"
+images: ["/images/header-27.jpg"]
+published: true
+tags: []
+---
+
+
 
 Oturup saatlerce, günlerce yazmak istiyorum. Internetten uzakta. Uzak bir yerde,
 sadece o zamana kadar ne düşünmüşüm ve bunlarda hangi yanlışlıklar bulabilirim
@@ -24,4 +30,5 @@ dinleyecek zaman aynı ve artık hepimiz *doluyuz.*
 
 Odamın penceresi bir kayalığa bakıyor. Sarmaşıklar var. O sarmaşıklar kadar
 sakin geçirmek istiyorum hayatı. Çok şey mi istiyorum?
+
 

@@ -1,16 +1,21 @@
-Title: Kıymık 
-Author: Emin Reşah
-Date:  2017-06-11 16:08:12
-Dp: 13845
-Status: published
-Image: /img/header-45.jpg
+---
+title: "Kıymık"
+date: 2017-06-11 16:08:12
+dp: 13845
+featured_image: "/images/header-45.jpg"
+images: ["/images/header-45.jpg"]
+published: true
+tags: ["siyaset"]
+---
+
+
 
 Eski tweetlere bakıyorum. 2013 yılının Nisan ayında biriyle tost geyiği
 yapmışız. Benim o sıralar çok sevdiğim *tek katlı tostu* tarif etmişim. O
 senenin Mayıs sonunda *Gezi direnişi* yaptılar kendileri, Mısır darbesine sessiz
 kaldıklarında sildim defterden. 
 
-Mısır darbesi sanırım siyasi manada çok önemli bir turnusol kağıdı işlevi gördü
+Mısır darbesi siyasi manada çok önemli bir turnusol kağıdı işlevi gördü
 benim için. Diğer taraf, darbenin haklı olduğunu çünkü neticede *gericilere*
 karşı mücadele edildiğini söyleyebilir. Sivil insanları öldürerek de olsa,
 *gericilere* karşı mücadele. Bu barışa hizmet eden bir fikir değil, çünkü
@@ -66,4 +71,5 @@ Türkiye'de, Mısır'da veya Fransa'da da olsa, seslerini bir şekilde duyuracak
 sistemin eline kıymık, boğazına kürdan olmaya çalışacaklardır. Onları
 kıymıklaşmadan yontmak ve faydalı hale getirmek için de makineye dahil etmeniz
 gerekir.
+
 

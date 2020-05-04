@@ -1,9 +1,15 @@
-Title: Yevmiye 16/12 23:48
-Author: Emin Reşah
-Date:  2017-12-16 23:48:54
-Dp: 14034
-Status: published
-Image: /img/header-57.jpg
+---
+title: "Yevmiye 16/12 23:48"
+date: 2017-12-16 23:48:54
+expiryDate: 2018-12-16 23:48:54
+dp: 14034
+featured_image: "/images/header-57.jpg"
+images: ["/images/header-57.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -76,4 +82,5 @@ Bunları yazarken yine düşünmeye başladım, A- yanımda uyuyor ve belki bu i
 arkadaşa, *artık size gerçekleri anlatma zamanı geldi* demeliyim. Büyüyünce
 benim azıcık deli olduğumu düşünebilirler ama muhtemelen zaten bunu
 düşünecekler, kaybedecek ne var? 
+
 

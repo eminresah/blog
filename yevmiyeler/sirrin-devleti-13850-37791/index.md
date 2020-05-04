@@ -1,9 +1,15 @@
-Title: Sırrın Devleti
-Author: Emin Reşah
-Date:  2017-06-16 03:29:29
-Dp: 13850
-Status: published
-Image: /img/header-50.jpg
+---
+title: "Sırrın Devleti"
+date: 2017-06-16 03:29:29
+expiryDate: 2018-06-16 03:29:29
+dp: 13850
+featured_image: "/images/header-50.jpg"
+images: ["/images/header-50.jpg"]
+published: true
+tags: []
+---
+
+
 
 *Devletin sırrı olmaz, sırrın devleti olur.*
 
@@ -60,3 +66,4 @@ Onlara verecek bir sırrımız, hayatlarını adayacakları bir hikayemiz, üzer
 basıp dünyayı değiştireceklerine inandıkları bir mihverimiz yok. Günü
 *geliştiğimizi umarak* geçiştiriyoruz. Gelişmemizin üzerimizdeki yamalı ceketi
 dikiş yerlerinden söktüğünü görmeden.
+

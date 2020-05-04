@@ -1,9 +1,15 @@
-Title: Yevmiye 14033-18
-Author: Emin Reşah
-Date:  2017-12-15 18:06:14
-Dp: 14033
-Status: published
-Image: /img/header-73.jpg
+---
+title: "Yevmiye 14033-18"
+date: 2017-12-15 18:06:14
+expiryDate: 2018-12-15 18:06:14
+dp: 14033
+featured_image: "/images/header-73.jpg"
+images: ["/images/header-73.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -127,3 +133,4 @@ alternatifleri olabilir ama neticede bir işletmenin amacı *kar etmektir*.
 
 İnsanın kendi biyografisini okuyacak kadar çok yaşamasında, tuhaf bir
 *başarısızlık* hissi var. *Her şeyi becerdin, ölmeyi beceremedin be adam.* 
+

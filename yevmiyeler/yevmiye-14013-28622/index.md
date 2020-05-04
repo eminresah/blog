@@ -1,9 +1,15 @@
-Title: Yevmiye 14013-00
-Author: Emin Reşah
-Date:  2017-11-26 00:56:33
-Dp: 14013
-Status: published
-Image: /img/header-63.jpg
+---
+title: "Yevmiye 14013-00"
+date: 2017-11-26 00:56:33
+expiryDate: 2018-11-26 00:56:33
+dp: 14013
+featured_image: "/images/header-63.jpg"
+images: ["/images/header-63.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -189,4 +195,5 @@ anlıyorum ama neden basit bir çiftleşme *töreni* için söylenmiş adla aç�
 Kısacası ben bu konuya öyle çok *yüksekten* bakamıyorum. Aşk edebiyatı dediğin
 de tavus kuşunun kuyruğu gibi, çok renkli ve güzel ama amacının ne olduğunu
 aşağı yukarı biliyoruz.
+
 

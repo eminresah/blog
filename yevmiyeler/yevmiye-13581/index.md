@@ -1,9 +1,15 @@
-Title: Yevmiye 13581
-Author: Emin Reşah
-Date: 2016-11-13 18:30:39 
-Dp: 13581 
-Status: published
-Image: /img/header-81.jpg
+---
+title: "Yevmiye 13581"
+date: 2016-11-13 18:30:39
+expiryDate: 2017-11-13 18:30:39
+dp: 13581
+featured_image: "/images/header-81.jpg"
+images: ["/images/header-81.jpg"]
+published: true
+tags: []
+---
+
+
 
 Olması gerekenlerin en iyi şekilde olduğu zamanlardayız. Kendim için öyle
 sanırım. Endişe etmeye mahal yok, *acaba hala orada mıdır?* dediğim
@@ -147,5 +153,6 @@ dediğin*, *benim dediğim* seviyesine getiriyor.
 #### Makinelerin fethi
 
 Web sayfalarında insan olup olmadığınızı ölçen sorular olur, resimdeki sayıyı yazdıran. Bunlara CAPTCHA deniyor ve giderek zorlaşıyorlar, çünkü bilgisayarlar bunları çözmekte giderek ustalaşıyor. Sonunda bilgisayarlar o kadar iyi olacak ki bunları çözmekte, bizim çözemeyeceğimiz sorular sorup, insanları internetten uzaklaştıracaklar.
+
 
 

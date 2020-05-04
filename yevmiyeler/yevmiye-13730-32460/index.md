@@ -1,9 +1,15 @@
-Title: Evolutional Imperative
-Author: Emin Reşah
-Date:  2017-02-16 02:00:39
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Evolutional Imperative"
+date: 2017-02-16 02:00:39
+expiryDate: 2018-02-16 02:00:39
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 Dedi ki, *kadınların iyiliğini isteyen, kadının daha çok kadınlaşmasını istemez
 mi?*
@@ -42,4 +48,5 @@ Yani kısacası feministler evlenemez mi diyorsun?
 feminist olmayan hemcinslerine göre daha zordur demek istiyorum. 
 
 Bana gülünç geldi bu iddia, affına sığınarak. 
+
 

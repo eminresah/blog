@@ -1,9 +1,15 @@
-Title: Yevmiye 16/12 23:30
-Author: Emin Reşah
-Date:  2017-12-16 23:30:29
-Dp: 14034
-Status: published
-Image: /img/header-117.jpg
+---
+title: "Yevmiye 16/12 23:30"
+date: 2017-12-16 23:30:29
+expiryDate: 2018-12-16 23:30:29
+dp: 14034
+featured_image: "/images/header-117.jpg"
+images: ["/images/header-117.jpg"]
+published: true
+tags: []
+---
+
+
 
 Nassem Nicholas Taleb, bir yazısında *konuşmak* ve *yapmak* arasında bir fark
 olduğunu ve iyi yapanların iyi konuşmalarının beklenmeyeceğini söylüyor. Ben de
@@ -25,5 +31,6 @@ arasında doğrudan bir bağlantı olduğuna inanmıyorum. Konuşmayı beceremey
 insanların, iş yapmakta da beceriksiz olduğunu çok gördüm, bu bir artı değer
 değil benim için. Bununla beraber bana bir eserini gösterecek kadar iyi
 çalışanların da, konuşmaya ihtiyacı olmadığını kabul edebilirim.
+
 
 

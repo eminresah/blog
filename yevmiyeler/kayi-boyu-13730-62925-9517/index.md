@@ -1,9 +1,15 @@
-Title: Kayı Boyusu
-Author: Emin Reşah
-Date:  2017-02-17 00:11:33
-Dp: 13731
-Status: published
-Image: /img/header-31.jpg
+---
+title: "Kayı Boyusu"
+date: 2017-02-17 00:11:33
+expiryDate: 2018-02-17 00:11:33
+dp: 13731
+featured_image: "/images/header-31.jpg"
+images: ["/images/header-31.jpg"]
+published: true
+tags: ["tarih"]
+---
+
+
 
 Hakan Erdem'in [Şu Kayı Boyu efsanesi](http://ift.tt/2kiJppd) isimli yazısından: 
 
@@ -17,7 +23,7 @@ Hakan Erdem'in [Şu Kayı Boyu efsanesi](http://ift.tt/2kiJppd) isimli yazısın
 
 
 Osmanlı hanedanı neden hangi boydan olduğunu görmek için 2. Murad devrine kadar
-bekledi? Benim bu konudaki *teorim*, Timur mücadelesi ve akabinde ortaya çıkan
+bekledi? Bu konudaki *hipotezim*, Timur mücadelesi ve akabinde ortaya çıkan
 meşruiyet meselesini bu şekilde çözmeye çalıştıkları yönünde. Timur, Cengiz
 Han'ın torunu olduğunu söylerken ona cevap vermek için Cengiz'den daha büyük bir
 ismi, Oğuz Kağan'ı öne sürmek gerekiyordu ve kendileri de *en hakiki Oğuz*
@@ -49,3 +55,4 @@ Bir yerde biteceğini umuyorum bunun, giderek şiddetlenen bu *kurgu tarih*
 merakının bir yerde son bulacağını, dizilerden bıkacaklarını ve yirmi yıl sonra
 şimdiki dizilere bizim Cüneyt Arkın filmlerine güldüğümüz gibi
 güleceklerini. Umut herkese lazım. 
+

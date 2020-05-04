@@ -1,9 +1,15 @@
-Title: Yakıcı Dert
-Author: Emin Reşah
-Date:  2017-03-16 21:29:42
-Dp: 13759
-Status: published
-Image: /img/header-59.jpg
+---
+title: "Yakıcı Dert"
+date: 2017-03-16 21:29:42
+expiryDate: 2018-03-16 21:29:42
+dp: 13759
+featured_image: "/images/header-59.jpg"
+images: ["/images/header-59.jpg"]
+published: true
+tags: []
+---
+
+
 
 İçimi yakan konularda daha çok konuşmalıyım ve yakmayan, sadece yazı olsun diye
 yazdıklarımı daha az yazmalıyım. Profesyonel bir yazar değilim, kimseye karşı da
@@ -19,3 +25,4 @@ başın belaya giriyor ve anlattığın dertler daha da fazlasıyla karşına
 çıkıyor. İnsanın her zaman soyut ve ulvi dertler bulması da zor. 
 
 Onun için basit dertlerimizi hikayeleştirip mi anlatsak? 
+

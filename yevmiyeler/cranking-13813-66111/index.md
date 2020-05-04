@@ -1,9 +1,14 @@
-Title: Will I crank more?
-Author: Emin Reşah
-Date:  2017-05-10 11:15:09
-Dp: 13813
-Status: published
-Image: /img/header-13.jpg
+---
+title: "Will I crank more?"
+date: 2017-05-10 11:15:09
+dp: 13813
+featured_image: "/images/header-13.jpg"
+images: ["/images/header-13.jpg"]
+published: true
+tags: ["geçmiş"]
+---
+
+
 
 In February, I was in depression. The project I'm involved wasn't moving and I
 was having marital problems and some health problems on top of it. In that
@@ -30,3 +35,4 @@ Am I ready to make a change?
 This question still persists for 3 months. I've decided to finish the project as much as possible. It's not the first and probably won't be the last one I've failed. I don't know what will happen to TTCM. I'm trying to reduce the number of variables in my life and it looks we have reached the limit. 
 
 Then what will happen? I will have more time to write, maybe. Maybe we can play more with my daughter and make (real!) swords with my son. 
+

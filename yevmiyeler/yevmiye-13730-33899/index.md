@@ -1,9 +1,15 @@
-Title: Bir Eşzamanlılık Tecrübesi
-Author: Emin Reşah
-Date:  2017-02-16 02:16:47
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Bir Eşzamanlılık Tecrübesi"
+date: 2017-02-16 02:16:47
+expiryDate: 2018-02-16 02:16:47
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 Bugün twitter'da siyasi komploculuk üzerine iki üç tweet yazıyordum. Diyordum
 ki: 2 (gezegen misali) büyük kütlenin birbirine uyguladığı kütleçekimi hesap
@@ -58,5 +64,6 @@ vehimlerinden ibarettir.
 
 Bu *aydınlanma* beni bir süre, bir sonraki *eşzamanlılık mucizesine* kadar idare
 eder.
+
 
 

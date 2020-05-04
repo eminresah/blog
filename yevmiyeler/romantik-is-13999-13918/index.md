@@ -1,9 +1,15 @@
-Title: Romantik İş
-Author: Emin Reşah
-Date:  2017-11-11 20:51:35
-Dp: 13999
-Status: published
-Image: /img/header-99.jpg
+---
+title: "Romantik İş"
+date: 2017-11-11 20:51:35
+expiryDate: 2018-11-11 20:51:35
+dp: 13999
+featured_image: "/images/header-99.jpg"
+images: ["/images/header-99.jpg"]
+published: true
+tags: []
+---
+
+
 
 Neden kafe açmak istiyorsun sevgili dostum? Emeklilik için başka bir meşgale
 bulamadın mı? Yazık değil mi sana? Kendine? Orada birilerinin getirdiği kahveyi
@@ -25,3 +31,4 @@ gerektiren işlerden oluşur.
 Onun için romantiklik yapamıyorum. İş konusunda kriterlerim artık farklı. Daha
 çok zaman bırakıyor mu, arada öğle uykusu var mı, çocuklara zaman kalıyor mu
 gibi şeyler. Yoksa iş olduktan sonra ne olursa olsun, İŞ.
+

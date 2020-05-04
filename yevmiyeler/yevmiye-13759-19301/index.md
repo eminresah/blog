@@ -1,9 +1,15 @@
-Title: Millet-i Hakime
-Author: Emin Reşah
-Date:  2017-03-16 22:20:56
-Dp: 13759
-Status: published
-Image: /img/header-59.jpg
+---
+title: "Millet-i Hakime"
+date: 2017-03-16 22:20:56
+expiryDate: 2018-03-16 22:20:56
+dp: 13759
+featured_image: "/images/header-59.jpg"
+images: ["/images/header-59.jpg"]
+published: true
+tags: []
+---
+
+
 
 Millet-i Hakime doktrinin daha eski olduğunu sanıyordum ama Tanzimat'tan sonra
 ortaya çıkmış. Osmanlı henüz yaşarken telaffuz edilmese de, devletin bir Türk
@@ -27,5 +33,6 @@ Zamanımızın en önemli politik derdinin buradaki çizgide nerede olduğunu g�
 için bakıyoruz, *ecanibe muhaceretini teşvik etmek* safhasında mıyız? Ecanibe
 değil de, Türkiye'nin batısına mı göç ettiriliyor? Bunu yapamazsak Kürtler
 *iddia-ı istiklale namzet* olacak sanırım.
+
 
 

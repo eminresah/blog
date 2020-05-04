@@ -1,9 +1,15 @@
-Title: Yevmiye 13729
-Author: Emin Reşah
-Date:  2017-02-15 01:33:28
-Dp: 13729
-Status: published
-Image: /img/header-29.jpg
+---
+title: "Yevmiye 13729"
+date: 2017-02-15 01:33:28
+expiryDate: 2018-02-15 01:33:28
+dp: 13729
+featured_image: "/images/header-29.jpg"
+images: ["/images/header-29.jpg"]
+published: true
+tags: []
+---
+
+
 
 Çocuklar okuldan veya bakıcıdan gelip, uyuyuncaya kadar onlarla beraberim. Onlar
 uyuduktan sonra kendime biraz *decaf* kahve yapıp interneti kesik bir
@@ -61,6 +67,7 @@ arayacaklarmış gibi geliyor. İçimden bir ses bunu söylüyor ve bu sebeple o
 katılıp katılmamak konusunda tereddütteyim. *Kendiniz ettiniz, kendiniz
 buldunuz* mu diyeceğiz, *kendimiz ettik, kendimiz bulduk* mu diyeceğiz, işte o
 kısma karar veremiyorum. 
+
 
 
 

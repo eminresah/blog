@@ -1,9 +1,15 @@
-Title: Yevmiye 13960
-Author: Emin Reşah
-Date:  2017-10-03 23:38:21
-Dp: 13960
-Status: published
-Image: /img/header-60.jpg
+---
+title: "Yevmiye 13960"
+date: 2017-10-03 23:38:21
+expiryDate: 2018-10-03 23:38:21
+dp: 13960
+featured_image: "/images/header-60.jpg"
+images: ["/images/header-60.jpg"]
+published: true
+tags: []
+---
+
+
 
 Windows'ta `cmd` kullanmak günahlarıma kefaret olur mu hocam? Neticede biz bu
 işin metolodojisini öğretiyoruz ve bizi bu rezil yazılımla başbaşa
@@ -61,4 +67,5 @@ bundandır.
 *Karar vermek gerekmediğinde, karar vermemek gerekir* diye bir söz var. Karar
 vermemek için karar vermemeye karar vermek gerekiyor. İnsan aklı bir karar
 makinesi, karar veremediği zaman kararı karışıyor.
+
 

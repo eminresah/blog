@@ -1,9 +1,15 @@
-Title: A beast of the West and petroleum: Wahhabism
-Author: Emin Reşah
-Date:  2017-05-20 12:05:15
-Dp: 13823
-Status: published
-Image: /img/header-23.jpg
+---
+title: "A beast of the West and petroleum: Wahhabism"
+date: 2017-05-20 12:05:15
+expiryDate: 2018-05-20 12:05:15
+dp: 13823
+featured_image: "/images/header-23.jpg"
+images: ["/images/header-23.jpg"]
+published: true
+tags: ["islam"]
+---
+
+
 
 When you look at Muslim history, you can see a trend for modernization in 19th
 century. Ottomans were changing their attitude to religion and modern world,
@@ -48,4 +54,5 @@ brain laziness. Instead of thinking real solutions to real problems, it's much
 easier to **turn to the book** and agitate. I don't know where this agitation
 will lead us but I'm always optimistic that we'll have some major shifts in
 Islamic thought when petroleum stops funding this easy-cheesy ideology.
+
 

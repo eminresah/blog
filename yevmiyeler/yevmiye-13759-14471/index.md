@@ -1,9 +1,15 @@
-Title: Yevmiye 13759
-Author: Emin Reşah
-Date:  2017-03-16 21:00:58
-Dp: 13759
-Status: published
-Image: /img/header-59.jpg
+---
+title: "Yevmiye 13759"
+date: 2017-03-16 21:00:58
+expiryDate: 2018-03-16 21:00:58
+dp: 13759
+featured_image: "/images/header-59.jpg"
+images: ["/images/header-59.jpg"]
+published: true
+tags: []
+---
+
+
 
 Neden kendini kontrol etmekten bu kadar acizsin?
 
@@ -55,3 +61,4 @@ de bu. İnsanların *nasıl olup da* inançsız olabildiğine şaşırıyor, ç�
 dediği aslında *bütün hayat biçimi* ve onun dışına çıkması imkansız. O hayat
 biçimi de inançsızlık kadar kör kabuller içeriyor çoğu zaman, ancak etrafındaki
 herkes aynı tarafa koşarken insan kabullerinin de farkına varamıyor. 
+

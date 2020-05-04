@@ -1,9 +1,15 @@
-Title: Fark ve fark
-Author: Emin Reşah
-Date:  2017-02-16 02:52:05
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Fark ve fark"
+date: 2017-02-16 02:52:05
+expiryDate: 2018-02-16 02:52:05
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 Adamlar dünyanın parasını kazanıyor ve *dünyanın* itibarı ellerinde ama her gün
 aynı şeyi giyiyorlar. Gördüğüm kadarıyla insanların *başarıdan* anladıklarıyla
@@ -21,3 +27,4 @@ olduğunu *hissetmesi* dediğimiz, bizim anladığımız şekilde bir his değil
 insan da o hissi bilmiyor, asıl insan, bu hayallere ve resimlere gömülü insan
 kendindeki şeyin ne olduğunu bilmiyor. Yoksa kendiyle ilgili bu kadar hayal
 kurup, sonunda hep hayal kırıklığına uğramazdı herhalde, değil mi?
+

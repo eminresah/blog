@@ -1,9 +1,15 @@
-Title: Yevmiye 14015-00
-Author: Emin Reşah
-Date:  2017-11-27 23:37:12
-Dp: 14015
-Status: published
-Image: /img/header-19.jpg
+---
+title: "Yevmiye 14015-00"
+date: 2017-11-27 23:37:12
+expiryDate: 2018-11-27 23:37:12
+dp: 14015
+featured_image: "/images/header-19.jpg"
+images: ["/images/header-19.jpg"]
+published: true
+tags: []
+---
+
+
 
 
 #### 1
@@ -38,6 +44,7 @@ böyle düşüneceğim. En az iki kopyası olsun diye çalışıyorum bunların,
 giderse biri kalsın, F- İngilizce öğrendiğinde dinlesin diye hayallerim var
 ama onun ne kadar ilgisini çekecek ve ben (belki dinlemesi binlerce saat tutan)
 bu kitapları nasıl dinleyeceğim, bilmiyorum. Günde kaç saatin var ki senin?
+
 
 
 

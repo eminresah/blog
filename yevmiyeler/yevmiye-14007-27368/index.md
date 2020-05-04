@@ -1,9 +1,15 @@
-Title: Yevmiye 14007
-Author: Emin Reşah
-Date:  2017-11-20 00:33:38
-Dp: 14007
-Status: published
-Image: /img/header-7.jpg
+---
+title: "Yevmiye 14007"
+date: 2017-11-20 00:33:38
+expiryDate: 2018-11-20 00:33:38
+dp: 14007
+featured_image: "/images/header-7.jpg"
+images: ["/images/header-7.jpg"]
+published: true
+tags: []
+---
+
+
 
 Kullandığım tek sosyal medya twitter kaldı. Ondan da sıkılmaya başladığımı
 farkediyorum.
@@ -47,4 +53,5 @@ Bunun vasatı da belli, aç kalmamak için ortalama bir yazar oluyorsun.
 olur.*
 
 Oynadığımız oyunlardan da hesaba çekilecek miyiz?
+
 

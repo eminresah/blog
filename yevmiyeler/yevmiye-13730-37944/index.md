@@ -1,9 +1,15 @@
-Title: Refah Çağında Gerçek
-Author: Emin Reşah
-Date:  2017-02-16 03:32:10
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Refah Çağında Gerçek"
+date: 2017-02-16 03:32:10
+expiryDate: 2018-02-16 03:32:10
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 70 yıl kendini bir hayal ülkesinde yaşatabileceksen, neden hakikatle uğraşırsın?
 
@@ -24,6 +30,7 @@ Refah arttıkça insanların inançlarının gerçekle ilgisi de azalıyor olmal
 bir mecburiyet ortadan kalkıyor yani. Değişik toplumlar farklı tarafından ele
 alıyor hikayeleri, değişik şekillerde gerçekten uzaklaşıyor ama bir şekilde
 herkes gerçeği boşveriyor.
+
 
 
 

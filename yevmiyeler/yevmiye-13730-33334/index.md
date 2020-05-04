@@ -1,9 +1,15 @@
-Title: İmparatorluğa İsyan
-Author: Emin Reşah
-Date:  2017-02-16 02:15:09
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "İmparatorluğa İsyan"
+date: 2017-02-16 02:15:09
+expiryDate: 2018-02-16 02:15:09
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 Neden Amerikan müslümanları kendi menfaatleri sözkonusu olunca ayaklandılar da,
 Suriye müslümanları sözkonusu olduğunda ayaklanmıyorlardı?
@@ -57,4 +63,5 @@ bizim bu 1.5'dan biri olmamız teknik olarak imkansız. Görünen bundan sonraki
 gücün Çin olacağı ancak onun gücü bizi yörüngesine almaya yetmez. Yani bir süre
 daha Amerikan hegemonyasıyla iyi geçinmekte fayda var. İsyankar arkadaşlara
 saygıyla duyurulur.
+
 

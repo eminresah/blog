@@ -1,9 +1,15 @@
-Title: Yevmiye 14024-23
-Author: Emin Reşah
-Date:  2017-12-06 23:24:32
-Dp: 14024
-Status: published
-Image: /img/header-91.jpg
+---
+title: "Yevmiye 14024-23"
+date: 2017-12-06 23:24:32
+expiryDate: 2018-12-06 23:24:32
+dp: 14024
+featured_image: "/images/header-91.jpg"
+images: ["/images/header-91.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -150,3 +156,4 @@ tüm diğer doğruları anlamsız.
 
 Evlilik bu değil, erkeklerin de buna alet olmasına gerek yok. 
  
+

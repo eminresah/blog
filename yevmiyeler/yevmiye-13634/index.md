@@ -1,9 +1,15 @@
-Title: Yevmiye 13634
-Author: Emin Reşah
-Date:  2016-11-11 17:56:19
-Dp: 13634
-Status: published
-Image: /img/header-34.jpg
+---
+title: "Yevmiye 13634"
+date: 2016-11-11 17:56:19
+expiryDate: 2017-11-11 17:56:19
+dp: 13634
+featured_image: "/images/header-34.jpg"
+images: ["/images/header-34.jpg"]
+published: true
+tags: []
+---
+
+
 
 Windows'u sevmediğimi ne kadar tekrar etmişimdir? Windows'u neden sevmiyorum?
 `grep` diye bir araç vardır mesela, düzenli ifadeler kullanarak metin
@@ -45,5 +51,6 @@ bu. Bahane ürettiren bir taraf, her şeye ekşi bir sinisizmle yaklaşmasına
 sebep. Bendeki etkisi bu ikincisi oluyor genelde. 
 
 O sebeple bahanelerimi ölümden değil, hayattan seçmeye çalışıyorum. 
+
 
 

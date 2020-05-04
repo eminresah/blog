@@ -1,9 +1,15 @@
-Title: Temel Yardım, Mülkiyet ve Devlet
-Author: Emin Reşah
-Date:  2017-02-16 03:25:41
-Dp: 13730
-Status: published
-Image: /img/header-30.jpg
+---
+title: "Temel Yardım, Mülkiyet ve Devlet"
+date: 2017-02-16 03:25:41
+expiryDate: 2018-02-16 03:25:41
+dp: 13730
+featured_image: "/images/header-30.jpg"
+images: ["/images/header-30.jpg"]
+published: true
+tags: []
+---
+
+
 
 Bir arkadaşla memleketin yardım kuruluşlarının halini konuştuk. *İslami*
 olanları. Bir süredir artık bu kuruluşların aşırı siyasileştiğini ve
@@ -161,6 +167,7 @@ diye sormamız icap eder. İnsan işine gelen kısımda kendine Kur'an'dan yer
 bulurken, hiç hüküm olmayan bazı noktalarda sadece kendi menfaatine uygun
 davranıyorsa, siyasi sistemin Kur'an Kerim'in maksadını gözetip, yeni hükümler
 tesis etmeye hakkı vardır.
+
 
 
 

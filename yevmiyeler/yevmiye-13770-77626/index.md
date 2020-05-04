@@ -1,9 +1,15 @@
-Title: Murakabe 13770
-Author: Emin Reşah
-Date:  2017-03-28 00:32:46
-Dp: 13770
-Status: published
-Image: /img/header-70.jpg
+---
+title: "Murakabe 13770"
+date: 2017-03-28 00:32:46
+expiryDate: 2018-03-28 00:32:46
+dp: 13770
+featured_image: "/images/header-70.jpg"
+images: ["/images/header-70.jpg"]
+published: true
+tags: []
+---
+
+
 
 *Everybody is wrong about God* (Tanrı hakkında herkes hatalı) diye bir kitap
 dinlemeye başladım. Teizm'in de, Ateizm'in de *Tanrı* hakkında yanlış olduğunu
@@ -150,3 +156,4 @@ felsefe yapacak daha ilginç konular olduğunu düşünüyorum.
 Bu kadar uzun uzun bir soruyu *cevaplamamak* da yetenek sayılabilir aslında. 
 
 Olabilir, evet. Yetenekliyim. 
+

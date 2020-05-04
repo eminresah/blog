@@ -1,9 +1,15 @@
-Title: Yevmiye 14027-23
-Author: Emin Reşah
-Date:  2017-12-09 23:41:53
-Dp: 14027
-Status: published
-Image: /img/header-36.jpg
+---
+title: "Yevmiye 14027-23"
+date: 2017-12-09 23:41:53
+expiryDate: 2018-12-09 23:41:53
+dp: 14027
+featured_image: "/images/header-36.jpg"
+images: ["/images/header-36.jpg"]
+published: true
+tags: []
+---
+
+
 
 #### 1
 
@@ -85,5 +91,6 @@ Ama bazen de şu oluyor: Adamın cebinde 3 kuruşu yok, belki uçan kuşa borcu 
 ama *iş almak* için *itibarından* (yani havasından) feragat etmiyor. Bazı
 durumlarda bu işe de yarıyor olabilir, ancak genelde, kişinin olmadığı gibi
 görünmesinin yarattığı riskleri ödeyecek kadar faydası yok. 
+
 
 

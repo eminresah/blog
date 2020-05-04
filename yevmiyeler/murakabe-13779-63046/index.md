@@ -1,9 +1,15 @@
-Title: Murakabe 13779
-Author: Emin Reşah
-Date:  2017-04-06 09:57:24
-Dp: 13779
-Status: published
-Image: /img/header-79.jpg
+---
+title: "Murakabe 13779"
+date: 2017-04-06 09:57:24
+expiryDate: 2018-04-06 09:57:24
+dp: 13779
+featured_image: "/images/header-79.jpg"
+images: ["/images/header-79.jpg"]
+published: true
+tags: []
+---
+
+
 
 Memleket hayatta kalmak için hayat kaydırmak gereken bir yer. Bizim bu kadar
 vahşi ve acımasız olmamız, aslında türdeşlerimize, kardeşlerimize karşı da pek o
@@ -127,3 +133,4 @@ gelişmesi sürecek. Uzun bir savaş bizi bekliyor.
 
 [savvy]: https://www.amazon.com/Savvy-Kafirs-Intro-Islam-Progressives-ebook/dp/B00ZK84UEE
 [munger]: https://www.farnamstreetblog.com/2017/02/charlie-munger-wisdom/
+

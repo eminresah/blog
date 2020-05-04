@@ -1,9 +1,15 @@
-Title: Anlam ve Arayış
-Author: Emin Reşah
-Date:  2017-03-16 21:56:05
-Dp: 13759
-Status: published
-Image: /img/header-59.jpg
+---
+title: "Anlam ve Arayış"
+date: 2017-03-16 21:56:05
+expiryDate: 2018-03-16 21:56:05
+dp: 13759
+featured_image: "/images/header-59.jpg"
+images: ["/images/header-59.jpg"]
+published: true
+tags: []
+---
+
+
 
 Dennett'in *Breaking the Spell* kitabından beklediğim derecede kuvvetli bir
 pozisyon bulamadım. Biz Ateist'in dine küfredenine, bütün kötülükleri ona
@@ -67,4 +73,5 @@ olduğuna, yani dinin hakikate bilimden daha uzak olduğuna benden fazla iman
 ediyor gibi duruyor. Hakikati onun gibi anlayanları da anlıyorum, *kişisel
 tanrıya* iman etmeyenleri de anlıyorum ama benim hakikatim ne bir kişinin
 zihnine sığabilir, ne bir kişi tarafından tek başına yaşanabilir.
+
 

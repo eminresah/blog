@@ -1,9 +1,15 @@
-Title: Yevmiye 14004-20
-Author: Emin Reşah
-Date:  2017-11-16 19:30:32
-Dp: 14004
-Status: published
-Image: /img/header-4.jpg
+---
+title: "Yevmiye 14004-20"
+date: 2017-11-16 19:30:32
+expiryDate: 2018-11-16 19:30:32
+dp: 14004
+featured_image: "/images/header-4.jpg"
+images: ["/images/header-4.jpg"]
+published: true
+tags: []
+---
+
+
 
 Bizim neredeyse *panteist* mutasavvıfların yazdığı şiirlerin ilahilerini
 dinlerken, ben de onlarla beraber *vahdet-i vücudçu* oluyorum. *Hulul* değil,
@@ -74,4 +80,5 @@ Adamlar yalama oldu *fikir* değiştire değiştire.
 Dinler arası diyaloğa inanmam ama kinler arası diyalog olmalıdır. İnsanlar kin
 tuttuklarıyla da konuşmalı, kinlerini gözden geçirmeli, mümkünse yırtıp,
 parçalamalıdır. Aksi halde kin tutanı kemirir, yıkar, parçalar. 
+
 

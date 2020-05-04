@@ -1,9 +1,15 @@
-Title: Yevmiye 13636
-Author: Emin Reşah
-Date:  2016-11-14 05:10:29
-Dp: 13636
-Status: published
-Image: /img/header-36.jpg
+---
+title: "Yevmiye 13636"
+date: 2016-11-14 05:10:29
+expiryDate: 2017-11-14 05:10:29
+dp: 13636
+featured_image: "/images/header-36.jpg"
+images: ["/images/header-36.jpg"]
+published: true
+tags: []
+---
+
+
 
 Yeni bir yazı süreci. 
 
@@ -24,4 +30,5 @@ Karşındaki hakikat derken, kainatın tüm oluşunu kastediyorum.
 
 *Hakikat aşağı, hakikat yukarı* çok laf edenlerin, karşılarındaki hakikat yerine
 kendilerine bir hakikat *üretme* hevesi. 
+
 

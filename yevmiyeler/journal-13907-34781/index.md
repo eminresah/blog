@@ -1,9 +1,15 @@
-Title: Journal 13907
-Author: Emin Reşah
-Date:  2017-08-12 02:39:14
-Dp: 13907
-Status: published
-Image: /img/header-7.jpg
+---
+title: "Mainstream mindfulness"
+date: 2017-08-12 02:39:14
+expiryDate: 2018-08-12 02:39:14
+dp: 13907
+featured_image: "/images/header-7.jpg"
+images: ["/images/header-7.jpg"]
+published: true
+tags: []
+---
+
+
 
 The weird feeling when you read/listen about mindfulness while eating.
 
@@ -21,3 +27,4 @@ mainstream is chatter. The bazaar.
 Talking and listening about it and finding value in the void of the life is
 important, I see, but that weird feeling like you're watching some kind of porn
 is still there. I don't want to know how people becomes mindful, I want to be. 
+
