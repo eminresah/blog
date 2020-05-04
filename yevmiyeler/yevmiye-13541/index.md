@@ -2,7 +2,7 @@ Title: Yevmiye 13541
 Author: Emin Reşah
 Date: 2016-09-21 23:12:58 
 Dp: 13541 
-Image: /img/header-41.jpg
+featured_image: /images/header-41.jpg
 
 ### Mihenk
 

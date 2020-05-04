@@ -2,7 +2,7 @@ Title: Yevmiye 13491
 Author: Emin Reşah
 Date: 2016-06-21 18:00:18
 Dp: 13491
-Image: /img/header-91.jpg
+featured_image: /images/header-91.jpg
 
 Tasavvufun önemli *icadlarından* biri, *nefsin* benden ayrı olduğunu iddia etmek
 herhalde. Bu sayede kendimi suçlamak yerine, *onu*, nefsimi suçluyorum. Kendimi

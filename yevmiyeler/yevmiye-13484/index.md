@@ -3,7 +3,7 @@ title: Yevmiye 13484
 author: Emin Reşah
 date: 2016-06-14 18:00:15 
 dp: 13484 
-image: /img/header-84.jpg
+featured_image: /images/header-84.jpg
 ---
 
 ### Domates ve Anlam

@@ -2,7 +2,7 @@ Title: Yevmiye 13532
 Author: Emin Reşah
 Date: 2016-08-01 23:37:42 
 Dp: 13532 
-Image: /img/header-32.jpg
+featured_image: /images/header-32.jpg
 
 İnsanın yaşamaya utandığı günlerdeyiz. Her şehit fotoğrafında biraz daha
 utanç. Ne için yaşıyorduk ve bu iyi insanlar neden öldü?
