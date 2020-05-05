@@ -50,7 +50,7 @@ Kafayı kadın erkek ilişkilerine bozmuş insanların çoğunun bekar olduğunu
 farkettiğimden beri bu konuları pek ciddiye almıyorum. Üfürmenin kolay,
 sorumluluğun az olduğu bir alan. *Ey kadınlar evlendiğiniz erkekleri
 sabah akşam dövünüz* desem de, eşim bu sözümü ciddiye almadığı sürece
-bir sorun yok, o da zaten beni pek ciddiye almaması gerektiğini bilir.
+bir sorun yok.
 *Erkek egemen dili kıtır kıtır kesip ipe dizip kurutun, kışın kızartması
 dolması iyi olur* diyerek de pek anlamlı fikir üretmiş olmazsınız ama
 *feminist* arkadaşların yaptığı da bundan ibaret, hatta *yapı

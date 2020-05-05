@@ -1,9 +1,9 @@
-Internet ve Muhalifliği
-=======================
-
-:date: 2014-11-23 03:41:51 +0200
-
-Sun, 18 Oct 2009 15:56:22 +0000
+---
+title: Internet ve Muhalifliği
+lastmod: 2014-11-23 03:41:51 +0200
+date: Sun, 18 Oct 2009 15:56:22 +0000
+dp:
+---
 
 Lord Byron'ın sözü varmış, "şiir sadece boş oturanları meşgul etmeli"
 diye... Bugün için sözün başındaki "şiir"i silip, "Internet" yazmak
@@ -20,13 +20,11 @@ Değişikti o zamanlar, hatta 2004 civarına kadar Internet'in gerçekten
 farklı geldiğini düşünüyorum, belki biraz daha sürmüştür, 10 yıl kadar
 diyelim. Ancak bugün, dedim ya, tekrar tekrar girip "neler oluyormuş"
 diye baktığımda, en kalitelisi de dahil hiçbirinin hayatımda mesela
-sevgilimin gripten öksürmesi kadar önemi olmadığını, "sahi"
+bir yakınımın gripten öksürmesi kadar önemi olmadığını, "sahi"
 arkadaşlarımın hiçbirinin yerini, Internet hayaletlerinin
 dolduramayacağını farkediyorum. Sahi arkadaşlarımla hemen hiç buradaki
-konuları paylaşmıyor olsam da, sevgilimin bazen ağır tahrikle beni
-"entel entel" konuşmaya teşvik etmesine kanmasam da, yani buradaki
-konuları başka bir alanda dile getirmiyor olsam da, buradakilerin
-kıymeti harbiyesi yok gibi geliyor.
+konuları paylaşmıyor olsam da buradakilerin
+kıymeti harbiyesi yok.
 
 Giderek büyüyen, ilk girenlere büyüleyici gelse de giderek aynılaşan,
 aynı garip kazak tasarımları, şeker tokalar, garip saçlı gruplar, güzel

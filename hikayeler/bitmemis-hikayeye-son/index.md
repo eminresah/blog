@@ -2,6 +2,7 @@
 title: Bitmemiş Bir Hikayeye Son
 date:
 dp: 
+tags: ["remove"]
 ---
 
 Çocukken bütün kitaplarımı okuyacak kadar yaşayacağımı sanırdım. Bunun

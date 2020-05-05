@@ -48,7 +48,7 @@ Evlilik danışmanı kadının söylediğini okuyunca, meselenin neden bu kadar
 alevlendiğini merak ettim. Çünkü kadının derdi erkek cinselliğinden çok,
 *bir şekilde* o erkeklerin metresi olmuş kadınların kanuni bir güvenceye
 kavuşması. Çok eşlilik sözkonusu olduğunda bazı kadınların erkeklere
-ateş püskürmesini anlıyorum ama neden metres olmayı, ikinci eş olmayı
+ateş püskürmesini anlıyorum ama neden metres olmayı, müteaddid eş olmayı
 kabul eden kadınlara karşı sessiz kaldıklarını merak ediyorum.
 Erkeklerin tab'an kötü olduğunu kabul ettik, tamam, ama hemcinsleriniz
 neden *ağa düşürülmüş zavallı?* Erkeğin *biri ile* aldatmadan aldatması
