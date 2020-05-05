@@ -51,11 +51,11 @@ duracakmış gibi yapıp durmayan bir cinstir. Erkekler onların yanında pek
 basit kalıyor. Basit deyince, basit makine gibi, palanga bir yerde, bir
 tarafta da vinç. Bilirsen vinç daha becerikli tabi, ama idare etmesi zor
 ve biz palangalar o vinçleri bazen hiç anlayamıyoruz.
-
+<!--
 --------------
 
 Bunları kendim için yazmıyorum. Karımla aram iyi. Umarım onun da benimle
 arası iyidir. Biraz yorgun düştüm. Erkeklerin büyük kısmının haline
 bakıp yazıyorum. Kendimle alakalı bir derdim yok. Kadınlarla ilgili
 yazınca mecburen böyle açıklamalar da gerekiyor.
-
+-->

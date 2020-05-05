@@ -6,7 +6,7 @@ draft: true
 tags: []
 ---
 
-Hayatında en çok plan yapan benmişim. Öyle dedi karım bana. Belki
+Hayatında en çok plan yapan benmişim. Öyle dedi bana. Belki
 hayatında başka plan yapan kimse görmemiştir.
 
 *Overplanning* diyorlar, aşırı plancılık. Ben böyle değilim. Buna
@@ -59,12 +59,14 @@ da doğru. Ancak işini doğru yapan, samimiyetle çalışan ve sabahtan
 akşama bahane üretmeyen insanların yapacağı işlerin diğerlerinden daha
 iyi olduğunu düşünüyorum. Bunu düşünmekte haklı mıyım?
 
+<!--
 ------
 
 Bu yazıya karımın sözleriyle başladım. Hayatım onun sözlerinden ibaret
 bir yer. Belki onu sevdiğimi daha çok söylemeliyim. Belki onu daha çok
 anlatmalıym. Onu bilmelisiniz. Bildiğiniz zaman onun benim için ne
 kadar önemli olduğunu da bileceksiniz.
+-->
 
 ------
 

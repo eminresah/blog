@@ -7,8 +7,7 @@ tags: []
 ---
 
 Gündemle ilgili yazı yazıyım diye twitter'a bakayım dedim. Zihnime bir
-konu yapışmadı. Özgecan isimli bir kızcağızı öldürmüşler, dün karım
-söylemişti. Üzüldüm, rahmet olsun.
+konu yapışmadı. Özgecan isimli bir kızcağızı öldürmüşler. Üzüldüm, rahmet olsun.
 
 Faillerin idam edilmesinden bahis: İlk tepkim buydu, ikincisi de hadım
 edilmeleri. Bunlar gideni getirmez. Yeni vak'aları engellemekte ne

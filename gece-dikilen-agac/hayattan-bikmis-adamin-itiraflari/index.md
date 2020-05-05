@@ -17,7 +17,7 @@ olsun.
 Üçüncü itiraf insanlara artık saygı duymadığım olabilir. Yaşım
 ilerledikçe ben de yabancılaşıyorum, huysuz bir ihtiyar olacağım
 şimdiden meydanda; muhtemelen etrafa sevimli gelen garip hallerim,
-farkında değilim onların, karım veya kardeşlerim taklidimi yaptığında
+farkında değilim onların, <!-- karım veya kardeşlerim --> yakınımdakiler taklidimi yaptığında
 farkediyorum bende bir *acayiplik* olduğunu, bir de insanlar korkuyor,
 evet, *deliden* korkar gibi korkuyor benden.
 

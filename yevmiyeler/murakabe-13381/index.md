@@ -6,10 +6,6 @@ draft: true
 tags: []
 ---
 
-
--*- coding: utf-8 -*-
-
-
 Murakabe formunun diğerlerine nazaran faydası, yazıyı yazdığınız esnada
 düşünmeye imkan vermesi. Bir deneme yazarken n söyleyeceğinizi aşağı yukarı
 bilmeniz lazım, daha öncesinde bir plan veya konuşma gerekiyor. Bunda öyle bir

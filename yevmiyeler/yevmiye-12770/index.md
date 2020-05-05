@@ -60,8 +60,8 @@ bunu terketmek mümkün mü?
 Içenler bunun için içiyordur. İçmek isteyişlerinin sebebi bu olgunluğu
 bir kenara bırakıp *kahkaha* atabilmektir.
 
-Karım ve annem, kimsenin görmediği bir yüzüme şahit. *Dalgacı* tarafımı
-sadece ikisi bilir. Normalde olgun görünürüm. Geçenlerde bunun sebebini
+*Dalgacı* tarafımı
+sadece bir iki kişi bilir. Normalde olgun görünürüm. Geçenlerde bunun sebebini
 düşünürken, insanlarının genelinin yanında onları kırmaktan korktuğum
 için kendimi kilitlediğimi farkettim. Benim için masum bir espri,
 karşımdakinin sinir uçlarına dokunabilir. Sinir uçlarına dokunmaktan
