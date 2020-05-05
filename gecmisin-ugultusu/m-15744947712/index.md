@@ -6,7 +6,7 @@ date: 2012-01-13
 Bende eksik olan şey belki de budur: Ciddiyet. Bir şeyleri ciddiye
 almayı *yeniden* öğrenmem gerekiyordur, belki bu yüzden konuşmaya ve
 yazmaya karşı da ciddi değilimdir, korkularım sadece ailevi cinsinden,
-hani *tosuncuk* hasta olmasın, sevgilim üzülmesin, burnum yamuk durmasın
+hani *tosuncuk* hasta olmasın, annem üzülmesin, burnum yamuk durmasın
 cinsinden korkular olduğu için böyle yekpare bir pespayelik içinde
 aklımın el feneriyle bir çatlak bulup çıkmaya, çıkmaya, çıkmaya ama
 tabii ki yeterince aramak işime gelmediğinden esarete, esarete, esarete

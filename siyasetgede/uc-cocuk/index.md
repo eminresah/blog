@@ -5,7 +5,6 @@
 :date: 2014-11-23 02:18:14 +0200
 
 .. :Author: Emin Reşah
-.. :Date:   <>
 
 Başta ilginç gelmişti. *Koca* Başbakan'ın çocuk tavsiyesi yapması. Artık
 sadece *yine mi* istihzası doğuruyor. Sıktı.

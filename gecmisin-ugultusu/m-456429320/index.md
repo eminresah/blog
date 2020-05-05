@@ -63,11 +63,11 @@ O sebepten (dil, din ve sair anlayışlarımda olduğu gibi) mesele benim
 için bir tecrübe meselesine döndü. *Hakikati* (veya aradığım her neyse
 onu, mutluluğu, zevki, ahlakı, hayatı, tanrıyı…) *nasıl tecrübe ederim?*
 Soruyu bu şekilde sorduğumda, kitaplar ve içindeki kelimeler değerden
-düştü ve günlük tecrübe -işe gidip gelme tecrübesi, bir yürüyüş yapma
+düştü ve günlük tecrübe --işe gidip gelme tecrübesi, bir yürüyüş yapma
 tecrübesi, iki rekat namaz kılma tecrübesi, birkaç dakika Vipassana
 tecrübesi, doktoradan atılma tecrübesi, günde 16 saat program yazma
-tecrübesi, sevgilinin kollarında mest olmuş huzurun ve ondan
-ayrılırkenki hüznün tecrübesi- değer kazandı. Herkesin yaşadığı hayatın
+tecrübesi <!-- sevgilinin kollarında mest olmuş huzurun ve ondan
+ayrılırkenki hüznün tecrübesi--> -- değer kazandı. Herkesin yaşadığı hayatın
 hakikate en az kimsenin yaşamadığı hayat kadar yakın olduğunu
 *keşfettim.*
 

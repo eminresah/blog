@@ -4,7 +4,7 @@
 
 :date: 2014-11-23 03:52:56 +0200
 
-Sevgilim dediydi ki, Çorum; Çoğu Rum ‘dan, Erzurum; Arz-ı Rum 'dan
+Biri dediydi ki, Çorum; Çoğu Rum ‘dan, Erzurum; Arz-ı Rum 'dan
 galat.
 
 -----

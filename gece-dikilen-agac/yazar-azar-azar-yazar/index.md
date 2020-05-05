@@ -25,8 +25,8 @@ kimse olduğumun, deliliğin edebiyatından çok kendisini sevdiğimin ve o
 İnsanlar delileri hareketli *şeyler* sanıyor, hayır, bilakis deli
 dediğimiz insanlar boş duvarda sizin televizyonda seyredebileceğiniz her
 şeyden daha renklisini ve güzelini bulabilen insanlar. Ben böyleyim,
-*hemserim* (hemşerim değil, *hemserim*, yani *başdaşım*, *kafa dengim*,
-*sevgilim*, *hayat arkadaşım*, *eşim*) bugün bana neden duvara bakıp
+*hemserim* <!-- (hemşerim değil, *hemserim*, yani *başdaşım*, *kafa dengim*,
+*sevgilim*, *hayat arkadaşım*, *eşim*) --> bugün bana neden duvara bakıp
 bakıp güldüğümü sorduğunda farkettim orada bir duvar olduğunu. *Ahah yok
 artık* yazmış, *Allah yok artık* okumuşum da, tahayyül ettiğim her şeye
 birden gülüyorum diyemedim, onun için ufak bir mevzu çünkü bu, böyle

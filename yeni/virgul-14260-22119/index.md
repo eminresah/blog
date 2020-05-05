@@ -6,7 +6,7 @@ dp: 14260
 featured_image: "/images/header-67.jpg"
 images: ["/images/header-67.jpg"]
 published: true
-tags: [X, evlilik, dua, beddua, Nişanyan]
+tags: ["xyz", evlilik, dua, beddua, Nişanyan]
 ---
 
 

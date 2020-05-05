@@ -3,6 +3,7 @@ title: Fare
 date: 2015-05-17 12:03:51 +0300
 author: Emin Reşah
 date:   12546
+tags: ["xyz"]
 ---
 
 **12546** 

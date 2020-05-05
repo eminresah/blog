@@ -38,11 +38,12 @@ normal bir insanım…*
 
 Başka bir ses de *buldum, keşfettim sizin aklınızı alıklar* diye
 bağırarak in tepeden aşağı diyor. Diğer bir ses bu sabahki fıkır fıkır
-halimin dün yazmamış olmamdan kaynaklandığını, *uzun zamandır ilk defa
+halimin dün yazmamış olmamdan kaynaklandığını ve kelimesizliğin
+<!-- *uzun zamandır ilk defa
 evde yalnızız* diyen sevgilinin ne kadar kıymetli olduğunu farketmenin
-de aşkla muhtelit bir hayret hali getirdiğini söylüyor. *Allah sana
+de--> aşkla muhtelit bir hayret hali getirdiğini söylüyor. <!-- *Allah sana
 böyle bir arkadaşı verdiğine göre istediğin her şeyi verebilir*,
-Nasreddin'in dediği gibi *doksandokuzu veren Allah yüzü de verir.*
+Nasreddin'in dediği gibi *doksandokuzu veren Allah yüzü de verir.* -->
 
 İmtihanın zoru tımarhanede deli olmak, alemde normal olmak değil,
 tımarhanede normal, alemde deli olmak. Tımarhane dünya, alem sokak,

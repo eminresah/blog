@@ -2,6 +2,7 @@
 title: Doğmamış çocuğa mektup
 modDate: 2015-06-11 16:47:33 +0300
 date: 2011-01-11, 03:28
+tags: ["xyz"]
 ---
 
 Oğlum, sevgili oğlum,

@@ -18,10 +18,12 @@ vardı, benimle insanlar arasında sözcü olsun, *acayip* taraflarımı tevil e
 ve onların manasız hücumlarını izale etsin diyeydi tüm o *evlilik*
 saçmalıklarına katlanmak. 
 
+<!--
 (Sevgili muarızım, bunu da kullanabilirsin davada, seneler önce yazdığım bir
 mektupta o an için itiraf ettiğim intihara meylimi, *çocukların velayetini bu
 adama vermeyin* demek için kullandığın gibi... *Bakın kendi yazısında adam
 kendine acayip diyor.*)
+-->
 
 Geçen Ağustos ayında idrak etmeye başladığım şey, bu *insanlarla iyi geçinme*
 projemin yürümediği oldu.

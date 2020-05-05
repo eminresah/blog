@@ -4,11 +4,10 @@ modDate: 2014-11-23 03:41:51 +0200
 date: 2010-12-15 00:25:22
 draft: true
 ---
-
 Her *sağlıklı Türk erkeği* gibi bir Facebook hesabım var, bugün
-kapatayım dedim, sevgilim *gitme* dedi, sıkılırmış… Sonra bir arkadaş
-daha uydu ona… Rating’im düşündüğümden fazlaymış, herhalde geri
-açacağım.
+kapatayım dedim <!-- , sevgilim *gitme* dedi, sıkılırmış… Sonra bir arkadaş
+daha uydu ona…--> Rating’im düşündüğümden fazlaymış, herhalde geri
+açacağım. 
 
 Kapatmamın sebebini yazayım da boşa gitmesin bari: Status
 update’lerinden birine yakın birinden gelen yorumdu derdin, “senin karın
@@ -64,7 +63,7 @@ bıraksan da sen kendi yerine baksan ya.
 
 Allah’ın muhakkak her zorlukla beraber bir kolaylık olduğunu söylemesi
 de manasız?
-
+<!--
 Bir de “karın var, çocuğun var…” meselesi, çocuğum henüz yok ya,
 hayırlısı, inşallah olur; velakin bu cümleden sanırsınız ki, benim
 hayatım böyle, dengi dengine gitmiş hep… İlk eşimden beş sene önce
@@ -73,4 +72,4 @@ boşanmışım, eminim ki o zaman benim yerimde olmak istemezdin, dahası
 anlaşılmayışlar, iftiralar, müfteriler, şunlar, bunlar… *Allah
 pervasızdan yanadır* demiş bir Portekiz atasözü, bugün kafa dengi bir
 sevgilim varsa, cesur olmak, kendimi ifade etmek zorunda olduğumdan.
-
+-->

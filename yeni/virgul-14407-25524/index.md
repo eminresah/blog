@@ -6,7 +6,7 @@ dp: 14407
 featured_image: "/images/header-62.jpg"
 images: ["/images/header-62.jpg"]
 published: false
-tags: []
+tags: ["xyz"]
 ---
 
 

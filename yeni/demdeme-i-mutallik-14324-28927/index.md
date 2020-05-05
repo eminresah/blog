@@ -6,7 +6,7 @@ dp: 14324
 featured_image: "/images/header-14.jpg"
 images: ["/images/header-14.jpg"]
 published: true
-tags: []
+tags: ["xyz"]
 ---
 
 

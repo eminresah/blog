@@ -6,7 +6,7 @@ dp: 14422
 featured_image: "/images/header-29.jpg"
 images: ["/images/header-29.jpg"]
 published: true
-tags: []
+tags: ["xyz"]
 ---
 
 
@@ -56,10 +56,10 @@ kameradaki* dedim, çünkü şuurumu kaybedip Noel Baba gibi tayy-i mekan olmad�
 yılbaşı gecesi evdeydim.
 
 Mevzu biraz sonra nasıl dürüm yemeye geldi bilmiyorum. *Diplomatik yeteneklerim*
-mi, yoksa ihbarı yapan sevgili ex sayesinde *namımın* yürümesi mi bilmem ama
+mi, yoksa ihbarı yapan sevgili X- sayesinde *namımın* yürümesi mi bilmem ama
 yarım saat sonra polislerle çay ocağında yemek yiyorduk. Karakolun çay ocağında
 otururken bana *burada tadilat yapacağız da, sponsor olur musun?* dediler, ben
-de *ex hanımı arayın, bu ay benim avukat ödemesi var, anlaşırsa onu yapmama
+de *X- hanımı arayın, bu ay benim avukat ödemesi var, anlaşırsa onu yapmama
 gerek kalmaz, o parayla da sizin burayı yaptırırız* dedim. Biliyorum ki
 hanımefendi hiç beni böyle işlerin altına sokmaz. Çocuklar alamayacağım bir şey
 isteyince de böyle diyorum, *anneniz anlaşırsa neden olmasın?* Geçen beş
