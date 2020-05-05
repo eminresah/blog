@@ -2,7 +2,6 @@
 title: Murakabe 12826
 date: 2014-11-23 02:18:14 +0200
 dp: 12826
-draft: true
 ---
 
 Bugün 826'ya bakıyoruz. Hargâh (خرگاه), mahsus (مخصوص), mezmûm (مذموم)

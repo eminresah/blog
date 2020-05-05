@@ -1,7 +1,6 @@
 ---
 title: "Müsvedde 17.02.18 23:42"
 date: 2018-02-17 23:42:34
-expiryDate: 2019-02-17 23:42:34
 dp: 14097
 featured_image: "/images/header-91.jpg"
 images: ["/images/header-91.jpg"]
@@ -27,7 +26,7 @@ burada kalsak* diye ağlaşırlar. Sanırsın ki annelerini terketmeye
 hazırlanıyorlar. Sonra?
 
 Çok defa bu durumda, *gidelim de annenizden izin alalım, izin verirse geri
-döneriz** diye evden çıkıyoruz. Bir iki defa gerçekten izin alıp geri döndüğümüz
+döneriz* diye evden çıkıyoruz. Bir iki defa gerçekten izin alıp geri döndüğümüz
 de oldu ama genelde annelerini görünce tüm bu tiyatro biter, kızım bana *baybay*
 bile demeden annesine gider. Orada da beni çok özlediklerini sanmıyorum, ben
 aramadığım sürece, beni aramazlar. Zaten okul günleri her sabah ve akşam
@@ -36,7 +35,7 @@ gittiklerinden sonra akıllarına geldiğimi sanmam.
 
 Bu bana hayata karşı nasıl olunması gerektiğini anlattı az çok. Yaşadığın andan
 zevk almanın, yaşadıklarına bağımlı olmaktan geçmediğini öğretti. Çocuklar için
-muhtemlen az da olsa psikolojik hasar bırakan bir süreçten geçiyoruz, en
+muhtemelen az da olsa psikolojik hasar bırakan bir süreçten geçiyoruz, en
 sevmediğim işlerden biri olan araba kullanmayı şehir içinde günde 100 km'ye
 çıkarıp, onlara servis şoförlüğü yaparak hasarı azaltmaya çalışsam da tamamen
 düzeltebileceğimi sanmıyorum. Bununla beraber onların *iki evli* duruma

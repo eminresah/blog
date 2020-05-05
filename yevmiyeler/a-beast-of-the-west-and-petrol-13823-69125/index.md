@@ -4,7 +4,6 @@ date: 2017-05-20 12:05:15
 dp: 13823
 featured_image: "/images/header-23.jpg"
 images: ["/images/header-23.jpg"]
-draft: true
 tags: ["islam"]
 ---
 

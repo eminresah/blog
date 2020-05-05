@@ -2,7 +2,6 @@
 title: "Yevmiye 12800"
 date: 2015-11-21 22:16:07 +0200
 dp: 12800
-draft: true
 tags: []
 ---
 

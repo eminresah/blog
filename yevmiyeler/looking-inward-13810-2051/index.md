@@ -4,7 +4,6 @@ date: 2017-05-06 17:30:53
 dp: 13810
 featured_image: "/images/header-10.jpg"
 images: ["/images/header-10.jpg"]
-draft: true
 tags: ["philosophy"]
 ---
 

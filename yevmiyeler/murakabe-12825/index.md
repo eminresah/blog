@@ -2,7 +2,6 @@
 title: Murakabe 12825
 date: 2014-11-23 02:18:14 +0200
 dp: 12825
-draft: true
 ---
 
 /Bir işi ilk defasında iyi yapmıyorsan, ne zaman daha iyi yapmaya zaman

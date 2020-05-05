@@ -2,7 +2,6 @@
 title: "Yevmiye 13196"
 date: 2016-03-30 23:33:30 +0300
 dp: 13196
-draft: true
 tags: []
 ---
 

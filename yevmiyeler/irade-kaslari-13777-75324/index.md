@@ -4,7 +4,6 @@ date: 2017-04-04 13:54:52
 dp: 13777
 featured_image: "/images/header-77.jpg"
 images: ["/images/header-77.jpg"]
-draft: true
 tags: ["ben"]
 ---
 

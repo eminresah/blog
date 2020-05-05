@@ -2,7 +2,6 @@
 title: "Murakabe 12920"
 date: 2015-01-17 20:16:57 +0200
 dp: 12920
-draft: true
 tags: []
 ---
 

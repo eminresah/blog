@@ -2,7 +2,6 @@
 title: "Yevmiye 12926"
 date: Thu Dec  4 22:54:04 EET 2014
 dp: 12926
-draft: true
 tags: []
 ---
 

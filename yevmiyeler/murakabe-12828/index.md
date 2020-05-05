@@ -2,7 +2,6 @@
 title: Murakabe 12828
 date: 2014-11-23 02:18:14 +0200
 dp: 12828
-draft: true
 ---
 
 Biz faniler için de anlatmalısın bütün bunları. Ne dediğini anlamalıyız.

@@ -1,6 +1,5 @@
 ---
 title: Ortak Zihin
-draft: true
 ---
 
 

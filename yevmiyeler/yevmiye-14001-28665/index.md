@@ -4,7 +4,6 @@ date: 2017-11-14 00:56:55
 dp: 14001
 featured_image: "/images/header-70.jpg"
 images: ["/images/header-70.jpg"]
-draft: true
 tags: []
 ---
 

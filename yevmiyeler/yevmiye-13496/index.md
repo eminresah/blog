@@ -4,7 +4,6 @@ date: 2016-11-15 18:00:10
 dp: 13496
 featured_image: "/images/header-96.jpg"
 images: ["/images/header-96.jpg"]
-draft: true
 tags: []
 ---
 

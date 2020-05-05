@@ -2,7 +2,6 @@
 title: "Yevmiye 13038/2"
 date: 2015-07-08 04:50:38 +0300
 dp: 13038
-draft: true
 tags: []
 ---
 

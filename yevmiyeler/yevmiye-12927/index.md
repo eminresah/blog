@@ -2,7 +2,6 @@
 title: "Yevmiye 12927"
 date: 2014-12-31 20:52:26 +0200
 dp: 12927
-draft: true
 tags: []
 ---
 

@@ -2,7 +2,6 @@
 title: "Murakabe 13380"
 date: 2016-03-13 21:44:57 +0200
 dp: 13380
-draft: true
 tags: []
 ---
 

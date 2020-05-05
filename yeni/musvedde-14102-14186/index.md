@@ -1,7 +1,6 @@
 ---
 title: "Müsvedde 22.02.18 20:53"
 date: 2018-02-22 20:53:07
-expiryDate: 2019-02-22 20:53:07
 dp: 14102
 featured_image: "/images/header-73.jpg"
 images: ["/images/header-73.jpg"]
@@ -11,7 +10,7 @@ tags: []
 
 
 
-Çok saçma bir iş yaptınız amirim. Tiksindiğim bir kadına her ay para göndermemi
+Çok saçma bir iş yaptınız amirim. Sevmediğim bir kadına her ay para göndermemi
 buyurdunuz. Nefis terbiyesi için miydi? Nefsim terbiye oldu amirim, hayatın ve
 emirlerinizin ne kadar rastgele olduğunu ve insan denen ırkın, ne kadar boş
 yaratıklardan mürekkep olduğunu müşahade ettim. Bu ırkın kadınlarıyla ilgili

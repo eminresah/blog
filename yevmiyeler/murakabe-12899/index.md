@@ -2,7 +2,6 @@
 title: "Murakabe 12899"
 date: 2014-12-04 16:52:51 +0200
 dp: 12899
-draft: true
 tags: []
 ---
 

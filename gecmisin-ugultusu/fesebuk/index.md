@@ -2,7 +2,6 @@
 title: fesebuk 
 modDate: 2014-11-23 03:41:51 +0200
 date: 2010-12-15 00:25:22
-draft: true
 ---
 Her *sağlıklı Türk erkeği* gibi bir Facebook hesabım var, bugün
 kapatayım dedim <!-- , sevgilim *gitme* dedi, sıkılırmış… Sonra bir arkadaş

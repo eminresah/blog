@@ -4,7 +4,6 @@ date: 2016-11-13 18:30:39
 dp: 13581
 featured_image: "/images/header-81.jpg"
 images: ["/images/header-81.jpg"]
-draft: true
 tags: []
 ---
 

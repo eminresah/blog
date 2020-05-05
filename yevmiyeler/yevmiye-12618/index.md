@@ -2,7 +2,6 @@
 title: "12618. Gün İçin Yevmiye"
 date: 2014-11-23 02:18:14 +0200
 dp: 12618
-draft: true
 tags: []
 ---
 

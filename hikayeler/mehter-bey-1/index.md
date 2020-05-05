@@ -1,6 +1,5 @@
 ---
 title: Mehter Bey 
-draft: true
 ---
 
 

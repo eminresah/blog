@@ -2,7 +2,6 @@
 title: "Slaughterhouse-five (M)"
 date: 2016-03-30 23:33:30 +0300
 dp: 12837
-draft: true
 tags: []
 ---
 

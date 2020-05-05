@@ -4,7 +4,6 @@ date: 2017-05-01 10:45:38
 dp: 13804
 featured_image: "/images/header-4.jpg"
 images: ["/images/header-4.jpg"]
-draft: true
 tags: ["siyaset"]
 ---
 

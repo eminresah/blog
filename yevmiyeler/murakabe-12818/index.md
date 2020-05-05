@@ -2,7 +2,6 @@
 title: Murakabe 12818
 date: 2014-11-23 02:18:14 +0200
 dp: 12818
-draft: true
 ---
 
 Serin bir gece. Yağmur serinliği.

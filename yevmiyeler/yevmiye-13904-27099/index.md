@@ -4,7 +4,6 @@ date: 2017-08-09 00:31:13
 dp: 13904
 featured_image: "/images/header-4.jpg"
 images: ["/images/header-4.jpg"]
-draft: true
 tags: []
 ---
 

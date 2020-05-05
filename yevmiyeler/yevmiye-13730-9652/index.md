@@ -4,7 +4,6 @@ date: 2017-02-16 01:47:58
 dp: 13730
 featured_image: "/images/header-30.jpg"
 images: ["/images/header-30.jpg"]
-draft: true
 tags: []
 ---
 

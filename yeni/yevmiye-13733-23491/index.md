@@ -1,10 +1,9 @@
 ---
 title: Meaningness 
 date: 2020-04-29
-draft: true
 ---
 
-[Meaningness](TK link) diye bir kitap okuyorum, bölümlerini parça parça
+[Meaningness](https://meaningness.com) diye bir kitap okuyorum, bölümlerini parça parça
 Instapaper'a indirdim, arada sırada bakıyorum. Anlamsızlık buhranıyla kavrulan
 insanlığa ne mutlak, ne izafi, *yepyeni* bir anlam bulma yöntemi olduğunu
 söylüyor ama aslında bildiğimiz *varoluşçuluğun* yeni mecazlarla bezenmiş hali. 
@@ -28,7 +27,7 @@ duruşlara sahibiz, adam bir yandan *Tanrı'ya inanmam* diyor mesela, diğer yan
 İnsanları anlamak duruşlarını anlamakla mümkün ve duruşlara sistemle karşılık
 veremiyorsunuz: Çoğu zaten o kadar *sistemi* kaldıracak halde değil, nadiren
 insanlar bir sistemi anlayacak kadar ilgileniyor. Marxism mesela bunun en ilginç
-örneklerinden biri, geçenlerde [Nişanyan'ın da yazdığı gibi](TK link) aslında
+örneklerinden biri. Aslında
 boşlukta duran tırt bir sistem ama insanlara *duruş* olarak bir şey vaadettiği
 için bu zamana kadar yaşamış. 
 

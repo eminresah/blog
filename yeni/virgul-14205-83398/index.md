@@ -1,7 +1,6 @@
 ---
 title: "Virgül 6 Haziran 16:10"
 date: 2018-06-06 16:09:35
-expiryDate: 2019-06-06 16:09:35
 dp: 14205
 featured_image: "/images/header-46.jpg"
 images: ["/images/header-46.jpg"]
@@ -9,9 +8,7 @@ published: true
 tags: []
 ---
 
-
-
-E- dedi ki *o kadar yazacak şeyi nereden buluyorsun?*
+*O kadar yazacak şeyi nereden buluyorsun?*
 
 *Bana normal geliyor, herkesin içinden geçiyormuş da, yazamıyormuş gibi* dedim.
 *Onlar kendilerini tutmayı başarıyorlar, ben başaramıyorum, öyle bir his.*

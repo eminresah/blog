@@ -4,7 +4,6 @@ date: 2017-10-31 22:08:52
 dp: 13988
 featured_image: "/images/header-88.jpg"
 images: ["/images/header-88.jpg"]
-draft: true
 tags: []
 ---
 

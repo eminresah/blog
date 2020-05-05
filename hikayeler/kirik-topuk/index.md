@@ -1,6 +1,5 @@
 ---
 title: Kırık Topuk
-draft: true
 ---
 
 Bir yağmur ertesi su dolu çukurların arasından sekerken gördüm.

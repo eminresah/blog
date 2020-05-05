@@ -4,7 +4,6 @@ date: 2017-04-04 13:58:20
 dp: 13777
 featured_image: "/images/header-48.jpg"
 images: ["/images/header-48.jpg"]
-draft: true
 tags: []
 ---
 

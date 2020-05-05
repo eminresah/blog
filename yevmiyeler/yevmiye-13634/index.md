@@ -4,7 +4,6 @@ date: 2016-11-11 17:56:19
 dp: 13634
 featured_image: "/images/header-34.jpg"
 images: ["/images/header-34.jpg"]
-draft: true
 tags: []
 ---
 

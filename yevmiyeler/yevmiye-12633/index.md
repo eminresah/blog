@@ -2,7 +2,6 @@
 title: "Yevmiye - 12633"
 date: 2014-11-23 02:18:14 +0200
 dp: 12633
-draft: true
 tags: []
 ---
 /İnşallah kınadıklarını yaşarsın./ İnsanın ömrünün ikinci yarısı, ilk

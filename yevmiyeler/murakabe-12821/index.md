@@ -2,7 +2,6 @@
 title: Murakabe 12821
 date: 2014-11-23 02:18:14 +0200
 dp:  12821
-draft: true
 ---
 
 Artık günlere denk gelen kelimeleri de yazabilirim.
