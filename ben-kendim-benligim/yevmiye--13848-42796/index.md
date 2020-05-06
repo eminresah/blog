@@ -1,6 +1,7 @@
 ---
-title: "Yevmiye 13848"
+title: "Kaçış, Acılar, Masallar"
 date: 2017-06-14 04:52:58
+lastmod: 2020-05-06 22:23:35+0300
 dp: 13848
 featured_image: "/images/header-48.jpg"
 images: ["/images/header-48.jpg"]
