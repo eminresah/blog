@@ -4,7 +4,7 @@ author: Emin Reşah
 date:  2020-04-30 03:27:03
 dp: 14899
 draft: false
-image: /images/header-53.jpg
+featured_image: /images/header-53.jpg
 ---
 
 Hayatımın *bir şeyler paylaşma* safhasını belki de artık bitirmeliyim. Açık, çıplak veya bunun gibi,
