@@ -1,6 +1,7 @@
 ---
 title: Meaningness 
 date: 2020-04-29
+featured_image: /images/header-82.jpg
 ---
 
 [Meaningness](https://meaningness.com) diye bir kitap okuyorum, bölümlerini parça parça
