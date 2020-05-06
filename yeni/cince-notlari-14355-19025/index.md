@@ -4,7 +4,7 @@ date: 2018-11-02 22:03:19
 dp: 14355
 featured_image: "/images/header-09.jpg"
 images: ["/images/header-09.jpg"]
-published: false
+published: true
 tags: []
 ---
 
@@ -537,12 +537,4 @@ Kapatmak
 
 关门 : kapıyı kapatmak
 关心 : guan1xin1 : dikkat etmek, özenmek
-
-
-
-
-## Kalan Dersler: 
-
-[Link](https://www.udemy.com/dc-level-1/learn/v4/overview)
-
 
