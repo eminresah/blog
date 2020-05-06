@@ -2,7 +2,7 @@
 title: "The Art of Thinking Clearly by Rolf Dobelli (Excerpts)"
 date:  2020-05-06 18:54:26 +0000
 dp: 14906
-draft: false
+draft: true
 featured_image: /images/header-62.jpg
 images: ['/images/header-62.jpg']
 markup: md
