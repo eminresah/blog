@@ -23,3 +23,4 @@ Dönüşme işlemi mükemmel olmadı. 2010 civarı Tumblr'da yazdığım yazıla
 Bu aslında bu yazıların *kitaplaşma* projesinin de sonu demek çünkü buna zamanımın olmadığına artık tam olarak kanaat ettim. Yazacağım bir iki ufak programla yazıların epub ve pdf'lerini oluşturup, buradan sunarım ve belki (kolay bir işse) sair e-kitap platformlarına bırakırım ancak *kitap yazmak* fikrinden büyük ölçüde vazgeçtiğimi, yazılara temelde buradan erişileceğini kabul etmiş oluyorum. Bir nevi yenilgi ama yazıları iki kapak arasında toplamanın benim açımdan tali bir mesele olduğunu ve içerik üretmenin daha önemli olduğunu düşünüyorum. 
 
 Bakalım, ömrüm oldukça yazmaya devam edeceğim herhalde. 
+
