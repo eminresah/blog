@@ -2,7 +2,7 @@
 title: 15 Yılın Merhabası
 author: Emin Reşah
 description: 
-date:  2020-05-06 00:37:39 UTC
+date:  2020-05-06 00:37:39 
 lastmod: 
 dp: 14905
 draft: false
