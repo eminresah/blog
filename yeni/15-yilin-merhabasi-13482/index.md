@@ -10,7 +10,6 @@ featured_image: /images/header-47.jpg
 type: 
 layout: 
 markup: md
-weight: 10
 ---
 
 15 yıldır yazdığım yazıların çoğunu bir araya getirdim. Farklı kaynaklardan gelip burada buluşan bazı mükerrerlerle beraber toplamda 1700'den fazla yazı oldu. 780 bin kelime kadar telif, 130 bin kadar da [kitap alıntısı](https://eminresah.com/okunandan-kalan) varmış. Belki sağda solda kalmış, unuttuğum yazılar/şiirler vardır ama genelinin burada olduğunu düşünüyorum. 
