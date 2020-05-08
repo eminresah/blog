@@ -4,7 +4,7 @@ author: Emin Reşah
 date:  2020-05-08 02:13:33
 dp: 14907
 draft: false
-image: /images/header-44.jpg
+featured_image: /images/header-44.jpg
 ---
 
 

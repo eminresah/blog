@@ -4,7 +4,7 @@ author: Emin Reşah
 date:  2020-05-07 21:24:44
 dp: 14907
 draft: false
-image: /images/header-86.jpg
+featured_image: /images/header-86.jpg
 ---
 
 > Bir gün ikindiye yalan evimde oturuyor dum; güneş de yoktu, birdenbire aklıma  ikindi ezanı okunacak ve onu duyacağım fikri aklıma geldi. Daha sonra bu düşünce birkaç  kez aklımdan yine geçti ve gönlüme yerleşti.  Bunun gerçekleşeceğini anladım ve o anda ben daha bunu düşünürken, ezanın sesini duydum. Gaybı bilinmeyeni ancak Allah bilir. 
