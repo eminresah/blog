@@ -8,8 +8,6 @@ published: true
 tags: []
 ---
 
-
-
 Zayıflıklarınızı konuşabiliyor olmak, sizi konuşmamaya göre daha güçlü yapar mı?
 
 *Param yok* diyebiliyorsam, bunu söyleyemeyene göre daha güçlü sayılır mıyım?
@@ -21,7 +19,7 @@ insanın sorunlarını inkar etmesinin de *bazen* onu daha güçlü yaptığın�
 Ben saf saf kendimi anlatırken, mesela, hiç sorunu yokmuş gibi yaparak ve
 senelerce de yapmaya devam ederek, *iyi* kalmaya devam eden insanlar oldu.
 Diyorsun ki, *gece başını yastığa koyduğunda rahat değildir* ama bu sadece senin
-kuruntun, belki de rahattır. 
+kuruntun, belki de rahattır.
 
 Belki aslında olmak istediği budur, belki *ruhu çingenedir,* ve ona insan gibi
 davranılmaması değil, davranılması rahatsız etmektedir? Belki üzerinde konuşmak
@@ -29,7 +27,9 @@ gerektiğinde, bir yandan *iyi numarası* yapması gerektiği için rahatsız
 oluyordur, aslında konuşmazken, üzerinde durmazken, *iyi numarası* yapması
 gerekmezken, daha rahattır ve daha güçlü.
 
-Kim malının çalınması konusunda hırsızlardan daha güçlü olabilir?
+Kim kendi malının hırsızlığı konusunda hırsızlardan daha güçlü olabilir?
+Hırsızlar hırsızlıklarıyla *barış içinde* olursa daha iyi hırsızlar mı
+olurlar? 
 
 *Ahlak* ve *psikoloji* biz *düzler* açısından birbirini besleyen konular.
 *Ahlaklı* oldukça, ruhumuzun da daha dengede olacağını düşünüyoruz. Konuşmak,
@@ -47,4 +47,3 @@ bu *savaşın* herkes için geçerli kuralları yok, *bizim tarafın* pratikleri
 herkes için işlemiyor. Çoğu için basit, dünyevi menfaatten ötesi yok, güç o
 menfaati nasıl temin ettiğiyle alakalı, kendiyle kurduğu ilişkinin kalitesi veya
 ekseninin iyilik olmasının bir değeri yok.
-
