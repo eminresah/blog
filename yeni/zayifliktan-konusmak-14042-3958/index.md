@@ -1,6 +1,7 @@
 ---
 title: "Zayıflıktan Konuşmak"
 date: 2017-12-24 18:05:39
+lastmod: 2020-05-09 01:34:35+0300
 dp: 14042
 featured_image: "/images/header-118.jpg"
 images: ["/images/header-118.jpg"]
@@ -29,7 +30,7 @@ gerekmezken, daha rahattır ve daha güçlü.
 
 Kim kendi malının hırsızlığı konusunda hırsızlardan daha güçlü olabilir?
 Hırsızlar hırsızlıklarıyla *barış içinde* olursa daha iyi hırsızlar mı
-olurlar? 
+olurlar?
 
 *Ahlak* ve *psikoloji* biz *düzler* açısından birbirini besleyen konular.
 *Ahlaklı* oldukça, ruhumuzun da daha dengede olacağını düşünüyoruz. Konuşmak,
