@@ -40,7 +40,7 @@ kendimize göstermek için, bunların etrafında ne kadar kurban vereceğiz?
 Önceden bunun *nasıl* kısmına kafayı takmıştım ama artık ilk sorunun *bir arada yaşamalı mı?*
 olduğunu görüyorum. Belki bazı durumlarda eğer taraflar yeterince kalabalıksa ve bir sınır
 çizilebiliyorsa, iyi ayrılmak, kötü bir *birarada yaşamaya çalışma tecrübesinden* daha iyi
-olur. Yaş ilerledikçe bazı meselelerin çözüleceğine dair umut da azalıyor, belki ondandır. 
+olur. Yaş ilerledikçe bazı meselelerin çözüleceğine dair umut da azalıyor, belki ondandır.
 
 Bir yanda gelenek, bir yanda bilim ve teknoloji, bir yanda tarihi olarak ne kadar sağlam olduğunu
 bilmediğimiz hikayeler, bir yanda kişilerin çocukluktan itibaren edindikleri alışkanlıklar var.
@@ -51,7 +51,7 @@ nasıl olacak? Birey nerede duracak? Onu hangi açıdan koruyacak, hangi açıla
 bekleyeceğiz? SLoganlara ve romantik bireyciliğe kapılmadan *sadece ahireti için yaşayan* veya
 *sadece dünya zevkleri için yaşayan* veya *sadece milleti için yaşayan* insanların kavga etmeden
 ve huzurla hayatlarını sürdürebilmesi nasıl mümkün olur? Mümkün olmazsa bu insanların nasıl
-dönüşmesini, kimin kime tabi olmasını beklersiniz? 
+dönüşmesini, kimin kime tabi olmasını beklersiniz?
 
 ### Devletin, Teknolojinin ve Kapitalizm'in ürettiği tehlikelerle nasıl başa çıkarız?
 
@@ -60,7 +60,7 @@ dolduracak hayat tarzları üretme konusunda hayli beceriksiz ve tembel. Ayrıca
 insanların ağzındaki *korkudan* çok daha fazla *nimet* ve *rahatlığa* sebep olduğu sürece yenilmez
 olduğunu düşünüyorum. Baktığımızda, konuşmak için, şikayet etmek için çok sebep ve bahane buluyoruz,
 bununla beraber insanların sözlerinin anlamını kavramaya başladığınızda, aslında bu şikayetin de
-içerikten bağımsız bir sosyal sinyal olduğunu görüyorsunuz. 
+içerikten bağımsız bir sosyal sinyal olduğunu görüyorsunuz.
 
 Buna takılmadan, yani, Kapitalist düzeni şeytanlaştırmadan ama onun arızalarını ve yol açtığı
 sıkıntıları da görmezden gelmeden, insanların *doğru bildikleri şekilde* yaşamasına yardım edecek
@@ -83,7 +83,7 @@ içten içe artık dinden bıkmış, *din yorgunu* bir toplum olmanın sonu nedi
 
 İslam'ın tarihi zeminindeki boşluk belirginleştikçe topluma yansımaları nasıl gerçekleşir? Dine
 çamur atmakla vazifesini tamamladığını sanan hamhalat inkarcıya, *inkar etmek kolay, yerine ne
-koyacağız?* sorusunun daha önemli olduğunu nasıl anlatabilirsin? 
+koyacağız?* sorusunun daha önemli olduğunu nasıl anlatabilirsin?
 
 İslam'ın birbuçuk binyıllık müktesebatı zulme, kalitesizliğe, ilkelliğe, boş kavgalara değil de,
 adalete, iyiliğe, güzelliğe, doğruluğa nasıl tahvil edilir? Kim olduğumuzu anlarken, kainattaki
@@ -103,4 +103,4 @@ ve düzeltirim? Yazdıklarımın daha anlamlı ve ayağı yere basan fikirler ol
 Düşüncelerimin anlık duygular ve önyargılardan, *değişmez* gördüğüm bedahetlerden kaynaklı kusurlar
 içerdiğini nasıl farkederim ve bunların üstesinden nasıl gelirim?
 
-Önümdeki bingünde bu gibi soruları cevaplamaya çalışmak hevesindeyim. 
+Önümdeki bingünde bu gibi soruları cevaplamaya çalışmak hevesindeyim.
