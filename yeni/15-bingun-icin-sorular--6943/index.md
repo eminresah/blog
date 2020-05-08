@@ -10,15 +10,14 @@ featured_image: /images/header-44.jpg
 
 Yazılara bakınca bir noktada kendimden fazlasıyla bahsettiğimi ve bu bahsin de tekrar ettiğini, bir
 yere gitmediğini gördüm. Bunların da değeri var, en azından insanlara *sadece siz değil, ben de
-kayboldum* demeye yarıyor ama yolu gösterebilmek veya en azından buna teşebbüs edebilmek isterdim. 
+kayboldum* demeye yarıyor ama yolu gösterebilmek veya en azından buna teşebbüs edebilmek isterdim.
 
 Bugün 14907. günüm dünyadaki, 2017 Kasım'da başlayan 14000'ler hem yazı, hem sair işler açısından
 hayli verimsiz geçti. 15binlerde inşallah hayatımı yarattığı sorunlarla işgal etmeye çalışan
 birinden kendimi korumaya çalışmak temel derdim olmaz da, hem yazı, hem yazılım, hem sair iş güç
-açısından işimize bakarız. 
+açısından işimize bakarız.
 
-Bu *işin* içinde de şu sorulara boyumuz yettiği ölçüde cevap aramak olsun. 
-
+Bu *işin* içinde de şu sorulara boyumuz yettiği ölçüde cevap aramak olsun.
 
 ### İnsan nasıl yaşamalı ve yaşama biçimini hangi kaynaklara dayandırmalı?
 
@@ -26,7 +25,7 @@ Türkiye'de insanlar asıl mücadelenin bir *yaşama biçimi* mücadelesi olduğ
 Nedir yaşama biçimi mücadelesi? Gününü nasıl geçireceksin? Sabah kalkınca ne yapacak, akşam eve
 gidince ne yiyeceksin? İnsanlarla iletişimin hangi takvim etrafında olacak? Hangi bayramları, özel
 günleri kutlayacak ve bunlara nasıl bir ciddiyetle yaklaşacaksın? Hangi değerleri hayatından üstün
-tutacaksın ve bu değerler sana karşılığında ne verecek? 
+tutacaksın ve bu değerler sana karşılığında ne verecek?
 
 İnsanların hayattaki temel mücadelesi *benim ölümsüzlük hikayem, senin ölümsüzlük hikayen*
 kavgasıdır. *Benim ölümsüzlük hikayem daha değerli, çünkü şu şu değerlere dayanıyor ama seninki öyle
@@ -104,6 +103,4 @@ ve düzeltirim? Yazdıklarımın daha anlamlı ve ayağı yere basan fikirler ol
 Düşüncelerimin anlık duygular ve önyargılardan, *değişmez* gördüğüm bedahetlerden kaynaklı kusurlar
 içerdiğini nasıl farkederim ve bunların üstesinden nasıl gelirim?
 
-
 Önümdeki bingünde bu gibi soruları cevaplamaya çalışmak hevesindeyim. 
-
