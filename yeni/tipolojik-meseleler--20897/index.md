@@ -1,7 +1,7 @@
 ---
 title: Tipolojik Meseleler 
 author: Emin Reşah
-date:  2020-05-11 06:11:58
+date:  2020-05-11 06:11:58 +03
 dp: 14910
 draft: false
 featured_image: /images/header-00.jpg
