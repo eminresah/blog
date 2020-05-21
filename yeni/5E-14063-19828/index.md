@@ -3,7 +3,6 @@ title: "5E"
 date: 2018-01-14 22:30:12
 dp: 14063
 featured_image: "/images/header-117.jpg"
-images: ["/images/header-117.jpg"]
 published: true
 tags: []
 ---

@@ -23,6 +23,7 @@ herhalde geçici değil, kalıcı olması. İnsanlar geçici olduğunu düşünd
 sürece evlilikten kat kat fazla sıkıntıya göğüs geriyorlar. Biteceğini bildiğin,
 belli bir vadesi olduğunu düşündüğün ilişkiye sabretmesi daha kolay.
 
+<!-- MOVED TO SEPARATE FILE: 2020-05-21 23:11:12+0300
 ----- 
 
 Is it possible to tell the truth via language? If not, is all lies equal? If so,
@@ -39,4 +40,4 @@ lead to more lies.
 So even if you don't believe that language is not capable to produce a true
 sentence, we cannot stop search for *better lies*. 
 
-
+-->

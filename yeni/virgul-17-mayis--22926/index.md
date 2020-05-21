@@ -2,7 +2,7 @@
 title: Virgül 17 Mayıs 
 author: Emin Reşah
 date:  2020-05-17 18:13:35+0300
-expiryDate: 2020-06-17 18:13:35+0300
+expiryDate: 2020-05-21 23:00:16+0300
 dp: 14917
 draft: false
 featured_image: /images/header-160.jpg

@@ -4,7 +4,6 @@ date: 2017-11-24 01:03:42
 dp: 14011
 featured_image: "/images/header-11.jpg"
 images: ["/images/header-11.jpg"]
-tags: []
 ---
 
 #### 1
@@ -45,7 +44,7 @@ Bu sorunun cevabı da bitmeyen bir tefekkür konusu.
 
 #### 4
 
-İnsan *düşman* bildiğinin rekalmını yapar mı?
+İnsan *düşman* bildiğinin reklmını yapar mı?
 
 Genelde düşmanlar yapar reklamı, mesela İstanbul taksicileri çok güzel Uber
 reklamı yaptılar, aferin. 

@@ -1,5 +1,5 @@
 ---
-title: "Müsvedde 28.01.18 03:52"
+title: "Feynman'ın Öğrenme Metodu"
 date: 2018-01-28 03:52:44
 dp: 14076
 featured_image: "/images/header-117.jpg"
@@ -7,8 +7,6 @@ images: ["/images/header-117.jpg"]
 published: true
 tags: []
 ---
-
-
 
 Feynman'ın herhangi bir konuyu öğrenirken kullandığı metodu şu imiş: 
 

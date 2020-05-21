@@ -1,5 +1,5 @@
 ---
-title: "Yevmiye 13322"
+title: "Gırtlakbilim"
 date: 2016-01-06 12:20:32 +0200
 dp: 13322
 tags: []
@@ -52,13 +52,12 @@ lisanı değil, düşünceyi bile açıklıyor.
 
 Ancak bu açıklamanın açıklamadan çok, *evrim öyle yaratmış* gibi durduğunu
 söyleyince ise, *vay efendim skolastik, teokratik, tabu falan devam edip
-gidiyorsunuz.* Hayır, bu açıklamanın komik olduuğunu çünkü ara safhaların
+gidiyorsunuz.* Hayır, bu açıklamanın komik olduğunu çünkü ara safhaların
 açıklamasının olmadığını ve evrimsel manada, mesela havlayarak anlaşan köpekleri
 açıklayabilecek bir hikayenin, insanın zihnini ve lisanını açıklamaya
 yetmeyeceğini söylüyoruz.
 
-Belki söylenecek, artık Bilim ve bilim olarak ikiye ayrıldığı olabilir. Eskiden
-*Allah öyle yaratmış* diye cevaplanan sorularda özneyi artık *evrim*
+Eskiden *Allah öyle yaratmış* diye cevaplanan sorularda özneyi artık *evrim*
 oynuyor. Biraz daha sofistike belki, azıcık daha *mantıklı* ve yaratılış
 hikayelerini daha usturuplu kurmaya çalışıyor, amenna, ancak bu yeni Tanrı'nın
 kulları da öncekiler kadar bağnaz. 
