@@ -4,7 +4,6 @@ author: Emin Reşah
 date:  2020-05-21 04:15:18+0300
 expiryDate:
 dp: 14920
-draft: true
 featured_image: /images/header-143.jpg
 ---
 
