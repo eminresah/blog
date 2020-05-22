@@ -1,0 +1,1 @@
+""düşmanını ayağa kalkamayacak hale getiremiyorsan, onunla savaştığını kendi saç teline bile söyleme.""

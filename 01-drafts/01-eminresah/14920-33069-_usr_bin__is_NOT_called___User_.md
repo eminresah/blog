@@ -1,0 +1,1 @@
+/usr/bin/ is NOT called ""User, bin"". It's called ""U.S.R., bin"". /usr/ stands for ""Unix System Resources"".  -- Didn't know!"
