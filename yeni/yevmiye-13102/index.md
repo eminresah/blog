@@ -3,11 +3,10 @@ title: "Yevmiye 13102"
 date: 2015-06-23 03:28:36 +0300
 dp: 13102
 tags: []
-markup: rst
+markup: md
 ---
 
-The Atlantic'teki bir yazı `Çin demokrasisi neden kaçınılmaz değil
-<http://www.theatlantic.com/international/archive/2015/05/chinese-democracy-isnt-inevitable/394325/>`_
+The Atlantic'teki bir yazı [Çin demokrasisi neden kaçınılmaz değil](http://www.theatlantic.com/international/archive/2015/05/chinese-democracy-isnt-inevitable/394325/)
 diye retorik bir soru sormuş.
 
 Çin'de 6-7. yüzyıldan kalma bir *sınav sistemi* varmış. 1905'deki
@@ -57,8 +56,7 @@ sistemin de matah bir şey olmadığını görebiliyoruz.
 
 ------
 
-`Şurada
-<http://www.artofmanliness.com/2015/05/28/guide-to-public-speaking/>`_
+[Şurada](http://www.artofmanliness.com/2015/05/28/guide-to-public-speaking/)
 Churchill'in hitabetiyle ilgili bir yazı okudum. 40 dakikalık bir
 konuşma için 6-8 saat çalışırmış. Konuşmaları kağıttan okuduğu halde,
 irticalen yaptığı izlenimini vermekte ustaymış.
@@ -67,8 +65,7 @@ irticalen yaptığı izlenimini vermekte ustaymış.
 ------
 
 
-`Programcılığın yavaş yavaş delirttiğini söylüyor şuradaki yazı
-<http://www.stilldrinking.org/programming-sucks>`_. Aslında bu iş için
+[Programcılığın yavaş yavaş delirttiğini söylüyor şuradaki yazı](http://www.stilldrinking.org/programming-sucks). Aslında bu iş için
 *üretilmemiş* beyinlerini, günde on ila onbeş saat, haftada beş ila
 yedi gün zorluyorlar ve hepsi yavaş yavaş çıldırıyor demiş. 
 

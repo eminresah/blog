@@ -4,7 +4,7 @@ modDate: 2015-07-17 04:13:09 +0300
 author: Emin Reşah
 date: Mon Jul 13 13:04:38 EEST 2015 
 dp: 13146 
-markup: rst
+markup: md
 ---
 
 Hayatını basitleştirmeye çalışırken daha da karmaşık hale getiriyorsun
@@ -37,7 +37,7 @@ iyi tanımaya çalışıyorum. Bulduğum her saçmalığa atlamayı bıraktım a
 güçlü araçları iyi kullanmanın faziletlerini gördüm. Öğrendiğimde ne
 kadar etkili olduğunu. Uzun zamandır, belki yıllardır yazı
 kaybetmedim. Web'e koyduklarımı kaybedebiliyorum ama en az dört
-ayrı bilgisayarda, `git <https://git-scm.com/>`_ vasıtasıyla duranları
+ayrı bilgisayarda, [git](https://git-scm.com/) vasıtasıyla duranları
 kaybetmiyorum. Kurduğum düzenekler çalışıyor aslında, ancak bazıları o
 kadar iyi çalışıyor ki, hayatımdan o sorun çıkıp
 gidiyor. Bilgisayarına virüs girmenin, yazılarının kaybolmasının,
@@ -54,14 +54,14 @@ sürdü. Bir iki komut yazıp, tüm veritabanındaki eski URL kayıtlarını,
 yenisine çevirdim. Ama o komutları öğrenmem belki birkaç saatten fazla
 almıştır. Evet.
 
-Şimdilerde `Memrise'da <http://memrise.com>`_ kullandığım kısayolları
+Şimdilerde [Memrise'da](http://memrise.com) kullandığım kısayolları
 ezberliyorum. Emacs'te yüzlerce, belki binlerce kısayol tuşu
 vardır. Bunlara kendim de ekledim zaman içinde, diyelim Google'ı bir
 birkaç saniyede aramak. Yukarıdaki git yazısını, git'in adresiyle
-değiştirmek için ``F8 g l`` tuşlarına dokundum sadece. Veya bir programda diyelim
-bir hata mesajı çıktı, bu hatayı ``F8 g e`` tuşları ile arıyorum
+değiştirmek için `F8 g l` tuşlarına dokundum sadece. Veya bir programda diyelim
+bir hata mesajı çıktı, bu hatayı `F8 g e` tuşları ile arıyorum
 hemen. F6 F6 ile bütün *yer imleri* açılıyor. Bilgisayarda veya
-web'de. `Helm <https://github.com/emacs-helm/helm>`_ istediğimden
+web'de. [Helm](https://github.com/emacs-helm/helm) istediğimden
 fazla kolaylık sunuyor. Ancak bunları öğrenmek için geçirdiğim zamana
 gerçekten değiyor mu? Her şeyi Word'le yazan insanlardan daha çok mu
 yazıyorum? Bunu bilmem zor.
@@ -81,14 +81,16 @@ vazgeçilmez bir şeydi. Windows'taki Google Chrome'u bile ``--kiosk``
 parametresiyle çalıştırıyorum, *kapanamayan tam ekran modu*
 için. 
 
+<!-- 
+
 Şu anki ekran görüntüm mesela, aşağıda.
 
 .. image:: screenshot-20150715@042802.png
    :width: 600px
    :alt: Ekran Görüntüsü
+-->
 
-Bu *verimliliği* senelerce, `Ratpoison
-<http://www.nongnu.org/ratpoison/>`_ ve `XMonad <http://xmonad.org/>`_
+Bu *verimliliği* senelerce, [Ratpoison](http://www.nongnu.org/ratpoison/) ve [XMonad](http://xmonad.org/)
 kullanmayı deneye deneye, boza boza, bazılarında saatlerce tamir
 etmeye harcayarak kazandım. Bir noktadan sonra kazandığım saniyelerin kaybettiğim saatleri ödediğini ve
 kara geçirdiğini tahmin ediyorum. Veyahut komut satırı dedikleri
@@ -99,20 +101,18 @@ sahibim. Sadece bu beceriyle ekmek parası kazanıyor insanlar.
 
 Ancak bunların hepsinden kar sağlamıyorsun.
 
-Evet. Sağlamıyorum. Bazı yatırımlarım ölü yatırım oluyor. `Vim'e
-<http://www.vim.org/>`_ biraz zaman yatırdım geçenlerde, belki birkaç
+Evet. Sağlamıyorum. Bazı yatırımlarım ölü yatırım oluyor. [Vim'e](http://www.vim.org/) biraz zaman yatırdım geçenlerde, belki birkaç
 saat kısa yol tuşlarını öğrendim.  Eskiden beri sevmezdim, yine
 sevmedim. Allah muhtaç etmesin. Veya dil öğrenmeye ayırdığım zaman,
 Latince'ye ayırdığım zaman, diyelim, hiçbir faydası oldu mu bu vakte
-kadar? Bugünlerde `Çince öğrenmeye
-<http://www.memrise.com/course/541/hsk-level-1-introductory-mandarin-with-audio/>`_
-ve `Osmanlıca kelime bilgimi ilerletmeye
-<http://www.memrise.com/course/729518/osmanl-turkcesi-mana/>`_
+kadar? Bugünlerde [Çince öğrenmeye](http://www.memrise.com/course/541/hsk-level-1-introductory-mandarin-with-audio/)
+ve [Osmanlıca kelime bilgimi
+ilerletmeye](http://www.memrise.com/course/729518/osmanl-turkcesi-mana/)
 çalışıyorum. Bunların bir faydası olacak mı?  Almanca bilgimin bir işe
 yaradığı oldu mu? Bugüne kadar Almancamdan daha iyi İngilizce bilmeyen
 bir Almanla karşılaşmadım. Kimseyle Almanca konuşmak için bir şart
 ortaya çıkmadı. Mecbur kalmadım. Bundan sonra da muhtemelen
-kalmam. Acaba ona yatırdığım ve `Duolingo <https://duolingo.com/>`_ ve
+kalmam. Acaba ona yatırdığım ve [Duolingo](https://duolingo.com/) ve
 Memrise'da hala yatırmaya devam ettiğim saatlerin geri dönüşü olacak
 mı? Bunların asıl anlamı, yoksa, kendime iş dışında meşgale bulmam,
 eğlence bulmam mı? Eğlence olduğunu itiraf edemediğim eğlenceler?
