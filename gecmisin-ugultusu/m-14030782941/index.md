@@ -1,6 +1,7 @@
 ---
 title: Merdud
 date: 2011-12-10
+lastmod: 2020-05-31 02:51:08+0300
 ---
 
 Kırmızı Kitap'ın son kısımlarını oluşturan Yedi Vaaz'ı evini dolduran
@@ -93,3 +94,16 @@ moda olabilir, bunda da şaşılacak bir şey yok.
 Ne için yaşıyorsun? Ne seni yerinden kaldırıyor? Sabahları ne için
 uyanıyorsun? İşte senin Tanrın odur.
 
+---
+
+Esra bu yazıya 30 Mayıs 2020 tarihinde şöyle bir yorumda bulundu: 
+
+> Bilmek ile inanmak meselelerine dair bikbikbik yorumlarda bulunduğum zamana, geçmişten gelen bir
+> katkı/cevap gibi. Sonu da ne güzel bitmiş. 
+
+Bikbikbik değil, estağfirullah. :)
+
+Bahsi geçen yorum da [şurada][pendul-30-mayis]  ve [şurada][pendul-31-mayis]. 
+
+[pendul-30-mayis]: /yeni/pendul-30-hayis--3881/
+[pendul-31-mayis]: /yeni/pendul-31-mayis-16959/
