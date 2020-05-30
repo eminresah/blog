@@ -7,7 +7,7 @@ expiryDate:
 publishDate: 
 lastmod: 
 dp: 14930 
-draft: true 
+draft: false 
 featured_image: /images/header-68.jpg
 images:
 type:
@@ -58,7 +58,7 @@ bekleniyor. Bu da herhalde *teksir* aracının el yazısı olmasından. Bir roma
 yazısıyla çoğaltılmasını beklemek imkansız. Roman matbaayla ortaya çıkmış bir tür. 
 
 Evet. Eskiden Tarih edebiyata *mündemiç* kabul edilebilir ama edebiyatın da şimdikinden daha fazla
-bir ciddiyet ve *gerçeklik* iddiası var. Siyasetnameler de edebiyat mesela, Ahlaka ilişkin eserler
+bir ciddiyet ve *gerçeklik* iddiası var. Siyasetnameler de edebiyat mesela, ahlaka ilişkin eserler
 de edebiyat. Modern zamanlarda edebiyat *ben artık temelde kurmaca ve lirik şiirle meşgulüm*
 dedikten sonra Tarih ve diğer sosyal *bilimler* de *hakikati* aramak gibi bir vazife edinmiş. Benim
 sorduğum bu vazifeyi ne kadar yerine getirdikleri ve benim gibi bu işten anlamayan tarih (veya
@@ -68,7 +68,7 @@ sunuyor ve gerçekte bir hakikat iddiasında değiller* diyorsak, bunu en azınd
 yazmamız gerekir. Ben bir tarih metni okuduğumda, diyelim *Yıldırım Bayezid intihar mı etti?*
 sorusunun cevabına dair olduğunu, tarihin de *geçmişte olan olayları anlattığını düşünerek*
 okuyorum. Ancak biz post-truth (hakikat-sonrası) devrinin insanları olarak anlatının her şeyi
-kuşatıp, her şeyi çürüttüğü bir çağda yaşıyoruz ve gördüğüm kadarıyla Tarih bilimi de bundan
+kuşatıp, gerçeği çürüttüğü bir çağda yaşıyoruz ve gördüğüm kadarıyla Tarih bilimi de bundan
 nasibini almış.
 
 Tarih bir bilim mi, sorusuna geliyor aslında senin söylediğin. 
@@ -147,4 +147,4 @@ Tekerrür ediyor diyorlar ama, nasıl tekerrür ettiğini bulursan tahmin de yü
 
 Tarih değil de, tarihçiler tekerrür ediyor daha çok. 
 
-[pendul]: 
+[pendul]: /yeni/pendul-30-hayis--3881/
