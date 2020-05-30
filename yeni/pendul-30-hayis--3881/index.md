@@ -1,5 +1,5 @@
 ---
-title: Pendul 30 Hayıs 
+title: Pendul 30 Mayıs 
 author: Emin Reşah
 date:  2020-05-30 02:56:06+0300
 dp: 14929
