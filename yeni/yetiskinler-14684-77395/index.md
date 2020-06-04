@@ -2,14 +2,12 @@
 title: "Yetişkinler"
 date: 2019-09-28 14:29:10
 dp: 14684
+draft: true
 featured_image: "/images/header-28.jpg"
 images: ["/images/header-28.jpg"]
 published: false
 tags: []
 ---
-
-
-
 
 Yalnızlığın dünyamız gibi gökyüzünü kapsadığını düşündüğümüz zamanlarda
 yaşıyoruz. İnsanlar uzayın derinliklerine baktıklarında *orada bir şeyler*

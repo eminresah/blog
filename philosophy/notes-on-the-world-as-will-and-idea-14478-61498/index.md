@@ -6,6 +6,7 @@ featured_image: "/images/header-26.jpg"
 images: ["/images/header-26.jpg"]
 published: false
 tags: []
+draft: true
 ---
 
 
