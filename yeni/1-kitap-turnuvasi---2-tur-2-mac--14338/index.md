@@ -7,6 +7,9 @@ dp: 14941
 featured_image: /images/header-04.jpg
 ---
 
+- [1. Tur](/yeni/1-kitap-turnuvasi---1-tur-23579)
+- [2. Tur | 1. Maç](/yeni/1-kitap-turnuvasi---2-tur-1-mac--1311)
+
 İkinci maç Frederick Beiser'in Hegel felsefi biyografisiyle Jerry Brotton'un *The Sultan and the
 Queen* kitabı arasında. 
 
@@ -26,6 +29,8 @@ yürümüyormuş tabii.
 Hegel'le ilgili bilmek istediğim daha çok konu olduğuna kanaat ettiğim için ilk kitap bir sonraki
 tura kalıyor. 
 
+
+![Hegel](/images/book-covers/hegel-s.png)
 
 ## Hegel
 
@@ -54,7 +59,9 @@ tura kalıyor.
 > Soon after Hegel’s death in 1831, a fierce dispute arose about the religious dimension of his thought. 1 Left-wing Hegelians saw Hegel as a covert atheist or humanist, or at best a pantheist having only nominal affinities with official Christianity. Right-wing Hegelians embraced Hegel as a defender of the Christian faith, and indeed as an apologist for the Prussian Church. In their view, Hegel did for modern Protestantism what Aquinas had once done for medieval Catholicism: he too gave a rational foundation for the faith. 2
 
 
-## The Queen and the Sultan
+![The Sultan and the Queen](/images/book-covers/the-sultan-and-the-queen-s.png)
+
+## The Sultan and the Queen
 
 > Despite the extensive nature of such exchanges, Elizabeth and her subjects would not have recognized the term “Muslim,” which was first used in English in 1615, defined as “one that is instructed in the belief of the Mohammetanes.”8 The first mention in English of “Islam” appears in 1625, when the travel writer Samuel Purchas quoted a Javanese prince as saying that the “religion of Islam doth not agree with the Christian Religion.”9 Various terms were used by the Elizabethans instead: “Mahometans,” “Ottomites,” “Saracens,” “Persians,” “Moors,” “Pagans” and “Turks”—a catchall term for anyone who would be recognized today as a Muslim. These terms conjured a range of beliefs and assumptions, from horror and disgust to wonder and curiosity. Few people attempted to understand Islam on its own theological terms at the time. Instead, throughout the Tudor period a powerful set of misrepresentations, misconceptions and misunderstandings developed that defined relations between the two faiths. The amicable relationship that prospered under Elizabeth arose not from a principle of tolerance but as a result of political expediency. 
 

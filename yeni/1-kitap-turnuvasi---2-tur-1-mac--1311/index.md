@@ -11,7 +11,7 @@ featured_image: /images/header-23.jpg
 Her maça ayrı bir yazı ayıracağım çünkü hepsini bir yazıya koyunca yazı bitecek diye uyku
 uyumuyorum. Ve 2. turun kitap okumaları 8-9 saat sürecek zaten. 
 
-[ilktur]: 
+[ilktur]: /yeni/1-kitap-turnuvasi---1-tur-23579/index.md
 
 Bu ilk maçta *Grit* ve *The Invention of the land of Israel/İsrail Ülkesinin İcadı* yarışıyor.
 İkisini de sevdim. İlki başarının temel faktörünün passion/tutku ve perseverance/sebat olduğunu, bu
@@ -28,6 +28,7 @@ sakin
 okuyup, birkaç gün sonra unutsam da zevkle İbrani tarihini öğrenmiş olmayı isterdim ama 
 tercih yapmak gerekiyorsa ilki. İçinden bir iki hikaye öğrenirsem çocuklara anlatırım. 
 
+![Grit](/images/book-covers/grit-s.png)
 
 ## Grit: The Power of Passion and Perseverance
 
@@ -46,6 +47,9 @@ tercih yapmak gerekiyorsa ilki. İçinden bir iki hikaye öğrenirsem çocuklara
 
 > While taking the Grit Scale, you might have noticed that none of the passion questions asked how intensely you’re committed to your goals. This may seem odd, because the word passion is often used to describe intense emotions. For a lot of people, passion is synonymous with infatuation or obsession. But in interviews about what it takes to succeed, high achievers often talk about commitment of a different kind. Rather than intensity, what comes up again and again in their remarks is the idea of consistency over time.
 
+
+![The Invention of the Land of Israel](/images/book-covers/invention-of-israel-s.png)
+
 ## The Invention of the Land of Israel - From Holy Land to Homeland
 
 > (1) I have never questioned, nor do I question today, the right of modern-day Judeo-Israelis to live in a democratic, open, and inclusive state of Israel that belongs to all its citizens; and (2) I have never denied, nor do I today deny, the existence of the strong, age-old religious ties between believers in the Jewish faith and Zion, its holy city. Nor are these two preliminary points of clarification causally or morally linked to each other in any binding manner.
@@ -61,4 +65,4 @@ tercih yapmak gerekiyorsa ilki. İçinden bir iki hikaye öğrenirsem çocuklara
 
 ---
 
-We do not know why Halevi, who was known by his Arabic name Abu al-Hassan al-Lawi, chose an imaginary dialogue between a religious Jew and a Khazar king as the framework around which to structure his book. Reports of the existence of a kingdom near the Caspian Sea that adopted Judaism were widespread throughout the Jewish world, and even reached the Iberian Peninsula, where Halevi lived. All important Jewish scholars were familiar with the tenth-century CE correspondence between Hasdai ben Yitzhak ibn Shaprut, an influential Jewish dignitary from Córdoba in service of the Arab caliph, and the king of the Khazars. And, if we are to believe the testimony of the “Rabad” (Abraham ben David), Khazar students of the sages were also present in Toledo, Halevi’s hometown.60 However, we must also remember that Halevi wrote his text in the 1140s, after the Jewish kingdom in the East had already moved onto the sidelines of history.
+> We do not know why Halevi, who was known by his Arabic name Abu al-Hassan al-Lawi, chose an imaginary dialogue between a religious Jew and a Khazar king as the framework around which to structure his book. Reports of the existence of a kingdom near the Caspian Sea that adopted Judaism were widespread throughout the Jewish world, and even reached the Iberian Peninsula, where Halevi lived. All important Jewish scholars were familiar with the tenth-century CE correspondence between Hasdai ben Yitzhak ibn Shaprut, an influential Jewish dignitary from Córdoba in service of the Arab caliph, and the king of the Khazars. And, if we are to believe the testimony of the “Rabad” (Abraham ben David), Khazar students of the sages were also present in Toledo, Halevi’s hometown.60 However, we must also remember that Halevi wrote his text in the 1140s, after the Jewish kingdom in the East had already moved onto the sidelines of history.
