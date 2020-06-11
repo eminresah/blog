@@ -7,7 +7,7 @@ dp: 14942
 featured_image: /images/header-129.jpg
 ---
 
-3. maç Andrew Crumey'in Möbiüs Dick romanıyla Şeyh Bedreddin'in Varidat'ının Cengiz Ketene tercümesi
+Üçüncü maç Andrew Crumey'in Möbiüs Dick romanıyla Şeyh Bedreddin'in Varidat'ının Cengiz Ketene tercümesi
    arasında. Varidat'ı daha önce okumuştum, zaten ufak bir kitap, onun için bakıp geçmesi kolay
    oldu. Romanınsa 15 dakikada yaklaşık %20'sini gözden geçirdim. 
 
@@ -21,7 +21,7 @@ düşünüyorum.
 O sebeple bir sonraki tura Möbius Dick kalmış oluyor. 
 
 
-![Möbius Dick](/images/book-cover/mobius-dick-s.png)
+![Möbius Dick](/images/book-covers/mobius-dick-s.png)
 
 
 # Möbius Dick
@@ -49,7 +49,7 @@ O sebeple bir sonraki tura Möbius Dick kalmış oluyor.
 
 
 
-![Varidat](/images/book-cover/varidat-s.png)
+![Varidat](/images/book-covers/varidat-s.png)
 
 # Varidat
 
