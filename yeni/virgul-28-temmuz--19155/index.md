@@ -75,3 +75,4 @@ dışında bir yol görünmüyor.
 [hannibal]: https://tr.wikipedia.org/wiki/Hannibal
 [cannae]: https://tr.wikipedia.org/wiki/Cannae_Muharebesi
 [catoinstitute]: https://en.wikipedia.org/wiki/Cato_Institute
+[nisanyan]: https://nisanyan1.blogspot.com/2020/07/minareler-sungumuz-kubbeler-migferimiz.html
