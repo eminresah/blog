@@ -5,7 +5,6 @@ dp: 14684
 draft: true
 featured_image: "/images/header-28.jpg"
 images: ["/images/header-28.jpg"]
-published: false
 tags: []
 ---
 
