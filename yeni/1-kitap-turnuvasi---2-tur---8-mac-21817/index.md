@@ -31,8 +31,8 @@ Buraya sadece bir ekran görüntüsü bırakayım.
 
 ![the-80-20-principle](/images/book-covers/the-80-20-principle-cover.png)
 
-Bu kitap *Pareto Prensibi* adıyla da bilinen konu anlatılıyor. İlk defa *İngiltere'de arazilerin
-%80'i insanların %20'sine aittir* diye gözlenmiş. Sonra Zipf dağılımı adıyla yeniden gözlenmiş ve
+Bu kitapta *Pareto Prensibi* adıyla bilinen konu anlatılıyor. İlk defa 19. yüzyılın sonunda *İngiltere'de arazilerin
+%80'i insanların %20'sine aittir* diye gözlenmiş. Sonra Zipf dağılımı / Güç yasası adıyla yeniden keşfedilmiş ve
 farklı alanlarda önemlilik, meşguliyet, kar veya verimlilik değerlendirmeleri için kullanılan bir prensip. Bir işletmenin karının %80'i, müşterilerinin %20'sinden gelir diyor mesela. 
 
 ![the-80-20-ss-1](/images/book-covers/the-80-20-principle-ss-1.png)
@@ -100,8 +100,5 @@ Principle.
 
 
 
-
-
 [sandman]: https://en.wikipedia.org/wiki/The_Sandman_(Vertigo)
 [netflix]: https://www.imdb.com/title/tt1751634/
-[sandman-ss]: 
