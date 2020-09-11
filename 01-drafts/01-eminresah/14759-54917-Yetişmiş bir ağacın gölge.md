@@ -1,3 +1,14 @@
+---
+title: Son Yaz
+author: Emin Reşah
+date:  2020-09-11 19:25:57+0300
+expiryDate:
+dp: 15034
+draft: true
+featured_image: /images/header-21.jpg
+---
+
+
 Yetişmiş bir ağacın gölgesinde geçirdiğim son yaz. Bundan sonra bizi kırlara gönderiyorlar. Yaylaya. Sakin olmak zorunda olduğumu hissediyorum ama içimde bir daha ağaç göremeyecek olmanın getirdiği bir hüzün var. *Bir daha asla* değil belki, gidip dönenler var ama çok az. Çünkü dağlarda insanların hayatı zor ve çoğu zaman o tehlikelerin içinde kaybolup gidiyorlar. 
 
 Kararmış bir yüzle ufku seyrederken babamı gördüm. Elinde bir baltayla geliyordu. *Balta ne için?* Sonra onu neden göndermediklerini düşündüm. Ailenin en büyük çocuğu çünkü. Ağabeyim de gitmedi, biz ufaklıklar dağlarda yem olarak kullanılmaya uygunuz. Kadınlar da gitmiyor, onların çocuk doğurması lazımmış. 
