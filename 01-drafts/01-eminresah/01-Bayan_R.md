@@ -305,57 +305,54 @@ ayrılıp birbiriyle didişmekten ibaretti.*
 
 *Ancak plutokrasinin temel dayanakları her yerde aynıydı. Pleblere ulus devlet veya din devleti gibi
 yapılar aracılığıyla farklı hikayeler sunuluyor ve hayatlarını bu hikayeler için feda etmeleri
-anlatılıyordu.*
+söyleniyordu.*
 
 Hala bir itiraz görünmüyordu. 
 
 *Bu mekanizmalar şöyle işliyordu. Plutokrasi mensubu olarak doğan biri ailesinden kalan miras ve
 çevre yoluyla plutokrasi içinde yaşamaya devam ediyor, pleb doğanlar da ancak bu plutokrasinin
-mücadelesinde değer üretebilirlerse hayatta kalabiliyordu. Bir pleb olarak hayatınızı ne kadar iyi
-yaşayabileceğinizi plutokratların oyununda ne kadar iyi piyon olduğunuz belirliyordu. Bu politikacı
-ve devlet yöneticileri için bile böyleydi.*
+mücadelesinde ekonomik değer üretebilirlerse hayatta kalabiliyordu. Bir pleb olarak hayatınızı ne
+kadar iyi yaşayabileceğinizi plutokratların oyununda ne kadar iyi piyon olduğunuz belirliyordu. Bu
+politikacı ve devlet yöneticileri için bile böyleydi.*
 
 *Zerkubia devrimi plutokrasinin dayandığı miras mekanizmasını kaldırdı. Tarihi çalışmalarda o
-dönemki insanların perdenin önündeki ve arkasındaki kişilerle ilgili pek çok hipotez geliştirdiğini
-okursunuz, kimisi bazı ailelerin dünyayı yönettiğini, kimisi gizli örgütlerin, kimisi devletlerin
-gizli servislerinin yönettiğini anlatır.*
+dönemki insanların perdenin önündeki ve arkasındaki kişilerle ilgili hipotezler geliştirdiğini
+okursunuz. Kimisi bazı ailelerin dünyayı yönettiğini, kimisi gizli örgütlerin, kimisi devletlerin
+gizli servislerinin, hatta kılık değiştirmiş uzaylıların yönettiğini anlatır.*
 
-*Ancak bu anlatılardan hiçbirinin *bu adamlar hangi saiklerle bu kadar güçlü* diye sormadığını
+*Ancak bu anlatılardan hiçbirinin bu adamlar hangi mekanizmaları kullanarak bu kadar güçlü diye sormadığını
 farkedersiniz. Nasıl oluyor da bu insanlar bu kadar güçlü kalabiliyor? Oyunun kurallarını nasıl
 değiştirelim de topu onların elinden alalım? Bu soruları sormadıklarını görüyoruz.*
 
-*Onun yerine kendi plutokratlarının kazanmasına yardımcı olmaya çalışmayı vatanseverlik veya
+*Onun yerine kendilerinden saydıkları plutokratların kazanmasına yardımcı olmaya çalışmayı vatanseverlik veya
 dindarlık olarak görüyorlardı.*
 
-----
-
-
-(Bayan R)
-
 Plutokrasinin temel prensibi insanların arasına sahte kimlikler vasıtasıyla ikilikler sokmak ve
-kendi gücünü bunların arkasına saklamaktı. İnsanın temel iletişim sınırlamalarını kullandılar. bölündükleri
-birimler, aileler, kabileler, şehirler, devletler büyüdükçe bireyin önemi azaldı. Daha farklı
-hikayelere ihtiyaç duyar hale geldiler. Hikayeler daha karmaşıklaştı, birimler daha fazla büyüdü ve
-bireyin önemi ve etkisi daha da azaldı. Çok az sayıdaki insanın istediği gibi yaşayıp, dünyasını
-istediği gibi düzenleme imkanına karşılık ekseriyet belli sınırlarda hayat boyu geçinmeye mecbur
-kaldı. 
+kendi gücünü bunların arkasına saklamaktı. İnsanın iletişim sınırlamalarını kullanmayı iyi
+biliyorlardı. Tarih boyunca insanların bölündükleri birimler, aileler, kabileler, şehirler,
+devletler büyüdükçe bireyin önemi azaldı. Grupların kriterleri aile gibi doğalken, ulus devlet gibi
+yapay hale geldikçe farklı hikayelere ihtiyaç duyar hale geldiler.
+İnsanları bir arada tutmak için gerekli hikayeler daha karmaşıklaştı, birimler daha fazla büyüdü ve bireyin önemi ve etkisi daha da azaldı.
+Çok az sayıdaki insanın istediği gibi yaşayıp, dünyasını istediği gibi düzenleme imkanına karşılık
+çoğunluk belli sınırlarda hayat boyu geçinmeye mecbur kaldı. 
 
-Plutokratlar aynı zamanda yönetimleri de idare ediyorlardı. Hemen hiçbir yönetici, şantaj yapılma ve
-kariyerini sonlandırma imkanı veren kirli çamaşırı yoksa yükselmesi mümkün değildi. Suçlu olmaları,
-haydut olmaları bir eksi değil, bir artıydı. Eğer seçilmiş yönetici kendisine belirlenmiş sınırları
-aşarsa kullanabilecekleri yeterince zaafı olmasına dikkat ediyorlardı. Zerkubia devrimi iki temel
+Plutokratlar devlet bürokrasisini de idare ediyorlardı. Hiçbir yöneticinin, şantaj yapılma ve
+kariyerini sonlandırma imkanı veren kirli çamaşırı yoksa etkili konumlara yükselmesi mümkün değildi. Suçlu olmaları,
+haydut olmaları bir eksi değil, bir artıydı. Seçilmiş yönetici sınırlarını
+aşarsa kullanabilecekleri zaafları olmasına dikkat ediyorlardı. Zerkubia devrimi iki temel
 üzerine kuruldu bu yüzden. Birincisi bu gibi plutokrat ailelerin perde gerisinden dünyayı
-yönetmesine yarayan mekanizmalyı yok etti ve ikincisi insanların arasına ebedi bir anlaşmazlık
-sebebi olan *ölümsüzlük hikayelerini* jemiyeler vasıtasıyla düzenledi ve insanlara çevrelerini
-değiştirme ve seçme imkanı sağladı. 
+yönetmesine yarayan mekanizmayı yok etti ve ikincisi insanların arasına ezeli bir anlaşmazlık
+sebebi olan *ölümsüzlük hikayelerini* jumreler vasıtasıyla düzenledi. İnsanlara bunun için kavga
+etmeden hayat tarzlarını değiştirme ve seçme imkanı sağladı. Farklı ölümsüzlük hikayelerine sahip
+bireylerin aynı toplumda yaşamalarına imkan verdi.
 
-Devrime ait fikirlerin tam olarak ne zaman hayat bulduğu bilinmiyor ancak bugün Sod adıyla
-bildiğimiz birinin etrafındaki topluluğa bunları anlattığını biliyoruz. Sonraları çeşitli kuruluşlar
-vasıtasıyla bu fikirler yayıldı ancak tarih boyunca tüm eşitlik taleplerine çelme takmaya çalışan
+Devrime ait fikirlerin tam olarak ne zaman başladığını bilinmiyoruz. (Sod) adıyla
+bildiğimiz birinin etrafındaki topluluğa bunlara benzer fikirler anlattığını biliyoruz. 
+Bu fikirler yayıldı ancak tarih boyunca tüm eşitlik taleplerine çelme takmaya çalışan
 ataerkil düzenin engellemesiyle karşılaştı. 
 
 (Bayan R) bunları söylerken karşısındaki bakışların değiştiğini gördü. Gülümsemelerin bir kısmı
-yerini şaşkınlığa bırakmıştı. *Jemiye farkı* dedi gülerek. 
+yerini şaşkınlığa bırakmıştı. 
 
 Anlaşıldığı kadarıyla insanların büyük çoğunluğu aile kavramını ataerkil düzenin devamıyla ilgili
 görüyordu. Bunun da temel taşlarından biri miras kavramıydı, tarih boyunca erkekler kazanmış ve
