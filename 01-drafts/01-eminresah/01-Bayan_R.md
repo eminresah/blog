@@ -354,13 +354,22 @@ ataerkil düzenin engellemesiyle karşılaştı.
 (Bayan R) bunları söylerken karşısındaki bakışların değiştiğini gördü. Gülümsemelerin bir kısmı
 yerini şaşkınlığa bırakmıştı. 
 
-Anlaşıldığı kadarıyla insanların büyük çoğunluğu aile kavramını ataerkil düzenin devamıyla ilgili
-görüyordu. Bunun da temel taşlarından biri miras kavramıydı, tarih boyunca erkekler kazanmış ve
-mallarını *oğullarına* veya daha sonraki bir iki yüzyıl boyunca *çcouklarına* bırakmışlardı ancak
-ailenin temelinin, reisinin erkek olması fikri değişmedi. Bunun temelinde de erkeklerin babadan
+İnsanların çoğunluğu aile kavramını ataerkil düzenin devamıyla ilgili
+görüyordu. Bunun temel taşlarından biri miras kavramıydı. Tarih boyunca erkekler kazanmış ve
+mallarını *oğullarına* bırakmışlardı. Ailenin temelinin, reisinin erkek olması fikri değişmedi. Plutokrasinin temelinde de erkeklerin babadan
 oğula geçen ekonomik özgürlüğü yer alıyordu. 
 
-----
+Zerkubia hukuku şirketler gibi üretim organizasyonlarının ve toprak ve maden gibi doğal kaynakların
+miras bırakılamayacağını söyler. Devrimden önce bunlar plutokrasinin elindeydi ve bir toplumda
+sınıflar netleştikten sonra ancak kanlı devrimlerle, bu kaynakları önemli ölçüde zarara uğratarak elde edilebiliyorlardı. Zerkubia anayasasında *Mülkiyet emanettir ve emanetler onu en iyi koruyup geliştireceklere verilir* şeklinde bir prensip vardır. Buna göre gerek doğal kaynaklar, gerekse şirketler onları en iyi şekilde değerlendirecek insanların mülkiyetinde olmalıdır. Bir insan babasından veya ailesinden dolayı avantajlı olduğu için bu kaynaklara erişmesi adalet değildir. Bu insanların çoğunun sahip oldukları bu imkanları değerlendirecek en iyi kişiler olmadıklarını görürüz. Devrimden önce bu gibi kaynaklara miras yoluyla erişenler, plutokrasi dışından maaş karşılığı çalışacak birini bulmak dışında hiçbir şey yapmazlardı. Bu da plutokrasi dışındaki kalabalıkların hemen hiçbir zaman kendilerine servet edinemedikleri bir ekonomik düzene yol açmıştı. Plutokrasinin dışında doğmuş yetenekli insanların yapabilecekleri plutokrasinin oyununda kullanılmaktan ibaretti. Kurulan düzende ilerlemek için zaten ilerlemiş bir ailede bulunmak gerekiyordu. 
+
+10 kişinin oynadığı bir ekonomik oyunda, bir plutokrat kaynakların %90'ını elinde tutuyor, diğer
+dokuz oyunca kalan %10'u paylaşıyordu. Bu sebeple plutokratların zenginliği giderek artarken,
+diğerlerinin mecburiyetleri ve borçları artıyordu. Böyle bir oyunda insanların düzeni yeniden kurmak
+imkanı yoksa ancak dünya savaşları gibi majör felaketlerden sonra oyuncular değişebilir. 
+
+Burada devrimden önce insanların plutokrasiye karşı geliştirdiği bir çözümden de bahsetmek gerek.
+Bunlara *komünist* diyorlardı ve 20. yüzyılda bir süre dünyaya hakim oldular. 
 
 
 (Bayan R)
