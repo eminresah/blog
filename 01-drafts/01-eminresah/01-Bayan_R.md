@@ -369,8 +369,49 @@ diğerlerinin mecburiyetleri ve borçları artıyordu. Böyle bir oyunda insanla
 imkanı yoksa ancak dünya savaşları gibi majör felaketlerden sonra oyuncular değişebilir. 
 
 Burada devrimden önce insanların plutokrasiye karşı geliştirdiği bir çözümden de bahsetmek gerek.
-Bunlara *komünist* diyorlardı ve 20. yüzyılda bir süre dünyaya hakim oldular. 
+Bunlara *komünist* diyorlardı ve 20. yüzyılda bir süre dünyaya hakim oldular. Komünistler özel
+mülkiyeti kaldırdılar ancak bunun yerine tüm ekonomiyi idare edecek bir bürokrasi kurdular. Bu
+bürokrasi de tek ve büyük bir şirket gibi çalışmaya başladı. İnsanların konumlarını ekonomik
+başarıdan çok bürokratik hamleler ve ideolojik yatkınlık belirliyordu. Çünkü mülkiyeti yok etmek
+mümkün değildir, bir formda yok edildiğinde başka bir formda ortaya çıkar. Komünizmde de mülkiyet
+bildiğimiz anlamda ortadan kaldırıldı ama bir fabrikada birilerinin birilerini yönetmesi her zaman
+gerektiği ve bürokrasi her ekonomik durumu kurala bağlayamayacağı için başka bir formda ortaya
+çıktı. 
 
+Kapitalist ekonomilerden farkı bu konumların mirasen geçmemesiydi. Ancak elde edilme yolları
+ekonomik başarıdan değil, bürokratik becerilerden geliyordu. Sömürünün bir formu bitti, başka bir
+formu başladı. Bürokrasi içinde yükselmek ve görece ekonomik özgürlüğe kavuşmak, ekonomik bir
+faaliyetten çok ideolojik bir faaliyete dönüştü. İdeolojik bilgi ekonomik bilgiden, kaynakların
+verimli kullanılmasından daha önemli hale geldi ve teokratik ve ulusçu devletlerde de gördüğümüz bir
+*söz hizmeti* mecburiyeti getirmiş oldu. İnsanlar hangi sınava giriyorlarsa, o sınav için çalışır ve
+Komünist devletler de insanları ekonomik sınava değil, ideolojik sınava tutuyordu. 
+
+Rekabete dayanan bir ekonomi olmadığı için insanların ekonomik faaliyetlerinin önemi azaldı.
+Bilhassa teknoloji geliştirmek bir rekabet piyasası işidir. Komünistler de Kapitalist ekonomilerle
+rekabet edebilmek için bunu yaptı ama genel olarak rekabete dayanan bir ekonomileri olmadığı için
+ekonomileri iflas etti. 
+
+Ayrıca Komünistler ideolojilerini bir *ölümsüzlük hikayesi* haline getirdi. Bu da klasik dini
+anlayışların bastırılmasına ve onların yerine ideolojik kavramlar koyma ihtiyacından
+kaynaklanıyordu. Komünizm sadece ekonomik bir sistem değil, tüm dünyayı kurtuluşa erdirecek bir
+*din* halini aldı ve fikir babalarının tartışılması bile imkansız hale geldi. Bir Komünist için 
+Marx'ın veya Lenin'in yanlış fikirleri olabileceğini iddia etmek, bir dindara peygamberinin yalancı
+olduğunu iddia etmekle aynı etkiyi yaratıyordu. 
+
+Burada durdu. Son dakikaları neredeyse nefes almadan anlatmıştı. Karşısındaki yüzlerde bir
+değişiklik yoktu. Ne düşünüyorlardı acaba? Bir nefes alıp devam etti. 
+
+Zerkubia devrimi Komünistlerin aradığı *eşitliği* yine onların aksattığı ekonomik özgürlükle beraber
+sundu. Devrimden önce bireyin temel ihtiyaçlarının toplumun genelini ilgilendiren bir sorun olduğunu
+söylemek *sosyalistlik* olarak görülüyordu. Bu da tüm ideolojik araçlarıyla beraber geldiği için
+insanlarla ilgili temel sorunları bile konuşmak büyük bir ideolojik yük almak demekti. Hem
+insanların temel ihtiyaçlarının devlet tarafından karşılanması gerektiğini söyleyip, hem *sosyalist*
+veya *komünist* damgası yemeden durmak mümkün değildi. Üçüncü bir yolun varlığını konuşmak, hem
+ekonomik özgürlüğün, hem temel ihtiyaçların toplumca karşılanmasını konuşmak için (Sod)u beklemek
+gerekti. 
+
+(Sod) doğal kaynaklar ve şirketler üzerindeki miras mekanizmasının hem ekonomik özgürlüğü, hem de
+sosyal adaleti yok ettiğini farketti. 
 
 (Bayan R)
 
