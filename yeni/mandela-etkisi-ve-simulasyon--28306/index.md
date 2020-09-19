@@ -8,25 +8,25 @@ featured_image: /images/header-138.jpg
 ---
 
 Mandela etkisi diye tuhaf bir durumdan bahsediyorlar. Bazı insanlar Nelson Mandela'nın hapiste
-öldüğünü hatılıyormuş. Bunlar büyük bir grup. Cenaze töreninin ayrıntıları konusunda ittifak
+öldüğünü hatırlıyormuş. Bunlar büyük bir grup. Cenaze töreninin ayrıntılarında ittifak
 halindeler. Benim gibi Mandela'nın hapisten çıkıp devlet başkanı olduğunu hatırlayanlar daha büyük
 bir grup ve bizim *belge* gibi bir yardımcımız da var. Bu insanlarsa sadece ortak bir anıdan
 bahsediyorlar. 
 
 Basit bir hafıza yanılması olmadığını iddia ediyorlar. Böyle bazı olaylarda insanların birbiriyle
 mutabık *yanlış hatıraları* hatırlamasına Mandela etkisi deniyor. Ben
-[Reddit'ten](https://reddit.com/r/MandelaEffect) takip ediyorum. Bazı markalar, bazı isimlerin, bazı
+[Reddit'ten](https://reddit.com/r/MandelaEffect) takip ediyorum. Bazı markaların, bazı isimlerin, bazı
 logoların *eskiden farklı olduğunu* söylüyorlar. 
 
 *Hafıza yanılmasına toplu olunca ne diyorduk* diye cevap vermek en kolayı ancak bu etkinin *içinde
-bulunduğumuz simülasyonun* hatalarıyla ilgili olduğunu söyleyenler de var.. Heyecan verici bir
+bulunduğumuz simülasyonun* hatalarıyla ilgili olduğunu söyleyenler de var. Heyecan verici bir
 yorum. 
 
 Buna göre iki kişiden biri Mandela'nın hapiste öldüğü, diğeri dışarı çıkıp devlet başkanı olduğu iki
 ayrı kainatta yaşamış. Bunlar sonunda aynı kainatta buluşmuş. Kuantum Fiziğinin bazı yorumları
-*çoklu evren*  hiptezini ileri sürer. Hemen her atom altı parçacığı için farklı bir kainat. Mandela
+*çoklu evren*  hipotezini ileri sürer. Hemen her atom altı parçacığı için farklı bir kainat. Mandela
 etkisi de bunun tersi, farklı kainatların birbiriyle birleştiğini ancak insanların hafızasında bazı
-olayların aynı kaldığını iddia ediyorlar. 
+olayların eski kainattan kaldığını iddia ediyorlar. 
 
 Burada gördüğüm sorun şu: *Farklı kainat* dediğimiz bir yer varsa, alternatif bir gerçeklik varsa,
 bunlar sadece bu yanlış hatırlanan olaylarda değil, hemen her şeyde birbirinden farklı olur. Bir
@@ -40,8 +40,8 @@ ayrılacak insanlar olmayacaktır.
 
 Bir yandan şu aklıma geldi. Ben öteden beri *simülasyon hipotezinde* simüle edilenin kainatın
 kendisi olduğunu düşündüm. Bir bilgisayar var ve bunda evrendeki bütün atom altı parçacıkların
-etkileşimini simüle ediyoruz. Yeryüzündn bir milyon yıl ötedeki galaksi de simüle ediliyor, bir
-ormanın içindeki kendi kendine vraklayan kurbağa da. Bu da *simülasyon da olsa gerçeklikten farkı
+etkileşimini simüle ediyoruz. Yeryüzünden bir milyon yıl ötedeki galaksi de simüle ediliyor, bir
+ormanın içinde kendi kendine vraklayan kurbağa da. Bu da *simülasyon da olsa gerçeklikten farkı
 yok* sonucuna getirdi. Bu durumda Mandela Etkisi *gerçek evren* veya *simüle edilmiş evrende*
 anlattığım bu *sebepler ağında sıkı dokunmuşluk* sebebiyle anlamsız olacaktır. 
 
