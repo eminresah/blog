@@ -1,10 +1,12 @@
 ---
-title: "Virgül 27 Şubat #1"
+title: "Gurmeliğin Sırrı Tokken Yemektir"
 date: 2019-02-27 12:19:57
+modified: 2020-09-20 14:40:36+0300
 dp: 14471
 featured_image: "/images/header-139.jpg"
 images: ["/images/header-139.jpg"]
 published: true
+tags: Anlambilim
 tags: []
 ---
 
