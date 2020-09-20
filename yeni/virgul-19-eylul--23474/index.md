@@ -54,8 +54,8 @@ da icra ceza yoluyla, üç ayda bir dava açarak alıyor. Davanın sonucunu bilm
 değil, bundan sonraki hayatında hep bununla mücadele edecek. Kanun onu koruyor. O da buna
 güveniyordu ama hayatın kendisi o kadar korunaklı değil. Gökyüzü ile aranız kötüyse ve balkona
 yağmur ve güneş değmesin diye plastik duvarlar yapıyorsanız, kanun gibi plastik, o zaman kuşlar da,
-bulutlar sizden uzaklaşıyor. Ufku plastik duvara kadar gidenlerle aynı havasız balkonda dedikodu
-etmektan başka hayatınız kalmıyor. 
+bulutlar da sizden uzaklaşıyor. Ufku plastik duvara kadar gidenlerle aynı havasız balkonda dedikoduA
+etmekten başka hayatınız kalmıyor. 
 
 2018'de çocuklar bende iki saat fazla kalsa polise giden kadın, geçenlerde muhtemelen covid
 olduğu için on gün yerinden kalkamadı ve çocukları bana bırakmak zorunda kaldı. 
