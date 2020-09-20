@@ -7,7 +7,6 @@ dp: 15042
 featured_image: /images/header-135.jpg
 ---
 
-
 [Mustafa Öztürk'ün Ruşen Çakır'la konuşmasını](https://youtu.be/rwI7lVaJCrU) seyrettim. 
 
 Türkiye müslümanlarının halini kafaya takmayı ne zaman bıraktım diye düşündüm. *Ne olacak bu
@@ -19,9 +18,9 @@ devletin kaderiyle ortak hale geldi. Önceden de böyleydi ama muhalif olacak ka
 hala vardır bir yerlerde ama bunun bir anlamı olmadığını, gerçek İslam'ın tam olarak önümüzde duran
 gelenekten ibaret olduğunu anladık herhalde. Bu gelenek de ne kadar aktarılabilir, ne kadar
 yenilenebilir, bilemiyoruz. Şahsen umudum yok. Kendi adacıklarında *en öz hakiki İslam'ı* yaşamaya
-devam edecek ama toplumun genelinden de o ölçüde uzaklaşacak insanlar her zaman olacaktır. Ancak
-toplumun geneli giderek İslam'ı *Tanrı yoktur, varsa da çok uzaktadır ve Muhammed onun istediğimiz
-kadar kulak kabarttığımız son elçisidir* kıvamında, Avrupa'dan tanıdığımız bir *inanmıyorum ama
+devam edecek ama toplumun genelinden de o ölçüde uzaklaşacak insanlar her zaman olacaktır. Toplumun
+geneli giderek İslam'ı *Tanrı yoktur, varsa da çok uzaktadır ve Muhammed onun istediğimiz kadar
+kulak kabarttığımız son elçisidir* kıvamında, Avrupa'dan tanıdığımız bir *Tanrı'ya inanmıyorum ama
 kültürel olarak müslümanım* seviyesine getirecek. 
 
 Mustafa Öztürk'ün her konuşmasında bahsettiği bir *Deizm* veya *Ekşi Sözlük'te Müslümanlara 99 soru*
@@ -47,13 +46,13 @@ söylüyorsun? Halbuki olabilecek en iyi İslam Türkiye'de yaşanıyor.*
 
 İslam'ın Türkiye'de 1920-30'lardan 2010'lara nispeten değişmemiş halde gelmesinin sebebi toprağa
 gömülü kalmasıydı. Yer altında yaşamaya alışınca her tür kritikten ve değişimden uzak durabiliyor.
-Bunun için *İslamcılık* bize ithal geldi, biz bir Seyyid Kutup üretmedik. Ancak yer altından
-çıktığında aslında elimizdeki malzemenin modern dünya için *eskidiğini* farkettik. *Günümüze ne
-kadar uyar?* sorularının gelmeye başladığını. 28 Şubat'ta başörtüsünden hapse girmeyi göze alan
-insanların kendi iradeleriyle başlarını açtıklarını. 
+Bunun için *İslamcılık* bize ithal geldi, biz bir Seyyid Kutup üretmedik. Yer altından
+çıktığında elimizdeki malzemenin modern dünya için *eskidiğini* farkettik. *Günümüze ne kadar uyar?*
+sorularının gelmeye başladığını. 28 Şubat'ta başörtüsünden hapse girmeyi göze alan insanların kendi
+iradeleriyle başlarını açtıklarını. 
 
-İslam giderek Kemalizm tarzı bir *laf hizmetine* dönüşüyor Türkiye'de. Atatürk resminin
-herhangi bir değer ifade etmemesi gibi, *Elhamdüllah Müslümanım* deyip toplumun izin verdiği ölçüde,
+İslam giderek Kemalizm tarzı bir *laf hizmetine* dönüşüyor Türkiye'de. Atatürk resminin herhangi bir
+değer ifade etmemesi gibi, *Elhamdülillah Müslümanım* deyip toplumun izin verdiği ölçüde,
 istediğimiz gibi yaşayabiliyoruz. Burada *kızılacak* bir konu da bulamıyorum çünkü 20. yüzyıl
 boyunca üretilmeye çalışılmış tüm çözüm arayışlarını aşağı yukarı biliyorum. Hadislere inanmaya gücü
 yetmediği için *Kur'an Müslümanı* olanın da, *bu hükümlerin hepsini bağlamı var, o bağlam değişmiş*
