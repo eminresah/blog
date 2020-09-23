@@ -411,38 +411,70 @@ ekonomik özgürlüğün, hem temel ihtiyaçların toplumca karşılanmasını k
 gerekti. 
 
 (Sod) doğal kaynaklar ve şirketler üzerindeki miras mekanizmasının hem ekonomik özgürlüğü, hem de
-sosyal adaleti yok ettiğini farketti. 
+sosyal adaleti yok ettiğini farketti. Özgürlüğü yok ediyordu çünkü bir defa sınıflaşan toplumlarda
+ekonomik imkanlar daralıyordu. Sosyal adaleti yok ediyordu, çünkü gücü bir defa elinde bulunduran
+bunu gücünü daha da arttırmak için kullanıyor ve bu da toplumun kalabalık kesiminin payına hiçbir
+şey düşmemesine sebep oluyordu. Ancak (Sod) konunun Komünist ve Anarşistler gibi *mülkiyeti yok
+ederek* çözülemeyeceğine inanıyordu. Mülkiyet bir formda yok edilse de, başka formlarda, devlet
+eliyle yeniden yaratılmak zorundaydı. 
 
-(Bayan R)
+Komünist ve Anarşistler *Mülkiyet* kavramının sadece *ürettiği haklar* kısmına bakıyordu ama
+mülkiyetin bir de *görev* kısmı vardı. Bir şirketi olan insanın bunu satmaya, kar etmeye, iş
+yapmaya, başkalarını çalıştırmaya hakkı vardı ancak şirketini kar etmeyen
+faaliyetlere sokmayarak verimli tutmak gibi de bir vazifesi vardı. Bu vazifeyi yerine
+getirmeyen şirketler şirket olmaktan çıkıyordu. (Sod) Komünistlerin insanlardan *mülkiyet haklarını*
+alıp, *mülkiyet vazifesini* bürokrasi yoluyla ikame edeceklerini düşünmelerinin anlamsız olduğunu
+söyler. Haklar yine bir şekilde bürokrasi yoluyla dağıtılacak, sorumluluksa aynı şekilde
+dağıtılamayacaktır. Mülkiyetin sorumluluğu dağıtılmadığında sistemin genelinin çalışmayacağını
+söyler. 
 
-Mirasın bir kısmının jemiyeye, büyük kısmının devlete kalması insanlar arasındaki fırsat
-eşitsizliğini giderdi. Mülkiyet sınırlaması ve servet vergisi gibi düzenlemeler yapan sosyalist 
-ekonomilerden daha hızlı şekilde servetin topluma dönmesini sağladı bu düzenleme. 
+Zerkubia devrimi o nedenle *mülkiyet hırsızlıktır* sloganını değil, *mülkiyet emanettir* prensibini
+kendine temel edinir. Emanet sorumluluk vasfını öne çıkaran bir mülkiyet prensibidir. İnsanların
+mülklerine karşı sorumluluklarını yerine getiremeyeceği görüldüğünde, mülkiyeti sınırsız bir hak
+olarak görmez. Bununla beraber mülkiyet genel olarak sadece ölüm durumunda devletin kontrolüne geçer
+ve o da kısa bir sürede başka sahipler bulması için. *Müsadere* hemen hiç rastlamadığımız bir şey.
 
-Patriarkinin mücadelesi aile kurumu ve onun etrafında şekillenmiş erkek egemen toplumun devamına
+Karşısındaki öğretmenlerden biri gülerek sordu: *Müsadere nedir?* 
+
+(Bayan R) sorunun bir öğrenciden gelmiş gibi sorulduğunu anladı. *Müsadere devletin bireylerin
+malına el koymasıdır. Devletler bunu genelde siyasi sebeplerle yapardı. Siyasi olarak güçlenmeye
+çalışan zenginlerin yoldan çıkmasına engel olmak için bulunan bir yoldu.*
+
+Öğretmenin mimikleri *doğru cevabı* verdiğini gösteriyordu. Devam etti.
+
+Üretim organizasyonları ve doğal kaynakların mirasının bir kısmının jemiyeye, büyük kısmının devlete
+kalması insanlar arasındaki fırsat eşitsizliğini giderdi. Mülkiyeti yok ettiğini iddia eden
+düzenlemeler yapan Komünist ekonomilerden daha hızlı şekilde servetin topluma dönmesini sağladı bu
+düzenleme. 
+
+Patriarkinin mücadelesi aile kurumu ve bunun etrafında şekillenmiş erkek egemen toplumun devamına
 bağlı olduğu için en büyük itirazlar bunlardan geliyordu. Erkeklar aile reisliğinin toplumda
 vazgeçilmez bir yeri olduğunu ve mirasın da bu reisliğin devamı için elzem olduğunu iddia
-ediyorlardı. Ancak Sod ve etrafındakiler «Vakıf» adını verdikleri bir kurumda, mallarını öldükten
-sonra vakfa bırakmayı kabul eden üyelerin çocuklarına bakma vaadi verdiler. Vakıf daha çok toplumun
-alt kesimlerinden, genelde mirası olmayanlardan rağbet gördü. Yine de kendi kendine yeterli şekilde
-mensuplarının çocuklarına bakabilmeye başladığında bir hareket meydana gelmiş oldu. 
+ediyorlardı. *Eğer çocuklarımıza bırakamayacaksak neden işyeri açalım?* çok yaygın bir itirazdı. 
 
-Büyük savaş çıkıp da dünya ülkemiz o zamana kadar sahip olduğu devlet sisteminin dağıldığına şahit
-oldu. O zamanlar ayakta kalan nadir kurumlardan biri Sod'un vakfıydı. Sod savaş bittikten kısa süre
-sonra öldü ancak vakıf büyümeye devam etti. O öldükten yirmiyedi yıl sonra vakfın temel tüzüğündeki prensiplerine dayanan Zerkubia anayasası kabul edildi. 
+Sod ve etrafındakiler «Süreç Vakıf» adını verdikleri bir vakıf kurdular. Mallarını öldükten sonra
+vakfa bırakmayı kabul eden üyelerin çocuklarına vakfın gelirini paylaştıracaklarını söylediler.
+Vakıf daha çok toplumun alt kesimlerinden, zaten mirası olmayanlardan rağbet gördü. Bir süre sonra
+kendi kendine yeterli şekilde mensuplarının geride kalanlarına bakabilmeye başladığında bir hareket meydana
+gelmiş oldu. 
 
-Tarih boyunca devletler iki şekilde gelişmiştir. Çoğu aslında bir suç örgütünden ve mafya vari
-yapılanmalardan evrimleşmiştir ve plutokrasi bu suç örgütlerinin *insan çiftliklerini* ve onların
-ürettiği değeri sömürmeye dayanıyordu. Zerkubia ise bir vakıfdan dönüşen tarihte bildiğimiz ilk
+Zerkubia devrimini hızlandıran ise Büyük Savaş oldu. Dünyanın o zamana kadar gördüğü en büyük yıkım
+ülkedeki devlet sistemini dağıttı. Savaş sırasında ayakta kalan nadir kurumlardan biri Sod'un
+vakfıydı. Sod savaş bittikten kısa süre sonra öldü ancak vakıf büyümeye devam etti. İç karışıklıklar
+sırasında jumre sistemi ortaya çıktı. (Sod) öldükten yirmiyedi yıl sonra Vakfın 
+prensiplerine dayanan Zerkubia anayasası kabul edildi. 
+
+Buna göre bütün vatandaşların temel ihtiyaçlarını devlet karşılıyor, şirketlerin mülkiyet hakkı
+sahiplerinin ömrüyle sınırlı oluyor ve insanlar yaşam tarzlarını seçebilecek ve farklı sivil
+hukukların uygulanabildiği jumre isimli yapılar kuruluyordu. Bunlar Zerkubia devriminin getirdiği
+temel değişiklikler oldu. 
+
+Tarih boyunca devletler iki şekilde gelişmiştir. Çoğu bir suç örgütünden ve mafyavari
+yapılanmalardan evrimleşmiştir. Plutokrasi bu suç örgütlerinin *insan çiftliklerini* ve onların
+ürettiği değeri sömürmeye dayanıyordu. Zerkubia ise bir vakıftan evrimleşen tarihte bildiğimiz ilk
 devlettir.
 
----
-
-Jemiyelerin ataerkiye bir tepki olarak ortaya çıktığını anlatmak, tarih dediğimizin jemiyeden
-jemiyeye ne kadar farklı olduğunu ve inançlardan ne kadar etkilendiğini gösteriyordu. 
-
----
-
+## LEFT
 
 Sod vakfı kurduğunda tek bir jümreden ibaretti. Ancak o zaman bile *ölümsüzlük hikayesi* adını
 verdiği konulardan birbiriyle çatışan kültürlerin bir arada yaşaması için düşündüğü ilkelerden
