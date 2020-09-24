@@ -9,3 +9,4 @@ featured_image: /images/header-97.jpg
 ---
 
 
+Burayı okuyabiliyorsanız sitede bir hata var demektir. Lütfen iletisim@eminresah.com adresinden yazara bildirin ki buradaki taslaklar hazır olmadan görünmesin. 
