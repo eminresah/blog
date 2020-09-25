@@ -20,10 +20,10 @@ terkedip adamı görmeye başlıyordu.
 O zamandan beri hep vaktinde uyanmıştı ama hayattan aldığı keyif 
 yarı yarıya azalmıştı. 
 
-(Zîneb) saate uzandı. Saat elin yaklaştığını görünce kenara kaçtı. *Sadece beş dakika* dedi (Bayan
-R), *beni beş dakika sonra tekrar uyandırır mısın?* Horoz sesi kesildi, (Zîneb) uykusunun son
-dakikalarını eski erkek arkadaşının hayaletine ona ne kadar güvenmediğini söyleyerek geçirdi. Hayat
-kalitesi biraz daha azaldı.
+(Zîneb) saate uzandı. Saat elin yaklaştığını görünce kenara kaçtı. *Sadece beş dakika* dedi,  *beni
+beş dakika sonra tekrar uyandırır mısın?* Horoz sesi kesildi, (Zîneb) uykusunun son dakikalarını
+eski erkek arkadaşının hayaletine ona ne kadar güvenmediğini söyleyerek geçirdi. Hayat kalitesi
+biraz daha azaldı.
 
 *Uykuların en kötüsü kabusla bitendir.* Sod'un kitabından bu cümleyi söyleyerek yerinden kalktı,
 akıllı saati *günaydın hanımefendi* dedi muzip bir sesle. *Allah belanı versin* dedi içinden
@@ -167,12 +167,11 @@ arasındaydı. Onun için görüşmek istemiştim.*
 *Evet, evet* dedi adam. *Dosyanıza bakıyordum ben de. Aynı üniversiteden mezun olmuşuz* dedi
 gülümseyerek. 
 
-*Aa, siz de mi?* dedi şaşıran (Bayan R.) 
+*Aa, siz de mi?* dedi şaşıran (Zîneb).
 
 Müdür odaya bir *ikram robotu* çağırdı. Robot (Zîneb)ye ne içmek istediğini sordu, (Zîneb) *çay
 varsa alabilirim* dediğinde tıslamalar ve şorultulardan sonra tepesinden bir bardak çay çıkardı.
-Robota teşekkür etmenin tuhaflığını hissetmeden *teşekkür ederim* dedi. Müdür de robottan (Bayan
-R)nin anlamadığı bir çeşit kahve istedi. 
+Robota teşekkür etmenin tuhaflığını hissetmeden *teşekkür ederim* dedi. Müdür de robottan (Zîneb)in anlamadığı bir çeşit kahve istedi. 
 
 Bir süre havadan sudan konuştular. Müdür bir yerde *neden sizinle görüşmek istediğimizi merak ediyor
 olmalısınız* diyerek konuya girdi. *Evet* dedi (Zîneb), *umarım bana propaganda yapmak için
@@ -669,7 +668,73 @@ Aradaki bir anlık sessizliği (Hattice) bozdu. *Sen benden daha çok şey öğr
 
 *Sivil birlik var dedin* 
 
-*Evet, onun bozulması mümkün ama bizde de poligami var.* 
+*Evet, onun bozulması mümkün ama bizde de poligami var. Kimsenin çok uğraşmadığı bir şey. Sivil
+birlik de çok nadiren oluyor. İnsanlar Eski Mısır'daki gibi aynı eve taşınıp beraber yaşamaya
+başlıyorlar.* 
+
+*Bu sanırım bütün laik jûmrelerde böyle. Gözlediklerimin hiçbirinde bizdeki kadar tören, düğün
+yapıldığını görmedim.*
+
+*Sıkıcı törenler. İki kişi aynı yatağa girip, binlerce yıldır yapılan bir şeyi yapacak diye tüm
+davetlilerin çağrılıp...* Burada *acaba haddimi aşıyor muyum* şüphesi belirdi içinde. 
+
+(Hattice) güldü. *Evliliğe böyle bakıyorsan, evet biraz anlamsız ama bizimki gibi jûmrelerde bir
+büyüme, topluma kabul merasimidir.*
+
+*Evlenmeden kabul edilmemiş mi oluyor?* 
+
+*Özgür olmuyorsun. Ailenin yönetimi altındasın.*
+
+*Yalnız yaşamaya başlayan yok mu? Onbeş yaşından sonra artık kendi geliri oluyor çocukların.*
+
+*Kolay bir karar değil o. Jûmrenin felsefesi kadın ve erkeği ayrı tutmak. İki kutup gibi hayal
+ediyorlar ve bu kutuplar birbirinden ne kadar uzak kalırsa, birleştiklerinde de o kadar sağlam olur
+diyorlar.*
+
+*Bildiğimiz teraneler. Cinsiyetin iki kutup gibi değil de renk spektrumu gibi hayal edildiğinde ne
+kadar değişiyor her şey. Hem daha sağlam da olmuyormuş işte, evlilikler.* (Zîneb) içinden yükselen
+agresifliğe engel olmaya çalışıyordu. 
+
+(Hattice) alınmışa benzemiyordu. Bu gibi konuşmaları çok yapmış gibi. *Sadece kendimizden ibaret
+değiliz, evlilikler yürümese de insanlar ailelerinden kopmuyor. Torunlar dedelerini görüyor. Ayrıca
+boşanmalar yüksek ama evlilik sayısı da çok, kimse evliliği denemekten korkmuyor. Ailenle görüşüyor
+musun mesela? Neredeler?*
+i 
+Kızın bu sorusunun hadsizliği bir yana, acı vermek için bile bile sorduğu belli oluyordu. *Tipik bbir
+müslüman, konuşma kendi hatalarına geldiğinde hemen bel altı vurur bunlar* diye düşündü. *Uzaktalar.
+Babam öldü zaten. Annem de (Tarkinya)da bir yaşlılar evinde ama bu sorunun konuyla ilgisini
+anlamadım.* 
+
+*Özür dilerim* dedi (Hattice). *Kadın-erkek ilişkilerine sadece iki kişinin arasındaki bir konu gibi
+bakmıyoruz. Onu anlatmaya çalışıyorum.*
+
+*Anladım* dedi (Zîneb). Konuşmanın doğal sınırlarına ulaştığını hissetmişlerdi. Saati vücut
+sinyallerinden böyle zamanları algılayıp bahane üretmeye ayarlıydı ama vücut sinyalleri o kadar
+bozulmamıştı sanırım. 
+
+Bir an sonra saati *yürümek için çıkman gerekiyor* dedi. (Zîneb) saatine baktı. *Tamam, on dakika
+sonra* dedi. 
+
+## 3
+
+Güneşin altında uzun yürüyüşler yapmanın her türden hastalığa faydası olduğunu söylüyorlar. Okuldan
+çıktığında, neden tanımadığı bir insanın *tanışma* teklifini bu kadar hızlı kabul ettiğini
+düşünüyordu. Belli ki kız onunla mülakat yapmak için ayarlanmıştı. Konuşmanın direktliği. Girdiği
+konular. Bunları *iş görüşmesi* gibi bir şekilde sorsanız verilecek ve verilmeyecek cevaplar
+belliydi ama *araştırma yapan sosyolog* için...
+
+Saati müzik dinlemek isteyip istemediğini sordu. Kulaklarına kalıcı kulaklıklar taktırdığından beri
+istediği zaman müzik dinleyebiliyordu. Gürültü duymak istemediğinde de beyaz gürültü yayıyordu
+bunlar ama şimdi kendi düşüncelerini dinlemek istiyordu. *Hayır* dedi. 
+
+*Moralin bozuksa psikologdan randevu ayarlayabilirim* dedi saati. *Sanırım vücut elektriğimi
+gerçekten takip ediyor.* Saate *o kadar değil, düzenli gidişlerimde anlatabilirim* dedi. 
+
+Yol güzeldi. *Bütün yolların yürünebilir olması* temel bir prensipti Zerkubia'da. Bunu sosyal
+anlamda, insanların istedikleri yaşam biçiminde yürümesi gibi yorumladıkları gibi düz anlamıyla da
+yorumluyorlardı. Üstü açık bütün yolların kenarında yaya bölümü olurdu. 
+
+Uzaktan mahallenin ağaçlarını gördüğünde akşam ne yapacağını 
 
 
 
