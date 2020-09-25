@@ -695,6 +695,46 @@ diyorlar.*
 kadar değişiyor her şey. Hem daha sağlam da olmuyormuş işte, evlilikler.* (Zîneb) içinden yükselen
 agresifliğe engel olmaya çalışıyordu. 
 
-(Hattice) alınmışa benzemiyordu. Bu gibi konuşmaları çok yapmış gibi. 
+(Hattice) alınmışa benzemiyordu. Bu gibi konuşmaları çok yapmış gibi. *Sadece kendimizden ibaret
+değiliz, evlilikler yürümese de insanlar ailelerinden kopmuyor. Torunlar dedelerini görüyor. Ayrıca
+boşanmalar yüksek ama evlilik sayısı da çok, kimse evliliği denemekten korkmuyor. Ailenle görüşüyor
+musun mesela? Neredeler?*
+i 
+Kızın bu sorusunun hadsizliği bir yana, acı vermek için bile bile sorduğu belli oluyordu. *Tipik bbir
+müslüman, konuşma kendi hatalarına geldiğinde hemen bel altı vurur bunlar* diye düşündü. *Uzaktalar.
+Babam öldü zaten. Annem de (Tarkinya)da bir yaşlılar evinde ama bu sorunun konuyla ilgisini
+anlamadım.* 
 
-(AM
+*Özür dilerim* dedi (Hattice). *Kadın-erkek ilişkilerine sadece iki kişinin arasındaki bir konu gibi
+bakmıyoruz. Onu anlatmaya çalışıyorum.*
+
+*Anladım* dedi (Zîneb). Konuşmanın doğal sınırlarına ulaştığını hissetmişlerdi. Saati vücut
+sinyallerinden böyle zamanları algılayıp bahane üretmeye ayarlıydı ama vücut sinyalleri o kadar
+bozulmamıştı sanırım. 
+
+Bir an sonra saati *yürümek için çıkman gerekiyor* dedi. (Zîneb) saatine baktı. *Tamam, on dakika
+sonra* dedi. 
+
+## 3
+
+Güneşin altında uzun yürüyüşler yapmanın her türden hastalığa faydası olduğunu söylüyorlar. Okuldan
+çıktığında, neden tanımadığı bir insanın *tanışma* teklifini bu kadar hızlı kabul ettiğini
+düşünüyordu. Belli ki kız onunla mülakat yapmak için ayarlanmıştı. Konuşmanın direktliği. Girdiği
+konular. Bunları *iş görüşmesi* gibi bir şekilde sorsanız verilecek ve verilmeyecek cevaplar
+belliydi ama *araştırma yapan sosyolog* için...
+
+Saati müzik dinlemek isteyip istemediğini sordu. Kulaklarına kalıcı kulaklıklar taktırdığından beri
+istediği zaman müzik dinleyebiliyordu. Gürültü duymak istemediğinde de beyaz gürültü yayıyordu
+bunlar ama şimdi kendi düşüncelerini dinlemek istiyordu. *Hayır* dedi. 
+
+*Moralin bozuksa psikologdan randevu ayarlayabilirim* dedi saati. *Sanırım vücut elektriğimi
+gerçekten takip ediyor.* Saate *o kadar değil, düzenli gidişlerimde anlatabilirim* dedi. 
+
+Yol güzeldi. *Bütün yolların yürünebilir olması* temel bir prensipti Zerkubia'da. Bunu sosyal
+anlamda, insanların istedikleri yaşam biçiminde yürümesi gibi yorumladıkları gibi düz anlamıyla da
+yorumluyorlardı. Üstü açık bütün yolların kenarında yaya bölümü olurdu. 
+
+Uzaktan mahallenin ağaçlarını gördüğünde akşam ne yapacağını 
+
+
+
