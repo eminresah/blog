@@ -275,7 +275,7 @@ bulunmuyordu. Plutokratlarsa tüm sistemi ele geçirmiş ve yönettikleri insanl
 Devrimden önceki sosyal hiyerarşide bu iki grubun belirgin olmaması için farklı yollar bulmuşlardı.
 Plebler her insan gibi *hikayeleri için* yaşar. Onlara *düzenin devamı* için hikayeler sunanları
 destekleyenler 
-plutokratlardı. Kendileri nadiren hikayenin parçası olurlar, görünmeden yönetmeye devam ederlerdi. Seçimler olsa da,plutokratların desteğini almayan
+plutokratlardı. Kendileri nadiren hikayenin parçası olurlar, görünmeden yönetmeye devam ederlerdi. Seçimler olsa da, plutokratların desteğini almayan
 birinin ülkelerin politikalarında söz sahibi olması mümkün değildi. 
 
 (Zîneb) dinleyenlerin yüz ifadelerinden mutabık oldukları sonucunu çıkardı. 
@@ -619,14 +619,14 @@ olsa bile bunu açıktan, hukuki olarak yapmak istemiyorlar. İlk eşleriyle evl
 zaten.*
 
 *Bunu başka birinden de duymuştum* dedi (Zîneb). *Polijini hakkı erkekleri evlenmek zorunda
-bırakıyor ve ikinci kere evlenmeyecekleri için aldatmıyorlarmış. Bu sefer aldattığı kadına
+bırakıyor ve evlenmek istemedikleri için aldatmıyorlarmış. Aldattığı kadına
 söyleyecek bir bahanesi kalmıyor* diyorlar. 
 
 *Evet. Bizde evlilik dışında erkeklerin kadınlarla görüşmesi de yasak. Erkeklerin jûmre dışından
 biriyle evliliği de. Robot eşler de yasak.*
 
 *Onlar da mı yasak?* (Zîneb) şaşırmıştı. *Bu çağın nimetlerinden herkesin eşit faydalandığını
-düşünüyordu.* 
+düşünüyordum.* 
 
 (Hattice) güldü. *Erkeklerin evlilik öncesi yasakları daha fazla. Baktıkları her ekran kontrol
 altında, her sosyal anlarını bir kaydeden var. Bundan kurtulmanın tek yolu evlenmek ve çoğu 19-20
@@ -724,17 +724,79 @@ konular. Bunları *iş görüşmesi* gibi bir şekilde sorsanız verilecek ve ve
 belliydi ama *araştırma yapan sosyolog* için...
 
 Saati müzik dinlemek isteyip istemediğini sordu. Kulaklarına kalıcı kulaklıklar taktırdığından beri
-istediği zaman müzik dinleyebiliyordu. Gürültü duymak istemediğinde de beyaz gürültü yayıyordu
-bunlar ama şimdi kendi düşüncelerini dinlemek istiyordu. *Hayır* dedi. 
+istediği zaman müzik dinleyebiliyordu. Saatle iletişimini de bu kulaklıklar sağlıyordu. İstediği
+zaman kitap, istediği zaman müzik, bazen beyaz gürültü, bazen anıların kayıtlarını dinlemek isterdi
+ama şimdi kendi düşünceleriyle başbaşa yürümek istedi.
 
 *Moralin bozuksa psikologdan randevu ayarlayabilirim* dedi saati. *Sanırım vücut elektriğimi
-gerçekten takip ediyor.* Saate *o kadar değil, düzenli gidişlerimde anlatabilirim* dedi. 
+gerçekten takip ediyor.* Saate *o kadar değil, zaten bu ayın sonunda gideceğim.* dedi. 
 
 Yol güzeldi. *Bütün yolların yürünebilir olması* temel bir prensipti Zerkubia'da. Bunu sosyal
-anlamda, insanların istedikleri yaşam biçiminde yürümesi gibi yorumladıkları gibi düz anlamıyla da
-yorumluyorlardı. Üstü açık bütün yolların kenarında yaya bölümü olurdu. 
+anlamda, insanların istedikleri yaşam biçiminde yürümesi şeklinde yorumladıkları gibi düz anlamıyla
+da yorumluyorlardı. Üstü açık bütün yolların kenarında yaya bölümü olurdu. 
 
-Uzaktan mahallenin ağaçlarını gördüğünde akşam ne yapacağını 
+Uzaktan mahallenin ağaçlarını gördüğünde akşam ne yapacağını planlamak istedi. Saate sordu, her
+zamanki gibi: *Akşama bir davet var mı?* 
+
+*(Eerki) seni sormuştu, bu akşam uygun görünüyor takvimi.*
+
+*Hayır. Onu görmek istemiyorum. Siyah ruj süren erkeklerden hoşlanmıyorum.*
+
+*Jumre binasında film gösterimi var. Daha sonra da tartışacaklarmış filmi.*
+
+*Film ne?* 
+
+*Mars'ta Yedi Kadın adında bir romantik komedi. Marsta geçiyormuş. Özetini okuyabilirim.*
+
+*Hayır, hayır. Jumrenin film organizasyonlarını kim yapıyorsa, romantik komedilere takmış.
+Seçtikleri filmlerin hiçbiri de komik değil.*
+
+*Yeni biriyle tanışmak ister misin?*
+
+*Var mı öyle biri? Gerçekten yeni?*
+
+*Biliyorsun çağımız arkadaş edinmenin çok kolaylaştığı bir çağ.*
+
+*Evet ama yeni biri değil, yüzler değişiyor ama herkesle aynı ilişkiyi yaşıyorsun. Eminim onlar da
+aynı şeyi düşünüyor.*
+
+*Geçen defaki nasıldı?*
+
+*İntihar etmeye niyetliymiş, beni de kendiyle beraber intihar etmeye ikna etmeye çalıştı. Saatlerce
+yaşadığımız hayatın ne kadar boş olduğunu ve hepimizin robotların sağdığı koyunlar olduğu
+muhabbetini dinledim.* 
+
+*Hoşlanmadın yani*
+
+Robotlar hala bazı sözlerin iyi mi, kötü mü olduğunu anlamakta zorluk çekiyor diye düşündü. Belki
+benim de intihara meyilli olduğumu düşünüyordur bu saat. 
+
+*Hayır, hoşlanmadım* diye net bir cevap verdi. 
+
+*Doyurucu bir ilişki aradığını söylemiştin* dedi saat. 
+
+*O kadar doyurucu olmasına gerek yoktu. Adam tıka basa doymuş hayata, hepsini üstüme kustu.*
+
+*Birkaç yeni aday var, denemek istersen.*
+
+*Tamam, öyle olsun. Akşamı bir ekranın karşısında neden buluşma ayarlamadığına üzülerek geçirmek
+istemiyorum.*
+
+*Sürpriz mi olsun? İstersen kontrol edebilirsin kim olduklarını. Cinsiyet tercihin var mı?*
+
+*Yok, hayır, beni öyle yapay şeylerle uğraştırma. Ama kadın olacaksa regl olmasın, şu an hiç kanlı
+bir vajinayla karşılaşacak durumda değilim.*
+
+Saati birkaç dakika sonra akşam yedide *özel odalarda* görüşme ayarladığını söyledi. Herkesin
+yemeğini kendi ödediği, sadece sana bildirilen odaya gidip, karşındakiyle iki saat geçirdiğin
+buluşmalardan biri. İsimler bile sorulmaz, *adaba aykırı.*
+
+Böyle başlayan ilişkilerin devam etme ihtimali yok ama *seversek devam ederiz* diye gider herkes.
+Yalnızlık herkesin derdi ama şikayet etmiyoruz, çünkü herkes yalnız. İmrendiğimiz arkadaşlıklar yok.
+Adapte olduk buna ve tüm *evlilikler* artık iki saat. 
+
+
+
 
 
 
