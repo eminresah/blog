@@ -795,6 +795,37 @@ Böyle başlayan ilişkilerin devam etme ihtimali yok ama *seversek devam ederiz
 Yalnızlık herkesin derdi ama şikayet etmiyoruz, çünkü herkes yalnız. İmrendiğimiz arkadaşlıklar yok.
 Adapte olduk buna ve tüm *evlilikler* artık iki saat. 
 
+Eve geldiğinde buluşmaya iki saat vardı. Yavaş yürümüş, evlerin içlerine bakmıştı. Bir şeyler
+atıştırsam iyi olur diye düşünüp yemek dolabından bir şeyler istedi. Dolaplar hem fırın, hem
+buzdolabı, hem aşçı gibi çalışan robotlardı, istediğin yemeğin malzemelerini de isteyebiliyorlardı
+ama zaman yoktu buna. Dolabın elinde biraz tofu köftesi ve patates kalmış. *Et yok mu* dedi. *Bu
+haftaki et rasyonuzu bitirdiniz efendim* dedi dolap. *Parayla sipariş ver o zaman, yarına et yemek
+istiyorum.*
+
+Dolapların çoğu (Temel İhtiyaçlar Dairesi) tarafından idare edilir ve insanların yiyecek
+ihtiyaçlarını karşılar. Yiyeceklerin çoğu ücretsizdir. Bir dolaba kimliğini kaydeden bir Zerkubialı
+aç kalmaz. 
+
+(Zineb) *bu et ihtiyacı nereden geliyor acaba* diye düşündü ama *alışkanlıklar* dışında bir cevap
+bulamadı. *Limitleri bile aşmışsın kızım* diye söylendi kendi kendine, güldü sonra.
+
+Yemeğini yedi. Tofu köftesi denen şeyden bir daha yemek istemediğine karar verdi. *Patatesi de iyi
+kızartamıyor bu dolap. Bence değiştirilmesi lazım.*
+
+Saatine *kıyafet merkezinde giyinmek istiyorum, alternatifleri gösterir misin?* dedi. Evde hologram
+makinesi vardı, odanın ortasında kendini farklı kıyafetlerle gördü. Siyah şort, sarı bir tişört, üstüne yeşil bir sweatshirt, altın
+rengi bileklikler, büyük bir kolye kombinini beğendi. *Buna siyah makyaj da yapalım* dedi. Hologramı
+siyah ruj, siyah tırnaklara dönüştü. 
+
+*Bunları getirebilirler mi?* diye sordu saate. *Bütün kıyafet taşıyıcıları rezerveymiş. Senin gitmen
+gerekiyor* dedi saat. Kıyafet merkezi yakındaydı en azından. 
+
+Zerkubia'da insanların nadiren kendilerine ait kıyafetleri olur. Kendilerine ait evleri, arabaları
+ve eşyaları olmadığı gibi, kendilerine ait kıyafetleri de bulunmaz. Kıyafet merkezlerine gidip
+giyinmek ve giydikten sonra bırakmak mümkündür. Yıkanır, ütülenir ve başka biri tarafından giyilmeye
+hazır hale gelir. Sokakta eski kıyafetli birini görüyorsanız ya Süreç tarafından cezalandırılmış
+biri, ya da bu şekilde dikkat çekmeye çalışan bir manyaktır. 
+
 
 
 
