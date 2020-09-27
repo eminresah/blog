@@ -1,0 +1,1 @@
+Askere gidene kadar benim de böyle fikirlerim vardı. Genel olarak mahkumları çalıştırma maliyeti, onlardan alınacak verimden fazla, net zarar

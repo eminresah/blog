@@ -1,0 +1,2 @@
+Kaybetmekten korkmayacağım kadar param olsun isterim ve en fazla da o kadar oluyor zaten
+804808882858168321,2016-12-02 22:06:04 +0000,harfzen,"Dedim ki, zengin olmak sorun değil, onu oluruz ama bir defa zengin olunca kaybetme korkusuna değecek mi?"
