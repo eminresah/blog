@@ -1,0 +1,1 @@
+kategorilere karşıyım. ne içe, ne dışa, ben mevlayadönük olmayı tercih ederim

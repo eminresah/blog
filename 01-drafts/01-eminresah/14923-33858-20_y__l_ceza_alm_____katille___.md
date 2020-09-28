@@ -1,0 +1,2 @@
+20 yıl ceza almış katille, 7 yıl yatan hırsızı organize edip çalıştıracaksın mesela. Bunların usta başı olacak, eline illa çekiç tuğla mala bir alet vereceksin. O gün canı istemez de çalışmazsa ne yapacaksın? Dövecek misin? Kırdın birkaç kemiğini, bir de onun tedavi masrafı çıktı
+Bu memlekette çalışma niyeti olan adamı bile imkan yaratıp çalıştıramıyorsun, bunları çalıştıracaksın? Alternatif maliyeti düşünürsen daha da büyük zarar.
