@@ -826,8 +826,72 @@ giyinmek ve giydikten sonra bırakmak mümkündür. Yıkanır, ütülenir ve ba�
 hazır hale gelir. Sokakta eski kıyafetli birini görüyorsanız ya Süreç tarafından cezalandırılmış
 biri, ya da bu şekilde dikkat çekmeye çalışan bir manyaktır. 
 
+*Tamam, ben giderim* dedi (Zîneb). *Bana bir scooter çağır en azından*. *Çağırdım. Hadi şimdi
+çıkabilirsin* dedi saat. Böyle motive etmeye çalışır gibi konuşmasına bir ayrı sinir oluyordu. 
 
+Kıyafet merkezinde biraz önce seçtiği kombini bir kabinde giyinde. Makyaj odalarından birine girdi.
+Oda bir robot gibiydi, istediği yönden kendini görebildiği bir ekrana bakıp konuşabiliyordu.
+İsterse hologramıyla yanyana da oturabilirdi.
 
+İşi kısa sürdü. Evde giyinmesi daha kısa sürüyordu. Getirdiği kıyafetleri bırakmak istediğini
+söyledi.
 
+Buluşacağı yere araçla gidecekti. Saate aracı çağırmasını söyledi. Yediye 10 dakika kala (Mavi
+Dikiş) isimli barın 119
+numaralı buluşma odasındaydı. Odada kimse yoktu. Önce gelmiş olmaktan memnun olmadı. Çıkıp biraz
+dolaşmayı düşündü ama odaların arasında kendininkini bulamamış gibi görünmeyi yediremediği için
+daldı. 
 
+(Mavi Dikiş) bu çevredeki buluşma mekanlarının en genişlerinden biriydi. Ortak alanlar da vardı ama
+genelde özel odalar için geliyordu insanlar buraya. İlk buluşmalar, ikinci buluşmalar. Bazen tüm
+ilişkiler bu odalarda yürüyordu. Ev bir buluşma noktası olmaktan çıkalı çok olmuştu.
 
+Saatten ortama uygun bir müzik istedi. Saat *ortama uygun* deyince bir önceki gelişinde çaldığını
+çalmaya başladı. Bu şarkı önceki gelişindeki fecaati hatırlattığı için *başka bir şeey* dedi saate.
+Saat de sevdiği parçalardan bir listeyi çalmaya başladı.
+
+Dakikalar geçtikçe gerilmeye başlamıştı. Ekildiğini sanmıyordu, ekenin sosyal puanını çok olumsuz etkilerdi
+böyle bir şey ama saniyelere varan dakiklikteki insanlardan biriyle buluşacaktı herhalde. 
+
+Saat 19:00:01'de içeriye kıvırcık saçlı ve gözlüklü bir adam girdi. *Evet, onlardan biri bu* diye
+düşündü (Zîneb.) Adamın kaybettiği gözlüğünü arar gibi bir hali vardı. *Gözlük gözünde halbuki* diye
+düşündü (Zîneb). Adam *merhaba* dedi, *selam* diye cevap verdi. 
+
+Adam tedirgindi. *Sistemin bana hep utangaç erkekler göndermesine bir çare bulmalıyım* diye düşündü.
+Hatta *erkekler göndermesine.* Bu geceyi bu adamla geçirmeyeceğine o an karar verdi, gördükten on
+saniye sonra. 
+
+Sesi ince sayılmazdı ama tedirginlikten ince çıkıyordu. *Ben Beras* dedi adam. *Ben Zîneb.* 
+-- Memnun oldum. 
+-- Ben de. 
+-- İçecek söylediniz mi?
+
+Adamın falsosu buydu. *Fazla nazik. Kesin bir şeyler gizliyor.* Kimisi gelir, on yıldır tanışıyormuş gibi konuşmaya başlar, o da ayrı bir hadsizlik olurdu. Beras da yemek ve içecek söyledi. Trüf mantarlı sote ve şekersiz ananas çayı. *Vegan değil* diye düşündü (Zîneb).
+
+Sessizliği Zîneb bozdu. *Bu buluşmayı bir hafta sonra hatırlamayacağıma eminim ama başlayalım mı?*
+dedi. *Neye?* dedi adam. Zîneb'in içinden *sevişmeye* demek geldi ve güldü. *Adettendir, sistemin
+bizi neden buluşturduğunu anlamaya çalışırız.*
+
+*Ben bu konuda yeniyim* dedi Beras. *Bir yıldır kimseyle buluşmadım. Bu sanırım sağlıksız bulunduğu
+için saatime uyarı geldi. Ben de denemek istedim.*
+
+*Oh* dedi (Zineb) *geçen defa da intihara meyilli birini göndermişti. Psikolog da değilim ama sistem
+beni öyle görmekte kararlı.*
+
+*Ben sosyoloğum, veri sosyoloğu, ayrıca resim yapıyorum* dedi adam. 
+
+İlgilenmiş gibi mi yapması gerekiyordu, yoksa bu adamın iletişim sorunlarını yüzüne vurup kalkmalı
+mıydı? Yarım saatten önce mazeretsiz kalkarsa sosyal puanı düşebilirdi. 
+
+*Siyah ruj süren kadınların yüzde onsekizinin aşırı kilo sorunları olduğunu biliyor muydunuz?* diye sordu
+adam. Bunu kendisini aşağılamak için sormamıştı. *Ahahaha* diye gülüyormuş gibi yaptı (Zineb) ama
+güldüğü daha çok kendi haliydi. *Sanırım bir istatistik bülteni gibi geçecek konuşma* dedi. 
+
+*Gelirken ruj rengiyle kilo ve psikolojik durum korrelasyonlarına baktım da* dedi, *tanımaya faydası
+olur diye.*
+
+*Hmm, çok ilginç* dedi (Zineb). *Mavi ruj kullansam ne kadar olacaktı kilo sorunum?*
+
+*Yüzde oniki nokta yetmişbeş* dedi adam. Ciddiyetle. Dalga geçildiğini anlamadan. 
+
+O sıra yemekler geldi. 
