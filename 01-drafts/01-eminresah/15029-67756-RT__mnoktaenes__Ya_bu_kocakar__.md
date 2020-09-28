@@ -1,0 +1,1 @@
+RT @mnoktaenes: Ya bu kocakarı imanı meselesi abartılıyor arkadaşlar o tren kaçtı şehirleşmiş bir toplumun bireyselleşmiş insanlarıyız bizim imanımız bilmekle, emekle olmak zorunda. Hiçbir kocakarı bizim kadar saldırıya maruz kalmadı, modern dünyada iman etmek ve o imanı korumak çaba ister.
