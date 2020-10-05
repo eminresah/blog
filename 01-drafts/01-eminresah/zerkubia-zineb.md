@@ -861,12 +861,12 @@ Adam tedirgindi. *Sistemin bana hep utangaç erkekler göndermesine bir çare bu
 Hatta *erkekler göndermesine.* Bu geceyi bu adamla geçirmeyeceğine o an karar verdi, gördükten on
 saniye sonra. 
 
-Sesi ince sayılmazdı ama tedirginlikten ince çıkıyordu. *Ben Beras* dedi adam. *Ben Zîneb.* 
+Sesi ince sayılmazdı ama tedirginlikten ince çıkıyordu. *Ben (Beras)* dedi adam. *Ben Zîneb.* 
 -- Memnun oldum. 
 -- Ben de. 
 -- İçecek söylediniz mi?
 
-Adamın falsosu buydu. *Fazla nazik. Kesin bir şeyler gizliyor.* Kimisi gelir, on yıldır tanışıyormuş gibi konuşmaya başlar, o da ayrı bir hadsizlik olurdu. Beras da yemek ve içecek söyledi. Trüf mantarlı sote ve şekersiz ananas çayı. *Vegan değil* diye düşündü (Zîneb).
+Adamın falsosu buydu. *Fazla nazik. Kesin bir şeyler gizliyor.* Kimisi gelir, on yıldır tanışıyormuş gibi konuşmaya başlar, o da ayrı bir hadsizlik olurdu. (Beras) da yemek ve içecek söyledi. Trüf mantarlı sote ve şekersiz ananas çayı. *Vegan değil* diye düşündü (Zîneb).
 
 Sessizliği Zîneb bozdu. *Bu buluşmayı bir hafta sonra hatırlamayacağıma eminim ama başlayalım mı?*
 dedi. *Neye?* dedi adam. Zîneb'in içinden *sevişmeye* demek geldi ve güldü. *Adettendir, sistemin
@@ -894,4 +894,66 @@ olur diye.*
 
 *Yüzde oniki nokta yetmişbeş* dedi adam. Ciddiyetle. Dalga geçildiğini anlamadan. 
 
-O sıra yemekler geldi. 
+(Zineb) suskunlukla çatallara bakarken yemekler geldi. 
+
+Servis robotları masayı donattı. (Beras) konuşmak istemiyor gibi duruyordu. *Tarihçiyim ben de* dedi
+(Zineb). Adam nezaketen bile ilgi göstermedi. Bakışları ve ilgisi tamamen yemek üzerindeydi. 
+
+*(Züleyman) diye birini okudum geçenlerde* dedi. *İmparatormuş sanırım, büyük bir ülkesi varmış.* 
+
+(Zineb) adamın kimden bahsettiğini anlamadı. *Hangi (Züleyman)* dedi. 
+
+*Pek bilmiyorum, başka (Züleyman) mı var?* dedi (Beras). 
+
+*Bir iki kral var öyle* dedi. *Eski, çok eski ve mitik diye üç (Süleyman)'dan bahsedebiliriz.*
+
+*Tamam* dedi (Beras). Adam iletişim kurmaya çalışmış ama *tarih bilgisi* buna yetmemişti. Yemeğe
+döndüler. 
+
+Biriyle sessizce oturmak eğer ezelden güvendiği biri değilse, (Zineb)in giderek gerilmesine yol
+açardı. Saatine kulağına sakinleştirici bir müzik göndermesini söyledi. (Beras) bununla da
+ilgilenmemişti. 
+
+*Burada bulunarak sosyal puan almaya mı çalışıyorsun?* dedi (Zineb)? 
+
+*Ne demek?* 
+
+*Yani, doktorun psikolojik sağlamlığını muayene etmesin diye arada bir böyle dışarı çıkıyorsun
+herhalde* dedi. Konuşması hızlanmaya başlamıştı. *ama şu an gözlüğünde bir film seyrettiğine
+neredeyse eminim.*
+
+(Beras) yemeğine biraz daha dik baktı. Gözlerini yemekten ayırmadan. *Evet* dedi *bir şeyler
+seyretmeden insanlara tahammül edemiyorum. Çok yavaşsınız.*
+
+*Sen de çok kabasın. Yeni tanıştığın bir insanla görüşmende film seyredemezsin. Ne seyrediyorsun?*
+
+*X-Room* dedi (Beras), *eski bir Amerikan dizisi*
+
+*Biliyorum onu. Genelde öyle şeyler mi seyredersin?* dedi (Zineb). 
+
+*Evet. Eski bilim kurgular bana ne kadar saf olduklarını hatırlatıyor.*
+
+Saati yarım saatin dolduğunu haber verdi. 
+
+*Ben kalkıyorum* dedi (Zineb). *Verebileceğim en düşük puanı vereceğimden ve senin bir ruh hastası
+olduğunu söyleyeceğimden emin olabilirsin.* Saatine dönüp *yediklerimin parasını öder misin* dedi.
+Saat *ödendi* derken de kalkıp toparlanmaya başladı. *Sistemde bir sorun var, neden bana bu kadar
+hastalıklı insanları gönderiyorlar? Keşke jumre toplantısına gitseydim.*
+
+Adam ilgilenmiyordu. Söylediklerine bir cevap da vermemişti. (Zineb) çıkıştaki barda oturup, kendisi
+gibi kurasından memnun olmayan biriyle tanışmayı düşündü ama bu da tehlikeliydi. Sosyal skor
+ihtimali olmayınca insanların nasıl davrandığını tahmin edebiliyordu. 
+
+Saatine *bu görüşmenin puanını sıfır ver, adamın da psikolojik sorunları olduğunu söyle* dedi. 
+
+*Tamam* dedi saat. 
+
+*Bana da bir araba çağır, eve gidip uyumak istiyorum artık*
+
+Yine *tamam* dedi. Aynı ses tonuyla. 
+
+Eve döndüğünde yatağına uzanıp, tavan ekranını açtı. *Tarihte Büyük Pandemiler* diye bir
+belgesel seyretmeye başladı. *Uyumak istiyorum* dedi kendi kendine. Saati bunu bir emir telakki
+edip tüm ışık kaynaklarını kapattı, oda sıcaklığını ayarladı, odaya lavanta kokulu bir buhar doldu.
+Uyuması bir dakikadan kısa sürdü. 
+

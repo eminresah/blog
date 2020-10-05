@@ -1,2 +1,10 @@
-Kaybetmekten korkmayacağım kadar param olsun isterim ve en fazla da o kadar oluyor zaten
-804808882858168321,2016-12-02 22:06:04 +0000,harfzen,"Dedim ki, zengin olmak sorun değil, onu oluruz ama bir defa zengin olunca kaybetme korkusuna değecek mi?"
+
+Kayıp korkusu yaşamaya değecek ne var? Zenginlik değer mi mesela? İnsanların seni sevmesi? Takdir?
+Mevki? İtibar? Neyi kaybetmekten korkmaya değer?
+
+Hepsi için *değer* diyecekler var. *Zengin olayım da, sonra kaybetmekten korkayım.* *İnsanlar beni
+sevsin, meşhur olayım da, sonra kaybetmekten korkayım.* *Güç sahibi olayım da kaybetmekten
+korkayım.*
+
+*Hiçbir şeyden korkmaya değmez* diyecek kadar genç değilim. İnsanın hayatını korkuları
+şekillendiriyor ve bunların çoğu *kayıp korkusu.* 
