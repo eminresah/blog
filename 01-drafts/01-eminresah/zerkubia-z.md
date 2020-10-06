@@ -18,46 +18,48 @@ terkedip adamı görmeye başlıyordu.
 O zamandan beri hep vaktinde uyanmıştı ama hayattan aldığı keyif 
 yarı yarıya azalmıştı. 
 
-(Zînef) saate uzandı. Saat elin yaklaştığını görünce kenara kaçtı. *Sadece beş dakika* dedi,  *beni
+(Zînef) alarma uzandı. Alarm saati elin yaklaştığını görünce kenara kaçtı. *Sadece beş dakika* dedi,  *beni
 beş dakika sonra tekrar uyandırır mısın?* Horoz sesi kesildi, (Zînef) uykusunun son dakikalarını
-eski erkek arkadaşının hayaletine ona ne kadar güvenmediğini söyleyerek geçirdi. Hayat kalitesi
+eski erkek arkadaşının hayaletine ona ne kadar güvenmediğini söyleyerek geçirdi. Bunu yüzüne hiç
+söyleyememişti. Hayat kalitesi
 biraz daha azaldı.
 
-*Uykuların en kötüsü kabusla bitendir.* Serod'un kitabından bu cümleyi söyleyerek yerinden kalktı,
-akıllı saati *günaydın hanımefendi* dedi muzip bir sesle. *Allah belanı versin* dedi içinden
-söylenerek. Saatin duymamasına dikkat etmek gerekiyordu çünkü elektronik aletlere ayaklanıp
+*Uykuların en kötüsü kabusla bitendir.* (Serod)un kitabından bu cümleyi söyleyerek yerinden kalktı,
+kolundaki akıllı saati *günaydın hanımefendi* dedi muzip bir sesle. *Allah belanı versin* dedi içinden
+söylenerek. Akıllı saatin duymamasına dikkat etmek gerekiyordu çünkü elektronik aletlere ayaklanıp
 insanlığı ele geçirmesinler diye ekledikleri bu
 *empati çipleri* yüzünden böyle sözlere alınabiliyorlardı. *Dedem zamanında telefonuna küfrederdi.
-Bir şey olmazdı. Biz saatlerimize bile politik doğrucu olmak zorundayız* dedi saate doğru.
+Bir şey olmazdı. Biz saatlerimize bile politik doğrucu olmak zorundayız* dedi saate doğru. Saatin
+kendisine hınzırca gülümsediğini hissediyordu. 
 
-Saat bu sefer hava durumundan bahsetmeye başladı ama onu dinlememek için banyoya gitti. Duş
-alırken neden alarmı erkene kurduğunu hatırladı. *Yeni bir iş görüşmesi.* Bu sefer
-çağıran hiç de tahmin etmediği bir okuldu. *Fotoğrafıma bakmadılar sanırım. Müslüman
+Akıllı saat hava durumundan bahsetmeye başladı ama onu dinlememek için banyoya gitti. Duş
+alırken alarmı neden erkene kurduğunu hatırladı. *Yeni bir iş görüşmesi.* Bu sefer
+çağıran hiç tahmin etmediği bir okuldu. *Fotoğrafıma bakmadılar sanırım. Müslüman
 okulundan bir davet alacağım hiç aklıma gelmemişti.* 
 
-(Zînef) iş arayan bir Tarih öğretmeniydi. 
+(Zînef) bir Tarih öğretmeniydi. İş arıyordu.
 İş aramak her an herkesin yapabileceği bir faaliyet olduğundan ve insanlar *bir
 şey yapmıyorum, günlerim bomboş geçiyor* dememek iş aradığını söylediğinden kimse *nerede*
-veya *nasıl bir iş?* diye sormamıştı. İnsanlar *iş aramayı* depresyonun hüsnütabiri olarak kullanıyordu. *(Zerkubia)da insanlar iş aramaz* çünkü çalışmadan yaşamak mümkündür.  
+veya *nasıl bir iş?* diye sormamıştı. İnsanlar *iş aramayı* depresyonun hüsnütabiri olarak kullanıyordu. *(Zerkubia)da insanlar iş aramaz* çünkü çalışmadan yaşamak mümkündür.
 
 (Zînef) hayatında temelden bozuk bir şeyler olduğunu ve bunun üstesinden *yeni bir iş*
 bularak gelebileceğini düşünmeye altı ay önce başlamıştı. İş bulmanın bu kadar zor
-olabileceğini ise tahmin etmiyordu. Okulların (Zerkubia) tarihiyle ilgilenmediğini görmek gerçekten
+olabileceğini ise tahmin etmiyordu. Zaten depresyonda olmasa okulların (Zerkubia) tarihiyle ilgilenmediğini görmek 
 depresyona sokabilirdi. 
 
-*Ne zaman biz bu kadar tarihsiz olduk?* *Her zaman tarihsizdik* demişti arkadaşı, *sadece
+*Ne zaman biz bu kadar tarihsiz olduk?* *Her zaman tarihsizdik* demişti bir arkadaşı, *sadece
 sen bunu yeni farkediyorsun.*
 
 (Zerkubia)da *jûmre* denen her toplumcuğun kendi okulunu açıp, kendi çocuklarını kendi
 değerleriyle yetiştirme imkanı vardı. (Eğitim ve Müfredat Dairesi) her çocuk için okula ödeme
-yapıyor, okullar da bu parayla öğretmen çalıştırıyorlar ve diğer giderlerini karşılıyorlardı. Bütün
+yapıyor, okullar da bu destekle öğretmen çalıştırıyorlar ve diğer giderlerini karşılıyorlardı. Bütün
 öğrencilerin katıldığı yıl sonu sınavları vardı. Bunlarda dikkat çekici derecede başarısız
-olmadığı sürece okullara dışarıdan müdahale edilmiyordu. (Zerkubia) tarihi de bu sınavın çok küçük bir
+olmadığı sürece okullara dışarıdan müdahale edilmiyordu. (Zerkubia) tarihi de bu sınavın küçük bir
 parçasıydı ve çoğu okul derslerde video ve animasyon seyrettirmeyi öğretmen maaşı ödemeye tercih
 ediyordu. 
 
-Bunları düşünürken giyinmiş, makyajını yapmış, saat yeniden tıpırdamaya başladığında *evden
-çıkıyorum Allah'ın belası* diye kapatmış ve kapısına bugün kargo dronu beklemediğini söyleyerek
+Bunları düşünürken giyinmiş, makyajını yapmış, kolundaki saat yeniden tıpırdamaya başladığında *evden
+çıkıyorum Allah'ın belası* diye susturmuş ve kapısına bugün kargo dronu beklemediğini söyleyerek
 kendini dışarı atmıştı. Kapısı ona iyi günler diledi.
 
 (Zînef) saatine bir araç çağırmak istediğini söyledi. Akıllı saati mızmızlanmaya başladı. *Bir
@@ -448,15 +450,15 @@ bağlı olduğu için en büyük itirazlar bunlardan geliyordu. Erkeklar aile re
 vazgeçilmez bir yeri olduğunu ve mirasın da bu reisliğin devamı için elzem olduğunu iddia
 ediyorlardı. *Eğer çocuklarımıza bırakamayacaksak neden işyeri açalım?* çok yaygın bir itirazdı. 
 
-Serod ve etrafındakiler «Süreç Vakıf» adını verdikleri bir vakıf kurdular. Mallarını öldükten sonra
+(Serod) ve etrafındakiler «Süreç Vakıf» adını verdikleri bir vakıf kurdular. Mallarını öldükten sonra
 vakfa bırakmayı kabul eden üyelerin çocuklarına vakfın gelirini paylaştıracaklarını söylediler.
 Vakıf daha çok toplumun alt kesimlerinden, zaten mirası olmayanlardan rağbet gördü. Bir süre sonra
 kendi kendine yeterli şekilde mensuplarının geride kalanlarına bakabilmeye başladığında bir hareket meydana
 gelmiş oldu. 
 
 (Zerkubia) devrimini hızlandıran ise Büyük Savaş oldu. Dünyanın o zamana kadar gördüğü en büyük yıkım
-ülkedeki devlet sistemini dağıttı. Savaş sırasında ayakta kalan nadir kurumlardan biri Serod'un
-vakfıydı. Serod savaş bittikten kısa süre sonra öldü ancak vakıf büyümeye devam etti. İç karışıklıklar
+ülkedeki devlet sistemini dağıttı. Savaş sırasında ayakta kalan nadir kurumlardan biri (Serod)un
+vakfıydı. (Serod) savaş bittikten kısa süre sonra öldü ancak vakıf büyümeye devam etti. İç karışıklıklar
 sırasında jûmre sistemi ortaya çıktı. (Serod) öldükten yirmiyedi yıl sonra Vakfın 
 prensiplerine dayanan (Zerkubia) anayasası kabul edildi. 
 
@@ -470,7 +472,7 @@ yapılanmalardan evrimleşmiştir. Plutokrasi bu suç örgütlerinin *insan çif
 ürettiği değeri sömürmeye dayanıyordu. (Zerkubia) ise bir vakıftan evrimleşen tarihte bildiğimiz ilk
 devlettir.
 
-Serod vakfı kurduğunda jûmre hukuku yoktu. Ancak o zaman bile *ölümsüzlük hikayesi* adını
+(Serod) vakfı kurduğunda jûmre hukuku yoktu. Ancak o zaman bile *ölümsüzlük hikayesi* adını
 verdiği konulardan birbiriyle çatışan kültürlerin bir arada yaşaması için düşündüğü ilkelerden
 bahsetmişti. Devletin görevinin ölümsüzlük hikayelerinde taraf olmak değil, bunların birbiriyle adil
 şekilde yarışıp daha doğru, hakikate daha yakın olanı bulmak olduğunu söylemişti. 
