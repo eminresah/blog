@@ -25,38 +25,38 @@ söyleyememişti. Hayat kalitesi
 biraz daha azaldı.
 
 *Uykuların en kötüsü kabusla bitendir.* (Serod)un kitabından bu cümleyi söyleyerek yerinden kalktı,
-kolundaki akıllı saati *günaydın hanımefendi* dedi muzip bir sesle. *Allah belanı versin* dedi içinden
-söylenerek. Akıllı saatin duymamasına dikkat etmek gerekiyordu çünkü elektronik aletlere ayaklanıp
-insanlığı ele geçirmesinler diye ekledikleri bu
-*empati çipleri* yüzünden böyle sözlere alınabiliyorlardı. *Dedem zamanında telefonuna küfrederdi.
-Bir şey olmazdı. Biz saatlerimize bile politik doğrucu olmak zorundayız* dedi saate doğru. Saatin
-kendisine hınzırca gülümsediğini hissediyordu. 
+kolundaki akıllı saati *günaydın hanımefendi* dedi muzip bir sesle. *Allah belanı versin* dedi
+içinden söylenerek. Akıllı saatin duymamasına dikkat etmek gerekiyordu çünkü elektronik aletlere
+ayaklanıp insanlığı ele geçirmesinler diye ekledikleri bu *empati çipleri* yüzünden böyle sözlere
+alınabiliyorlardı. *Dedem zamanında telefonuna küfrederdi.  Bir şey olmazdı. Biz saatlerimize bile
+politik doğrucu olmak zorundayız* dedi saate doğru. Saatin kendisine hınzırca gülümsediğini
+hissediyordu. 
 
-Akıllı saat hava durumundan bahsetmeye başladı ama onu dinlememek için banyoya gitti. Duş
+Alarm hava durumundan bahsetmeye başladı ama onu dinlememek için banyoya gitti. Duş
 alırken alarmı neden erkene kurduğunu hatırladı. *Yeni bir iş görüşmesi.* Bu sefer
 çağıran hiç tahmin etmediği bir okuldu. *Fotoğrafıma bakmadılar sanırım. Müslüman
 okulundan bir davet alacağım hiç aklıma gelmemişti.* 
 
-(Zînef) bir Tarih öğretmeniydi. İş arıyordu.
-İş aramak her an herkesin yapabileceği bir faaliyet olduğundan ve insanlar *bir
-şey yapmıyorum, günlerim bomboş geçiyor* dememek iş aradığını söylediğinden kimse *nerede*
-veya *nasıl bir iş?* diye sormamıştı. İnsanlar *iş aramayı* depresyonun hüsnütabiri olarak kullanıyordu. *(Zerkubia)da insanlar iş aramaz* çünkü çalışmadan yaşamak mümkündür.
+(Zînef) bir Tarih öğretmeniydi. İş arıyordu.  İş aramak her an herkesin yapabileceği bir faaliyet
+olduğundan ve insanlar *bir şey yapmıyorum, günlerim bomboş geçiyor* dememek iş aradığını
+söylediğinden kimse *nerede* veya *nasıl bir iş?* diye sormamıştı. İnsanlar *iş aramayı* depresyonun
+hüsnütabiri olarak kullanıyordu. *(Zerkubia)da insanlar iş aramaz* çünkü çalışmadan yaşamak
+mümkündür.
 
-(Zînef) hayatında temelden bozuk bir şeyler olduğunu ve bunun üstesinden *yeni bir iş*
-bularak gelebileceğini düşünmeye altı ay önce başlamıştı. İş bulmanın bu kadar zor
-olabileceğini ise tahmin etmiyordu. Zaten depresyonda olmasa okulların (Zerkubia) tarihiyle ilgilenmediğini görmek 
-depresyona sokabilirdi. 
+(Zînef) hayatında temelden bozuk bir şeyler olduğunu ve bunun üstesinden *yeni bir iş* bularak
+gelebileceğini düşünmeye altı ay önce başlamıştı. İş bulmanın bu kadar zor olabileceğini ise tahmin
+etmiyordu. Zaten depresyonda olmasa okulların (Zerkubia) tarihiyle ilgilenmediğini görmek depresyona
+sokabilirdi. 
 
 *Ne zaman biz bu kadar tarihsiz olduk?* *Her zaman tarihsizdik* demişti bir arkadaşı, *sadece
 sen bunu yeni farkediyorsun.*
 
-(Zerkubia)da *jûmre* denen her toplumcuğun kendi okulunu açıp, kendi çocuklarını kendi
-değerleriyle yetiştirme imkanı vardı. (Eğitim ve Müfredat Dairesi) her çocuk için okula ödeme
-yapıyor, okullar da bu destekle öğretmen çalıştırıyorlar ve diğer giderlerini karşılıyorlardı. Bütün
-öğrencilerin katıldığı yıl sonu sınavları vardı. Bunlarda dikkat çekici derecede başarısız
-olmadığı sürece okullara dışarıdan müdahale edilmiyordu. (Zerkubia) tarihi de bu sınavın küçük bir
-parçasıydı ve çoğu okul derslerde video ve animasyon seyrettirmeyi öğretmen maaşı ödemeye tercih
-ediyordu. 
+(Zerkubia)da *jûmre* denen her toplumcuğun kendi okulunu açıp, kendi çocuklarını kendi değerleriyle
+yetiştirme imkanı vardı. (Eğitim ve Müfredat Dairesi) her çocuk için okula ödeme yapıyor, okullar da
+bu destekle öğretmen çalıştırıyorlar ve diğer giderlerini karşılıyorlardı. Bütün öğrencilerin
+katıldığı yıl sonu sınavları vardı. Bunlarda dikkat çekici derecede başarısız olmadığı sürece
+okullara dışarıdan müdahale edilmiyordu. (Zerkubia) tarihi de bu sınavın küçük bir parçasıydı ve
+çoğu okul derslerde video ve animasyon seyrettirmeyi öğretmen maaşı ödemeye tercih ediyordu. 
 
 Bunları düşünürken giyinmiş, makyajını yapmış, kolundaki saat yeniden tıpırdamaya başladığında *evden
 çıkıyorum Allah'ın belası* diye susturmuş ve kapısına bugün kargo dronu beklemediğini söyleyerek
@@ -65,14 +65,14 @@ kendini dışarı atmıştı. Kapısı ona iyi günler diledi.
 (Zînef) saatine bir araç çağırmak istediğini söyledi. Akıllı saati mızmızlanmaya başladı. *Bir
 hafta boyunca hareketinin az olduğunu görüyorum, gitmek istediğin yere yürümeyi düşünür müsün?* 
 
-*Tabii ki düşünmem* dedi saate. *İşimin acele olduğunu biliyorsun.* Saat onu hareketsizliğinin
+*Tabii ki düşünmem* dedi saate. *İşimin acele olduğunu biliyorsun.* Saat hareketsizliğinin
 *sigorta şirketini haberdar edecek seviyeye geldiğini* söyledi. Bunu geçen hafta da, ondan önceki
 hafta da söylemişti. Genelde sigorta şirketleri 30 yaş altı için böyle uyarıları dikkate almazdı
 ama saatin haber verip vermediği de belli değildi. Tasarım icabı insanların gözlendiğini düşünmesi
 gerekiyordu anlaşılan. 
 
 *Bugün okuldan dönerken yürüyebilirim* dedi. *Saat?* dedi saat. *Mesela dört.* *Tamam, hatırlatırım*
-dedi ve sustu. Kolundaki saat bürokrasiye bağlandığı bir kelepçeydi. Bunu çıkarıp atma
+dedi ve sustu. Kolundaki saat sağlık bürokrasisine bağlandığı bir kelepçeydi. Bunu çıkarıp atma
 özgürlüğü olmasını isterdi. 
 
 Öyle bir özgürlük teoride mevcuttu. (Zerkubia)da iki çeşit sağlık sigortası yapıyorlardı. Birincisi
@@ -92,16 +92,17 @@ kelepçeyi kolunda taşımak insan haklarına aykırı sayılmalıydı.
 
 *Doktorlar eskiden hastalık ve ilaçtan hayatını kazanıyormuş, şimdi sağlıktan hayatımızı
 kazanıyoruz* demişti biri. *Sağlık ve dırdırdan* diye düzeltmek gelmişti içinden. Koruyucu
-hekimliğin önemi eskisine nazaran artmıştı. Doktorlar takip ettikleri için ücret alıp,
+hekimliğin önemi eskisine nazaran artmıştı. Doktorlar takip ettikleri kişi başına ücret alıp,
 önlenebilecek hastalıkların masraflarını ve ilaçlarını ödüyordu. 
 Bu nedenle tedaviye ve ilaca ihtiyaç duymaması için ellerinden geleni yapıyorlardı. Eğer hayli
 riskli ve umursamaz biriyseniz, doktorların da sizinle ilgili risk almadığı ve kendinizi takip
-edecek bir doktor bulamadığınız söyleniyordu. 
+edecek bir doktor bulamadığınız söyleniyordu. (Zerkubia)da sağlığına dikkat etmemek devrimci bir
+eylemdi. 
 
 (Zînef) gelen tek kişilik araca bindi. Saat adresi araca bildirdi. Araç harekete geçti. Görüşmenin nasıl geçeceğine dair sorular kafasına üşüştü.  Bunları başvururken de düşünmüş ancak *nasılsa
 cevap vermezler* diye üstünde durmamıştı. 
 
-En önemli sorun okulun bir müslüman okulu olmasından ve kendisinin müslüman olmamasından
+En önemli mesele okulun bir müslüman okulu olmasından ve kendisinin müslüman olmamasıydı. 
 kaynaklanıyordu. 
 
 > Eskiden toplum *bireylerden oluşan bir ulus devletmiş.* Ulus devlet
