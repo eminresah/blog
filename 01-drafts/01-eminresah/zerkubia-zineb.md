@@ -1,5 +1,5 @@
 ---
-title: Zerkubia Günlükleri - 1 - (Zîneb) 
+title: Zerkubia Günlükleri - 1 - (Zînef) 
 author: Emin Reşah
 date:  2020-09-11 18:40:29+0300
 expiryDate:
@@ -8,11 +8,9 @@ published: False
 featured_image: /images/header-103.jpg
 ---
 
-
-
 ## 1
 
-(Zîneb) güneşin doğmaya tereddüt ettiği dakikalarda yıldırıcı alarmın sesiyle uyandı. Rüyasında
+(Zînef) güneşin doğmaya tereddüt ettiği dakikalarda yıldırıcı alarmın sesiyle uyandı. Rüyasında
 tam da bu saati yirmi Sestere satan esmer adamın *cama yapışmış bir salyangozu bile uyandırabilir*
 demesini görüyordu. *Horoz sesinin elli tonu* isimli bu alarm araya girdiğinde tüm rüyalarını
 terkedip adamı görmeye başlıyordu. 
@@ -20,12 +18,12 @@ terkedip adamı görmeye başlıyordu.
 O zamandan beri hep vaktinde uyanmıştı ama hayattan aldığı keyif 
 yarı yarıya azalmıştı. 
 
-(Zîneb) saate uzandı. Saat elin yaklaştığını görünce kenara kaçtı. *Sadece beş dakika* dedi,  *beni
-beş dakika sonra tekrar uyandırır mısın?* Horoz sesi kesildi, (Zîneb) uykusunun son dakikalarını
+(Zînef) saate uzandı. Saat elin yaklaştığını görünce kenara kaçtı. *Sadece beş dakika* dedi,  *beni
+beş dakika sonra tekrar uyandırır mısın?* Horoz sesi kesildi, (Zînef) uykusunun son dakikalarını
 eski erkek arkadaşının hayaletine ona ne kadar güvenmediğini söyleyerek geçirdi. Hayat kalitesi
 biraz daha azaldı.
 
-*Uykuların en kötüsü kabusla bitendir.* Sod'un kitabından bu cümleyi söyleyerek yerinden kalktı,
+*Uykuların en kötüsü kabusla bitendir.* Serod'un kitabından bu cümleyi söyleyerek yerinden kalktı,
 akıllı saati *günaydın hanımefendi* dedi muzip bir sesle. *Allah belanı versin* dedi içinden
 söylenerek. Saatin duymamasına dikkat etmek gerekiyordu çünkü elektronik aletlere ayaklanıp
 insanlığı ele geçirmesinler diye ekledikleri bu
@@ -37,24 +35,24 @@ alırken neden alarmı erkene kurduğunu hatırladı. *Yeni bir iş görüşmesi
 çağıran hiç de tahmin etmediği bir okuldu. *Fotoğrafıma bakmadılar sanırım. Müslüman
 okulundan bir davet alacağım hiç aklıma gelmemişti.* 
 
-(Zîneb) iş arayan bir Tarih öğretmeniydi. 
+(Zînef) iş arayan bir Tarih öğretmeniydi. 
 İş aramak her an herkesin yapabileceği bir faaliyet olduğundan ve insanlar *bir
 şey yapmıyorum, günlerim bomboş geçiyor* dememek iş aradığını söylediğinden kimse *nerede*
-veya *nasıl bir iş?* diye sormamıştı. İnsanlar *iş aramayı* depresyonun hüsnütabiri olarak kullanıyordu. *Zerkubia'da insanlar iş aramaz* çünkü çalışmadan yaşamak mümkündür.  
+veya *nasıl bir iş?* diye sormamıştı. İnsanlar *iş aramayı* depresyonun hüsnütabiri olarak kullanıyordu. *(Zerkubia)da insanlar iş aramaz* çünkü çalışmadan yaşamak mümkündür.  
 
-(Zîneb) hayatında temelden bozuk bir şeyler olduğunu ve bunun üstesinden *yeni bir iş*
+(Zînef) hayatında temelden bozuk bir şeyler olduğunu ve bunun üstesinden *yeni bir iş*
 bularak gelebileceğini düşünmeye altı ay önce başlamıştı. İş bulmanın bu kadar zor
-olabileceğini ise tahmin etmiyordu. Okulların Zerkubia tarihiyle ilgilenmediğini görmek gerçekten
+olabileceğini ise tahmin etmiyordu. Okulların (Zerkubia) tarihiyle ilgilenmediğini görmek gerçekten
 depresyona sokabilirdi. 
 
 *Ne zaman biz bu kadar tarihsiz olduk?* *Her zaman tarihsizdik* demişti arkadaşı, *sadece
 sen bunu yeni farkediyorsun.*
 
-Zerkubia'da *jûmre* denen her toplumcuğun kendi okulunu açıp, kendi çocuklarını kendi
+(Zerkubia)da *jûmre* denen her toplumcuğun kendi okulunu açıp, kendi çocuklarını kendi
 değerleriyle yetiştirme imkanı vardı. (Eğitim ve Müfredat Dairesi) her çocuk için okula ödeme
 yapıyor, okullar da bu parayla öğretmen çalıştırıyorlar ve diğer giderlerini karşılıyorlardı. Bütün
 öğrencilerin katıldığı yıl sonu sınavları vardı. Bunlarda dikkat çekici derecede başarısız
-olmadığı sürece okullara dışarıdan müdahale edilmiyordu. Zerkubia tarihi de bu sınavın çok küçük bir
+olmadığı sürece okullara dışarıdan müdahale edilmiyordu. (Zerkubia) tarihi de bu sınavın çok küçük bir
 parçasıydı ve çoğu okul derslerde video ve animasyon seyrettirmeyi öğretmen maaşı ödemeye tercih
 ediyordu. 
 
@@ -62,7 +60,7 @@ Bunları düşünürken giyinmiş, makyajını yapmış, saat yeniden tıpırdam
 çıkıyorum Allah'ın belası* diye kapatmış ve kapısına bugün kargo dronu beklemediğini söyleyerek
 kendini dışarı atmıştı. Kapısı ona iyi günler diledi.
 
-(Zîneb) saatine bir araç çağırmak istediğini söyledi. Akıllı saati mızmızlanmaya başladı. *Bir
+(Zînef) saatine bir araç çağırmak istediğini söyledi. Akıllı saati mızmızlanmaya başladı. *Bir
 hafta boyunca hareketinin az olduğunu görüyorum, gitmek istediğin yere yürümeyi düşünür müsün?* 
 
 *Tabii ki düşünmem* dedi saate. *İşimin acele olduğunu biliyorsun.* Saat onu hareketsizliğinin
@@ -75,7 +73,7 @@ gerekiyordu anlaşılan.
 dedi ve sustu. Kolundaki saat bürokrasiye bağlandığı bir kelepçeydi. Bunu çıkarıp atma
 özgürlüğü olmasını isterdi. 
 
-Öyle bir özgürlük teoride mevcuttu. Zerkubia'da iki çeşit sağlık sigortası yapıyorlardı. Birincisi
+Öyle bir özgürlük teoride mevcuttu. (Zerkubia)da iki çeşit sağlık sigortası yapıyorlardı. Birincisi
 zaten bütün vatandaşları kapsayan ve acil ve ciddi durumlarda devreye giren bir *hastalık
 sigortasıydı.* Diğeri *sağlıklı hayat sigortası.* İlki sadece hayati olayların akabinde
 masrafları karşılıyordu. Onun için de bu saate ihtiyaç yoktu. Yine ücretsiz olan *sağlıklı
@@ -98,7 +96,7 @@ Bu nedenle tedaviye ve ilaca ihtiyaç duymaması için ellerinden geleni yapıyo
 riskli ve umursamaz biriyseniz, doktorların da sizinle ilgili risk almadığı ve kendinizi takip
 edecek bir doktor bulamadığınız söyleniyordu. 
 
-(Zîneb) gelen tek kişilik araca bindi. Saat adresi araca bildirdi. Araç harekete geçti. Görüşmenin nasıl geçeceğine dair sorular kafasına üşüştü.  Bunları başvururken de düşünmüş ancak *nasılsa
+(Zînef) gelen tek kişilik araca bindi. Saat adresi araca bildirdi. Araç harekete geçti. Görüşmenin nasıl geçeceğine dair sorular kafasına üşüştü.  Bunları başvururken de düşünmüş ancak *nasılsa
 cevap vermezler* diye üstünde durmamıştı. 
 
 En önemli sorun okulun bir müslüman okulu olmasından ve kendisinin müslüman olmamasından
@@ -112,7 +110,7 @@ bunlar kutsal kabul edilirmiş.
 > yokmuş. *Farklı yaşamak* için büyük bedeller ödemek gerekiyormuş. *Farklı yaşamlar* ulus
 > devlet tarafından en iyi ihtimalle *ikinci sınıf* çoğunlukla *egzotik ayrıntılar* olarak görülürmüş. 
 
-Zerkubia'nın *jûmre* isimli yarı vakıf, yarı topluluk kurumları birey ve devlet arasındaki 
+(Zerkubia)nın *jûmre* isimli yarı vakıf, yarı topluluk kurumları birey ve devlet arasındaki 
 *sivil örgütler.* Bireyden büyük ve onun haklarının bir kısmını devrettiği ama ulus devlet
 gibi tekdüzeleştirici olmayan toplumcuklar bunlar. Eskiden ulus devletin yönünü belirlediği eğitim ve kültür faaliyetleri ve medeni hukuk jûmrelere devredilmiş. Bunlara mensupları
 sayısınca ödenek belirlenmiş ve jûmreler kendi okullarını açıp, kendi hayat tarzlarını yaşatma
@@ -121,26 +119,26 @@ imkanları garanti edilmiş.
 Bu jûmrelerin çoğunun kendi okulları var. Öğretmenlerini de doğal olarak kendi mensuplarından
 seçiyorlar. Bir Hristiyan'ın gelip bir Müslüman'dan din dersi almasını bekleyemeyiz. 
 
-(Zîneb) bu yüzden *beni neden görüşmeye çağırdılar?* diye düşünüyordu. Bir an pişman olacak gibi
+(Zînef) bu yüzden *beni neden görüşmeye çağırdılar?* diye düşünüyordu. Bir an pişman olacak gibi
 hissetti.  
 
 Kendisi 250-300 kişilik, hepsi bekar kadından oluşan bir
 *radikal feminist* jûmreye üyeydi. Kendi okulları yoktu. Çocukları olmadığı için gerek de
-yoktu. jûmre üyelerine evlenmek yasaktı. Kadınların ezelden üstünlüğüne inanan, erkeklerle tüm iletişimi yasaklayan veya ana tanrıça kültlerine iman eden jûmreler kadar olmasa da, *çocuk edinmeme* ve *evlenmemek* kritik kurallardı. jûmre üyelerinin çoğu vegandı ama (Zîneb) onlardan değildi. 
+yoktu. jûmre üyelerine evlenmek yasaktı. Kadınların ezelden üstünlüğüne inanan, erkeklerle tüm iletişimi yasaklayan veya ana tanrıça kültlerine iman eden jûmreler kadar olmasa da, *çocuk edinmeme* ve *evlenmemek* kritik kurallardı. jûmre üyelerinin çoğu vegandı ama (Zînef) onlardan değildi. 
 
-Görüşmeye gittiği okul Zerkubia'nın büyük müslüman jûmrelerinden birine aitti. 15 yaşına kadar yapılan
+Görüşmeye gittiği okul (Zerkubia)nın büyük müslüman jûmrelerinden birine aitti. 15 yaşına kadar yapılan
 eğitim öğretim *kültür* sayıldığı, kültürün asıl sorumlusu jûmreler olduğu için müfredatın
 içeriğini jûmreler belirliyordu. 
 
 *Müslüman bir okul neden kendine radikal feminist bir Tarih öğretmeni seçsin?*
 
-Belki bilmiyorlardı. Belki başkasıyla karıştırmışlardı. Zerkubia vatandaşlarının jûmreleri gizli bilgi değildi,
+Belki bilmiyorlardı. Belki başkasıyla karıştırmışlardı. (Zerkubia) vatandaşlarının jûmreleri gizli bilgi değildi,
 devlet kurumları hariç tüm kurumların çalışan kriterlerini belirleme hakkı vardı. Bireyin her açıdan
 *eşit* olduğunun iddia edildiği zamanlarda değildik artık. Görüşmeye çağıranlar da kendisinin nasıl bir jûmrede
 yaşadığını biliyor olmalıydı. Zaten başvurunun altına not olarak yazmıştı. *Yeşil
 Feministler jûmresi.*
 
-Bir an *tebliğ yapıp* gönderecekler diye düşündü. (Zîneb) propagandaya maruz kalmaya tahammül edemezdi. Arkadaşlarından birini yine geçenlerde böyle bir iş teklifi için çağırmışlar,
+Bir an *tebliğ yapıp* gönderecekler diye düşündü. (Zînef) propagandaya maruz kalmaya tahammül edemezdi. Arkadaşlarından birini yine geçenlerde böyle bir iş teklifi için çağırmışlar,
 bol miktarda ahiret, cennet ve cehennem geçen bir konuşmaya maruz kalmıştı. Adamların niyeti iş değil de propagandaysa veya yanlışlıkla
 çağırdıklarını görürse kısaca teşekkür edip, ayrılmayı planladı. Zihin gözünde nasıl kalkıp
 kapıdan çıkacağını görmeye çalıştı. jûmre psikologu stresli durumlara girmeden önce kendini
@@ -161,22 +159,22 @@ Odası büyük sayılmazdı. Etrafı fazla ölçüp biçmeye imkan bulamadan *ho
 bakışlarında rahatsızlık sezilmiyordu. *Sanırım kendilerinden birinin başvurmadığını onlar da
 biliyor.*
 
-*Hoşbuldum* diye cevap verdi (Zîneb). *Bir Tarih öğretmeni aradığınızı öğrendim. İş ilanları
+*Hoşbuldum* diye cevap verdi (Zînef). *Bir Tarih öğretmeni aradığınızı öğrendim. İş ilanları
 arasındaydı. Onun için görüşmek istemiştim.*
 
 *Evet, evet* dedi adam. *Dosyanıza bakıyordum ben de. Aynı üniversiteden mezun olmuşuz* dedi
 gülümseyerek. 
 
-*Aa, siz de mi?* dedi şaşıran (Zîneb).
+*Aa, siz de mi?* dedi şaşıran (Zînef).
 
-Müdür odaya bir *ikram robotu* çağırdı. Robot (Zîneb)ye ne içmek istediğini sordu, (Zîneb) *çay
+Müdür odaya bir *ikram robotu* çağırdı. Robot (Zînef)ye ne içmek istediğini sordu, (Zînef) *çay
 varsa alabilirim* dediğinde tıslamalar ve şorultulardan sonra tepesinden bir bardak çay çıkardı.
-Robota teşekkür etmenin tuhaflığını hissetmeden *teşekkür ederim* dedi. Müdür de robottan (Zîneb)in anlamadığı bir çeşit kahve istedi. 
+Robota teşekkür etmenin tuhaflığını hissetmeden *teşekkür ederim* dedi. Müdür de robottan (Zînef)in anlamadığı bir çeşit kahve istedi. 
 
 Bir süre havadan sudan konuştular. Müdür bir yerde *neden sizinle görüşmek istediğimizi merak ediyor
-olmalısınız* diyerek konuya girdi. *Evet* dedi (Zîneb), *umarım bana propaganda yapmak için
+olmalısınız* diyerek konuya girdi. *Evet* dedi (Zînef), *umarım bana propaganda yapmak için
 çağırmadınız.* Adam güldü. *Hayır, hayır, biz propaganda yapmayız. Bizde öyle şeyler yok. Zaten yeterince büyüdük ve birkaç
-yıl içinde bölünmemiz gerekecek.* *O kadar büyük mü?* dedi (Zîneb). *Evet, neredeyse
+yıl içinde bölünmemiz gerekecek.* *O kadar büyük mü?* dedi (Zînef). *Evet, neredeyse
 doksanbin kişi olduk ve bu hızla giderse yüzbin kişilik büyüklüğe birkaç yıl içinde ulaşmamız
 muhtemel. Devlet bizi bölmeden kendimiz bölünelim istiyoruz.*
 
@@ -186,7 +184,7 @@ Bölünen jûmrenin kaynaklarının üçte birine devlet el koyuyor, kalanını 
 hepsine rastgele yöneticiler atıyordu. Bu durum jûmreler için üç-altı ay sürecek bir zorluk demekti.
 Onun için o noktadan önce kendileri bölünüp başka bir jûmre kuruyorlardı. 
 
-*Organik bağınız olmasa da gönül bağınız olmaya devam ediyordur* dedi (Zîneb). *Tabii ki, bizim
+*Organik bağınız olmasa da gönül bağınız olmaya devam ediyordur* dedi (Zînef). *Tabii ki, bizim
 bütün müslümanlarla gönül bağımız var* dedi müdür. *Ama insan psikolojisi gereği bir defa
 bölündüğümüzde artık farklı takımların oyuncuları oluyoruz. Ben gençliğimde de bir bölünme geçirdim
 ve diğer tarafta kalan arkadaşlarım oldu, arada sırada görüşsek de sonradan bağ zayıflıyor.*
@@ -201,31 +199,31 @@ değerli öğretmenlerimiz var. Ancak son zamanlarda öğretmenlerimizin sosyal 
 ne kadar korktuğunu anlamıştı. *Bir mensubumuz daha olsun diye ona maaş vermek biraz
 pahalıya malolur* dedi ve yine güldü. 
 
-Maaş konusu açılınca (Zîneb) devam etti. *Ne kadar maaş düşünüyorsunuz?* Müdürün şaşıracağını düşünüyordu ama
+Maaş konusu açılınca (Zînef) devam etti. *Ne kadar maaş düşünüyorsunuz?* Müdürün şaşıracağını düşünüyordu ama
 adamın yüz ifadesi hiç değişmiyordu. *Binsekizyüz sester civarında düşünüyoruz.* dedi
-müdür. *Genelde sizin tecrübenizde olan biri için bu civarda maaşlar* diyerek ekledi. (Zîneb)
+müdür. *Genelde sizin tecrübenizde olan biri için bu civarda maaşlar* diyerek ekledi. (Zînef)
 önceki işinden ne kadar aldığını sorsa *binbeşyüz* demeyi düşünüyordu. İsteyeceği maaş tam bu
 kadardı. *Başka sorunuz var mı?* diye devam etti adam. 
 
-*Bilmem gereken başka bir şey var mı?* diye sordu (Zîneb). *Karar vermeden önce görmem gerektiğini
+*Bilmem gereken başka bir şey var mı?* diye sordu (Zînef). *Karar vermeden önce görmem gerektiğini
 düşündüğünüz bir şey.* 
 
-*Kıyafet konusu kafanıza takılıyor olabilir* dedi Müdür. (Zîneb) bunu unutmuştu. *Evet* dedi
+*Kıyafet konusu kafanıza takılıyor olabilir* dedi Müdür. (Zînef) bunu unutmuştu. *Evet* dedi
 sessizce. *Başımı örtmem gerekecek mi?* 
 
 Müdür bu sefer sesli güldü. *Hayır, hayır, jûmre şartı bile değil bu. Sadece ilgilendiğiniz çocukların ergenlik
 dönemlerinde olduğunu ve kıyafetinize ilgilerinin, ne dediğimi anlıyorsunuz, alıştığınızdan farklı olabileceğini
 gözönünde bulundurmanızı isteriz. Gördükleri ilk örtünmeyen öğretmen siz olmayacaksınız. Yine de 
 kadın imgeleri örtülü ve malum, bu dönemlerde çocukların neler
-yapacağı belli olmuyor.* (Zîneb) anlamış gibi başını salladı. *Sınıflar cinsiyete göre ayrı mı?*
+yapacağı belli olmuyor.* (Zînef) anlamış gibi başını salladı. *Sınıflar cinsiyete göre ayrı mı?*
 dedi. *Evet* dedi Müdür, *sadece sınıflar ayrı, diğer bazı okullar gibi
 ayrı binalarda değiller.*
 
-*Peki, bir sınava falan girecek miyim* dedi (Zîneb). *Evet, birazdan, umarım
-hazırsınızdır* dedi Müdür. *Sizden biraz Zerkubia tarihi dinleyeceğiz. Yakın branşlardan öğretmen
+*Peki, bir sınava falan girecek miyim* dedi (Zînef). *Evet, birazdan, umarım
+hazırsınızdır* dedi Müdür. *Sizden biraz (Zerkubia) tarihi dinleyeceğiz. Yakın branşlardan öğretmen
 arkadaşlar da olacak ve aradığımız öğretmen olup olmadığınızı onlarla beraber değerlendireceğiz.*
 
-(Zîneb) derse hazırlanmamıştı. Okullar önce yazılı sınav yaparlardı. Adayları *elektriksiz
+(Zînef) derse hazırlanmamıştı. Okullar önce yazılı sınav yaparlardı. Adayları *elektriksiz
 ortam* bir odaya doldurup bilgi ölçen sınavlar. *İlk defa başıma geliyor böyle bir şey* dedi. 
 
 *Biz sınav odaklı çalışan bir okul değiliz. Ortak sınavı geçecek kadar bilgiyi
@@ -233,39 +231,39 @@ zaten vereceğinizi düşünüyoruz. Onun için ne kadar hızlı test çözüp, 
 iyi cevapladığınızı ölçmek istemiyoruz. Aslında ben bu ders anlatma sınavlarına öğrencileri de
 almak istiyorum.* dedi. 
 
-(Zîneb) adamdan yayılan rahatlık dalgasının farkındaydı. Kapıdan ilk adım attığı zamana
+(Zînef) adamdan yayılan rahatlık dalgasının farkındaydı. Kapıdan ilk adım attığı zamana
 nazaran kendisinin de ne kadar rahatlamış olduğunu farketti. *Size işe alınıp alınmadığınızı bugün
 söyleyemem. Daha doğrusu alınmazsanız söyleyebilirim ancak öğrencileri de topladığımız bir Tarih dersi
 anlattıralım. Sonra sizi puanlamalarını isteyeceğim ama bugün öğretmen arkadaşlar değerlendirecek*
 dedi. 
 
-*Nerede anlatacağım?* dedi (Zîneb). Ne anlatacağını düşünmeye başlamıştı. 
+*Nerede anlatacağım?* dedi (Zînef). Ne anlatacağını düşünmeye başlamıştı. 
 
 *Saat 11'de C3 sınıfında* dedi Müdür. *O zamana kadar kafeteryada misafirimiz olun. Robota benim
 misafirim olduğunuzu söyleyin* dedi. Adamın sadece konuşurken kesilen gülümsemesinden 
 görüşmenin bittiğini anladı. Aklına gelmiş gibi *isterseniz bir mihmandar robot da verebilirim ama
-akıllı saatiniz yolu gösterir* dedi. *Teşekkür ederim* dedi (Zîneb). Kalktı ve
+akıllı saatiniz yolu gösterir* dedi. *Teşekkür ederim* dedi (Zînef). Kalktı ve
 odadan çıktı. 
 
 ## 2
 
 Dersin yapılacağı söylenen odada sekiz dokuz kişi vardı. Dört erkek, beş kadın. Kadınlardan ikisinin
-başı açıktı. Normal giyinmişlerdi. Dışarıda görseniz müslüman demezdiniz. (Zîneb) içeri
+başı açıktı. Normal giyinmişlerdi. Dışarıda görseniz müslüman demezdiniz. (Zînef) içeri
 girdiğinde beyaz takkesinde sarı taşlar olan öndeki adam kalkarak *hoşgeldiniz* dedi. *Bu
-takkeler kesinlikle rütbe işareti* diye düşündü (Zîneb). Adam adının Ahmet olduğunu, kendisinin de
+takkeler kesinlikle rütbe işareti* diye düşündü (Zînef). Adam adının Ahmet olduğunu, kendisinin de
 Tarih öğretmeni olduğunu söyledi. *Buradaki arkadaşlar da Tarih ve diğer sosyal bilimler
 derslerinden* dedi. *Dersten sonra tanışırız inşallah.* Bu arada Müdür içeri girdi, *selamün aleyküm
 arkadaşlar* dedi. Ahmet *aleyküm selam hocam* dedi. Müdür de sandalyelerden birine oturdu.
 
-*Nereden başlayalım?* dedi Müdür öğretmenlere dönerek. Elindeki tablete bakıp *(Zîneb) Humanist ve Feminist bir jûmreden. Biz de kendilerinin gözünden tarih nasıl anlatılıyor, bunu öğrenmek istiyoruz.* diye devam etti. *Ben şahsen devrim öncesi ve sonrasını karşılaştırıp, yorumlamasını beklerim. Sizin için de uygunsa* diye dönerek öğretmenlere baktı. Öğretmenler başlarını sallayarak *uygun* dediler.
+*Nereden başlayalım?* dedi Müdür öğretmenlere dönerek. Elindeki tablete bakıp *(Zînef) Humanist ve Feminist bir jûmreden. Biz de kendilerinin gözünden tarih nasıl anlatılıyor, bunu öğrenmek istiyoruz.* diye devam etti. *Ben şahsen devrim öncesi ve sonrasını karşılaştırıp, yorumlamasını beklerim. Sizin için de uygunsa* diye dönerek öğretmenlere baktı. Öğretmenler başlarını sallayarak *uygun* dediler.
 
-*Tarihi o kadar farklı anlatmıyoruz* dedi (Zîneb). *Afedersiniz, ben buna hazırlıklı gelmedim,
+*Tarihi o kadar farklı anlatmıyoruz* dedi (Zînef). *Afedersiniz, ben buna hazırlıklı gelmedim,
 o nedenle genel hatlarıyla anlatacağım ve ben de sizin nerelerde farklı
 düşündüğünüzü öğrenmek isterdim* dedi. *Bunu zaman içinde öğrenirsiniz herhalde* dedi Müdür,
 *bugünlük öğrenme sırası bizde.*
 
-*Zerkubia devrimi kullandığımız takvimin başlangıcıdır. Yani devrim ne zaman oldu diye
-düşünmeye gerek yok, takvime bakıp bunu görebiliriz* diye başladı (Zîneb) *ancak biz ilgilendiren
+*(Zerkubia) devrimi kullandığımız takvimin başlangıcıdır. Yani devrim ne zaman oldu diye
+düşünmeye gerek yok, takvime bakıp bunu görebiliriz* diye başladı (Zînef) *ancak biz ilgilendiren
 kısımlar devrimden önce hayatın nasıl olduğu ve devrimin neleri değiştirdiği.* 
 
 *Devrimden önce dünyada iki grup insan vardı, plebler ve plutokratlar, yönetilenler ve yöneticiler.
@@ -278,7 +276,7 @@ destekleyenler
 plutokratlardı. Kendileri nadiren hikayenin parçası olurlar, görünmeden yönetmeye devam ederlerdi. Seçimler olsa da, plutokratların desteğini almayan
 birinin ülkelerin politikalarında söz sahibi olması mümkün değildi. 
 
-(Zîneb) dinleyenlerin yüz ifadelerinden mutabık oldukları sonucunu çıkardı. 
+(Zînef) dinleyenlerin yüz ifadelerinden mutabık oldukları sonucunu çıkardı. 
 
 Devrimden önceki devlet düzenlerine *oligarşi* diyoruz. Onlar kendilerine *demokrasi*
 diyorlardı. *Demokrasi* kelime anlamıyla *halk yönetimi* demek olduğu halde, asıl yönetim farklı
@@ -286,7 +284,7 @@ cihazlar yoluyla plutokratların elindeydi.
 
 *Neden oligark demiyoruz?* diye sordu Müdür, yarı meraklı, yarı sınava tabi tutar gibi. 
 
-*Çünkü Plutokratlar organik bağları olan bir grup değildi* dedi (Zîneb), *Plutokrasi zenginlerin
+*Çünkü Plutokratlar organik bağları olan bir grup değildi* dedi (Zînef), *Plutokrasi zenginlerin
 yönetimi demek ve bu yönetimde olanlar sadece zengin değildi, değişik türde etkileri olanlar da
 vardı ancak tüm siyasi düzende kukla oynatıcısı Plutokratlardı.* 
 
@@ -294,7 +292,7 @@ vardı ancak tüm siyasi düzende kukla oynatıcısı Plutokratlardı.*
 kendilerine ayırıp, kadınları plebleştirdiğini anlatıyoruz* dedi çekinik bir sesle. 
 
 (Ahmet) *biz de genelde gayrimüslim olduklarını ve müslümanlara karşı komplo yaptıklarını
-anlatıyoruz* dedi gülerek. (Zîneb) de bu cevaba güldü. 
+anlatıyoruz* dedi gülerek. (Zînef) de bu cevaba güldü. 
 
 *Herkes dünyanın gidişatının kötü olduğunu görüyordu. Plebler arasında ise bir
 çözüm bulunamıyordu çünkü akıllara gelen ulus, din, renk, cinsiyet ve kabile gibi bölümlere
@@ -314,7 +312,7 @@ mücadelesinde ekonomik değer üretebilirlerse hayatta kalabiliyordu. Bir pleb 
 kadar iyi yaşayabileceğinizi plutokratların oyununda ne kadar iyi piyon olduğunuz belirliyordu. Bu
 politikacı ve devlet yöneticileri için bile böyleydi.*
 
-*Zerkubia devrimi plutokrasinin dayandığı miras mekanizmasını kaldırdı. Tarihi çalışmalarda o
+*(Zerkubia) devrimi plutokrasinin dayandığı miras mekanizmasını kaldırdı. Tarihi çalışmalarda o
 dönemki insanların perdenin önündeki ve arkasındaki kişilerle ilgili hipotezler geliştirdiğini
 okursunuz. Kimisi bazı ailelerin dünyayı yönettiğini, kimisi gizli örgütlerin, kimisi devletlerin
 gizli servislerinin, hatta kılık değiştirmiş uzaylıların yönettiğini anlatır.*
@@ -338,19 +336,19 @@ yapay hale geldikçe farklı hikayelere ihtiyaç duyar hale geldiler.
 Plutokratlar devlet bürokrasisini de idare ediyorlardı. Hiçbir yöneticinin, şantaj yapılma ve
 kariyerini sonlandırma imkanı veren kirli çamaşırı yoksa etkili konumlara yükselmesi mümkün değildi. Suçlu olmaları,
 haydut olmaları bir eksi değil, bir artıydı. Seçilmiş yönetici sınırlarını
-aşarsa kullanabilecekleri zaafları olmasına dikkat ediyorlardı. Zerkubia devrimi iki temel
+aşarsa kullanabilecekleri zaafları olmasına dikkat ediyorlardı. (Zerkubia) devrimi iki temel
 üzerine kuruldu bu yüzden. Birincisi bu gibi plutokrat ailelerin perde gerisinden dünyayı
 yönetmesine yarayan mekanizmayı yok etti ve ikincisi insanların arasına ezeli bir anlaşmazlık
 sebebi olan *ölümsüzlük hikayelerini* jûmreler vasıtasıyla düzenledi. İnsanlara bunun için kavga
 etmeden hayat tarzlarını değiştirme ve seçme imkanı sağladı. Farklı ölümsüzlük hikayelerine sahip
 bireylerin aynı toplumda yaşamalarına imkan verdi.
 
-Devrime ait fikirlerin tam olarak ne zaman başladığını bilinmiyoruz. (Sod) adıyla
+Devrime ait fikirlerin tam olarak ne zaman başladığını bilinmiyoruz. (Serod) adıyla
 bildiğimiz birinin etrafındaki topluluğa bunlara benzer fikirler anlattığını biliyoruz. 
 Bu fikirler yayıldı ancak tarih boyunca tüm eşitlik taleplerine çelme takmaya çalışan
 ataerkil düzenin engellemesiyle karşılaştı. 
 
-(Zîneb) bunları söylerken karşısındaki bakışların değiştiğini gördü. Gülümsemelerin bir kısmı
+(Zînef) bunları söylerken karşısındaki bakışların değiştiğini gördü. Gülümsemelerin bir kısmı
 yerini şaşkınlığa bırakmıştı. 
 
 İnsanların çoğunluğu aile kavramını ataerkil düzenin devamıyla ilgili
@@ -358,9 +356,9 @@ görüyordu. Bunun temel taşlarından biri miras kavramıydı. Tarih boyunca er
 mallarını *oğullarına* bırakmışlardı. Ailenin temelinin, reisinin erkek olması fikri değişmedi. Plutokrasinin temelinde de erkeklerin babadan
 oğula geçen ekonomik özgürlüğü yer alıyordu. 
 
-Zerkubia hukuku şirketler gibi üretim organizasyonlarının ve toprak ve maden gibi doğal kaynakların
+(Zerkubia) hukuku şirketler gibi üretim organizasyonlarının ve toprak ve maden gibi doğal kaynakların
 miras bırakılamayacağını söyler. Devrimden önce bunlar plutokrasinin elindeydi ve bir toplumda
-sınıflar netleştikten sonra ancak kanlı devrimlerle, bu kaynakları önemli ölçüde zarara uğratarak elde edilebiliyorlardı. Zerkubia anayasasında *Mülkiyet emanettir ve emanetler onu en iyi koruyup geliştireceklere verilir* şeklinde bir prensip vardır. Buna göre gerek doğal kaynaklar, gerekse şirketler onları en iyi şekilde değerlendirecek insanların mülkiyetinde olmalıdır. Bir insan babasından veya ailesinden dolayı avantajlı olduğu için bu kaynaklara erişmesi adalet değildir. Bu insanların çoğunun sahip oldukları bu imkanları değerlendirecek en iyi kişiler olmadıklarını görürüz. Devrimden önce bu gibi kaynaklara miras yoluyla erişenler, plutokrasi dışından maaş karşılığı çalışacak birini bulmak dışında hiçbir şey yapmazlardı. Bu da plutokrasi dışındaki kalabalıkların hemen hiçbir zaman kendilerine servet edinemedikleri bir ekonomik düzene yol açmıştı. Plutokrasinin dışında doğmuş yetenekli insanların yapabilecekleri plutokrasinin oyununda kullanılmaktan ibaretti. Kurulan düzende ilerlemek için zaten ilerlemiş bir ailede bulunmak gerekiyordu. 
+sınıflar netleştikten sonra ancak kanlı devrimlerle, bu kaynakları önemli ölçüde zarara uğratarak elde edilebiliyorlardı. (Zerkubia) anayasasında *Mülkiyet emanettir ve emanetler onu en iyi koruyup geliştireceklere verilir* şeklinde bir prensip vardır. Buna göre gerek doğal kaynaklar, gerekse şirketler onları en iyi şekilde değerlendirecek insanların mülkiyetinde olmalıdır. Bir insan babasından veya ailesinden dolayı avantajlı olduğu için bu kaynaklara erişmesi adalet değildir. Bu insanların çoğunun sahip oldukları bu imkanları değerlendirecek en iyi kişiler olmadıklarını görürüz. Devrimden önce bu gibi kaynaklara miras yoluyla erişenler, plutokrasi dışından maaş karşılığı çalışacak birini bulmak dışında hiçbir şey yapmazlardı. Bu da plutokrasi dışındaki kalabalıkların hemen hiçbir zaman kendilerine servet edinemedikleri bir ekonomik düzene yol açmıştı. Plutokrasinin dışında doğmuş yetenekli insanların yapabilecekleri plutokrasinin oyununda kullanılmaktan ibaretti. Kurulan düzende ilerlemek için zaten ilerlemiş bir ailede bulunmak gerekiyordu. 
 
 10 kişinin oynadığı bir ekonomik oyunda, bir plutokrat kaynakların %90'ını elinde tutuyor, diğer
 dokuz oyunca kalan %10'u paylaşıyordu. Bu sebeple plutokratların zenginliği giderek artarken,
@@ -400,20 +398,20 @@ olduğunu iddia etmekle aynı etkiyi yaratıyordu.
 Burada durdu. Son dakikaları neredeyse nefes almadan anlatmıştı. Karşısındaki yüzlerde bir
 değişiklik yoktu. Ne düşünüyorlardı acaba? Bir nefes alıp devam etti. 
 
-Zerkubia devrimi Komünistlerin aradığı *eşitliği* yine onların aksattığı ekonomik özgürlükle beraber
+(Zerkubia) devrimi Komünistlerin aradığı *eşitliği* yine onların aksattığı ekonomik özgürlükle beraber
 sundu. Devrimden önce bireyin temel ihtiyaçlarının toplumun genelini ilgilendiren bir sorun olduğunu
 söylemek *sosyalistlik* olarak görülüyordu. Bu da tüm ideolojik araçlarıyla beraber geldiği için
 insanlarla ilgili temel sorunları bile konuşmak büyük bir ideolojik yük almak demekti. Hem
 insanların temel ihtiyaçlarının devlet tarafından karşılanması gerektiğini söyleyip, hem *sosyalist*
 veya *komünist* damgası yemeden durmak mümkün değildi. Üçüncü bir yolun varlığını konuşmak, hem
-ekonomik özgürlüğün, hem temel ihtiyaçların toplumca karşılanmasını konuşmak için (Sod)u beklemek
+ekonomik özgürlüğün, hem temel ihtiyaçların toplumca karşılanmasını konuşmak için (Serod)u beklemek
 gerekti. 
 
-(Sod) doğal kaynaklar ve şirketler üzerindeki miras mekanizmasının hem ekonomik özgürlüğü, hem de
+(Serod) doğal kaynaklar ve şirketler üzerindeki miras mekanizmasının hem ekonomik özgürlüğü, hem de
 sosyal adaleti yok ettiğini farketti. Özgürlüğü yok ediyordu çünkü bir defa sınıflaşan toplumlarda
 ekonomik imkanlar daralıyordu. Sosyal adaleti yok ediyordu, çünkü gücü bir defa elinde bulunduran
 bunu gücünü daha da arttırmak için kullanıyor ve bu da toplumun kalabalık kesiminin payına hiçbir
-şey düşmemesine sebep oluyordu. Ancak (Sod) konunun Komünist ve Anarşistler gibi *mülkiyeti yok
+şey düşmemesine sebep oluyordu. Ancak (Serod) konunun Komünist ve Anarşistler gibi *mülkiyeti yok
 ederek* çözülemeyeceğine inanıyordu. Mülkiyet bir formda yok edilse de, başka formlarda, devlet
 eliyle yeniden yaratılmak zorundaydı. 
 
@@ -421,13 +419,13 @@ Komünist ve Anarşistler *Mülkiyet* kavramının sadece *ürettiği haklar* k�
 mülkiyetin bir de *görev* kısmı vardı. Bir şirketi olan insanın bunu satmaya, kar etmeye, iş
 yapmaya, başkalarını çalıştırmaya hakkı vardı ancak şirketini kar etmeyen
 faaliyetlere sokmayarak verimli tutmak gibi de bir vazifesi vardı. Bu vazifeyi yerine
-getirmeyen şirketler şirket olmaktan çıkıyordu. (Sod) Komünistlerin insanlardan *mülkiyet haklarını*
+getirmeyen şirketler şirket olmaktan çıkıyordu. (Serod) Komünistlerin insanlardan *mülkiyet haklarını*
 alıp, *mülkiyet vazifesini* bürokrasi yoluyla ikame edeceklerini düşünmelerinin anlamsız olduğunu
 söyler. Haklar yine bir şekilde bürokrasi yoluyla dağıtılacak, sorumluluksa aynı şekilde
 dağıtılamayacaktır. Mülkiyetin sorumluluğu dağıtılmadığında sistemin genelinin çalışmayacağını
 söyler. 
 
-Zerkubia devrimi o nedenle *mülkiyet hırsızlıktır* sloganını değil, *mülkiyet emanettir* prensibini
+(Zerkubia) devrimi o nedenle *mülkiyet hırsızlıktır* sloganını değil, *mülkiyet emanettir* prensibini
 kendine temel edinir. Emanet sorumluluk vasfını öne çıkaran bir mülkiyet prensibidir. İnsanların
 mülklerine karşı sorumluluklarını yerine getiremeyeceği görüldüğünde, mülkiyeti sınırsız bir hak
 olarak görmez. Bununla beraber mülkiyet genel olarak sadece ölüm durumunda devletin kontrolüne geçer
@@ -435,7 +433,7 @@ ve o da kısa bir sürede başka sahipler bulması için. *Müsadere* hemen hiç
 
 Karşısındaki öğretmenlerden biri gülerek sordu: *Müsadere nedir?* 
 
-(Zîneb) sorunun bir öğrenciden gelmiş gibi sorulduğunu anladı. *Müsadere devletin bireylerin
+(Zînef) sorunun bir öğrenciden gelmiş gibi sorulduğunu anladı. *Müsadere devletin bireylerin
 malına el koymasıdır. Devletler bunu genelde siyasi sebeplerle yapardı. Siyasi olarak güçlenmeye
 çalışan zenginlerin yoldan çıkmasına engel olmak için bulunan bir yoldu.*
 Öğretmenin mimikleri *doğru cevabı* verdiğini gösteriyordu. Devam etti.
@@ -450,39 +448,39 @@ bağlı olduğu için en büyük itirazlar bunlardan geliyordu. Erkeklar aile re
 vazgeçilmez bir yeri olduğunu ve mirasın da bu reisliğin devamı için elzem olduğunu iddia
 ediyorlardı. *Eğer çocuklarımıza bırakamayacaksak neden işyeri açalım?* çok yaygın bir itirazdı. 
 
-Sod ve etrafındakiler «Süreç Vakıf» adını verdikleri bir vakıf kurdular. Mallarını öldükten sonra
+Serod ve etrafındakiler «Süreç Vakıf» adını verdikleri bir vakıf kurdular. Mallarını öldükten sonra
 vakfa bırakmayı kabul eden üyelerin çocuklarına vakfın gelirini paylaştıracaklarını söylediler.
 Vakıf daha çok toplumun alt kesimlerinden, zaten mirası olmayanlardan rağbet gördü. Bir süre sonra
 kendi kendine yeterli şekilde mensuplarının geride kalanlarına bakabilmeye başladığında bir hareket meydana
 gelmiş oldu. 
 
-Zerkubia devrimini hızlandıran ise Büyük Savaş oldu. Dünyanın o zamana kadar gördüğü en büyük yıkım
-ülkedeki devlet sistemini dağıttı. Savaş sırasında ayakta kalan nadir kurumlardan biri Sod'un
-vakfıydı. Sod savaş bittikten kısa süre sonra öldü ancak vakıf büyümeye devam etti. İç karışıklıklar
-sırasında jûmre sistemi ortaya çıktı. (Sod) öldükten yirmiyedi yıl sonra Vakfın 
-prensiplerine dayanan Zerkubia anayasası kabul edildi. 
+(Zerkubia) devrimini hızlandıran ise Büyük Savaş oldu. Dünyanın o zamana kadar gördüğü en büyük yıkım
+ülkedeki devlet sistemini dağıttı. Savaş sırasında ayakta kalan nadir kurumlardan biri Serod'un
+vakfıydı. Serod savaş bittikten kısa süre sonra öldü ancak vakıf büyümeye devam etti. İç karışıklıklar
+sırasında jûmre sistemi ortaya çıktı. (Serod) öldükten yirmiyedi yıl sonra Vakfın 
+prensiplerine dayanan (Zerkubia) anayasası kabul edildi. 
 
 Buna göre bütün vatandaşların temel ihtiyaçlarını devlet karşılıyor, şirketlerin mülkiyet hakkı
 sahiplerinin ömrüyle sınırlı oluyor ve insanlar yaşam tarzlarını seçebilecek ve farklı sivil
-hukukların uygulanabildiği jûmre isimli yapılar kuruluyordu. Bunlar Zerkubia devriminin getirdiği
+hukukların uygulanabildiği jûmre isimli yapılar kuruluyordu. Bunlar (Zerkubia) devriminin getirdiği
 temel değişiklikler oldu. 
 
 Tarih boyunca devletler iki şekilde gelişmiştir. Çoğu bir suç örgütünden ve mafyavari
 yapılanmalardan evrimleşmiştir. Plutokrasi bu suç örgütlerinin *insan çiftliklerini* ve onların
-ürettiği değeri sömürmeye dayanıyordu. Zerkubia ise bir vakıftan evrimleşen tarihte bildiğimiz ilk
+ürettiği değeri sömürmeye dayanıyordu. (Zerkubia) ise bir vakıftan evrimleşen tarihte bildiğimiz ilk
 devlettir.
 
-Sod vakfı kurduğunda jûmre hukuku yoktu. Ancak o zaman bile *ölümsüzlük hikayesi* adını
+Serod vakfı kurduğunda jûmre hukuku yoktu. Ancak o zaman bile *ölümsüzlük hikayesi* adını
 verdiği konulardan birbiriyle çatışan kültürlerin bir arada yaşaması için düşündüğü ilkelerden
 bahsetmişti. Devletin görevinin ölümsüzlük hikayelerinde taraf olmak değil, bunların birbiriyle adil
 şekilde yarışıp daha doğru, hakikate daha yakın olanı bulmak olduğunu söylemişti. 
 
-Zerkubia bu nedenle bir jûmreler topluluğu gibi tasarlandı. Bu jûmreler iyi mensuplar yetiştirmek ve
+(Zerkubia) bu nedenle bir jûmreler topluluğu gibi tasarlandı. Bu jûmreler iyi mensuplar yetiştirmek ve
 daha kalıcı olmak için bu mensupların hayatlarını belirlemek hakkına sahiptirler. İnsanlar nasıl
 yaşayacaklarını jûmrelerine bakarak karar verir. Devletin görevi jûmrelerin birbirine tasallut
 etmelerine engel olmaktır. 
 
-Zerkubia öncesi ulus devletler her zaman bir ulus miti geliştirip, vatandaşlarına bunu empoze etmek
+(Zerkubia) öncesi ulus devletler her zaman bir ulus miti geliştirip, vatandaşlarına bunu empoze etmek
 zorundaydı. İyi vatandaş yetiştirmek için onlara bulundukları topluluğun *yüksek bir ulus* olduğunu
 anlatmak gerekiyordu. Eski takvimle 21. yüzyıldan başlayarak bu ulus devletlerin çözüldüğünü
 görüyoruz. Her ülkede ulus mitleri sarsılmaya başladı. Ülkeden ülkeye göçler arttı. ulus fikrinin
@@ -500,73 +498,73 @@ Dünya ekonomisini yöneten Plutokratlar daha dolaylı da olsa sosyalist ekonomi
 Devletlerin görevi insanları ideolojik olarak meşgul etmek ve onları gerçek gündemlerden uzak tutmak
 olmuştu.
 
-(Zîneb) karşısında oturan insanların ilgilerinin kaybolduğunu hissetti. *Sanırım ekonomik tarih bu
+(Zînef) karşısında oturan insanların ilgilerinin kaybolduğunu hissetti. *Sanırım ekonomik tarih bu
 kadar yeterli* dedi. *Evet* dedi Ahmet, *ekonomik tarih bizim öğrenciler için biraz fazla oluyor,
 evet.*
 
-(Zîneb) *Bugün Zerkubia'da çok farklı tarih anlatıları sunan jûmreler var* diyerek devam etti. Kimi jûmreler
+(Zînef) *Bugün (Zerkubia)da çok farklı tarih anlatıları sunan jûmreler var* diyerek devam etti. Kimi jûmreler
 kendini Roma İmparatorluğundaki *familias* yapısının devamı olarak görüyor. Bunlar ailelerden
 oluştukları halde, *evlat edinme* yoluyla yeni ve başarılı mensuplar ediniyorlardı. Kimisi *jûmre*
 sisteminin Osmanlı Devleti'ndeki *millet sistemiyle* benzer olduğunu düşünüyor. Millet sistemi
 farklı dinlerdeki toplulukların kendi hukukları içinde yaşamasını sağlıyordu. 
 
-(Zîneb) *Müslümanlar dışındakiler ikinci sınıftı* diyecek oldu ama duraladı. *Feministler olarak
+(Zînef) *Müslümanlar dışındakiler ikinci sınıftı* diyecek oldu ama duraladı. *Feministler olarak
 biz ise tüm sistemin eril tahakküme karşı kurulmuş ve kadınların kendi başlarına yaşamalarına imkan
 veren ve erkeklerin hukukunu değil, kendi hukuklarını uygulamayı sağlayan bir sistem olarak
 anlatıyoruz.* 
 
-Ahmet saatine baktı, sonra müdüre dönüp, *hocam, bu kadar yeterli sanırım* dedi. (Zîneb) de müdüre
-baktı. Müdür *ben aslında sizin Zerkubia devrimine engel olan eril tahakküm dediğiniz şeyin tam
+Ahmet saatine baktı, sonra müdüre dönüp, *hocam, bu kadar yeterli sanırım* dedi. (Zînef) de müdüre
+baktı. Müdür *ben aslında sizin (Zerkubia) devrimine engel olan eril tahakküm dediğiniz şeyin tam
 olarak ne olduğunu soracaktım ama daha sonra konuşalım* dedi. 
 
-*Eril tahakküm* diye mırıldandı (Zîneb) ama devamını *sizin şurada müdür olarak oturmanız* diye
+*Eril tahakküm* diye mırıldandı (Zînef) ama devamını *sizin şurada müdür olarak oturmanız* diye
 bitirmedi. 
 
 Öğretmenlerden biri *bizim anlattığımızdan pek de farklı bir tarih yokmuş sizde.* dedi. *Sanırım biraz yumuşattınız. Biz daha feminist bir tarih bekliyorduk.*
 
-(Zîneb) *biraz yumuşatmış olabilirim* dedi. *Zerkubia'da hem jûmrenin kendi tarih
+(Zînef) *biraz yumuşatmış olabilirim* dedi. *(Zerkubia)da hem jûmrenin kendi tarih
 anlatısı var ama bizde çocuk ve okul olmadığı için bu konularda önemli bir fark bulmuyoruz. Bugünün
 dünyasını kadınlar için değiştirmek daha önemli geliyor* dedi. Nazik ama tedirgindi. 
 
-Müdür odadaki nöbetçi robota dönüp *Bizim müfredatı (Zîneb)e gönderelim* dedi. Robot *Posta
-adresi* diye bir adres söyledi, (Zîneb) başını salladı, Müdür de robota *tamam* dedi. *Buradan
+Müdür odadaki nöbetçi robota dönüp *Bizim müfredatı (Zînef)e gönderelim* dedi. Robot *Posta
+adresi* diye bir adres söyledi, (Zînef) başını salladı, Müdür de robota *tamam* dedi. *Buradan
 bakabilirsiniz müfredata, sizinle bir sonraki görüşmede öğrencilere ders anlattıracağız. Bu sefer
 materyal de hazırlayabilirseniz iyi olur* dedi. Öğretmenlere dönüp *başka bir soru yoksa ben
-çıkıyorum* dedi. Herkes (Zîneb)e selam vererek çıktı.
+çıkıyorum* dedi. Herkes (Zînef)e selam vererek çıktı.
 
-Başörtülü öğretmenlerden biri yanına gelip *merhaba, adım (Hattice)* diye kendini tanıttı. *Güzel bir giriş dersiydi, teşekkür ederim.* (Zîneb) kendini inceleniyormuş
-gibi hissetse de *rica ederim* diye karşılık verdi. *Ben sosyoloji öğretmeniyim, Zerkubia
+Başörtülü öğretmenlerden biri yanına gelip *merhaba, adım (Hattice)* diye kendini tanıttı. *Güzel bir giriş dersiydi, teşekkür ederim.* (Zînef) kendini inceleniyormuş
+gibi hissetse de *rica ederim* diye karşılık verdi. *Ben sosyoloji öğretmeniyim, (Zerkubia)
 sosyolojisi malum hep jûmrelerle ilgili, sizinkinin nasıl işlediğini ve hukukunuzu merak ettim biraz
 da* dedi kadın. İncelenme hissi doğruydu. *Ben Yeşil Feministler isimli bir jûmreye mensubum. Büyük bir
 grup değiliz, 400-500 kişi kadarız sanırım. Hepimiz kadınız.*
 
 (Hattice) başını salladı. *Hiç erkek yok mu?* dedi merakla. *Onlarla ilgili sorunlar da* dedi
-(Zîneb), güldüler. 
+(Zînef), güldüler. 
 
 Bir yandan kafeteryaya doğru çıkarken bir yandan konuştular. *Biraz bilgi almak isterim aslında*
 dedi (Hattice). (İstatistik Dairesi) bilgi veriyor ama genelde bir mensubu görmek kadar etkili
 olmuyor bende. Sanırım eski kafalı bir sosyologum, veri merkezli sosyoloji yapamıyorum dedi. Tasdik
-bekliyor gibiydi. *Aa, anlıyorum* dedi (Zîneb), *artık robotlar olmadan hiçbir sosyal bilim
+bekliyor gibiydi. *Aa, anlıyorum* dedi (Zînef), *artık robotlar olmadan hiçbir sosyal bilim
 yapılamıyor* dedi. *Evet ama insanları tanımak daha önemli geliyor bana. Demek erkek yok jûmrenizde.
 Böyle bir iki jûmre duymuştum. Evlilik de yok o zaman* dedi (Hattice). 
 
 *Kadınlar arası sivil birlik var ama erkeklerle evlilik yok.* *Hepiniz homoseksüel misiniz?* diye
-sordu (Hattice). *Yarı yarıya. Sivil birlik var ama uygulayan az. Ben biseksüelim* dedi (Zîneb).
+sordu (Hattice). *Yarı yarıya. Sivil birlik var ama uygulayan az. Ben biseksüelim* dedi (Zînef).
 (Hattice) *anladım* diyerek başını salladı. *Erkeklerle ilişkileri düzenleyen pek kural yok aslında,
 ilişkileri kendimiz başlatıp bitirebiliyoruz, jûmre dışından oluyorlar tabii. Evlilik yok demiştim.
 Çocuk da yok ve onlarla ilgili de pek kural yok. Eski evliliklerinden veya klonlamayla çocuk sahibi
 olmuş kadınlar var ama onlar da başka jûmrelerin okullarına gidiyor.* *Hmm* dedi (Hattice) bir şey
 düşünüyormuş gibi. 
 
-*Erkekler olmayınca pek çok karmaşıklık da olmuyor* dedi (Zîneb). 
+*Erkekler olmayınca pek çok karmaşıklık da olmuyor* dedi (Zînef). 
 *Öyle* dedi (Hattice). *Toplanma merkeziniz var mı?* *Pazar günleri toplanıyoruz, merkezimiz
 (Cebrilye)de. Buraya 30 kilometre kadar.* *Biliyorum* dedi (Hattice). *Oralarda bizim de bir
 mescidimiz var.* 
 
-(Zîneb) kızın konuşmak ister gibi bir hali olduğunu düşündü. 
+(Zînef) kızın konuşmak ister gibi bir hali olduğunu düşündü. 
 
 -- *Bu sanırım sekiz veya dokuzuncu okul, başvurduğum* dedi. 
--- *Aa, diğerleri olmadı mı?* *Radikal bir feminist olmanın bazı dezavantajları var* dedi (Zîneb). *Erkekler tarihlerini bizden öğrenmek istemiyorlar.*
+-- *Aa, diğerleri olmadı mı?* *Radikal bir feminist olmanın bazı dezavantajları var* dedi (Zînef). *Erkekler tarihlerini bizden öğrenmek istemiyorlar.*
 -- *Evet, öyle bir durum olabilir, bizimkiler de çeşni olsun diye kabul edecek sanırım.* 
 -- *Kabul edecekler mi sence?* 
 -- *Bana olumlu geldi havaları. Çok aykırı bir şey anlatmadın.* 
@@ -574,12 +572,12 @@ mescidimiz var.*
 -- *Ben sosyologum, zaten çocukların hep kendi diskurumuz öğrendiğinden şikayetçi olan bendim biraz. Dönem sonu toplantısında konuştuk bunu. Çocukların
 dünyaya bakışı devrimden önceki herhangi bir müslümanın bakışından farklı değil.*
 
--- *Peki neden böyle bir bakışa ihtiyaç duysunlar ki? Kendi kendinize yetmiyor musunuz? Dünyanız yeterince büyük görünüyor* dedi (Zîneb).
+-- *Peki neden böyle bir bakışa ihtiyaç duysunlar ki? Kendi kendinize yetmiyor musunuz? Dünyanız yeterince büyük görünüyor* dedi (Zînef).
 
--- *Evet, Zerkubia modelinde kimsenin jûmresi kimseyi ilgilendirmiyor, istersek taş devrinde de
+-- *Evet, (Zerkubia) modelinde kimsenin jûmresi kimseyi ilgilendirmiyor, istersek taş devrinde de
 yaşayabiliyoruz.* 
 
-(Zîneb) güldü ama bunun bir cevap olmadığını belli edecek şekilde boynunu hafifçe uzattı. 
+(Zînef) güldü ama bunun bir cevap olmadığını belli edecek şekilde boynunu hafifçe uzattı. 
 
 -- *Genel olarak nüfusumuz artıyor ama başarılı öğrencilerin pek çoğunun jûmreden koptuğunu görüyoruz.
 Üniversitede tanıştıkları yeni fikirler onlara cazip geliyor. jûmre olarak güçlüyüz ama fikir üretme
@@ -618,21 +616,21 @@ görmemesi mi bilmiyorum. Erkekler burada daha az aldatıyor. Amacı ikinci bir 
 olsa bile bunu açıktan, hukuki olarak yapmak istemiyorlar. İlk eşleriyle evlenmek bile zor geliyor
 zaten.*
 
-*Bunu başka birinden de duymuştum* dedi (Zîneb). *Polijini hakkı erkekleri evlenmek zorunda
+*Bunu başka birinden de duymuştum* dedi (Zînef). *Polijini hakkı erkekleri evlenmek zorunda
 bırakıyor ve evlenmek istemedikleri için aldatmıyorlarmış. Aldattığı kadına
 söyleyecek bir bahanesi kalmıyor* diyorlar. 
 
 *Evet. Bizde evlilik dışında erkeklerin kadınlarla görüşmesi de yasak. Erkeklerin jûmre dışından
 biriyle evliliği de. Robot eşler de yasak.*
 
-*Onlar da mı yasak?* (Zîneb) şaşırmıştı. *Bu çağın nimetlerinden herkesin eşit faydalandığını
+*Onlar da mı yasak?* (Zînef) şaşırmıştı. *Bu çağın nimetlerinden herkesin eşit faydalandığını
 düşünüyordum.* 
 
 (Hattice) güldü. *Erkeklerin evlilik öncesi yasakları daha fazla. Baktıkları her ekran kontrol
 altında, her sosyal anlarını bir kaydeden var. Bundan kurtulmanın tek yolu evlenmek ve çoğu 19-20
 yaşını geçirmiyor.*
 
-*Kadınlar?* diye sordu (Zîneb). 
+*Kadınlar?* diye sordu (Zînef). 
 
 *Onaltı, onyedi*
 
@@ -653,10 +651,10 @@ konularını düzenleyenler aileler oluyor.*
 
 *Boşanma oranları nasıl? Bu kadar erken evlenince.*
 
-*Zerkubia normalinden fazla değil* dedi (Hattice). *Zerkubia normali de, malum, evliliklerin %80'i
+*(Zerkubia) normalinden fazla değil* dedi (Hattice). *(Zerkubia) normali de, malum, evliliklerin %80'i
 boşanmayla bitiyor.*
 
-*Kadın güçlendiğinde yaşamıyor evlilikler hiçbir yerde* diye bir gözlemde bulundu (Zîneb).
+*Kadın güçlendiğinde yaşamıyor evlilikler hiçbir yerde* diye bir gözlemde bulundu (Zînef).
 
 *Evet. Kadınların kendi ayakları üstünde durması çok kolay. Zaten devlet destekliyor. Çocukları
 olunca onun için de yardım alıyorlar. Erkekler de sıkılıyor uzun süren evlilikten. Böylesi herkesin
@@ -692,7 +690,7 @@ ediyorlar ve bu kutuplar birbirinden ne kadar uzak kalırsa, birleştiklerinde d
 diyorlar.*
 
 *Bildiğimiz teraneler. Cinsiyetin iki kutup gibi değil de renk spektrumu gibi hayal edildiğinde ne
-kadar değişiyor her şey. Hem daha sağlam da olmuyormuş işte, evlilikler.* (Zîneb) içinden yükselen
+kadar değişiyor her şey. Hem daha sağlam da olmuyormuş işte, evlilikler.* (Zînef) içinden yükselen
 agresifliğe engel olmaya çalışıyordu. 
 
 (Hattice) alınmışa benzemiyordu. Bu gibi konuşmaları çok yapmış gibi. *Sadece kendimizden ibaret
@@ -708,11 +706,11 @@ anlamadım.*
 *Özür dilerim* dedi (Hattice). *Kadın-erkek ilişkilerine sadece iki kişinin arasındaki bir konu gibi
 bakmıyoruz. Onu anlatmaya çalışıyorum.*
 
-*Anladım* dedi (Zîneb). Konuşmanın doğal sınırlarına ulaştığını hissetmişlerdi. Saati vücut
+*Anladım* dedi (Zînef). Konuşmanın doğal sınırlarına ulaştığını hissetmişlerdi. Saati vücut
 sinyallerinden böyle zamanları algılayıp bahane üretmeye ayarlıydı ama vücut sinyalleri o kadar
 bozulmamıştı sanırım. 
 
-Bir an sonra saati *yürümek için çıkman gerekiyor* dedi. (Zîneb) saatine baktı. *Tamam, on dakika
+Bir an sonra saati *yürümek için çıkman gerekiyor* dedi. (Zînef) saatine baktı. *Tamam, on dakika
 sonra* dedi. 
 
 ## 3
@@ -731,7 +729,7 @@ ama şimdi kendi düşünceleriyle başbaşa yürümek istedi.
 *Moralin bozuksa psikologdan randevu ayarlayabilirim* dedi saati. *Sanırım vücut elektriğimi
 gerçekten takip ediyor.* Saate *o kadar değil, zaten bu ayın sonunda gideceğim.* dedi. 
 
-Yol güzeldi. *Bütün yolların yürünebilir olması* temel bir prensipti Zerkubia'da. Bunu sosyal
+Yol güzeldi. *Bütün yolların yürünebilir olması* temel bir prensipti (Zerkubia)da. Bunu sosyal
 anlamda, insanların istedikleri yaşam biçiminde yürümesi şeklinde yorumladıkları gibi düz anlamıyla
 da yorumluyorlardı. Üstü açık bütün yolların kenarında yaya bölümü olurdu. 
 
@@ -803,10 +801,10 @@ haftaki et rasyonuzu bitirdiniz efendim* dedi dolap. *Parayla sipariş ver o zam
 istiyorum.*
 
 Dolapların çoğu (Temel İhtiyaçlar Dairesi) tarafından idare edilir ve insanların yiyecek
-ihtiyaçlarını karşılar. Yiyeceklerin çoğu ücretsizdir. Bir dolaba kimliğini kaydeden bir Zerkubialı
+ihtiyaçlarını karşılar. Yiyeceklerin çoğu ücretsizdir. Bir dolaba kimliğini kaydeden bir (Zerkubia)lı
 aç kalmaz. 
 
-(Zineb) *bu et ihtiyacı nereden geliyor acaba* diye düşündü ama *alışkanlıklar* dışında bir cevap
+(Zînef) *bu et ihtiyacı nereden geliyor acaba* diye düşündü ama *alışkanlıklar* dışında bir cevap
 bulamadı. *Limitleri bile aşmışsın kızım* diye söylendi kendi kendine, güldü sonra.
 
 Yemeğini yedi. Tofu köftesi denen şeyden bir daha yemek istemediğine karar verdi. *Patatesi de iyi
@@ -820,13 +818,13 @@ siyah ruj, siyah tırnaklara dönüştü.
 *Bunları getirebilirler mi?* diye sordu saate. *Bütün kıyafet taşıyıcıları rezerveymiş. Senin gitmen
 gerekiyor* dedi saat. Kıyafet merkezi yakındaydı en azından. 
 
-Zerkubia'da insanların nadiren kendilerine ait kıyafetleri olur. Kendilerine ait evleri, arabaları
+(Zerkubia)da insanların nadiren kendilerine ait kıyafetleri olur. Kendilerine ait evleri, arabaları
 ve eşyaları olmadığı gibi, kendilerine ait kıyafetleri de bulunmaz. Kıyafet merkezlerine gidip
 giyinmek ve giydikten sonra bırakmak mümkündür. Yıkanır, ütülenir ve başka biri tarafından giyilmeye
 hazır hale gelir. Sokakta eski kıyafetli birini görüyorsanız ya Süreç tarafından cezalandırılmış
 biri, ya da bu şekilde dikkat çekmeye çalışan bir manyaktır. 
 
-*Tamam, ben giderim* dedi (Zîneb). *Bana bir scooter çağır en azından*. *Çağırdım. Hadi şimdi
+*Tamam, ben giderim* dedi (Zînef). *Bana bir scooter çağır en azından*. *Çağırdım. Hadi şimdi
 çıkabilirsin* dedi saat. Böyle motive etmeye çalışır gibi konuşmasına bir ayrı sinir oluyordu. 
 
 Kıyafet merkezinde biraz önce seçtiği kombini bir kabinde giyinde. Makyaj odalarından birine girdi.
@@ -854,28 +852,28 @@ Dakikalar geçtikçe gerilmeye başlamıştı. Ekildiğini sanmıyordu, ekenin s
 böyle bir şey ama saniyelere varan dakiklikteki insanlardan biriyle buluşacaktı herhalde. 
 
 Saat 19:00:01'de içeriye kıvırcık saçlı ve gözlüklü bir adam girdi. *Evet, onlardan biri bu* diye
-düşündü (Zîneb.) Adamın kaybettiği gözlüğünü arar gibi bir hali vardı. *Gözlük gözünde halbuki* diye
-düşündü (Zîneb). Adam *merhaba* dedi, *selam* diye cevap verdi. 
+düşündü (Zînef.) Adamın kaybettiği gözlüğünü arar gibi bir hali vardı. *Gözlük gözünde halbuki* diye
+düşündü (Zînef). Adam *merhaba* dedi, *selam* diye cevap verdi. 
 
 Adam tedirgindi. *Sistemin bana hep utangaç erkekler göndermesine bir çare bulmalıyım* diye düşündü.
 Hatta *erkekler göndermesine.* Bu geceyi bu adamla geçirmeyeceğine o an karar verdi, gördükten on
 saniye sonra. 
 
-Sesi ince sayılmazdı ama tedirginlikten ince çıkıyordu. *Ben (Beras)* dedi adam. *Ben Zîneb.* 
+Sesi ince sayılmazdı ama tedirginlikten ince çıkıyordu. *Ben (Beras)* dedi adam. *Ben Zînef.* 
 -- Memnun oldum. 
 -- Ben de. 
 -- İçecek söylediniz mi?
 
-Adamın falsosu buydu. *Fazla nazik. Kesin bir şeyler gizliyor.* Kimisi gelir, on yıldır tanışıyormuş gibi konuşmaya başlar, o da ayrı bir hadsizlik olurdu. (Beras) da yemek ve içecek söyledi. Trüf mantarlı sote ve şekersiz ananas çayı. *Vegan değil* diye düşündü (Zîneb).
+Adamın falsosu buydu. *Fazla nazik. Kesin bir şeyler gizliyor.* Kimisi gelir, on yıldır tanışıyormuş gibi konuşmaya başlar, o da ayrı bir hadsizlik olurdu. (Beras) da yemek ve içecek söyledi. Trüf mantarlı sote ve şekersiz ananas çayı. *Vegan değil* diye düşündü (Zînef).
 
-Sessizliği Zîneb bozdu. *Bu buluşmayı bir hafta sonra hatırlamayacağıma eminim ama başlayalım mı?*
-dedi. *Neye?* dedi adam. Zîneb'in içinden *sevişmeye* demek geldi ve güldü. *Adettendir, sistemin
+Sessizliği Zînef bozdu. *Bu buluşmayı bir hafta sonra hatırlamayacağıma eminim ama başlayalım mı?*
+dedi. *Neye?* dedi adam. Zînef'in içinden *sevişmeye* demek geldi ve güldü. *Adettendir, sistemin
 bizi neden buluşturduğunu anlamaya çalışırız.*
 
 *Ben bu konuda yeniyim* dedi Beras. *Bir yıldır kimseyle buluşmadım. Bu sanırım sağlıksız bulunduğu
 için saatime uyarı geldi. Ben de denemek istedim.*
 
-*Oh* dedi (Zineb) *geçen defa da intihara meyilli birini göndermişti. Psikolog da değilim ama sistem
+*Oh* dedi (Zînef) *geçen defa da intihara meyilli birini göndermişti. Psikolog da değilim ama sistem
 beni öyle görmekte kararlı.*
 
 *Ben sosyoloğum, veri sosyoloğu, ayrıca resim yapıyorum* dedi adam. 
@@ -884,24 +882,24 @@ beni öyle görmekte kararlı.*
 mıydı? Yarım saatten önce mazeretsiz kalkarsa sosyal puanı düşebilirdi. 
 
 *Siyah ruj süren kadınların yüzde onsekizinin aşırı kilo sorunları olduğunu biliyor muydunuz?* diye sordu
-adam. Bunu kendisini aşağılamak için sormamıştı. *Ahahaha* diye gülüyormuş gibi yaptı (Zineb) ama
+adam. Bunu kendisini aşağılamak için sormamıştı. *Ahahaha* diye gülüyormuş gibi yaptı (Zînef) ama
 güldüğü daha çok kendi haliydi. *Sanırım bir istatistik bülteni gibi geçecek konuşma* dedi. 
 
 *Gelirken ruj rengiyle kilo ve psikolojik durum korrelasyonlarına baktım da* dedi, *tanımaya faydası
 olur diye.*
 
-*Hmm, çok ilginç* dedi (Zineb). *Mavi ruj kullansam ne kadar olacaktı kilo sorunum?*
+*Hmm, çok ilginç* dedi (Zînef). *Mavi ruj kullansam ne kadar olacaktı kilo sorunum?*
 
 *Yüzde oniki nokta yetmişbeş* dedi adam. Ciddiyetle. Dalga geçildiğini anlamadan. 
 
-(Zineb) suskunlukla çatallara bakarken yemekler geldi. 
+(Zînef) suskunlukla çatallara bakarken yemekler geldi. 
 
 Servis robotları masayı donattı. (Beras) konuşmak istemiyor gibi duruyordu. *Tarihçiyim ben de* dedi
-(Zineb). Adam nezaketen bile ilgi göstermedi. Bakışları ve ilgisi tamamen yemek üzerindeydi. 
+(Zînef). Adam nezaketen bile ilgi göstermedi. Bakışları ve ilgisi tamamen yemek üzerindeydi. 
 
 *(Züleyman) diye birini okudum geçenlerde* dedi. *İmparatormuş sanırım, büyük bir ülkesi varmış.* 
 
-(Zineb) adamın kimden bahsettiğini anlamadı. *Hangi (Züleyman)* dedi. 
+(Zînef) adamın kimden bahsettiğini anlamadı. *Hangi (Züleyman)* dedi. 
 
 *Pek bilmiyorum, başka (Züleyman) mı var?* dedi (Beras). 
 
@@ -910,11 +908,11 @@ Servis robotları masayı donattı. (Beras) konuşmak istemiyor gibi duruyordu. 
 *Tamam* dedi (Beras). Adam iletişim kurmaya çalışmış ama *tarih bilgisi* buna yetmemişti. Yemeğe
 döndüler. 
 
-Biriyle sessizce oturmak eğer ezelden güvendiği biri değilse, (Zineb)in giderek gerilmesine yol
+Biriyle sessizce oturmak eğer ezelden güvendiği biri değilse, (Zînef)in giderek gerilmesine yol
 açardı. Saatine kulağına sakinleştirici bir müzik göndermesini söyledi. (Beras) bununla da
 ilgilenmemişti. 
 
-*Burada bulunarak sosyal puan almaya mı çalışıyorsun?* dedi (Zineb)? 
+*Burada bulunarak sosyal puan almaya mı çalışıyorsun?* dedi (Zînef)? 
 
 *Ne demek?* 
 
@@ -929,18 +927,18 @@ seyretmeden insanlara tahammül edemiyorum. Çok yavaşsınız.*
 
 *X-Room* dedi (Beras), *eski bir Amerikan dizisi*
 
-*Biliyorum onu. Genelde öyle şeyler mi seyredersin?* dedi (Zineb). 
+*Biliyorum onu. Genelde öyle şeyler mi seyredersin?* dedi (Zînef). 
 
 *Evet. Eski bilim kurgular bana ne kadar saf olduklarını hatırlatıyor.*
 
 Saati yarım saatin dolduğunu haber verdi. 
 
-*Ben kalkıyorum* dedi (Zineb). *Verebileceğim en düşük puanı vereceğimden ve senin bir ruh hastası
+*Ben kalkıyorum* dedi (Zînef). *Verebileceğim en düşük puanı vereceğimden ve senin bir ruh hastası
 olduğunu söyleyeceğimden emin olabilirsin.* Saatine dönüp *yediklerimin parasını öder misin* dedi.
 Saat *ödendi* derken de kalkıp toparlanmaya başladı. *Sistemde bir sorun var, neden bana bu kadar
 hastalıklı insanları gönderiyorlar? Keşke jumre toplantısına gitseydim.*
 
-Adam ilgilenmiyordu. Söylediklerine bir cevap da vermemişti. (Zineb) çıkıştaki barda oturup, kendisi
+Adam ilgilenmiyordu. Söylediklerine bir cevap da vermemişti. (Zînef) çıkıştaki barda oturup, kendisi
 gibi kurasından memnun olmayan biriyle tanışmayı düşündü ama bu da tehlikeliydi. Sosyal skor
 ihtimali olmayınca insanların nasıl davrandığını tahmin edebiliyordu. 
 
