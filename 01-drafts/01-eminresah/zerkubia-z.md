@@ -177,45 +177,50 @@ arasındaydı. Onun için görüşmek istemiştim.*
 Elindeki tabletten başını kaldırmadan *evet, evet* dedi adam. *Dosyanıza bakıyordum ben de. Aynı
 üniversiteden mezun olmuşuz* dedi. 
 
-*Aa, siz de mi?* dedi şaşıran (Zînef).
+*Aa, siz de mi?* dedi şaşıran (Zînef). Sonra biraz da şaşırdığına şaşırdı.
 
-Müdür odaya bir *ikram robotu* çağırdı. Robot (Zînef)ye ne içmek istediğini sordu, (Zînef) *çay
+Müdür odaya bir *ikram robotu* çağırdı. Robot (Zînef)e ne içmek istediğini sordu, (Zînef) *beyaz çay
 varsa alabilirim* dediğinde tıslamalar ve şorultulardan sonra tepesinden bir bardak çay çıkardı.
-Robota teşekkür etmenin tuhaflığını hissetmeden *teşekkür ederim* dedi. Müdür de robottan (Zînef)in anlamadığı bir çeşit kahve istedi. 
+Robota teşekkür etmenin tuhaflığını hissetmeden *teşekkür ederim* dedi. Müdür de robottan (Zînef)in
+anlamadığı bir çeşit kahve istedi. 
 
-Bir süre havadan sudan konuştular. Müdür bir yerde *neden sizinle görüşmek istediğimizi merak ediyor
+Bir süre havadan sudan ve üniversiteye ne zaman gittiklerinden konuştular. Müdür bir yerde *neden sizinle görüşmek istediğimizi merak ediyor
 olmalısınız* diyerek konuya girdi. *Evet* dedi (Zînef), *umarım bana propaganda yapmak için
 çağırmadınız.* Adam güldü. *Hayır, hayır, biz propaganda yapmayız. Bizde öyle şeyler yok. Zaten yeterince büyüdük ve birkaç
 yıl içinde bölünmemiz gerekecek.* *O kadar büyük mü?* dedi (Zînef). *Evet, neredeyse
-doksanbin kişi olduk ve bu hızla giderse yüzbin kişilik büyüklüğe birkaç yıl içinde ulaşmamız
-muhtemel. Devlet bizi bölmeden kendimiz bölünelim istiyoruz.*
+doksanbin kişi olduk ve bu hızla giderse yüzbin kişilik büyüklüğe birkaç yıl içinde ulaşacağız.
+Devlet bizi bölmeden kendimiz bölünelim istiyoruz.*
 
-jûmrelerin yüzbin kişiden fazla büyümemesi anayasal bir kuraldı. Bu büyüklüğe ulaşınca üç ay içinde
-bölünmesi gerekiyor, eğer onu da yapmazsa mensuplar rastgele dört ayrı jûmreye bölünüyordu.
-Bölünen jûmrenin kaynaklarının üçte birine devlet el koyuyor, kalanını ihdas edilen jûmrelere dağıtıyor ve bütün
-hepsine rastgele yöneticiler atıyordu. Bu durum jûmreler için üç-altı ay sürecek bir zorluk demekti.
+Jûmrelerin yüzbin kişiden fazla büyümemesi anayasal bir kuraldı. Bu büyüklüğe ulaşınca üç ay içinde
+bölünmesi gerekiyor, eğer onu da yapmazsa mensuplar rastgele dört ayrı jûmreye bölünüyordu.  Bölünen
+jûmrenin kaynaklarının üçte birine devlet el koyuyor, kalanını ihdas edilen jûmrelere dağıtıyor ve
+hepsine rastgele yöneticiler atıyordu. Bu durum jûmreler için üç-altı ay sürecek bir belirsizlik demekti.
 Onun için o noktadan önce kendileri bölünüp başka bir jûmre kuruyorlardı. 
 
-*Organik bağınız olmasa da gönül bağınız olmaya devam ediyordur* dedi (Zînef). *Tabii ki, bizim
+*Organik bağınız olmasa da gönül bağınız olmaya devam ediyordur* dedi (Zînef). *Tabii ki. Bizim
 bütün müslümanlarla gönül bağımız var* dedi müdür. *Ama insan psikolojisi gereği bir defa
 bölündüğümüzde artık farklı takımların oyuncuları oluyoruz. Ben gençliğimde de bir bölünme geçirdim
-ve diğer tarafta kalan arkadaşlarım oldu, arada sırada görüşsek de sonradan bağ zayıflıyor.*
+ve diğer tarafta kalan arkadaşlarım oldu. Arada sırada görüşsek de bağ zayıflıyor.*
 
-*Bir şeyi merak ediyorum* dedi öne doğru eğilerek. *Neden bu kadar büyük bir jûmre tarih öğretmek için dışarıdan birine ihtiyaç duysun?* Nazik olmaya çalışmış ama bu sefer de *fazla nazik* görünmekten korkmuştu. Müdür gülümsedi: *Makul bir merak, tabii ki jûmre içinde de
-değerli öğretmenlerimiz var. Ancak son zamanlarda öğretmenlerimizin sosyal konularda farklı perspektiflerden olması gerektiğine karar verdik. Öğrencilerimiz ailelerinde dini bir ortamda yetişiyor ama bir yandan diğer dünyalarda neler olduğunu görmeleri iyi olur.*
+*Bir şeyi merak ediyorum* dedi öne doğru eğilerek. Önemli bir şey soracakmış gibi yapınca müdürün de
+yüz ifadesi donuklaştı. *Neden bu kadar büyük bir jûmre tarih öğretmek için dışarıdan birine ihtiyaç
+duysun?* Nazik olmaya çalışmış ama bu sefer de *fazla nazik* görünmekten korkmuştu. Müdür gülümsedi:
+*Makul bir merak, tabii ki jûmre içinde de değerli öğretmenlerimiz var. Ancak son zamanlarda
+öğretmenlerimizin farklı perspektiflerden olması gerektiğine karar verdik. Öğrencilerimiz
+ailelerinde dini bir ortamda yetişiyor ama bir yandan diğer dünyalarda neler olduğunu görmeleri iyi
+olur.*
 
 *Peki bu tersinden de işler mi? Yani, ben de sizin dünyanızı görüp...*
 
 *Bizden etkilenmeniz tabii ki mümkün. Ancak amacımız bu değil. Biz propagandayla büyümeye
 çalışan jûmrelerden değiliz.* Müdür tekrar tekrar aynı soruyu sormasından
 ne kadar korktuğunu anlamıştı. *Bir mensubumuz daha olsun diye ona maaş vermek biraz
-pahalıya malolur* dedi ve yine güldü. 
+pahalıya malolur* dedi. 
 
-Maaş konusu açılınca (Zînef) devam etti. *Ne kadar maaş düşünüyorsunuz?* Müdürün şaşıracağını düşünüyordu ama
-adamın yüz ifadesi hiç değişmiyordu. *Binsekizyüz sester civarında düşünüyoruz.* dedi
-müdür. *Genelde sizin tecrübenizde olan biri için bu civarda maaşlar* diyerek ekledi. (Zînef)
-önceki işinden ne kadar aldığını sorsa *binbeşyüz* demeyi düşünüyordu. İsteyeceği maaş tam bu
-kadardı. *Başka sorunuz var mı?* diye devam etti adam. 
+Maaş konusu açılınca (Zînef) devam etti. *Ne kadar maaş düşünüyorsunuz?* *Binsekizyüz sester
+civarında düşünüyoruz.* dedi müdür. *Genelde sizin tecrübenizde olan biri için bu civarda maaşlar*
+diyerek ekledi. (Zînef)in isteyeceği maaş tam bu kadardı. *Başka sorunuz var mı?* diye devam etti
+adam. 
 
 *Bilmem gereken başka bir şey var mı?* diye sordu (Zînef). *Karar vermeden önce görmem gerektiğini
 düşündüğünüz bir şey.* 
@@ -223,68 +228,68 @@ düşündüğünüz bir şey.*
 *Kıyafet konusu kafanıza takılıyor olabilir* dedi Müdür. (Zînef) bunu unutmuştu. *Evet* dedi
 sessizce. *Başımı örtmem gerekecek mi?* 
 
-Müdür bu sefer sesli güldü. *Hayır, hayır, jûmre şartı bile değil bu. Sadece ilgilendiğiniz çocukların ergenlik
+Müdür sesli güldü. *Hayır, hayır, jûmre kuralı bile değil bu. Sadece ilgilendiğiniz çocukların ergenlik
 dönemlerinde olduğunu ve kıyafetinize ilgilerinin, ne dediğimi anlıyorsunuz, alıştığınızdan farklı olabileceğini
-gözönünde bulundurmanızı isteriz. Gördükleri ilk örtünmeyen öğretmen siz olmayacaksınız. Yine de 
-kadın imgeleri örtülü ve malum, bu dönemlerde çocukların neler
-yapacağı belli olmuyor.* (Zînef) anlamış gibi başını salladı. *Sınıflar cinsiyete göre ayrı mı?*
-dedi. *Evet* dedi Müdür, *sadece sınıflar ayrı, diğer bazı okullar gibi
+gözönünde bulundurmanızı isteriz. Gördükleri ilk örtünmeyen öğretmen siz olmayacaksınız. Yine de
+kadın imgeleri örtülü ve malum, bu dönemlerde çocukların neler yapacağı belli olmuyor. Bizde
+ergenlik erteleyici ilaçlar da kullanılmaz.* (Zînef) anlamış gibi başını salladı. *Sınıflar
+cinsiyete göre ayrı mı?* dedi. *Evet* dedi Müdür, *sadece sınıflar ayrı, diğer bazı okullar gibi
 ayrı binalarda değiller.*
 
-*Peki, bir sınava falan girecek miyim* dedi (Zînef). *Evet, birazdan, umarım
-hazırsınızdır* dedi Müdür. *Sizden biraz (Zerkubia) tarihi dinleyeceğiz. Yakın branşlardan öğretmen
-arkadaşlar da olacak ve aradığımız öğretmen olup olmadığınızı onlarla beraber değerlendireceğiz.*
+*Peki, bir sınava falan girecek miyim* dedi (Zînef). *Evet, birazdan* dedi Müdür. *Sizden biraz
+(Zerkubia) tarihi dinleyeceğiz. Yakın branşlardan öğretmen arkadaşlar da olacak ve aradığımız
+öğretmen olup olmadığınızı onlarla beraber değerlendireceğiz.*
 
-(Zînef) derse hazırlanmamıştı. Okullar önce yazılı sınav yaparlardı. Adayları *elektriksiz
-ortam* bir odaya doldurup bilgi ölçen sınavlar. *İlk defa başıma geliyor böyle bir şey* dedi. 
+(Zînef) derse hazırlanmamıştı. Okullar önce yazılı sınav yaparlardı. Adayları *elektriksiz ortam*
+bir odaya doldurup bilgi ölçen sınavlar. *İlk defa başıma geliyor böyle bir şey* dedi. Aniden gelen
+sınav korkusu jûmre korkusunu bastırmıştı. 
 
 *Biz sınav odaklı çalışan bir okul değiliz. Ortak sınavı geçecek kadar bilgiyi
 zaten vereceğinizi düşünüyoruz. Onun için ne kadar hızlı test çözüp, ayrıntıları ne kadar
-iyi cevapladığınızı ölçmek istemiyoruz. Aslında ben bu ders anlatma sınavlarına öğrencileri de
-almak istiyorum.* dedi. 
+iyi cevapladığınızı ölçmek istemiyoruz. Aslında bu ders anlatma sınavlarına öğrencileri de
+almak istiyordum.* dedi. 
 
-(Zînef) adamdan yayılan rahatlık dalgasının farkındaydı. Kapıdan ilk adım attığı zamana
-nazaran kendisinin de ne kadar rahatlamış olduğunu farketti. *Size işe alınıp alınmadığınızı bugün
-söyleyemem. Daha doğrusu alınmazsanız söyleyebilirim ancak öğrencileri de topladığımız bir Tarih dersi
-anlattıralım. Sonra sizi puanlamalarını isteyeceğim ama bugün öğretmen arkadaşlar değerlendirecek*
-dedi. 
+(Zînef) adamdan yayılan rahatlık aurasının kendini de rahatlattığını farketti. *Size işe alınıp
+alınmadığınızı bugün söyleyemem. Daha doğrusu alınmazsanız söyleyebilirim ancak öğrencileri de
+topladığımız bir Tarih dersi anlattıralım. Sonra sizi puanlamalarını isteyeceğim ama bugün öğretmen
+arkadaşlar değerlendirecek* dedi. 
 
 *Nerede anlatacağım?* dedi (Zînef). Ne anlatacağını düşünmeye başlamıştı. 
 
 *Saat 11'de C3 sınıfında* dedi Müdür. *O zamana kadar kafeteryada misafirimiz olun. Robota benim
 misafirim olduğunuzu söyleyin* dedi. Adamın sadece konuşurken kesilen gülümsemesinden 
 görüşmenin bittiğini anladı. Aklına gelmiş gibi *isterseniz bir mihmandar robot da verebilirim ama
-akıllı saatiniz yolu gösterir* dedi. *Teşekkür ederim* dedi (Zînef). Kalktı ve
+akıllı saatiniz yolu gösterir* dedi. *Teşekkür ederim* dedi (Zînef). Hızlıca kalktı ve
 odadan çıktı. 
 
 ## 2
 
 Dersin yapılacağı söylenen odada sekiz dokuz kişi vardı. Dört erkek, beş kadın. Kadınlardan ikisinin
 başı açıktı. Normal giyinmişlerdi. Dışarıda görseniz müslüman demezdiniz. (Zînef) içeri
-girdiğinde beyaz takkesinde sarı taşlar olan öndeki adam kalkarak *hoşgeldiniz* dedi. *Bu
-takkeler kesinlikle rütbe işareti* diye düşündü (Zînef). Adam adının Ahmet olduğunu, kendisinin de
+girdiğinde beyaz takkesinde sarı taşlar olan adam kalkarak *hoşgeldiniz* dedi. *Bu
+takkeler kesinlikle rütbe işareti* diye düşündü (Zînef). Adam adının (Ahmet) olduğunu, kendisinin de
 Tarih öğretmeni olduğunu söyledi. *Buradaki arkadaşlar da Tarih ve diğer sosyal bilimler
 derslerinden* dedi. *Dersten sonra tanışırız inşallah.* Bu arada Müdür içeri girdi, *selamün aleyküm
-arkadaşlar* dedi. Ahmet *aleyküm selam hocam* dedi. Müdür de sandalyelerden birine oturdu.
+arkadaşlar* dedi. (Ahmet) *aleyküm selam hocam* dedi. Müdür de sandalyelerden birine oturdu.
 
-*Nereden başlayalım?* dedi Müdür öğretmenlere dönerek. Elindeki tablete bakıp *(Zînef) Humanist ve Feminist bir jûmreden. Biz de kendilerinin gözünden tarih nasıl anlatılıyor, bunu öğrenmek istiyoruz.* diye devam etti. *Ben şahsen devrim öncesi ve sonrasını karşılaştırıp, yorumlamasını beklerim. Sizin için de uygunsa* diye dönerek öğretmenlere baktı. Öğretmenler başlarını sallayarak *uygun* dediler.
+*Nereden başlayalım?* dedi Müdür öğretmenlere dönerek. Elindeki tablete bakıp *(Zînef) Humanist ve Feminist bir jûmreden. Biz de kendilerinin gözünden tarih nasıl anlatılıyor, bunu öğrenmek istiyoruz.* diye devam etti. *Ben şahsen devrim öncesi ve sonrasını karşılaştırıp, yorumlamasını beklerim. Sizin için de uygunsa* diye dönerek öğretmenlere baktı. Öğretmenlerin beraberce başlarını sallaması komik göründü.
 
-*Tarihi o kadar farklı anlatmıyoruz* dedi (Zînef). *Afedersiniz, ben buna hazırlıklı gelmedim,
-o nedenle genel hatlarıyla anlatacağım ve ben de sizin nerelerde farklı
+*Tarihi o kadar farklı anlatmıyoruz* dedi (Zînef). *Afedersiniz. Ben buna hazırlıklı gelmedim.
+Genel hatlarıyla anlatacağım ve ben de sizin nerelerde farklı
 düşündüğünüzü öğrenmek isterdim* dedi. *Bunu zaman içinde öğrenirsiniz herhalde* dedi Müdür,
 *bugünlük öğrenme sırası bizde.*
 
 *(Zerkubia) devrimi kullandığımız takvimin başlangıcıdır. Yani devrim ne zaman oldu diye
-düşünmeye gerek yok, takvime bakıp bunu görebiliriz* diye başladı (Zînef) *ancak biz ilgilendiren
-kısımlar devrimden önce hayatın nasıl olduğu ve devrimin neleri değiştirdiği.* 
+düşünmeye gerek yok, takvime bakıp bunu görebiliriz* diye söze başladı. *Ancak bizi
+devrimden önce hayatın nasıl olduğu ve devrimin neleri değiştirdiği ilgilendiriyor.* 
 
-*Devrimden önce dünyada iki grup insan vardı, plebler ve plutokratlar, yönetilenler ve yöneticiler.
-Plebler hayatlarını çalışarak geçirmek zorundaydı. Çalışmadıkları sürece yaşama şansları
-bulunmuyordu. Plutokratlarsa tüm sistemi ele geçirmiş ve yönettikleri insanları her manada köleleştirmeye çalışan az sayıda zengin.*
+*Devrimden önce dünyada iki grup insan vardı. Plebler ve plutokratlar. Yönetilenler ve yöneticiler.
+Plebler hayatlarını çalışarak geçirmek zorundaydı. Çalışmadıkları zaman yaşama şansları
+bulunmuyordu. Plutokratlarsa tüm sistemi ele geçirmiş ve yönettikleri insanları her manada
+köleleştirmiş az sayıda zengin.*
 
 Devrimden önceki sosyal hiyerarşide bu iki grubun belirgin olmaması için farklı yollar bulmuşlardı.
-Plebler her insan gibi *hikayeleri için* yaşar. Onlara *düzenin devamı* için hikayeler sunanları
-destekleyenler 
+İnsanlar *ölümsüzlük hikayeleri* için yaşar. Plebler de öyle. Ancak çoğu kimse kendisinin ölümsüzlük hikayesini üretemez. Onlara *düzenin devamı* için hikayeler sunan, daha doğrusu bu hikayeleri kendilerine uygun şekilde destekleyenler 
 plutokratlardı. Kendileri nadiren hikayenin parçası olurlar, görünmeden yönetmeye devam ederlerdi. Seçimler olsa da, plutokratların desteğini almayan
 birinin ülkelerin politikalarında söz sahibi olması mümkün değildi. 
 
