@@ -58,7 +58,7 @@ katıldığı yıl sonu sınavları vardı. Bunlarda dikkat çekici derecede ba�
 okullara dışarıdan müdahale edilmiyordu. (Zerkubia) tarihi de bu sınavın küçük bir parçasıydı ve
 çoğu okul derslerde video ve animasyon seyrettirmeyi öğretmen maaşı ödemeye tercih ediyordu. 
 
-Bunları düşünürken giyinmiş, makyajını yapmış, kolundaki saat yeniden tıpırdamaya başladığında *evden
+Bunları düşünürken giyinmiş, makyajını yapmış, saat yeniden tıpırdamaya başladığında *evden
 çıkıyorum Allah'ın belası* diye susturmuş ve kapısına bugün kargo dronu beklemediğini söyleyerek
 kendini dışarı atmıştı. Kapısı ona iyi günler diledi.
 
@@ -85,7 +85,7 @@ alıyor, *şekeri çok kaçırdın* diyen bir saate *vallahi bir daha yemeyeceğ
 kalıyordu. 
 
 *Loser* olmayan herkes ikinci tür sigortalıydı. Onun için bu elektronik akıllı kelepçeleri takıp, üç
-ayda bir eve gelen numune robotlarına kan ve idrar vermek gerekiyordu. Bir keresinde o zamanki erkek
+ayda bir eve gelen numune robotlarına kan ve idrar vermek gerekiyordu. Bir keresinde bir erkek
 arkadaşından ayrıldığı zamanlarda doktorlar kalp *palpitasyonları* için aramış, kendini nasıl
 hissettiğini sormuşlardı. Kalbiniz kırılınca bile arayıp soran birileri olması iyiydi ama bu
 kelepçeyi kolunda taşımak insan haklarına aykırı sayılmalıydı.
@@ -102,32 +102,40 @@ eylemdi.
 (Zînef) gelen tek kişilik araca bindi. Saat adresi araca bildirdi. Araç harekete geçti. Görüşmenin nasıl geçeceğine dair sorular kafasına üşüştü.  Bunları başvururken de düşünmüş ancak *nasılsa
 cevap vermezler* diye üstünde durmamıştı. 
 
-En önemli mesele okulun bir müslüman okulu olmasından ve kendisinin müslüman olmamasıydı. 
-kaynaklanıyordu. 
+En önemli mesele okulun bir müslüman okulu olması ve kendisinin müslüman olmamasıydı. *Din ve toplum
+tarihi* dersine geç kaldığı bir gün, sandalye robot beklerken hocayı ayakta dinlediği aklına geldi.
+Önünde materyal olmadığı için gerçekten kulak vermiş, adamın dersin masal gibi anlattığı dikkatini
+çekmişti.
 
-> Eskiden toplum *bireylerden oluşan bir ulus devletmiş.* Ulus devlet
-> *ulus hakkına* dayanır, bireylere ortak bir kültür empoze edermiş. Azınlıkları çoğunluğun içinde eritecek şekilde kültür ve eğitim
-> politikalarını belirler, hukukunu buna göre şekillendirirmiş. Bireyin özgürlükleri varmış, hatta
+> Eskiden toplum *bireylerden oluşan bir ulus devletmiş.* Ulus devlet *ulus hakkına* dayanır,
+> bireylere ortak bir kültür empoze edermiş. Azınlıkları çoğunluğun içinde eritecek şekilde kültür
+> ve eğitim politikalarını belirler, hukukunu buna göre şekillendirirmiş. Bireyin özgürlükleri
+> varmış, hatta
 bunlar kutsal kabul edilirmiş. 
-> Ancak pratikte bireyin toplum ve devlet karşısında gücü olmadığı için verilen özgürlüğün bir anlamı
-> yokmuş. *Farklı yaşamak* için büyük bedeller ödemek gerekiyormuş. *Farklı yaşamlar* ulus
-> devlet tarafından en iyi ihtimalle *ikinci sınıf* çoğunlukla *egzotik ayrıntılar* olarak görülürmüş. 
+> Ancak pratikte bireyin toplum ve devlet karşısında gücü olmadığı için verilen özgürlüğün bir
+> anlamı yokmuş. *Farklı yaşamak* için büyük bedeller ödemek gerekiyormuş. *Farklı yaşamlar* ulus
+> devlet tarafından en iyi ihtimalle *ikinci sınıf* çoğunlukla *egzotik ayrıntılar* olarak
+> görülürmüş. 
 
-(Zerkubia)nın *jûmre* isimli yarı vakıf, yarı topluluk kurumları birey ve devlet arasındaki 
-*sivil örgütler.* Bireyden büyük ve onun haklarının bir kısmını devrettiği ama ulus devlet
-gibi tekdüzeleştirici olmayan toplumcuklar bunlar. Eskiden ulus devletin yönünü belirlediği eğitim ve kültür faaliyetleri ve medeni hukuk jûmrelere devredilmiş. Bunlara mensupları
-sayısınca ödenek belirlenmiş ve jûmreler kendi okullarını açıp, kendi hayat tarzlarını yaşatma
-imkanları garanti edilmiş.
+(Zerkubia)nın *jûmre* isimli yarı vakıf, yarı topluluk kurumları birey ve devlet arasındaki *sivil
+örgütler.* Bireyden büyük ve onun haklarının bir kısmını devrettiği ama ulus devlet gibi
+tekdüzeleştirici olmayan toplumcuklar bunlar. Eskiden ulus devletin yönünü belirlediği eğitim ve
+kültür faaliyetleri ve medeni hukuk jûmrelere devredilmiş. Bunlara mensupları sayısınca ödenek
+belirlenmiş ve jûmrelerin kendi okullarını açıp, kendi hayat tarzlarını yaşatma imkanları garanti
+edilmiş.
 
 Bu jûmrelerin çoğunun kendi okulları var. Öğretmenlerini de doğal olarak kendi mensuplarından
-seçiyorlar. Bir Hristiyan'ın gelip bir Müslüman'dan din dersi almasını bekleyemeyiz. 
+seçiyorlar. Bir hristiyanın bir müslümandan din dersi almasını bekleyemeyiz. 
 
-(Zînef) bu yüzden *beni neden görüşmeye çağırdılar?* diye düşünüyordu. Bir an pişman olacak gibi
-hissetti.  
+(Zînef) bu yüzden *beni neden görüşmeye çağırdılar?* diye düşünüyordu. Başvurduğuna pişman olacak gibi
+hissetti. Psikoloğunun öğrettiği sayma alıştırmalarını yaparak bu olumsuz düşünceden uzaklaşmaya
+çalıştı. *Bir, sakin, iki, sakin, üç, sakin...* 
 
-Kendisi 250-300 kişilik, hepsi bekar kadından oluşan bir
-*radikal feminist* jûmreye üyeydi. Kendi okulları yoktu. Çocukları olmadığı için gerek de
-yoktu. jûmre üyelerine evlenmek yasaktı. Kadınların ezelden üstünlüğüne inanan, erkeklerle tüm iletişimi yasaklayan veya ana tanrıça kültlerine iman eden jûmreler kadar olmasa da, *çocuk edinmeme* ve *evlenmemek* kritik kurallardı. jûmre üyelerinin çoğu vegandı ama (Zînef) onlardan değildi. 
+Kendisi 250-300 kişilik, hepsi bekar kadınlardan oluşan *radikal feminist* bir jûmreye üyeydi.
+Çocukları olmadığı için jûmre okulları yoktu. Jûmre kuralları üyelerine evlenmeyi yasaklıyordu.
+Kadınların ezelden üstünlüğüne inanan, erkeklerle tüm iletişimi yasaklayan veya ana tanrıça
+kültlerine iman eden jûmreler kadar olmasa da *çocuk edinmeme* ve *evlenmeme* kritik kurallardı.
+Jûmre üyelerinin çoğu vegandı ama (Zînef) onlardan değildi. 
 
 Görüşmeye gittiği okul (Zerkubia)nın büyük müslüman jûmrelerinden birine aitti. 15 yaşına kadar yapılan
 eğitim öğretim *kültür* sayıldığı, kültürün asıl sorumlusu jûmreler olduğu için müfredatın
@@ -138,25 +146,26 @@ içeriğini jûmreler belirliyordu.
 Belki bilmiyorlardı. Belki başkasıyla karıştırmışlardı. (Zerkubia) vatandaşlarının jûmreleri gizli bilgi değildi,
 devlet kurumları hariç tüm kurumların çalışan kriterlerini belirleme hakkı vardı. Bireyin her açıdan
 *eşit* olduğunun iddia edildiği zamanlarda değildik artık. Görüşmeye çağıranlar da kendisinin nasıl bir jûmrede
-yaşadığını biliyor olmalıydı. Zaten başvurunun altına not olarak yazmıştı. *Yeşil
-Feministler jûmresi.*
+yaşadığını biliyor olmalıydı. Zaten başvurunun altına not olarak yazmıştı. 
 
-Bir an *tebliğ yapıp* gönderecekler diye düşündü. (Zînef) propagandaya maruz kalmaya tahammül edemezdi. Arkadaşlarından birini yine geçenlerde böyle bir iş teklifi için çağırmışlar,
-bol miktarda ahiret, cennet ve cehennem geçen bir konuşmaya maruz kalmıştı. Adamların niyeti iş değil de propagandaysa veya yanlışlıkla
-çağırdıklarını görürse kısaca teşekkür edip, ayrılmayı planladı. Zihin gözünde nasıl kalkıp
-kapıdan çıkacağını görmeye çalıştı. jûmre psikologu stresli durumlara girmeden önce kendini
-hayal ederse, stresinin azalacağını anlatmıştı. 
+*Tebliğ yapıp gönderecekler* diye düşündü. (Zînef) dinî propagandaya maruz kalmaya tahammül
+edemezdi. Arkadaşlarından birini yine geçenlerde böyle bir iş teklifi için çağırmışlar, bol miktarda
+ahiret, cennet ve cehennem geçen bir konuşmaya maruz kalmıştı. Adamların niyeti iş değil de
+propagandaysa veya yanlışlıkla çağırdıklarını görürse kısaca teşekkür edip, ayrılmayı planladı.
+Zihin gözünde nasıl kalkıp kapıdan çıkacağını görmeye çalıştı. Jûmre psikoloğu stresli durumlara
+girmeden önce kendini hayal ederse, stresinin azalacağını anlatmıştı. 
 
 Okula geldiğinde görüşmeye on dakika vardı. Girişteki danışmada, hayret, bir robot değil, kanlı
 canlı bir insan duruyordu. Siyah başörtülü bir kız. İş görüşmesi için geldiğini söylediğinde
-*görüşmeniz üçüncü katta (Müdür bey)in odasında* dedi. *Asansör az ileride.*
+*görüşmeniz üçüncü katta müdür odasında* dedi. *Asansör az ileride.*
 
 Asansörde iki renkli başörtülü, bir de renkli takkeli, beyaz gömlek giymiş bir adamla beraber üçüncü
 kata çıktı. *Hepsi siyah giyinmiyor* diye düşündü. *Danışmada bir insan çalıştıracak kadar da
 zenginler.*
 
-(Müdür bey) orta yaşlı, bıyığı beyaz, sakalı gri biriydi. Başında üzerinde mor ve yeşil taşların bulunduğu siyah bir takke
-vardı. *Acaba bunlar rütbe göstergesi mi* diye düşündü. *Siyah kuşak gibi, siyah takke.*
+Müdür orta yaşlı, bıyığı beyaz, sakalı gri biriydi. Başında üzerinde mor ve yeşil taşların bulunduğu
+siyah bir takke vardı. *Acaba bunlar rütbe göstergesi mi* diye düşündü. *Siyah kuşak gibi, siyah
+takke.*
 
 Odası büyük sayılmazdı. Etrafı fazla ölçüp biçmeye imkan bulamadan *hoşgeldiniz* dedi. Adamın
 bakışlarında rahatsızlık sezilmiyordu. *Sanırım kendilerinden birinin başvurmadığını onlar da
@@ -165,8 +174,8 @@ biliyor.*
 *Hoşbuldum* diye cevap verdi (Zînef). *Bir Tarih öğretmeni aradığınızı öğrendim. İş ilanları
 arasındaydı. Onun için görüşmek istemiştim.*
 
-*Evet, evet* dedi adam. *Dosyanıza bakıyordum ben de. Aynı üniversiteden mezun olmuşuz* dedi
-gülümseyerek. 
+Elindeki tabletten başını kaldırmadan *evet, evet* dedi adam. *Dosyanıza bakıyordum ben de. Aynı
+üniversiteden mezun olmuşuz* dedi. 
 
 *Aa, siz de mi?* dedi şaşıran (Zînef).
 
