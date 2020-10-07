@@ -289,31 +289,34 @@ bulunmuyordu. Plutokratlarsa tüm sistemi ele geçirmiş ve yönettikleri insanl
 köleleştirmiş az sayıda zengin.*
 
 Devrimden önceki sosyal hiyerarşide bu iki grubun belirgin olmaması için farklı yollar bulmuşlardı.
-İnsanlar *ölümsüzlük hikayeleri* için yaşar. Plebler de öyle. Ancak çoğu kimse kendisinin ölümsüzlük hikayesini üretemez. Onlara *düzenin devamı* için hikayeler sunan, daha doğrusu bu hikayeleri kendilerine uygun şekilde destekleyenler 
-plutokratlardı. Kendileri nadiren hikayenin parçası olurlar, görünmeden yönetmeye devam ederlerdi. Seçimler olsa da, plutokratların desteğini almayan
+İnsanlar *ölümsüzlük hikayeleri* için yaşar. Plebler de öyle. Ancak çoğu kimse kendi ölümsüzlük
+hikayesini üretemez. Onlara *düzenin devamı* için hikayeler sunan, daha doğrusu bu hikayeleri
+kendilerine uygun şekilde destekleyenler plutokratlardı. Plutokratlar nadiren hikayenin parçası
+olurdu. Görünmeden yönetmek daha kolaydı. Seçimler olsa da plutokratların desteğini almayan
 birinin ülkelerin politikalarında söz sahibi olması mümkün değildi. 
 
 (Zînef) dinleyenlerin yüz ifadelerinden mutabık oldukları sonucunu çıkardı. 
 
-Devrimden önceki devlet düzenlerine *oligarşi* diyoruz. Onlar kendilerine *demokrasi*
-diyorlardı. *Demokrasi* kelime anlamıyla *halk yönetimi* demek olduğu halde, asıl yönetim farklı
-cihazlar yoluyla plutokratların elindeydi. 
+Devrimden önceki devlet düzenlerine *oligarşi* diyoruz. Onlar kendilerine *demokrasi* diyorlardı.
+*Demokrasi* kelime anlamıyla *halk yönetimi* demek olduğu halde, asıl yönetim farklı cihazlar
+yoluyla plutokratların elindeydi. 
 
 *Neden oligark demiyoruz?* diye sordu Müdür, yarı meraklı, yarı sınava tabi tutar gibi. 
 
 *Çünkü Plutokratlar organik bağları olan bir grup değildi* dedi (Zînef), *Plutokrasi zenginlerin
-yönetimi demek ve bu yönetimde olanlar sadece zengin değildi, değişik türde etkileri olanlar da
-vardı ancak tüm siyasi düzende kukla oynatıcısı Plutokratlardı.* 
+yönetimi demek ve yönetimi elinde tutan oligarkların hepsi zengin değildi. Kendi menfaatleri gereği,
+düzenin devamı ve pleblerin uyumlu olmaya devam etmesi için çalışanlar da vardı ancak tüm siyasi
+düzende kukla oynatıcısı Plutokratlardı.* 
 
 *Biz Feminist harekette plutokrasinin erkeklerden oluştuğunu ve bunların dünya kaynaklarını
-kendilerine ayırıp, kadınları plebleştirdiğini anlatıyoruz* dedi çekinik bir sesle. 
+kendilerine ayırıp, kadınları plebleştirdiğini anlatıyoruz* dedi. Sesi çekinik çıkmıştı. 
 
-(Ahmet) *biz de genelde gayrimüslim olduklarını ve müslümanlara karşı komplo yaptıklarını
+(Ahmet) *biz de genelde Ateist veya Paganist olduklarını ve dindarlara karşı komplo yaptıklarını
 anlatıyoruz* dedi gülerek. (Zînef) de bu cevaba güldü. 
 
-*Herkes dünyanın gidişatının kötü olduğunu görüyordu. Plebler arasında ise bir
-çözüm bulunamıyordu çünkü akıllara gelen ulus, din, renk, cinsiyet ve kabile gibi bölümlere
-ayrılıp birbiriyle didişmekten ibaretti.* 
+*Herkes dünyanın gidişatının kötü olduğunu görüyordu. Plebler arasında ise bir çözüm bulunamıyordu
+çünkü akıllarına ulus, din, renk, cinsiyet ve kabile gibi bölümlere ayrılıp birbiriyle didişmekten
+başka bir çözüm gelmiyordu.* 
 
 *Din* de demişti ama bir itiraz olmamıştı. 
 
@@ -324,41 +327,46 @@ söyleniyordu.*
 Hala bir itiraz görünmüyordu. 
 
 *Bu mekanizmalar şöyle işliyordu. Plutokrasi mensubu olarak doğan biri ailesinden kalan miras ve
-çevre yoluyla plutokrasi içinde yaşamaya devam ediyor, pleb doğanlar da ancak bu plutokrasinin
+çevre yoluyla Plutokrasi içinde yaşamaya devam ediyor, pleb doğanlar da ancak bu plutokrasinin
 mücadelesinde ekonomik değer üretebilirlerse hayatta kalabiliyordu. Bir pleb olarak hayatınızı ne
 kadar iyi yaşayabileceğinizi plutokratların oyununda ne kadar iyi piyon olduğunuz belirliyordu. Bu
-politikacı ve devlet yöneticileri için bile böyleydi.*
+politikacı ve bürokratlar için bile böyleydi. Çoğu işinsanı bile görünürde özgür ancak piyasa
+şartlarıyla sınırlanmış bir bağımlılık içinde yaşamak zorundaydı.*
 
-*(Zerkubia) devrimi plutokrasinin dayandığı miras mekanizmasını kaldırdı. Tarihi çalışmalarda o
+*(Zerkubia) devrimi plutokrasinin gücünü sağlayan mekanizmaları yok etti. Tarihi çalışmalarda o
 dönemki insanların perdenin önündeki ve arkasındaki kişilerle ilgili hipotezler geliştirdiğini
 okursunuz. Kimisi bazı ailelerin dünyayı yönettiğini, kimisi gizli örgütlerin, kimisi devletlerin
 gizli servislerinin, hatta kılık değiştirmiş uzaylıların yönettiğini anlatır.*
 
-*Ancak bu anlatılardan hiçbirinin bu adamlar hangi mekanizmaları kullanarak bu kadar güçlü diye sormadığını
-farkedersiniz. Nasıl oluyor da bu insanlar bu kadar güçlü kalabiliyor? Oyunun kurallarını nasıl
-değiştirelim de topu onların elinden alalım? Bu soruları sormadıklarını görüyoruz.*
+*Ancak bu anlatılardan hiçbirinin bu adamlar hangi mekanizmaları kullanarak bu kadar güçlü diye
+sormadığını farkedersiniz. Bu da Plutokrasinin başka bir oyunuydu. Düzenin kendisi yerine *dışarıdan
+bazı güçlerin* adaletsizlik yarattığını anlatarak düzene güç veriyorlardı. Nasıl oluyor da bu
+insanlar bu kadar güçlü kalabiliyor? Oyunun kurallarını nasıl değiştirelim de topu onların elinden
+alalım? Bu soruları sormadıklarını görüyoruz.*
 
-*Onun yerine kendilerinden saydıkları plutokratların kazanmasına yardımcı olmaya çalışmayı vatanseverlik veya
-dindarlık olarak görüyorlardı.*
+*Onun yerine kendilerinden saydıkları plutokratların kazanmasına yardımcı olmaya çalışmayı
+vatanseverlik, modernlik veya dindarlık olarak görüyorlardı.*
 
-Plutokrasinin temel prensibi insanların arasına sahte kimlikler vasıtasıyla ikilikler sokmak ve
+Plutokrasinin temel taktiği insanların arasına sahte kimlikler vasıtasıyla ikilikler sokmak ve
 kendi gücünü bunların arkasına saklamaktı. İnsanın iletişim sınırlamalarını kullanmayı iyi
 biliyorlardı. Tarih boyunca insanların bölündükleri birimler, aileler, kabileler, şehirler,
-devletler büyüdükçe bireyin önemi azaldı. Grupların kriterleri aile gibi doğalken, ulus devlet gibi
-yapay hale geldikçe farklı hikayelere ihtiyaç duyar hale geldiler.
-İnsanları bir arada tutmak için gerekli hikayeler daha karmaşıklaştı, birimler daha fazla büyüdü ve bireyin önemi ve etkisi daha da azaldı.
-Çok az sayıdaki insanın istediği gibi yaşayıp, dünyasını istediği gibi düzenleme imkanına karşılık
-çoğunluk belli sınırlarda hayat boyu geçinmeye mecbur kaldı. 
+devletler büyüdükçe bireyin önemi azaldı. Tarih öncesinde grupların oluşması biyolojik yakınlık gibi kavramlara dayanırken, modern zamanda ulus devlet gibi
+daha yapay hale geldi. İnsanlar da çektikleri yabancılaşmanın tedavisini farklı ölümsüzlük hikayelerinde aramaya başladılar.
+İnsanları bir arada tutmak için gerekli hikayeler karmaşıklaştı. Gruplar daha fazla büyüdü ve bireyin önemi ve etkisi daha da azaldı. Modernlik insanların genelini yaşadıkları dünyaya yabancılaştırdı. 
+Çok az sayıdaki plutokratın istediği gibi yaşayıp, dünyayı istediği gibi düzenleme imkanına karşılık
+plebler belli sınırlarda hayat boyu geçinmeye mecbur kaldı. 
 
 Plutokratlar devlet bürokrasisini de idare ediyorlardı. Hiçbir yöneticinin, şantaj yapılma ve
-kariyerini sonlandırma imkanı veren kirli çamaşırı yoksa etkili konumlara yükselmesi mümkün değildi. Suçlu olmaları,
-haydut olmaları bir eksi değil, bir artıydı. Seçilmiş yönetici sınırlarını
-aşarsa kullanabilecekleri zaafları olmasına dikkat ediyorlardı. (Zerkubia) devrimi iki temel
-üzerine kuruldu bu yüzden. Birincisi bu gibi plutokrat ailelerin perde gerisinden dünyayı
-yönetmesine yarayan mekanizmayı yok etti ve ikincisi insanların arasına ezeli bir anlaşmazlık
-sebebi olan *ölümsüzlük hikayelerini* jûmreler vasıtasıyla düzenledi. İnsanlara bunun için kavga
-etmeden hayat tarzlarını değiştirme ve seçme imkanı sağladı. Farklı ölümsüzlük hikayelerine sahip
-bireylerin aynı toplumda yaşamalarına imkan verdi.
+kariyerini sonlandırma imkanı veren kirli çamaşırı yoksa etkili konumlara yükselmesi mümkün değildi.
+Suçlu olmaları, haydut olmaları bir eksi değil, bir artıydı. Seçilmiş yönetici sınırlarını aşarsa
+kullanabilecekleri zaafları olmasına dikkat ediyorlardı. (Zerkubia) devrimi iki temel üzerine
+kuruldu bu yüzden. Birincisi bu gibi plutokrat ailelerin perde gerisinden dünyayı yönetmesine
+yarayan üretim gücünün mirasen edinilmesini ortadan kaldırdı ve ikincisi insanların arasına ezeli
+bir anlaşmazlık sebebi olan *ölümsüzlük hikayelerini* jûmreler vasıtasıyla düzenledi. İnsanlara
+bunun için kavga etmeden hayat tarzlarını seçme ve değiştirme imkanı sağladı. Farklı ölümsüzlük
+hikayelerine sahip bireylerin aynı toplumda yaşamalarına imkan verdi.
+
+**15059**
 
 Devrime ait fikirlerin tam olarak ne zaman başladığını bilinmiyoruz. (Serod) adıyla
 bildiğimiz birinin etrafındaki topluluğa bunlara benzer fikirler anlattığını biliyoruz. 
