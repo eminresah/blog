@@ -366,47 +366,58 @@ bir anlaşmazlık sebebi olan *ölümsüzlük hikayelerini* jûmreler vasıtası
 bunun için kavga etmeden hayat tarzlarını seçme ve değiştirme imkanı sağladı. Farklı ölümsüzlük
 hikayelerine sahip bireylerin aynı toplumda yaşamalarına imkan verdi.
 
-**15059**
-
 Devrime ait fikirlerin tam olarak ne zaman başladığını bilinmiyoruz. (Serod) adıyla
 bildiğimiz birinin etrafındaki topluluğa bunlara benzer fikirler anlattığını biliyoruz. 
 Bu fikirler yayıldı ancak tarih boyunca tüm eşitlik taleplerine çelme takmaya çalışan
 ataerkil düzenin engellemesiyle karşılaştı. 
 
-(Zînef) bunları söylerken karşısındaki bakışların değiştiğini gördü. Gülümsemelerin bir kısmı
-yerini şaşkınlığa bırakmıştı. 
+(Zînef) bunları söylerken karşısındaki bakışların değiştiğini gördü. Gülümsemelerin bir kısmı yerini
+şaşkınlığa bırakmıştı. Kimilerince kadın düşmanı görülen (Serod)un Feminist olduğunu duymak
+şaşırtıcı gelmişti. 
 
-İnsanların çoğunluğu aile kavramını ataerkil düzenin devamıyla ilgili
-görüyordu. Bunun temel taşlarından biri miras kavramıydı. Tarih boyunca erkekler kazanmış ve
-mallarını *oğullarına* bırakmışlardı. Ailenin temelinin, reisinin erkek olması fikri değişmedi. Plutokrasinin temelinde de erkeklerin babadan
-oğula geçen ekonomik özgürlüğü yer alıyordu. 
+İnsanların çoğunluğu aile kavramını ataerkil düzenin devamıyla ilgili görüyordu. Bunun temel
+taşlarından biri miras kavramıydı. Tarih boyunca erkekler mülk edinmiş ve mallarını *oğullarına*
+bırakmışlardı. Ailenin temelinin, reisinin erkek olması fikri değişmedi. Plutokrasinin temelinde de
+erkeklerin babadan oğula geçen ekonomik özgürlüğü yer alıyordu. 
 
-(Zerkubia) hukuku şirketler gibi üretim organizasyonlarının ve toprak ve maden gibi doğal kaynakların
-miras bırakılamayacağını söyler. Devrimden önce bunlar plutokrasinin elindeydi ve bir toplumda
-sınıflar netleştikten sonra ancak kanlı devrimlerle, bu kaynakları önemli ölçüde zarara uğratarak elde edilebiliyorlardı. (Zerkubia) anayasasında *Mülkiyet emanettir ve emanetler onu en iyi koruyup geliştireceklere verilir* şeklinde bir prensip vardır. Buna göre gerek doğal kaynaklar, gerekse şirketler onları en iyi şekilde değerlendirecek insanların mülkiyetinde olmalıdır. Bir insan babasından veya ailesinden dolayı avantajlı olduğu için bu kaynaklara erişmesi adalet değildir. Bu insanların çoğunun sahip oldukları bu imkanları değerlendirecek en iyi kişiler olmadıklarını görürüz. Devrimden önce bu gibi kaynaklara miras yoluyla erişenler, plutokrasi dışından maaş karşılığı çalışacak birini bulmak dışında hiçbir şey yapmazlardı. Bu da plutokrasi dışındaki kalabalıkların hemen hiçbir zaman kendilerine servet edinemedikleri bir ekonomik düzene yol açmıştı. Plutokrasinin dışında doğmuş yetenekli insanların yapabilecekleri plutokrasinin oyununda kullanılmaktan ibaretti. Kurulan düzende ilerlemek için zaten ilerlemiş bir ailede bulunmak gerekiyordu. 
+(Zerkubia) hukuku şirketler gibi üretim organizasyonlarının, tarla ve maden gibi doğal kaynakların
+miras bırakılamayacağını söyler. Devrimden önce bunlar plutokrasinin elindeydi. Bir toplumda
+sınıflar netleştikten sonra ancak kanlı devrimlerde, ekonomiyi önemli ölçüde zarara uğratarak elde
+edilebiliyorlardı. Anayasamızda *mülkiyet emanettir ve emanetler onu en iyi koruyup geliştireceklere
+verilir* şeklinde bir ilke vardır. Gerek doğal kaynaklar, gerekse şirketler onları en iyi şekilde
+değerlendirecek insanların mülkiyetinde olmalıdır. Bir insanın babasından avantajlı olduğu için bu
+kaynaklara erişmesi adalet değildir. Mirasen bu kaynaklara konmuş kişilerin, bu imkanları
+değerlendirecek en iyi kişiler olmadıklarını görürüz. Devrimden önce bu gibi kaynaklara miras
+yoluyla erişenler, plutokrasi dışından maaş karşılığı çalışacak birini bulmak dışında bir şey
+yapmazlardı. Bu da plutokrasi dışındaki kalabalıkların hemen hiçbir zaman kendilerine servet
+edinemedikleri bir ekonomik düzene yol açmıştı. Plutokrasinin dışında doğmuş yetenekli insanların
+yapabilecekleri plutokrasinin oyununda iyi konum edinmeye çalışmaktan ibaretti. Kurulan düzende
+ilerlemek için zaten ilerlemiş bir ailede bulunmak gerekiyordu. 
 
-10 kişinin oynadığı bir ekonomik oyunda, bir plutokrat kaynakların %90'ını elinde tutuyor, diğer
-dokuz oyunca kalan %10'u paylaşıyordu. Bu sebeple plutokratların zenginliği giderek artarken,
-diğerlerinin mecburiyetleri ve borçları artıyordu. Böyle bir oyunda insanların düzeni yeniden kurmak
-imkanı yoksa ancak dünya savaşları gibi majör felaketlerden sonra oyuncular değişebilir. 
+Diyelim 10 kişinin oynadığı ekonomik oyunda, bir plutokrat kaynakların %90'ını elinde tutuyor, diğer
+dokuz oyuncu kalan %10'u paylaşıyordu. Plutokratlar oyun kurallarını, vergileri, hakları kendilerine
+göre düzenliyor ve başkalarının aralarına girmesine engel olmak için uğraşıyorlardı. Bir sektörde büyük bir şirket varsa, başka küçük şirketlerin ona karşı yapabilecekleri sınırlıydı. Bu sebeple plutokratların zenginliği giderek artarken,
+pleblerin mecburiyetleri ve borçları artıyordu. Böyle bir oyunda insanların düzeni yeniden kurmak
+imkanı yoksa ancak büyük felaketlerden sonra oyuncular değişebilir. 
 
-Burada devrimden önce insanların plutokrasiye karşı geliştirdiği bir çözümden de bahsetmek gerek.
-Bunlara *komünist* diyorlardı ve 20. yüzyılda bir süre dünyaya hakim oldular. Komünistler özel
-mülkiyeti kaldırdılar ancak bunun yerine tüm ekonomiyi idare edecek bir bürokrasi kurdular. Bu
-bürokrasi de tek ve büyük bir şirket gibi çalışmaya başladı. İnsanların konumlarını ekonomik
-başarıdan çok bürokratik hamleler ve ideolojik yatkınlık belirliyordu. Çünkü mülkiyeti yok etmek
-mümkün değildir, bir formda yok edildiğinde başka bir formda ortaya çıkar. Komünizmde de mülkiyet
-bildiğimiz anlamda ortadan kaldırıldı ama bir fabrikada birilerinin birilerini yönetmesi her zaman
-gerektiği ve bürokrasi her ekonomik durumu kurala bağlayamayacağı için başka bir formda ortaya
-çıktı. 
+Devrimden önce insanların plutokrasiye karşı geliştirdiği bir çözümden de bahsetmek gerek.
+Kendilerine *komünist* diyorlardı ve 20. yüzyılda bir süre bazı ülkelerin yönetimini ele geçirdiler.
+Komünistler özel mülkiyeti kaldırdılar ancak bunun yerine tüm ekonomiyi idare edecek bir bürokrasi
+kurdular. Bu bürokrasi tek ve büyük bir şirket gibi çalışmaya başladı. İnsanların konumlarını
+ekonomik başarıdan çok bürokratik hamleler ve ideolojik yatkınlık belirliyordu. Çünkü (Serod)un
+söylediği gibi mülkiyeti yok etmek mümkün değildir. Bir formda yok edildiğinde başka bir formda
+ortaya çıkar. Komünizmde de mülkiyet bildiğimiz anlamda ortadan kaldırıldı ama 
+birilerinin birilerini yönetmesi her zaman gerektiği ve bürokrasi her ekonomik durumu kurala
+bağlayamayacağı için başka bir formda ortaya çıktı. 
 
 Kapitalist ekonomilerden farkı bu konumların mirasen geçmemesiydi. Ancak elde edilme yolları
-ekonomik başarıdan değil, bürokratik becerilerden geliyordu. Sömürünün bir formu bitti, başka bir
-formu başladı. Bürokrasi içinde yükselmek ve görece ekonomik özgürlüğe kavuşmak, ekonomik bir
-faaliyetten çok ideolojik bir faaliyete dönüştü. İdeolojik bilgi ekonomik bilgiden, kaynakların
-verimli kullanılmasından daha önemli hale geldi ve teokratik ve ulusçu devletlerde de gördüğümüz bir
-*söz hizmeti* mecburiyeti getirmiş oldu. İnsanlar hangi sınava giriyorlarsa, o sınav için çalışır ve
-Komünist devletler de insanları ekonomik sınava değil, ideolojik sınava tutuyordu. 
+ekonomik başarıdan değil, ideolojik ve bürokratik becerilerden geliyordu. Komünizmle sömürünün bir
+formu bitti, başka bir formu başladı. Bürokrasi içinde yükselmek ve görece ekonomik özgürlüğe
+kavuşmak, ekonomik bir faaliyetten çok ideolojik bir faaliyete dönüştü. İdeolojik bilgi ekonomik
+bilgiden, kaynakların verimli kullanılmasından daha önemli hale geldi ve teokratik ve ulusçu
+devletlerde de gördüğümüz bir *söz hizmeti* mecburiyeti getirmiş oldu. İnsanlar hangi sınava
+giriyorlarsa, o sınav için çalışır. Komünist devletler insanları ekonomik sınava değil,
+ideolojik sınava tutuyordu. 
 
 Rekabete dayanan bir ekonomi olmadığı için insanların ekonomik faaliyetlerinin önemi azaldı.
 Bilhassa teknoloji geliştirmek bir rekabet piyasası işidir. Komünistler de Kapitalist ekonomilerle
