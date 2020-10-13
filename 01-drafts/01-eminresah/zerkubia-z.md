@@ -396,9 +396,13 @@ ilerlemek için zaten ilerlemiş bir ailede bulunmak gerekiyordu.
 
 Diyelim 10 kişinin oynadığı ekonomik oyunda, bir plutokrat kaynakların %90'ını elinde tutuyor, diğer
 dokuz oyuncu kalan %10'u paylaşıyordu. Plutokratlar oyun kurallarını, vergileri, hakları kendilerine
-göre düzenliyor ve başkalarının aralarına girmesine engel olmak için uğraşıyorlardı. Bir sektörde büyük bir şirket varsa, başka küçük şirketlerin ona karşı yapabilecekleri sınırlıydı. Bu sebeple plutokratların zenginliği giderek artarken,
-pleblerin mecburiyetleri ve borçları artıyordu. Böyle bir oyunda insanların düzeni yeniden kurmak
-imkanı yoksa ancak büyük felaketlerden sonra oyuncular değişebilir. 
+göre düzenliyor ve başkalarının aralarına girmesine engel olmak için uğraşıyorlardı. Bir sektörde
+büyük bir şirket varsa, başka küçük şirketlerin ona karşı yapabilecekleri sınırlıydı. Yeni
+teknolojiler yoluyla ekonomik sistemi değiştirmek de hemen hemen imkansızdı çünkü küçük şirketlerin
+başarılı olunca yapabileceği en iyi şey hisselerini yine plutokratlara satmaktı. Bu sebeple
+plutokratların zenginliği giderek artarken, pleblerin mecburiyetleri ve borçları artıyordu. Böyle
+bir oyunda insanların düzeni yeniden kurmak imkanı yoksa ancak büyük felaketlerden sonra oyuncular
+değişebilir. 
 
 Devrimden önce insanların plutokrasiye karşı geliştirdiği bir çözümden de bahsetmek gerek.
 Kendilerine *komünist* diyorlardı ve 20. yüzyılda bir süre bazı ülkelerin yönetimini ele geçirdiler.
@@ -428,104 +432,106 @@ Ayrıca Komünistler ideolojilerini bir *ölümsüzlük hikayesi* haline getirdi
 anlayışların bastırılmasına ve onların yerine ideolojik kavramlar koyma ihtiyacından
 kaynaklanıyordu. Komünizm sadece ekonomik bir sistem değil, tüm dünyayı kurtuluşa erdirecek bir
 *din* halini aldı ve fikir babalarının tartışılması bile imkansız hale geldi. Bir Komünist için 
-Marx'ın veya Lenin'in yanlış fikirleri olabileceğini iddia etmek, bir dindara peygamberinin yalancı
+önderlerinin yanlış fikirleri olabileceğini iddia etmek, bir dindara peygamberinin yalancı
 olduğunu iddia etmekle aynı etkiyi yaratıyordu. 
 
 Burada durdu. Son dakikaları neredeyse nefes almadan anlatmıştı. Karşısındaki yüzlerde bir
 değişiklik yoktu. Ne düşünüyorlardı acaba? Bir nefes alıp devam etti. 
 
-(Zerkubia) devrimi Komünistlerin aradığı *eşitliği* yine onların aksattığı ekonomik özgürlükle beraber
+(Zerkubia) devrimi Komünistlerin aradığı ekonomik *eşitliği* yine onların bulamadığı ekonomik özgürlükle beraber
 sundu. Devrimden önce bireyin temel ihtiyaçlarının toplumun genelini ilgilendiren bir sorun olduğunu
-söylemek *sosyalistlik* olarak görülüyordu. Bu da tüm ideolojik araçlarıyla beraber geldiği için
-insanlarla ilgili temel sorunları bile konuşmak büyük bir ideolojik yük almak demekti. Hem
-insanların temel ihtiyaçlarının devlet tarafından karşılanması gerektiğini söyleyip, hem *sosyalist*
-veya *komünist* damgası yemeden durmak mümkün değildi. Üçüncü bir yolun varlığını konuşmak, hem
+söylemek *komünistlik* olarak görülüyordu. Komünistlik de ideolojik araçlarıyla beraber geldiği için
+insanlarla ilgili temel sorunları konuşmak büyük bir ideolojik yük almak demekti. İnsanların temel ihtiyaçlarının devlet tarafından karşılanması gerektiğini söyleyenlere *sosyalist*
+veya *komünist* damgası vurmak çok kolaydı. Üçüncü bir yolun varlığını konuşmak, hem
 ekonomik özgürlüğün, hem temel ihtiyaçların toplumca karşılanmasını konuşmak için (Serod)u beklemek
 gerekti. 
 
 (Serod) doğal kaynaklar ve şirketler üzerindeki miras mekanizmasının hem ekonomik özgürlüğü, hem de
-sosyal adaleti yok ettiğini farketti. Özgürlüğü yok ediyordu çünkü bir defa sınıflaşan toplumlarda
+sosyal adaleti yok ettiğini söyledi. Özgürlüğü yok ediyordu çünkü bir defa sınıflaşan toplumlarda
 ekonomik imkanlar daralıyordu. Sosyal adaleti yok ediyordu, çünkü gücü bir defa elinde bulunduran
 bunu gücünü daha da arttırmak için kullanıyor ve bu da toplumun kalabalık kesiminin payına hiçbir
-şey düşmemesine sebep oluyordu. Ancak (Serod) konunun Komünist ve Anarşistler gibi *mülkiyeti yok
+şey düşmemesine sebep oluyordu. (Serod) konunun Komünist ve Anarşistler gibi *mülkiyeti yok
 ederek* çözülemeyeceğine inanıyordu. Mülkiyet bir formda yok edilse de, başka formlarda, devlet
 eliyle yeniden yaratılmak zorundaydı. 
 
-Komünist ve Anarşistler *Mülkiyet* kavramının sadece *ürettiği haklar* kısmına bakıyordu ama
-mülkiyetin bir de *görev* kısmı vardı. Bir şirketi olan insanın bunu satmaya, kar etmeye, iş
-yapmaya, başkalarını çalıştırmaya hakkı vardı ancak şirketini kar etmeyen
-faaliyetlere sokmayarak verimli tutmak gibi de bir vazifesi vardı. Bu vazifeyi yerine
-getirmeyen şirketler şirket olmaktan çıkıyordu. (Serod) Komünistlerin insanlardan *mülkiyet haklarını*
-alıp, *mülkiyet vazifesini* bürokrasi yoluyla ikame edeceklerini düşünmelerinin anlamsız olduğunu
-söyler. Haklar yine bir şekilde bürokrasi yoluyla dağıtılacak, sorumluluksa aynı şekilde
-dağıtılamayacaktır. Mülkiyetin sorumluluğu dağıtılmadığında sistemin genelinin çalışmayacağını
-söyler. 
+Komünist ve Anarşistler *mülkiyet* kavramının sadece *ürettiği haklar* kısmına bakıyordu ama
+mülkiyetin bir de *vazife* kısmı vardı. Bir şirketi olan insanın bunu satmaya, kar etmeye, iş
+yapmaya, başkalarını çalıştırmaya hakkı vardı ancak şirketini kar etmeyen faaliyetlere sokmayarak
+verimli tutmak gibi de bir vazifesi vardı. Bu vazifeyi yerine getirmeyen şirketler iflas eder ve yok
+olurdu. (Serod) Komünistlerin *mülkiyet haklarını* yok edip, *mülkiyet vazifesini* bürokrasi yoluyla
+ikame edeceklerini düşünmelerinin hayal olduğunu söyler. Mülkiyetle ilgili haklar yine bir şekilde
+bürokrasi yoluyla dağıtılacak, mülkiyetle ilgili sorumluluklarsa aynı şekilde dağıtılamayacaktır.
+Kişisel menfaat olmadığında mülkiyetle ilgili vazifeler angaryaya dönüşür. Küçük ölçekte mülkiyet
+sorumluluğu yerine getirilmediğinde sistemin genelinin çalışmayacağını söyler. 
 
-(Zerkubia) devrimi o nedenle *mülkiyet hırsızlıktır* sloganını değil, *mülkiyet emanettir* prensibini
-kendine temel edinir. Emanet sorumluluk vasfını öne çıkaran bir mülkiyet prensibidir. İnsanların
-mülklerine karşı sorumluluklarını yerine getiremeyeceği görüldüğünde, mülkiyeti sınırsız bir hak
-olarak görmez. Bununla beraber mülkiyet genel olarak sadece ölüm durumunda devletin kontrolüne geçer
-ve o da kısa bir sürede başka sahipler bulması için. *Müsadere* hemen hiç rastlamadığımız bir şey.
+(Zerkubia) anayasası mülkiyeti vazgeçilmez bir hak olarak da görmez, *mülkiyet hırsızlıktır* gibi
+sloganları da ilke edinmez. *Mülkiyet emanettir* prensibini kendine temel edinir. Emanet sorumluluk
+vasfını öne çıkaran bir mülkiyet prensibidir. İnsanların mülklerine karşı sorumluluklarını yerine
+getiremeyeceği görüldüğünde, mülkiyeti sınırsız bir hak olarak görmez. Bununla beraber şirketlerin
+ve doğal kaynakların mülkiyeti genel olarak sadece ölüm durumunda devletin kontrolüne geçer ve o da
+kısa bir sürede başka sahiplere emanet edilmesi için. *Müsadere* hemen hiç rastlamadığımız bir şey.
 
-Karşısındaki öğretmenlerden biri gülerek sordu: *Müsadere nedir?* 
+Karşısındaki öğretmenlerden biri gülerek sordu: *Diliniz de çok ağırmış hocam. Müsadere nedir?* 
 
-(Zînef) sorunun bir öğrenciden gelmiş gibi sorulduğunu anladı. *Müsadere devletin bireylerin
+(Zînef) de kendini ekonomik analize kaptırdığını farketti. *Müsadere devletin bireylerin
 malına el koymasıdır. Devletler bunu genelde siyasi sebeplerle yapardı. Siyasi olarak güçlenmeye
 çalışan zenginlerin yoldan çıkmasına engel olmak için bulunan bir yoldu.*
-Öğretmenin mimikleri *doğru cevabı* verdiğini gösteriyordu. Devam etti.
+Öğretmenin mimikleri *anladığını* gösteriyordu. Devam etti.
 
-Üretim organizasyonları ve doğal kaynakların mirasının bir kısmının jemiyeye, büyük kısmının devlete
+Üretim organizasyonları ve doğal kaynakların mirasının bir kısmının jumreye, büyük kısmının devlete
 kalması insanlar arasındaki fırsat eşitsizliğini giderdi. Mülkiyeti yok ettiğini iddia eden
-düzenlemeler yapan Komünist ekonomilerden daha hızlı şekilde servetin topluma dönmesini sağladı bu
-düzenleme. 
+Komünist ekonomilerden daha hızlı şekilde servetin topluma dönmesini sağladı bu
+düzenleme. Ekonomik alternatifleri artırıp rekabeti de güçlendirdiği için ekonomiyi hızlandırdı.
 
 Patriarkinin mücadelesi aile kurumu ve bunun etrafında şekillenmiş erkek egemen toplumun devamına
-bağlı olduğu için en büyük itirazlar bunlardan geliyordu. Erkeklar aile reisliğinin toplumda
+bağlı olduğu için (Serod)a en büyük itirazlar bunlardan geldi. Erkekler aile reisliğinin toplumda
 vazgeçilmez bir yeri olduğunu ve mirasın da bu reisliğin devamı için elzem olduğunu iddia
-ediyorlardı. *Eğer çocuklarımıza bırakamayacaksak neden işyeri açalım?* çok yaygın bir itirazdı. 
+ediyorlardı. *Eğer kazandıklarımızı çocuklarımıza bırakamayacaksak neden çalışalım?* çok yaygın bir itirazdı. 
 
 (Serod) ve etrafındakiler «Süreç Vakıf» adını verdikleri bir vakıf kurdular. Mallarını öldükten sonra
 vakfa bırakmayı kabul eden üyelerin çocuklarına vakfın gelirini paylaştıracaklarını söylediler.
-Vakıf daha çok toplumun alt kesimlerinden, zaten mirası olmayanlardan rağbet gördü. Bir süre sonra
-kendi kendine yeterli şekilde mensuplarının geride kalanlarına bakabilmeye başladığında bir hareket meydana
-gelmiş oldu. 
+Vakıf daha çok toplumun alt kesimlerinden, zaten mirası olmayanlardan rağbet gördü. Ancak kurulduğu
+zamanlar aile kurumu zayıflayıp, yalnız yaşayan ve yalnız ölenler de vakfa katılınca mensuplarının çocuklarıının temel ihtiyaçlarını karşılamaya başladı. Bir hareket doğmuş oldu. Patriarki zayıfladıkça vakıf güçlendi diyebiliriz. 
 
-(Zerkubia) devrimini hızlandıran ise Büyük Savaş oldu. Dünyanın o zamana kadar gördüğü en büyük yıkım
-ülkedeki devlet sistemini dağıttı. Savaş sırasında ayakta kalan nadir kurumlardan biri (Serod)un
+Vakıf toplumla mücadele ediyorken, Plutokrasinin büyük paylaşım savaşlarından biri daha çıktı. Dünyanın o zamana kadar gördüğü en büyük yıkım ülkedeki devlet sistemini dağıttı. Savaş sırasında ayakta kalan nadir kurumlardan biri (Serod)un
 vakfıydı. (Serod) savaş bittikten kısa süre sonra öldü ancak vakıf büyümeye devam etti. İç karışıklıklar
-sırasında jûmre sistemi ortaya çıktı. (Serod) öldükten yirmiyedi yıl sonra Vakfın 
-prensiplerine dayanan (Zerkubia) anayasası kabul edildi. 
+sırasında (Serod)un fikirlerini benimseyen birden fazla vakıf bir araya geldi. Jûmre sistemi ortaya çıktı. (Serod) öldükten yirmiyedi yıl sonra kurduğu vakfın 
+prensiplerine dayanan (Zerkubia) anayasası kabul edildi. Bugün (Zerkubia) devrimi dediğimiz, Vakfın
+kuruluşundan anayasanın ilanına kadar geçen süredeki politik çalkantılardır. 
 
-Buna göre bütün vatandaşların temel ihtiyaçlarını devlet karşılıyor, şirketlerin mülkiyet hakkı
+(Zerkubia) anayasanına bütün vatandaşların temel ihtiyaçlarını devlet karşılıyor, şirketlerin mülkiyet hakkı
 sahiplerinin ömrüyle sınırlı oluyor ve insanlar yaşam tarzlarını seçebilecek ve farklı sivil
 hukukların uygulanabildiği jûmre isimli yapılar kuruluyordu. Bunlar (Zerkubia) devriminin getirdiği
 temel değişiklikler oldu. 
 
-Tarih boyunca devletler iki şekilde gelişmiştir. Çoğu bir suç örgütünden ve mafyavari
-yapılanmalardan evrimleşmiştir. Plutokrasi bu suç örgütlerinin *insan çiftliklerini* ve onların
-ürettiği değeri sömürmeye dayanıyordu. (Zerkubia) ise bir vakıftan evrimleşen tarihte bildiğimiz ilk
-devlettir.
+Tarih boyunca devletler iki şekilde gelişmiştir. Çoğu bir suç örgütünden, diğerlerine üstün gelen
+kabilelerden, mafyavari yapılanmalardan evrimleşmiştir. Plutokrasi bu suç örgütlerinin *insan
+çiftliklerini* ve onların ürettiği değeri sömürmeye dayanıyordu. (Zerkubia) ise bir suç örgütünden
+değil, bir vakıftan evrimleşen ilk devlettir.
 
-(Serod) vakfı kurduğunda jûmre hukuku yoktu. Ancak o zaman bile *ölümsüzlük hikayesi* adını
-verdiği konulardan birbiriyle çatışan kültürlerin bir arada yaşaması için düşündüğü ilkelerden
-bahsetmişti. Devletin görevinin ölümsüzlük hikayelerinde taraf olmak değil, bunların birbiriyle adil
-şekilde yarışıp daha doğru, hakikate daha yakın olanı bulmak olduğunu söylemişti. 
+(Serod) vakfı kurduğunda jûmre hukuku yoktu. *Ölümsüzlük hikayesi* adını
+verdiği konularda birbiriyle çatışan kültürlerin bir arada yaşaması için düşündüğü ilkelerden
+bahsetmişti. Devletin görevinin ölümsüzlük hikayelerinde taraf olmak değildir. Devlet sadece
+jûmreler ve onların temsil ettiği ölümsüzlük hikayelerinin barış içinde yaşamasını sağlar.
+Bireylerin de bu jûmreler arasında özgürce tercih yapabilmesini garanti eder. 
 
-(Zerkubia) bu nedenle bir jûmreler topluluğu gibi tasarlandı. Bu jûmreler iyi mensuplar yetiştirmek ve
-daha kalıcı olmak için bu mensupların hayatlarını belirlemek hakkına sahiptirler. İnsanlar nasıl
-yaşayacaklarını jûmrelerine bakarak karar verir. Devletin görevi jûmrelerin birbirine tasallut
-etmelerine engel olmaktır. 
+Eski devletlerde birey devletle (veya toplumla) tek başına doğrudan muhatap olur ve ezilirdi. Teorik olarak özgür, pratikte ise pek çok zincirle bağlıydı. (Zerkubia) ise bir jûmreler topluluğu olarak tasarlandı. Bu jûmreler iyi mensuplar yetiştirmek ve
+daha kalıcı olmak için mensuplarının yaşama tarzlarını belirleme hakkına sahiptir. Bireylerin nasıl
+yaşayacakları jûmrelerine tarafından belirlenir. Bireyler bu jûmrelerden kendilerine en iyi ve
+anlamlı geleni tercih etmekte özgürdür. Devletin görevi jûmrelerin birbirine tasallut
+etmesine ve toplumun bu jûmrelerin biri tarafından işgal edilmesine engel olmaktır. 
 
-(Zerkubia) öncesi ulus devletler her zaman bir ulus miti geliştirip, vatandaşlarına bunu empoze etmek
+(Zerkubia) öncesi ulus devletler bir ulus miti geliştirip, vatandaşlarına bunu empoze etmek
 zorundaydı. İyi vatandaş yetiştirmek için onlara bulundukları topluluğun *yüksek bir ulus* olduğunu
 anlatmak gerekiyordu. Eski takvimle 21. yüzyıldan başlayarak bu ulus devletlerin çözüldüğünü
 görüyoruz. Her ülkede ulus mitleri sarsılmaya başladı. Ülkeden ülkeye göçler arttı. ulus fikrinin
 yerini büyük şirketlerde çalışmak veya *dünya vatandaşı olmak* aldı. Azalan nüfusun insan
 kalitesinde meydana getirdiği kriz nedeniyle bazı şirketler vatandaşlığa benzeyen ve çalışanların
-çocuklarını da yetiştirmeyi hedefleyen bir sistem geliştirdiler. İnsanlar normalde aldıkları ücretin
-yarısını alıyor, ancak çocuklarının eğitim masraflarını şirket karşılıyor ve çalışmaya başladığında
-çocukları da şirket için çalışıyordu. Yeni-Feodalizm adı verilen bu sistem, ulus devletlerin
-çöküşünü hızlandırdı çünkü şirketler çok daha anlık mitler geliştiriyor, tarihle ilgilenmiyorlardı. 
+çocuklarını da yetiştirmeyi hedefleyen bir sistem getirdiler. İnsanlar normalde aldıkları ücretin
+yarısını alıyor, ancak çocuklarının eğitim masraflarını şirket karşılıyor, çocuklarını şirket
+kendisi için eğitiyor ve çocukları da şirket için çalışıyordu. Plutokrasinin son formu Yeni-Feodalizm adı verilen bu sistem, ulus devletlerin
+çöküşünü hızlandırdı. Şirketler ileriye bakarken, ulus devletler geriye bakıyor ve bu da insanlara
+heyecan vermiyordu.
 
 İnsicamlı bir ulus fikri çöktüğünde yerini büyük şirketlerle anlaşmış totaliter yönetimler aldı.
 Bunların bazısı kendini *demokrasi* diye tanımlıyordu ancak Plutokratların rolü daha da belirgin
