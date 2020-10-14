@@ -536,94 +536,97 @@ heyecan vermiyordu.
 İnsicamlı bir ulus fikri çöktüğünde yerini büyük şirketlerle anlaşmış totaliter yönetimler aldı.
 Bunların bazısı kendini *demokrasi* diye tanımlıyordu ancak Plutokratların rolü daha da belirgin
 hale gelmişti. Bazı devletlerde ise bozulan hayat şartları *sosyalist* devrimlere neden oldu. 
-Dünya ekonomisini yöneten Plutokratlar daha dolaylı da olsa sosyalist ekonomilerde de etkiliydi. 
+Dünya ekonomisini yöneten Plutokratlar dolaylı da olsa sosyalist ekonomilerde de etkiliydi. 
 Devletlerin görevi insanları ideolojik olarak meşgul etmek ve onları gerçek gündemlerden uzak tutmak
 olmuştu.
 
-(Zînef) karşısında oturan insanların ilgilerinin kaybolduğunu hissetti. *Sanırım ekonomik tarih bu
-kadar yeterli* dedi. *Evet* dedi Ahmet, *ekonomik tarih bizim öğrenciler için biraz fazla oluyor,
+(Zînef) dinleyenlerin ilgilerinin kaybolduğunu hissetti. *Sanırım ekonomik tarih bu
+kadar yeterli* dedi. *Evet* dedi (Ahmet), *ekonomik tarih bizim öğrenciler için biraz fazla oluyor,
 evet.*
 
-(Zînef) *Bugün (Zerkubia)da çok farklı tarih anlatıları sunan jûmreler var* diyerek devam etti. Kimi jûmreler
+*Bugün (Zerkubia)da çok farklı tarih anlatıları sunan jûmreler var* diyerek devam etti. Kimi jûmreler
 kendini Roma İmparatorluğundaki *familias* yapısının devamı olarak görüyor. Bunlar ailelerden
 oluştukları halde, *evlat edinme* yoluyla yeni ve başarılı mensuplar ediniyorlardı. Kimisi *jûmre*
-sisteminin Osmanlı Devleti'ndeki *millet sistemiyle* benzer olduğunu düşünüyor. Millet sistemi
+sisteminin İslam devletlerindeki *millet sistemiyle* benzer olduğunu düşünüyor. Millet sistemi
 farklı dinlerdeki toplulukların kendi hukukları içinde yaşamasını sağlıyordu. 
 
 (Zînef) *Müslümanlar dışındakiler ikinci sınıftı* diyecek oldu ama duraladı. *Feministler olarak
-biz ise tüm sistemin eril tahakküme karşı kurulmuş ve kadınların kendi başlarına yaşamalarına imkan
-veren ve erkeklerin hukukunu değil, kendi hukuklarını uygulamayı sağlayan bir sistem olarak
+biz tüm sistemin eril tahakküme karşı kurulmuş ve kadınların kendi başlarına yaşamalarına imkan
+veren ve erkeklerin hukukunu değil, kendi hukukumuzu uygulamayı sağlayan bir sistem olarak
 anlatıyoruz.* 
 
-Ahmet saatine baktı, sonra müdüre dönüp, *hocam, bu kadar yeterli sanırım* dedi. (Zînef) de müdüre
-baktı. Müdür *ben aslında sizin (Zerkubia) devrimine engel olan eril tahakküm dediğiniz şeyin tam
-olarak ne olduğunu soracaktım ama daha sonra konuşalım* dedi. 
+(Ahmet) saatine baktı, sonra müdüre dönüp, *hocam, bu kadar yeterli sanırım* dedi. (Zînef) de müdüre
+baktı. Müdür *ben aslında sizin (Zerkubia) devrimine engel olan eril tahakküm dediğiniz şeyin ne
+olduğunu soracaktım ama daha sonra konuşalım* dedi. 
 
 *Eril tahakküm* diye mırıldandı (Zînef) ama devamını *sizin şurada müdür olarak oturmanız* diye
 bitirmedi. 
 
-Öğretmenlerden biri *bizim anlattığımızdan pek de farklı bir tarih yokmuş sizde.* dedi. *Sanırım biraz yumuşattınız. Biz daha feminist bir tarih bekliyorduk.*
+Öğretmenlerden biri *bizim anlattığımızdan pek de farklı bir tarih yokmuş sizde.* dedi. *Sanırım
+biraz yumuşattınız.* dedi.
 
-(Zînef) *biraz yumuşatmış olabilirim* dedi. *(Zerkubia)da hem jûmrenin kendi tarih
-anlatısı var ama bizde çocuk ve okul olmadığı için bu konularda önemli bir fark bulmuyoruz. Bugünün
-dünyasını kadınlar için değiştirmek daha önemli geliyor* dedi. Nazik ama tedirgindi. 
+(Zînef) *biraz yumuşatmış olabilirim* dedi. *(Zerkubia)da hem jûmrenin kendi tarih anlatısı var ama
+bizde çocuk ve okul olmadığı için bu konularda farklı olmaya çalışmıyoruz. Birbirimize
+anlatıp durduğumuz konular değil. Bugünün dünyasını kadınlar için değiştirmek daha önemli geliyor*
+dedi. Nazik ama tedirgindi. 
 
-Müdür odadaki nöbetçi robota dönüp *Bizim müfredatı (Zînef)e gönderelim* dedi. Robot *Posta
-adresi* diye bir adres söyledi, (Zînef) başını salladı, Müdür de robota *tamam* dedi. *Buradan
-bakabilirsiniz müfredata, sizinle bir sonraki görüşmede öğrencilere ders anlattıracağız. Bu sefer
+Müdür odadaki sekreter robota dönüp *Bizim müfredatı (Zînef)e gönderelim* dedi. Robot *müfredat
+iletişim adresine gönderildi* dedi, (Zînef)in saati sinyal verdi.
+ Müdür *Oradan
+bakabilirsiniz müfredata, bir sonraki görüşmede öğrencilere ders anlattıracağız. Bu sefer
 materyal de hazırlayabilirseniz iyi olur* dedi. Öğretmenlere dönüp *başka bir soru yoksa ben
-çıkıyorum* dedi. Herkes (Zînef)e selam vererek çıktı.
+çıkıyorum* dedi. 
 
-Başörtülü öğretmenlerden biri yanına gelip *merhaba, adım (Hattice)* diye kendini tanıttı. *Güzel bir giriş dersiydi, teşekkür ederim.* (Zînef) kendini inceleniyormuş
-gibi hissetse de *rica ederim* diye karşılık verdi. *Ben sosyoloji öğretmeniyim, (Zerkubia)
+Diğerleri çıktıktan sonra başörtülü öğretmenlerden biri yanına gelip *merhaba, adım (Xadice)* diye kendini tanıttı. *Güzel bir giriş dersiydi, teşekkür ederim.* (Zînef) kendini inceleniyormuş
+gibi hissetti. *Rica ederim* dedi bunu belli etmeden. *Ben sosyoloji öğretmeniyim, (Zerkubia)
 sosyolojisi malum hep jûmrelerle ilgili, sizinkinin nasıl işlediğini ve hukukunuzu merak ettim biraz
 da* dedi kadın. İncelenme hissi doğruydu. *Ben Yeşil Feministler isimli bir jûmreye mensubum. Büyük bir
-grup değiliz, 400-500 kişi kadarız sanırım. Hepimiz kadınız.*
+grup değiliz, 400-500 kişi kadarız sanırım. Hepimiz kadınız.* Kısa kesmek istemişti ama sanırım bu
+kadarla kalmayacaktı.
 
-(Hattice) başını salladı. *Hiç erkek yok mu?* dedi merakla. *Onlarla ilgili sorunlar da* dedi
+(Xadice) başını salladı. *Hiç erkek yok mu?* dedi merakla. *Onlarla ilgili sorunlar da* dedi
 (Zînef), güldüler. 
 
 Bir yandan kafeteryaya doğru çıkarken bir yandan konuştular. *Biraz bilgi almak isterim aslında*
-dedi (Hattice). (İstatistik Dairesi) bilgi veriyor ama genelde bir mensubu görmek kadar etkili
+dedi (Xadice). (İstatistik Dairesi) bilgi veriyor ama genelde bir mensubu görmek kadar etkili
 olmuyor bende. Sanırım eski kafalı bir sosyologum, veri merkezli sosyoloji yapamıyorum dedi. Tasdik
 bekliyor gibiydi. *Aa, anlıyorum* dedi (Zînef), *artık robotlar olmadan hiçbir sosyal bilim
 yapılamıyor* dedi. *Evet ama insanları tanımak daha önemli geliyor bana. Demek erkek yok jûmrenizde.
-Böyle bir iki jûmre duymuştum. Evlilik de yok o zaman* dedi (Hattice). 
+Böyle bir iki jûmre duymuştum. Evlilik de yok o zaman* dedi (Xadice). 
 
 *Kadınlar arası sivil birlik var ama erkeklerle evlilik yok.* *Hepiniz homoseksüel misiniz?* diye
-sordu (Hattice). *Yarı yarıya. Sivil birlik var ama uygulayan az. Ben biseksüelim* dedi (Zînef).
-(Hattice) *anladım* diyerek başını salladı. *Erkeklerle ilişkileri düzenleyen pek kural yok aslında,
+sordu (Xadice). *Yarı yarıya. Sivil birlik var ama uygulayan az. Ben biseksüelim* dedi (Zînef).
+(Xadice) *anladım* diyerek başını salladı. *Erkeklerle ilişkileri düzenleyen pek kural yok aslında,
 ilişkileri kendimiz başlatıp bitirebiliyoruz, jûmre dışından oluyorlar tabii. Evlilik yok demiştim.
-Çocuk da yok ve onlarla ilgili de pek kural yok. Eski evliliklerinden veya klonlamayla çocuk sahibi
-olmuş kadınlar var ama onlar da başka jûmrelerin okullarına gidiyor.* *Hmm* dedi (Hattice) bir şey
+Çocuk da yok ve onlarla ilgili de kural yok. Eski evliliklerinden veya klonlamayla çocuk sahibi
+olmuş kadınlar var ama onlar da başka jûmrelerin okullarına gidiyor.* *Hmm* dedi (Xadice) bir şey
 düşünüyormuş gibi. 
 
-*Erkekler olmayınca pek çok karmaşıklık da olmuyor* dedi (Zînef). 
-*Öyle* dedi (Hattice). *Toplanma merkeziniz var mı?* *Pazar günleri toplanıyoruz, merkezimiz
-(Cebrilye)de. Buraya 30 kilometre kadar.* *Biliyorum* dedi (Hattice). *Oralarda bizim de bir
+*Erkekler olmayınca pek çok karmaşıklık da olmuyor* dedi (Zînef). Güldüler.
+*Öyle* dedi (Xadice). *Toplanma merkeziniz var mı?* *Pazar günleri toplanıyoruz, merkezimiz
+(Cebrilye)de. Buraya 30 kilometre kadar.* *Biliyorum* dedi (Xadice). *Oralarda bizim de bir
 mescidimiz var.* 
 
-(Zînef) kızın konuşmak ister gibi bir hali olduğunu düşündü. 
+(Zînef) kızın araştırma amacıyla değil, sıkıntıdan konuşmak ister gibi bir hali olduğunu düşündü. 
 
 -- *Bu sanırım sekiz veya dokuzuncu okul, başvurduğum* dedi. 
--- *Aa, diğerleri olmadı mı?* *Radikal bir feminist olmanın bazı dezavantajları var* dedi (Zînef). *Erkekler tarihlerini bizden öğrenmek istemiyorlar.*
+-- *Aa, diğerleri olmadı mı?* *Feminist olmanın bazı dezavantajları var* dedi (Zînef). *Erkekler tarihlerini bizden öğrenmek istemiyorlar.*
 -- *Evet, öyle bir durum olabilir, bizimkiler de çeşni olsun diye kabul edecek sanırım.* 
 -- *Kabul edecekler mi sence?* 
 -- *Bana olumlu geldi havaları. Çok aykırı bir şey anlatmadın.* 
 -- *Sen ne düşünüyorsun?* 
--- *Ben sosyologum, zaten çocukların hep kendi diskurumuz öğrendiğinden şikayetçi olan bendim biraz. Dönem sonu toplantısında konuştuk bunu. Çocukların
-dünyaya bakışı devrimden önceki herhangi bir müslümanın bakışından farklı değil.*
+-- *Ben sosyologum, zaten çocukların hep kendi diskurumuz öğrendiğinden şikayetçi olan bendim biraz. Çocukların dünyaya bakışı devrimden önceki herhangi bir müslümanın bakışından farklı değil.*
 
 -- *Peki neden böyle bir bakışa ihtiyaç duysunlar ki? Kendi kendinize yetmiyor musunuz? Dünyanız yeterince büyük görünüyor* dedi (Zînef).
 
 -- *Evet, (Zerkubia) modelinde kimsenin jûmresi kimseyi ilgilendirmiyor, istersek taş devrinde de
 yaşayabiliyoruz.* 
 
-(Zînef) güldü ama bunun bir cevap olmadığını belli edecek şekilde boynunu hafifçe uzattı. 
+(Zînef) güldü ama bunun bir cevap olmadığını belli edecek şekilde boynunu uzattı. 
 
 -- *Genel olarak nüfusumuz artıyor ama başarılı öğrencilerin pek çoğunun jûmreden koptuğunu görüyoruz.
-Üniversitede tanıştıkları yeni fikirler onlara cazip geliyor. jûmre olarak güçlüyüz ama fikir üretme
-kapasitemiz sınırlı, söylediklerimiz birbirini tekrar ediyor ve bunun uzun vadede iyi olmadığını
+Üniversitede tanıştıkları yeni fikirler onlara cazip geliyor. Jûmre olarak güçlüyüz ama fikir üretme
+kapasitemiz sınırlı. Söylediklerimiz birbirini tekrar ediyor ve bunun uzun vadede iyi olmadığını
 düşünüyoruz.*
 
 *Anladım. Modern zamanların yaşam tarzları daha çekici geliyor.*
@@ -632,7 +635,7 @@ düşünüyoruz.*
 geleneksel insanlarız. Aramızda dünyanın düz olduğuna inanmaya devam ederek
 yaşamak bile mümkün.*
 
-Kızın kendi jûmresi hakkında acımasız konuştuğunu ve bunun bir kompleksle ilgili olup olmadığını
+Kızın kendi jûmresi hakkında fazla acımasız konuştuğunu ve bir kompleksle ilgili olup olmadığını
 düşündü. 
 
 *Senin ayrılma niyetin oldu mu?* 
@@ -651,7 +654,7 @@ Bazı durumları ikiyüzlü geldi, onun için geri döndüm.*
 *Var. jûmre yasası izin veriyor ama uygulayan pek yok. Önceki jûmremde kadın peşinde koşan daha
 fazla erkek vardı.* 
 
-*Çok eşliliği yasalaştıran müslüman jûmre çok az diye okumuştum.*
+*Çok eşliliği yasalaştıran müslüman jûmre çok az diye biliyordum.*
 
 *Yasalaştırmak uygulamak anlamına gelmiyor. Erkek psikolojisi mi, yoksa açıktan yapılanın rağbet
 görmemesi mi bilmiyorum. Erkekler burada daha az aldatıyor. Amacı ikinci bir kadınla birlikte olmak
@@ -659,8 +662,8 @@ olsa bile bunu açıktan, hukuki olarak yapmak istemiyorlar. İlk eşleriyle evl
 zaten.*
 
 *Bunu başka birinden de duymuştum* dedi (Zînef). *Polijini hakkı erkekleri evlenmek zorunda
-bırakıyor ve evlenmek istemedikleri için aldatmıyorlarmış. Aldattığı kadına
-söyleyecek bir bahanesi kalmıyor* diyorlar. 
+bırakıyor ve evlenmek istemedikleri için aldatmıyorlarmış. Aldattığı kadına söyleyecek bir bahanesi
+kalmıyor* diyorlar. 
 
 *Evet. Bizde evlilik dışında erkeklerin kadınlarla görüşmesi de yasak. Erkeklerin jûmre dışından
 biriyle evliliği de. Robot eşler de yasak.*
@@ -668,7 +671,7 @@ biriyle evliliği de. Robot eşler de yasak.*
 *Onlar da mı yasak?* (Zînef) şaşırmıştı. *Bu çağın nimetlerinden herkesin eşit faydalandığını
 düşünüyordum.* 
 
-(Hattice) güldü. *Erkeklerin evlilik öncesi yasakları daha fazla. Baktıkları her ekran kontrol
+(Xadice) güldü. *Erkeklerin evlilik öncesi yasakları daha fazla. Baktıkları her ekran kontrol
 altında, her sosyal anlarını bir kaydeden var. Bundan kurtulmanın tek yolu evlenmek ve çoğu 19-20
 yaşını geçirmiyor.*
 
@@ -676,10 +679,10 @@ yaşını geçirmiyor.*
 
 *Onaltı, onyedi*
 
-*Eskiden olsa hapislik yaşlar* dedi, sanki her an kendi başına da gelebilirmiş gibi bir endişeyle. 
+*Eskiden olsa hapislik yaşlar* dedi, sanki her an evlendirilebilirmiş gibi bir endişeyle. 
 
 *Evet ama genel gelir olunca bu konu daha kolay. Temel ihtiyaçları karşılanıyor zaten. İki üç tane
-de robotları oluyor. İkisi de genelde iş bulur zaten. Cinsel olgunluğa erişmiş birinin evlenmesi için
+de robotları oluyor. İkisi de iş bulur zaten. Cinsel olgunluğa erişmiş birinin evlenmesi için
 fazla bir şey gerekmiyor. Onsekiz yaş sınırının sebebini hala çözebilmiş değilim.*
 
 *Yetişkin görmüyorlar. Kendi kararlarını veremez diyorlar. Evlenmek de büyük bir karar.*
@@ -687,24 +690,24 @@ fazla bir şey gerekmiyor. Onsekiz yaş sınırının sebebini hala çözebilmi�
 *Evlenmek bizde ailevi bir mesele. Kendilerinin bir tercihi var tabii. Ama zaten bu evlilik
 konularını düzenleyenler aileler oluyor.*
 
-*Sen evli misin?* diye direkt bir soru sordu. Bu kadar samimiyeti kendi de beklemiyordu. 
+*Sen evli misin?* diye direkt bir soru sordu. Kendinden bu samimiyeti kendi de beklemiyordu. 
 
-*Boşandım* dedi (Hattice), konuşmak istemediğini belli eder gibi.*
+*Boşandım* dedi (Xadice). Bu konuyu konuşmak istemediğini belli eder gibi.
 
 *Boşanma oranları nasıl? Bu kadar erken evlenince.*
 
-*(Zerkubia) normalinden fazla değil* dedi (Hattice). *(Zerkubia) normali de, malum, evliliklerin %80'i
+*(Zerkubia) normalinden fazla değil* dedi (Xadice). *(Zerkubia) normali de, malum, evliliklerin %80'i
 boşanmayla bitiyor.*
 
-*Kadın güçlendiğinde yaşamıyor evlilikler hiçbir yerde* diye bir gözlemde bulundu (Zînef).
+*Kadın güçlendiğinde yaşamıyor evlilikler. Her yerde öyle* diye bir gözlemde bulundu (Zînef).
 
-*Evet. Kadınların kendi ayakları üstünde durması çok kolay. Zaten devlet destekliyor. Çocukları
+*Evet. Kadınların kendi ayakları üstünde durması çok kolay. Devlet destekliyor. Çocukları
 olunca onun için de yardım alıyorlar. Erkekler de sıkılıyor uzun süren evlilikten. Böylesi herkesin
 işine geliyor demek ki.*
 
-Aradaki bir anlık sessizliği (Hattice) bozdu. *Sen benden daha çok şey öğrendin.*
+Aradaki bir anlık sessizliği (Xadice) bozdu. *Sen benden daha çok şey öğrendin.*
 
-*Bizim jûmrede evlilik olmayınca boşanma da olmuyor.*
+*Bizim jûmrede evlilik olmayınca boşanma da olmuyor* dedi (Zînef). Borç öder gibi hissetti.
 
 *Sivil birlik var dedin* 
 
@@ -715,10 +718,11 @@ başlıyorlar.*
 *Bu sanırım bütün laik jûmrelerde böyle. Gözlediklerimin hiçbirinde bizdeki kadar tören, düğün
 yapıldığını görmedim.*
 
-*Sıkıcı törenler. İki kişi aynı yatağa girip, binlerce yıldır yapılan bir şeyi yapacak diye tüm
-davetlilerin çağrılıp...* Burada *acaba haddimi aşıyor muyum* şüphesi belirdi içinde. 
+*Sıkıcı törenler. İki kişi aynı yatağa girip, milyonlarca yıldır tüm canlılarca yapılan bir şeyi
+yapacak diye tüm davetlilerin çağrılıp...* Burada *acaba haddimi aşıyor muyum* şüphesi belirdi
+içinde. 
 
-(Hattice) güldü. *Evliliğe böyle bakıyorsan, evet biraz anlamsız ama bizimki gibi jûmrelerde bir
+(Xadice) güldü. *Evliliğe böyle bakıyorsan, evet biraz anlamsız ama bizimki gibi jûmrelerde bir
 büyüme, topluma kabul merasimidir.*
 
 *Evlenmeden kabul edilmemiş mi oluyor?* 
@@ -731,21 +735,21 @@ büyüme, topluma kabul merasimidir.*
 ediyorlar ve bu kutuplar birbirinden ne kadar uzak kalırsa, birleştiklerinde de o kadar sağlam olur
 diyorlar.*
 
-*Bildiğimiz teraneler. Cinsiyetin iki kutup gibi değil de renk spektrumu gibi hayal edildiğinde ne
+*Bildiğimiz teraneler. Cinsiyet iki kutup gibi değil de renk spektrumu gibi hayal edildiğinde ne
 kadar değişiyor her şey. Hem daha sağlam da olmuyormuş işte, evlilikler.* (Zînef) içinden yükselen
 agresifliğe engel olmaya çalışıyordu. 
 
-(Hattice) alınmışa benzemiyordu. Bu gibi konuşmaları çok yapmış gibi. *Sadece kendimizden ibaret
+(Xadice) alınmışa benzemiyordu. Bu gibi konuşmaları çok yapmış gibi. *Sadece kendimizden ibaret
 değiliz, evlilikler yürümese de insanlar ailelerinden kopmuyor. Torunlar dedelerini görüyor. Ayrıca
 boşanmalar yüksek ama evlilik sayısı da çok, kimse evliliği denemekten korkmuyor. Ailenle görüşüyor
 musun mesela? Neredeler?*
-i 
-Kızın bu sorusunun hadsizliği bir yana, acı vermek için bile bile sorduğu belli oluyordu. *Tipik bbir
+ 
+Kızın bu sorusunun hadsizliği bir yana, acı vermek için bile bile sorduğunu düşündü. *Tipik bir
 müslüman, konuşma kendi hatalarına geldiğinde hemen bel altı vurur bunlar* diye düşündü. *Uzaktalar.
 Babam öldü zaten. Annem de (Tarkinya)da bir yaşlılar evinde ama bu sorunun konuyla ilgisini
 anlamadım.* 
 
-*Özür dilerim* dedi (Hattice). *Kadın-erkek ilişkilerine sadece iki kişinin arasındaki bir konu gibi
+*Özür dilerim* dedi (Xadice). *Kadın-erkek ilişkilerine sadece iki kişinin arasındaki bir konu gibi
 bakmıyoruz. Onu anlatmaya çalışıyorum.*
 
 *Anladım* dedi (Zînef). Konuşmanın doğal sınırlarına ulaştığını hissetmişlerdi. Saati vücut
