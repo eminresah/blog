@@ -1,10 +1,10 @@
 ---
 title: Zerkubia Günlükleri - 1 - (Zînef) 
 author: Emin Reşah
-date:  2020-09-11 18:40:29+0300
+date:  2020-10-15 11:42:33+0300
 expiryDate:
 dp: 15034
-published: False
+published: true
 featured_image: /images/header-103.jpg
 ---
 
@@ -585,11 +585,11 @@ grup değiliz, 400-500 kişi kadarız sanırım. Hepimiz kadınız.* Kısa kesme
 kadarla kalmayacaktı.
 
 (Xadice) başını salladı. *Hiç erkek yok mu?* dedi merakla. *Onlarla ilgili sorunlar da* dedi
-(Zînef), güldüler. 
+(Zînef). Güldüler. 
 
 Bir yandan kafeteryaya doğru çıkarken bir yandan konuştular. *Biraz bilgi almak isterim aslında*
-dedi (Xadice). (İstatistik Dairesi) bilgi veriyor ama genelde bir mensubu görmek kadar etkili
-olmuyor bende. Sanırım eski kafalı bir sosyologum, veri merkezli sosyoloji yapamıyorum dedi. Tasdik
+dedi (Xadice). *(İstatistik Dairesi) bilgi veriyor ama genelde bir mensubu görmek kadar etkili
+olmuyor bende. Sanırım eski kafalı bir sosyologum, veri merkezli sosyoloji yapamıyorum* dedi. Tasdik
 bekliyor gibiydi. *Aa, anlıyorum* dedi (Zînef), *artık robotlar olmadan hiçbir sosyal bilim
 yapılamıyor* dedi. *Evet ama insanları tanımak daha önemli geliyor bana. Demek erkek yok jûmrenizde.
 Böyle bir iki jûmre duymuştum. Evlilik de yok o zaman* dedi (Xadice). 
@@ -602,7 +602,7 @@ ilişkileri kendimiz başlatıp bitirebiliyoruz, jûmre dışından oluyorlar ta
 olmuş kadınlar var ama onlar da başka jûmrelerin okullarına gidiyor.* *Hmm* dedi (Xadice) bir şey
 düşünüyormuş gibi. 
 
-*Erkekler olmayınca pek çok karmaşıklık da olmuyor* dedi (Zînef). Güldüler.
+*Erkekler olmayınca pek çok karmaşıklık da olmuyor* dedi (Zînef). 
 *Öyle* dedi (Xadice). *Toplanma merkeziniz var mı?* *Pazar günleri toplanıyoruz, merkezimiz
 (Cebrilye)de. Buraya 30 kilometre kadar.* *Biliyorum* dedi (Xadice). *Oralarda bizim de bir
 mescidimiz var.* 
@@ -610,11 +610,17 @@ mescidimiz var.*
 (Zînef) kızın araştırma amacıyla değil, sıkıntıdan konuşmak ister gibi bir hali olduğunu düşündü. 
 
 -- *Bu sanırım sekiz veya dokuzuncu okul, başvurduğum* dedi. 
+
 -- *Aa, diğerleri olmadı mı?* *Feminist olmanın bazı dezavantajları var* dedi (Zînef). *Erkekler tarihlerini bizden öğrenmek istemiyorlar.*
+
 -- *Evet, öyle bir durum olabilir, bizimkiler de çeşni olsun diye kabul edecek sanırım.* 
+
 -- *Kabul edecekler mi sence?* 
+
 -- *Bana olumlu geldi havaları. Çok aykırı bir şey anlatmadın.* 
+
 -- *Sen ne düşünüyorsun?* 
+
 -- *Ben sosyologum, zaten çocukların hep kendi diskurumuz öğrendiğinden şikayetçi olan bendim biraz. Çocukların dünyaya bakışı devrimden önceki herhangi bir müslümanın bakışından farklı değil.*
 
 -- *Peki neden böyle bir bakışa ihtiyaç duysunlar ki? Kendi kendinize yetmiyor musunuz? Dünyanız yeterince büyük görünüyor* dedi (Zînef).
@@ -624,118 +630,118 @@ yaşayabiliyoruz.*
 
 (Zînef) güldü ama bunun bir cevap olmadığını belli edecek şekilde boynunu uzattı. 
 
--- *Genel olarak nüfusumuz artıyor ama başarılı öğrencilerin pek çoğunun jûmreden koptuğunu görüyoruz.
-Üniversitede tanıştıkları yeni fikirler onlara cazip geliyor. Jûmre olarak güçlüyüz ama fikir üretme
-kapasitemiz sınırlı. Söylediklerimiz birbirini tekrar ediyor ve bunun uzun vadede iyi olmadığını
-düşünüyoruz.*
+-- *Genel olarak nüfusumuz artıyor ama başarılı öğrencilerin çoğunun jûmreden koptuğunu görüyoruz.
+Üniversitede tanıştıkları yeni fikirler cazip geliyor. Jûmre olarak güçlüyüz ama dayandığımız
+gelenekler yeni nesle cazip gelmiyor.  Söylediklerimiz birbirini tekrar ediyor ve bunun uzun vadede
+iyi olmadığını düşünüyoruz.*
 
-*Anladım. Modern zamanların yaşam tarzları daha çekici geliyor.*
+-- *Anladım. Modern zamanların yaşam tarzları daha çekici geliyor.*
 
-*Sizinki kadar radikal olanlara değil de, daha modernist dindar jûmrelere kayıyorlar. Biz daha
+-- *Sizinki kadar radikal olanlara değil de, daha modernist dindar jûmrelere kayıyorlar. Biz daha
 geleneksel insanlarız. Aramızda dünyanın düz olduğuna inanmaya devam ederek
 yaşamak bile mümkün.*
 
-Kızın kendi jûmresi hakkında fazla acımasız konuştuğunu ve bir kompleksle ilgili olup olmadığını
+Kızın kendi jûmresi hakkında acımasız konuştuğunu ve bir kompleksle ilgili olup olmadığını
 düşündü. 
 
-*Senin ayrılma niyetin oldu mu?* 
+-- *Senin ayrılma niyetin oldu mu?* 
 
-*Bazen oluyor. Birkaç yıl ben de daha modernist bir jûmreye bağlıydım. Orucu Eylül ayına
+-- *Bazen oluyor. Birkaç yıl ben de daha modernist bir jûmreye bağlıydım. Orucu Eylül ayına
 sabitlemişlerdi. Kadınların birinci sınıf olduğunu söylüyorlar, polijiniye izin vermiyorlar,
 namazların saatlerini sabitlemişler... Onun gibi şeyler. Kadınlara bakışları hoşuma gitmişti.*
 
-*Sonra ne oldu?*
+-- *Sonra ne oldu?* diye sordu (Zînef). 
 
-*Yeterince sahici gelmemeye başladılar. Pek çok erkeğin evlilik dışı ilişkisi olduğunu öğrendim.
+-- *Sahici gelmemeye başladılar. Pek çok erkeğin evlilik dışı ilişkisi olduğunu öğrendim.
 Bazı durumları ikiyüzlü geldi, onun için geri döndüm.*
 
-*Burada polijini var mı?*
+-- *Burada polijini var mı?*
 
-*Var. jûmre yasası izin veriyor ama uygulayan pek yok. Önceki jûmremde kadın peşinde koşan daha
-fazla erkek vardı.* 
+-- *Jûmre yasası izin veriyor ama uygulayan pek yok. Önceki jûmremde kadın peşinde koşan daha
+çok erkek vardı.* 
 
-*Çok eşliliği yasalaştıran müslüman jûmre çok az diye biliyordum.*
+-- *Çok eşliliği yasalaştıran müslüman jûmre çok az diye biliyordum.*
 
-*Yasalaştırmak uygulamak anlamına gelmiyor. Erkek psikolojisi mi, yoksa açıktan yapılanın rağbet
+-- *Yasalaştırmak uygulamak anlamına gelmiyor. Erkek psikolojisi mi, yoksa açıktan yapılanın rağbet
 görmemesi mi bilmiyorum. Erkekler burada daha az aldatıyor. Amacı ikinci bir kadınla birlikte olmak
 olsa bile bunu açıktan, hukuki olarak yapmak istemiyorlar. İlk eşleriyle evlenmek bile zor geliyor
 zaten.*
 
-*Bunu başka birinden de duymuştum* dedi (Zînef). *Polijini hakkı erkekleri evlenmek zorunda
+-- *Bunu başka birinden de duymuştum* dedi (Zînef). *Polijini hakkı erkekleri evlenmek zorunda
 bırakıyor ve evlenmek istemedikleri için aldatmıyorlarmış. Aldattığı kadına söyleyecek bir bahanesi
 kalmıyor* diyorlar. 
 
-*Evet. Bizde evlilik dışında erkeklerin kadınlarla görüşmesi de yasak. Erkeklerin jûmre dışından
+-- *Evet. Bizde evlilik dışında erkeklerin kadınlarla görüşmesi de yasak. Erkeklerin jûmre dışından
 biriyle evliliği de. Robot eşler de yasak.*
 
-*Onlar da mı yasak?* (Zînef) şaşırmıştı. *Bu çağın nimetlerinden herkesin eşit faydalandığını
+-- *Onlar da mı yasak?* (Zînef) şaşırmıştı. *Bu çağın nimetlerinden herkesin eşit faydalandığını
 düşünüyordum.* 
 
-(Xadice) güldü. *Erkeklerin evlilik öncesi yasakları daha fazla. Baktıkları her ekran kontrol
+-- (Xadice) güldü. *Erkeklerin evlilik öncesi yasakları daha fazla. Baktıkları her ekran kontrol
 altında, her sosyal anlarını bir kaydeden var. Bundan kurtulmanın tek yolu evlenmek ve çoğu 19-20
 yaşını geçirmiyor.*
 
-*Kadınlar?* diye sordu (Zînef). 
+-- *Kadınlar?* diye sordu (Zînef). 
 
-*Onaltı, onyedi*
+-- *Onaltı, onyedi*
 
-*Eskiden olsa hapislik yaşlar* dedi, sanki her an evlendirilebilirmiş gibi bir endişeyle. 
+-- *Eskiden olsa hapislik yaşlar* dedi, sanki her an evlendirilebilirmiş gibi bir endişeyle. 
 
-*Evet ama genel gelir olunca bu konu daha kolay. Temel ihtiyaçları karşılanıyor zaten. İki üç tane
+-- *Evet ama genel gelir olunca bu konu daha kolay. Temel ihtiyaçları karşılanıyor zaten. İki üç tane
 de robotları oluyor. İkisi de iş bulur zaten. Cinsel olgunluğa erişmiş birinin evlenmesi için
 fazla bir şey gerekmiyor. Onsekiz yaş sınırının sebebini hala çözebilmiş değilim.*
 
-*Yetişkin görmüyorlar. Kendi kararlarını veremez diyorlar. Evlenmek de büyük bir karar.*
+-- *Yetişkin görmüyorlar. Kendi kararlarını veremez diyorlar. Evlenmek de büyük bir karar.*
 
-*Evlenmek bizde ailevi bir mesele. Kendilerinin bir tercihi var tabii. Ama zaten bu evlilik
+-- *Evlenmek bizde ailevi bir mesele. Kendilerinin bir tercihi var tabii. Ama zaten bu evlilik
 konularını düzenleyenler aileler oluyor.*
 
-*Sen evli misin?* diye direkt bir soru sordu. Kendinden bu samimiyeti kendi de beklemiyordu. 
+-- *Sen evli misin?* diye direkt bir soru sordu. Kendinden bu samimiyeti kendi de beklemiyordu. 
 
-*Boşandım* dedi (Xadice). Bu konuyu konuşmak istemediğini belli eder gibi.
+-- *Boşandım* dedi (Xadice). Bu konuyu konuşmak istemediğini belli eder gibi.
 
-*Boşanma oranları nasıl? Bu kadar erken evlenince.*
+-- *Boşanma oranları nasıl? Bu kadar erken evlenince.*
 
-*(Zerkubia) normalinden fazla değil* dedi (Xadice). *(Zerkubia) normali de, malum, evliliklerin %80'i
-boşanmayla bitiyor.*
+-- *(Zerkubia) normalinden fazla değil* dedi (Xadice). *(Zerkubia) normali de, malum, dört
+evlilikten üçü boşanmayla bitiyor.*
 
-*Kadın güçlendiğinde yaşamıyor evlilikler. Her yerde öyle* diye bir gözlemde bulundu (Zînef).
+-- *Kadın güçlendiğinde yaşamıyor evlilikler. Her yerde öyle* diye bir gözlemde bulundu (Zînef).
 
-*Evet. Kadınların kendi ayakları üstünde durması çok kolay. Devlet destekliyor. Çocukları
+-- *Evet. Kadınların kendi ayakları üstünde durması çok kolay. Devlet destekliyor. Çocukları
 olunca onun için de yardım alıyorlar. Erkekler de sıkılıyor uzun süren evlilikten. Böylesi herkesin
 işine geliyor demek ki.*
 
 Aradaki bir anlık sessizliği (Xadice) bozdu. *Sen benden daha çok şey öğrendin.*
 
-*Bizim jûmrede evlilik olmayınca boşanma da olmuyor* dedi (Zînef). Borç öder gibi hissetti.
+-- *Bizim jûmrede evlilik olmayınca boşanma da olmuyor* dedi (Zînef). Borç öder gibi hissetti.
 
-*Sivil birlik var dedin* 
+-- *Sivil birlik var dedin* 
 
-*Evet, onun bozulması mümkün ama bizde de poligami var. Kimsenin çok uğraşmadığı bir şey. Sivil
+-- *Evet, onun bozulması mümkün ama bizde de poligami var. Kimsenin çok uğraşmadığı bir şey. Sivil
 birlik de çok nadiren oluyor. İnsanlar Eski Mısır'daki gibi aynı eve taşınıp beraber yaşamaya
 başlıyorlar.* 
 
-*Bu sanırım bütün laik jûmrelerde böyle. Gözlediklerimin hiçbirinde bizdeki kadar tören, düğün
+-- *Bu sanırım bütün seküler jûmrelerde böyle. Gözlediklerimin hiçbirinde bizdeki kadar tören, düğün
 yapıldığını görmedim.*
 
-*Sıkıcı törenler. İki kişi aynı yatağa girip, milyonlarca yıldır tüm canlılarca yapılan bir şeyi
+-- *Sıkıcı törenler. İki kişi aynı yatağa girip, milyonlarca yıldır tüm canlılarca yapılan bir şeyi
 yapacak diye tüm davetlilerin çağrılıp...* Burada *acaba haddimi aşıyor muyum* şüphesi belirdi
 içinde. 
 
-(Xadice) güldü. *Evliliğe böyle bakıyorsan, evet biraz anlamsız ama bizimki gibi jûmrelerde bir
+-- (Xadice) güldü. *Evliliğe böyle bakıyorsan, evet biraz anlamsız ama bizimki gibi jûmrelerde bir
 büyüme, topluma kabul merasimidir.*
 
-*Evlenmeden kabul edilmemiş mi oluyor?* 
+-- *Evlenmeden kabul edilmemiş mi oluyor?* 
 
-*Özgür olmuyorsun. Ailenin yönetimi altındasın.*
+-- *Özgür olmuyorsun. Ailenin yönetimi altındasın.*
 
-*Yalnız yaşamaya başlayan yok mu? Onbeş yaşından sonra artık kendi geliri oluyor çocukların.*
+-- *Yalnız yaşamaya başlayan yok mu? Onbeş yaşından sonra artık kendi geliri oluyor çocukların.*
 
-*Kolay bir karar değil o. Jûmrenin felsefesi kadın ve erkeği ayrı tutmak. İki kutup gibi hayal
+-- *Kolay bir karar değil o. Jûmrenin felsefesi kadın ve erkeği ayrı tutmak. İki kutup gibi hayal
 ediyorlar ve bu kutuplar birbirinden ne kadar uzak kalırsa, birleştiklerinde de o kadar sağlam olur
 diyorlar.*
 
-*Bildiğimiz teraneler. Cinsiyet iki kutup gibi değil de renk spektrumu gibi hayal edildiğinde ne
+-- *Bildiğimiz teraneler. Cinsiyet iki kutup gibi değil de renk spektrumu gibi görüldüğünde ne
 kadar değişiyor her şey. Hem daha sağlam da olmuyormuş işte, evlilikler.* (Zînef) içinden yükselen
 agresifliğe engel olmaya çalışıyordu. 
 
@@ -745,9 +751,9 @@ boşanmalar yüksek ama evlilik sayısı da çok, kimse evliliği denemekten kor
 musun mesela? Neredeler?*
  
 Kızın bu sorusunun hadsizliği bir yana, acı vermek için bile bile sorduğunu düşündü. *Tipik bir
-müslüman, konuşma kendi hatalarına geldiğinde hemen bel altı vurur bunlar* diye düşündü. *Uzaktalar.
-Babam öldü zaten. Annem de (Tarkinya)da bir yaşlılar evinde ama bu sorunun konuyla ilgisini
-anlamadım.* 
+müslüman, konuşma kendi hatalarına geldiğinde hemen bel altı vurur bunlar* diye yükselen bir öfke
+hissetti. Kendi elini tuttu ve sakinleştiğini hissedince *Uzaktalar.  Babam öldü zaten. Annem de
+(Tarkinya)da bir yaşlılar evinde ama bu sorunun konuyla ilgisini anlamadım.* 
 
 *Özür dilerim* dedi (Xadice). *Kadın-erkek ilişkilerine sadece iki kişinin arasındaki bir konu gibi
 bakmıyoruz. Onu anlatmaya çalışıyorum.*
@@ -765,7 +771,7 @@ Güneşin altında uzun yürüyüşler yapmanın her türden hastalığa faydas�
 çıktığında, neden tanımadığı bir insanın *tanışma* teklifini bu kadar hızlı kabul ettiğini
 düşünüyordu. Belli ki kız onunla mülakat yapmak için ayarlanmıştı. Konuşmanın direktliği. Girdiği
 konular. Bunları *iş görüşmesi* gibi bir şekilde sorsanız verilecek ve verilmeyecek cevaplar
-belliydi ama *araştırma yapan sosyolog* için...
+belliydi ama *araştırma yapan sosyolog* için sorulabilir sorulardı. 
 
 Saati müzik dinlemek isteyip istemediğini sordu. Kulaklarına kalıcı kulaklıklar taktırdığından beri
 istediği zaman müzik dinleyebiliyordu. Saatle iletişimini de bu kulaklıklar sağlıyordu. İstediği
@@ -773,33 +779,34 @@ zaman kitap, istediği zaman müzik, bazen beyaz gürültü, bazen anıların ka
 ama şimdi kendi düşünceleriyle başbaşa yürümek istedi.
 
 *Moralin bozuksa psikologdan randevu ayarlayabilirim* dedi saati. *Sanırım vücut elektriğimi
-gerçekten takip ediyor.* Saate *o kadar değil, zaten bu ayın sonunda gideceğim.* dedi. 
+gerçekten takip ediyor.* Saate *o kadar değil, iki hafta sonra zaten gideceğim.* dedi. 
 
-Yol güzeldi. *Bütün yolların yürünebilir olması* temel bir prensipti (Zerkubia)da. Bunu sosyal
-anlamda, insanların istedikleri yaşam biçiminde yürümesi şeklinde yorumladıkları gibi düz anlamıyla
-da yorumluyorlardı. Üstü açık bütün yolların kenarında yaya bölümü olurdu. 
+Yol güzeldi. (Serod)un *Bütün yolların yürünebilir olmalı* sözü temel bir prensipti (Zerkubia)da.
+Bunu sosyal anlamda, insanların istedikleri yaşamda yürümesi şeklinde yorumladıkları gibi
+şehircilik anlamıyla da yorumluyorlardı. Üstü açık bütün yolların kenarında yaya bölümü olurdu. 
 
 Uzaktan mahallenin ağaçlarını gördüğünde akşam ne yapacağını planlamak istedi. Saate sordu, her
 zamanki gibi: *Akşama bir davet var mı?* 
 
 *(Eerki) seni sormuştu, bu akşam uygun görünüyor takvimi.*
 
-*Hayır. Onu görmek istemiyorum. Siyah ruj süren erkeklerden hoşlanmıyorum.*
+*Hayır. Onu görmek istemiyorum. Siyah ruj süren erkeklerden hoşlanmıyorum.* 
 
-*Jumre binasında film gösterimi var. Daha sonra da tartışacaklarmış filmi.*
+Saat *bunu kaydedeyim* dedi. Sonra *Jumre binasında film gösterimi var. Daha sonra da tartışacaklarmış filmi.*
 
 *Film ne?* 
 
 *Mars'ta Yedi Kadın adında bir romantik komedi. Marsta geçiyormuş. Özetini okuyabilirim.*
 
-*Hayır, hayır. Jumrenin film organizasyonlarını kim yapıyorsa, romantik komedilere takmış.
+Robotların bir insanın yapmayacağı tekrarlar yapması hala yeterince zeki olmadıklarını mı
+gösteriyordu? *Hayır, hayır. Jumrenin film organizasyonlarını kim yapıyorsa, romantik komedilere takmış.
 Seçtikleri filmlerin hiçbiri de komik değil.*
 
 *Yeni biriyle tanışmak ister misin?*
 
 *Var mı öyle biri? Gerçekten yeni?*
 
-*Biliyorsun çağımız arkadaş edinmenin çok kolaylaştığı bir çağ.*
+*Biliyorsun arkadaş edinmenin kolaylaştığı bir çağda yaşıyoruz.*
 
 *Evet ama yeni biri değil, yüzler değişiyor ama herkesle aynı ilişkiyi yaşıyorsun. Eminim onlar da
 aynı şeyi düşünüyor.*
@@ -812,8 +819,9 @@ muhabbetini dinledim.*
 
 *Hoşlanmadın yani*
 
-Robotlar hala bazı sözlerin iyi mi, kötü mü olduğunu anlamakta zorluk çekiyor diye düşündü. Belki
-benim de intihara meyilli olduğumu düşünüyordur bu saat. 
+Robotlar hala bazı sözlerin iyi mi, kötü mü olduğunu anlamakta zorluk çekiyor diye düşündü.
+Saatimizle ağız tadıyla dedikodu yapamıyoruz. Belki benim de intihara meyilli olduğumu düşünüyordur
+bu saat. Onun için sordu bunu.
 
 *Hayır, hoşlanmadım* diye net bir cevap verdi. 
 
@@ -829,7 +837,7 @@ istemiyorum.*
 *Sürpriz mi olsun? İstersen kontrol edebilirsin kim olduklarını. Cinsiyet tercihin var mı?*
 
 *Yok, hayır, beni öyle yapay şeylerle uğraştırma. Ama kadın olacaksa regl olmasın, şu an hiç kanlı
-bir vajinayla karşılaşacak durumda değilim.*
+bir kadınla karşılaşacak durumda değilim.*
 
 Saati birkaç dakika sonra akşam yedide *özel odalarda* görüşme ayarladığını söyledi. Herkesin
 yemeğini kendi ödediği, sadece sana bildirilen odaya gidip, karşındakiyle iki saat geçirdiğin
@@ -843,7 +851,7 @@ Eve geldiğinde buluşmaya iki saat vardı. Yavaş yürümüş, evlerin içlerin
 atıştırsam iyi olur diye düşünüp yemek dolabından bir şeyler istedi. Dolaplar hem fırın, hem
 buzdolabı, hem aşçı gibi çalışan robotlardı, istediğin yemeğin malzemelerini de isteyebiliyorlardı
 ama zaman yoktu buna. Dolabın elinde biraz tofu köftesi ve patates kalmış. *Et yok mu* dedi. *Bu
-haftaki et rasyonuzu bitirdiniz efendim* dedi dolap. *Parayla sipariş ver o zaman, yarına et yemek
+haftaki et kotanızı bitirdiniz efendim* dedi dolap. *Parayla sipariş ver o zaman, yarına et yemek
 istiyorum.*
 
 Dolapların çoğu (Temel İhtiyaçlar Dairesi) tarafından idare edilir ve insanların yiyecek
@@ -866,27 +874,26 @@ gerekiyor* dedi saat. Kıyafet merkezi yakındaydı en azından.
 
 (Zerkubia)da insanların nadiren kendilerine ait kıyafetleri olur. Kendilerine ait evleri, arabaları
 ve eşyaları olmadığı gibi, kendilerine ait kıyafetleri de bulunmaz. Kıyafet merkezlerine gidip
-giyinmek ve giydikten sonra bırakmak mümkündür. Yıkanır, ütülenir ve başka biri tarafından giyilmeye
+giyinmek ve giyilmişleri bırakmak mümkündür. Temizlenir, ütülenir ve başka biri tarafından giyilmeye
 hazır hale gelir. Sokakta eski kıyafetli birini görüyorsanız ya Süreç tarafından cezalandırılmış
 biri, ya da bu şekilde dikkat çekmeye çalışan bir manyaktır. 
 
 *Tamam, ben giderim* dedi (Zînef). *Bana bir scooter çağır en azından*. *Çağırdım. Hadi şimdi
-çıkabilirsin* dedi saat. Böyle motive etmeye çalışır gibi konuşmasına bir ayrı sinir oluyordu. 
+çıkabilirsin* dedi saat. Böyle motive etmeye çalışır gibi konuştuğunda ayrı sinir oluyordu. 
 
 Kıyafet merkezinde biraz önce seçtiği kombini bir kabinde giyinde. Makyaj odalarından birine girdi.
 Oda bir robot gibiydi, istediği yönden kendini görebildiği bir ekrana bakıp konuşabiliyordu.
 İsterse hologramıyla yanyana da oturabilirdi.
 
-İşi kısa sürdü. Evde giyinmesi daha kısa sürüyordu. Getirdiği kıyafetleri bırakmak istediğini
-söyledi.
+İşi kısa sürdü. Getirdiği kıyafetleri bir yere bıraktı.
 
 Buluşacağı yere araçla gidecekti. Saate aracı çağırmasını söyledi. Yediye 10 dakika kala (Mavi
-Dikiş) isimli barın 119
+Boşluk) isimli barın 119
 numaralı buluşma odasındaydı. Odada kimse yoktu. Önce gelmiş olmaktan memnun olmadı. Çıkıp biraz
 dolaşmayı düşündü ama odaların arasında kendininkini bulamamış gibi görünmeyi yediremediği için
 daldı. 
 
-(Mavi Dikiş) bu çevredeki buluşma mekanlarının en genişlerinden biriydi. Ortak alanlar da vardı ama
+(Mavi Boşluk) bu çevredeki buluşma mekanlarının en genişlerinden biriydi. Ortak alanlar da vardı ama
 genelde özel odalar için geliyordu insanlar buraya. İlk buluşmalar, ikinci buluşmalar. Bazen tüm
 ilişkiler bu odalarda yürüyordu. Ev bir buluşma noktası olmaktan çıkalı çok olmuştu.
 
@@ -905,18 +912,20 @@ Adam tedirgindi. *Sistemin bana hep utangaç erkekler göndermesine bir çare bu
 Hatta *erkekler göndermesine.* Bu geceyi bu adamla geçirmeyeceğine o an karar verdi, gördükten on
 saniye sonra. 
 
-Sesi ince sayılmazdı ama tedirginlikten ince çıkıyordu. *Ben (Beras)* dedi adam. *Ben Zînef.* 
--- Memnun oldum. 
+Sesi ince sayılmazdı ama tedirginlikten ince çıkıyordu. *Ben (Beras)* dedi adam. *Memnun oldum* dedi
+(Zînef).
+
 -- Ben de. 
+
 -- İçecek söylediniz mi?
 
 Adamın falsosu buydu. *Fazla nazik. Kesin bir şeyler gizliyor.* Kimisi gelir, on yıldır tanışıyormuş gibi konuşmaya başlar, o da ayrı bir hadsizlik olurdu. (Beras) da yemek ve içecek söyledi. Trüf mantarlı sote ve şekersiz ananas çayı. *Vegan değil* diye düşündü (Zînef).
 
-Sessizliği Zînef bozdu. *Bu buluşmayı bir hafta sonra hatırlamayacağıma eminim ama başlayalım mı?*
-dedi. *Neye?* dedi adam. Zînef'in içinden *sevişmeye* demek geldi ve güldü. *Adettendir, sistemin
+Sessizliği (Zînef) bozdu. *Bu buluşmayı bir hafta sonra hatırlamayacağıma eminim ama başlayalım mı?*
+dedi. *Neye?* dedi adam. (Zînef)in içinden *sevişmeye* demek geldi ve güldü. *Adettendir, sistemin
 bizi neden buluşturduğunu anlamaya çalışırız.*
 
-*Ben bu konuda yeniyim* dedi Beras. *Bir yıldır kimseyle buluşmadım. Bu sanırım sağlıksız bulunduğu
+*Ben bu konuda yeniyim* dedi (Beras). *Bir yıldır kimseyle buluşmadım. Bu sanırım sağlıksız bulunduğu
 için saatime uyarı geldi. Ben de denemek istedim.*
 
 *Oh* dedi (Zînef) *geçen defa da intihara meyilli birini göndermişti. Psikolog da değilim ama sistem
@@ -929,7 +938,7 @@ mıydı? Yarım saatten önce mazeretsiz kalkarsa sosyal puanı düşebilirdi.
 
 *Siyah ruj süren kadınların yüzde onsekizinin aşırı kilo sorunları olduğunu biliyor muydunuz?* diye sordu
 adam. Bunu kendisini aşağılamak için sormamıştı. *Ahahaha* diye gülüyormuş gibi yaptı (Zînef) ama
-güldüğü daha çok kendi haliydi. *Sanırım bir istatistik bülteni gibi geçecek konuşma* dedi. 
+güldüğü kendi haliydi. *Sanırım bir istatistik bülteni gibi geçecek konuşma* dedi. 
 
 *Gelirken ruj rengiyle kilo ve psikolojik durum korrelasyonlarına baktım da* dedi, *tanımaya faydası
 olur diye.*
@@ -943,13 +952,13 @@ olur diye.*
 Servis robotları masayı donattı. (Beras) konuşmak istemiyor gibi duruyordu. *Tarihçiyim ben de* dedi
 (Zînef). Adam nezaketen bile ilgi göstermedi. Bakışları ve ilgisi tamamen yemek üzerindeydi. 
 
-*(Züleyman) diye birini okudum geçenlerde* dedi. *İmparatormuş sanırım, büyük bir ülkesi varmış.* 
+*(Züleyman) diye birini duydum geçenlerde* dedi. *İmparatormuş sanırım, büyük bir ülkesi varmış.* 
 
 (Zînef) adamın kimden bahsettiğini anlamadı. *Hangi (Züleyman)* dedi. 
 
 *Pek bilmiyorum, başka (Züleyman) mı var?* dedi (Beras). 
 
-*Bir iki kral var öyle* dedi. *Eski, çok eski ve mitik diye üç (Süleyman)'dan bahsedebiliriz.*
+*Bir iki kral var öyle* dedi. *Eski, çok eski ve mitik diye üç (Süleyman)dan bahsedebiliriz.*
 
 *Tamam* dedi (Beras). Adam iletişim kurmaya çalışmış ama *tarih bilgisi* buna yetmemişti. Yemeğe
 döndüler. 
@@ -967,37 +976,38 @@ herhalde* dedi. Konuşması hızlanmaya başlamıştı. *ama şu an gözlüğün
 neredeyse eminim.*
 
 (Beras) yemeğine biraz daha dik baktı. Gözlerini yemekten ayırmadan. *Evet* dedi *bir şeyler
-seyretmeden insanlara tahammül edemiyorum. Çok yavaşsınız.*
+seyretmeden insanlara tahammül edemiyorum. Çok yavaş konuşuyor herkes.*
 
 *Sen de çok kabasın. Yeni tanıştığın bir insanla görüşmende film seyredemezsin. Ne seyrediyorsun?*
 
-*X-Room* dedi (Beras), *eski bir Amerikan dizisi*
+*X-Rooms* dedi (Beras), *eski bir Amerikan dizisi*
 
 *Biliyorum onu. Genelde öyle şeyler mi seyredersin?* dedi (Zînef). 
 
 *Evet. Eski bilim kurgular bana ne kadar saf olduklarını hatırlatıyor.*
 
-Saati yarım saatin dolduğunu haber verdi. 
+Yemeklerine döndüler. Sessizce, karşılarında kimse yokmuş gibi yemeklerini yediler. Saati yarım
+saatin dolduğunu haber verdi. 
 
 *Ben kalkıyorum* dedi (Zînef). *Verebileceğim en düşük puanı vereceğimden ve senin bir ruh hastası
 olduğunu söyleyeceğimden emin olabilirsin.* Saatine dönüp *yediklerimin parasını öder misin* dedi.
 Saat *ödendi* derken de kalkıp toparlanmaya başladı. *Sistemde bir sorun var, neden bana bu kadar
-hastalıklı insanları gönderiyorlar? Keşke jumre toplantısına gitseydim.*
+hastalıklı insanları gönderiyorlar? Keşke jûmre toplantısına gitseydim.*
 
-Adam ilgilenmiyordu. Söylediklerine bir cevap da vermemişti. (Zînef) çıkıştaki barda oturup, kendisi
+Adam ilgilenmiyordu. Söylediklerine cevap vermemişti. (Zînef) çıkıştaki barda oturup, kendisi
 gibi kurasından memnun olmayan biriyle tanışmayı düşündü ama bu da tehlikeliydi. Sosyal skor
-ihtimali olmayınca insanların nasıl davrandığını tahmin edebiliyordu. 
+ihtimali olmayınca insanların nasıl davrandığını anlatan korkunç hikayeler aklına geldi. 
 
 Saatine *bu görüşmenin puanını sıfır ver, adamın da psikolojik sorunları olduğunu söyle* dedi. 
 
 *Tamam* dedi saat. 
 
-*Bana da bir araba çağır, eve gidip uyumak istiyorum artık*
+*Bana bir araba çağır, eve gidip uyumak istiyorum artık*
 
 Yine *tamam* dedi. Aynı ses tonuyla. 
 
-Eve döndüğünde yatağına uzanıp, tavan ekranını açtı. *Tarihte Büyük Pandemiler* diye bir
-belgesel seyretmeye başladı. *Uyumak istiyorum* dedi kendi kendine. Saati bunu bir emir telakki
+Eve döndüğünde üstünü çıkarıp yatağına uzandı. Tavan ekranını açtı. *Tarihte Büyük Pandemiler* diye
+bir belgesel seyretmeye başladı. *Uyumak istiyorum* dedi kendi kendine. Saati bunu bir emir telakki
 edip tüm ışık kaynaklarını kapattı, oda sıcaklığını ayarladı, odaya lavanta kokulu bir buhar doldu.
 Uyuması bir dakikadan kısa sürdü. 
 
