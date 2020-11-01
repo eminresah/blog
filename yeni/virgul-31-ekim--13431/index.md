@@ -1,4 +1,11 @@
-
+---
+title: Virgül 31 Ekim 
+author: Emin Reşah
+date:  2020-10-31 20:15:55+0300
+expiryDate:
+dp: 15084
+featured_image: /images/header-110.jpg
+---
 
 > Musicians and artists approach their work the same way. They create music they’d want to listen
 > to, draw painting they’d want to see, and write books they wish were written. That’s how I
@@ -27,8 +34,8 @@ sıkıcılığının tek ilacı ve yazının kendisi değil, hayali daha iyi gel
 
 Büyük bir anlamı yok tabii. Borges Kum Kitabı'nın takdiminde yazdıklarını sevdiği üç beş dostu
 okusun diye yazdığını söyler.  Benimki de öyle. *İş olarak* yazı üretmenin taliplisi de, rekabeti de
-fazla. Kendinden, soyadındaki Ş'den feragat edip, sabah akşam yazar pozu satacak kadar *işsiz*
-kalmadım hamdolsun. 
+fazla. Kendinden, bildiğinden, asıl dertlerinden, soyadındaki Ş'den feragat edip, sabah akşam yazar
+pozu satacak kadar *işsiz* kalmadım hamdolsun. 
 
 *Yazarlığın* yazının kendisi için değil de, başkalarına hünerlerini sergilemek ve bu yolla itibar
 kazanmak için makul bir yol olduğunu kabul ediyorum. Başka insanlar için yazıyoruz, *bakın benim
