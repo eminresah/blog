@@ -92,4 +92,52 @@ Zerkubia'da temel ihtiyaçların dağıtımını şirketler yapıyordu. Bir böl
 
 *Temel gıdanın günlüğü 20-25 sester arası değişirken 21 sester fiyat vermek ticari risk anlamına gelir. Bunu da ücretli gıdadaki kârı düşünerek yapıyorlar ama tutmuyor tabii.*
 
+-- Mısır için ödemeli sipariş verebiliyor musun? -- Merkezi depodan gelmesi gerekiyor efendim, akşama gelebiliyormuş o da. 
+
+-- Tamam. Mısır siparişi ver. Sanırım genel bir sorun var bu konuda. Bunların temel gıda ihalesini
+hatırlatmana da gerek yok, ben bunlarla yarışamam. Mahalleyi besleyeceğiz diye iflas ederiz. --
+Tamam efendim. 
+
+-- Tamam, kekikli tavuk yanına keçi sütlü latte. Ekvador kahvesi varsa ondan. -- Tamam, beş dakikaya
+hazır efendim. 
+
+Az sonra kahvaltısı geldi. Masaya dönüşmüş yatağında yedi. Ekrandan o günkü akışını seyretti. Sosyal
+medyanın nostalji günlerinden biri. İnsanlar yirmi yıl önceki hayatlarını paylaşıyordu. 
+
+(Y) kahvaltı toplandıktan sonra tabletinden çalışma belgesini açtı. Odadaki ekranlara da belgeler
+yansıdı. İlk girmek istediği ihale bir inşaat şirketinin ölen ortaklarından birinin hissesi içindi.
+Adamı uzaktan tanıyordu. Beyin kanaması geçirmiş. Ona bakarlerken kalp krizi geçirmiş.
+
+Şirketin yüzde yirmibeş hissesi satılıyordu. Şirketin belgelerini açtı. Geçen yılki cirosu 3.2
+milyar Sester, adama düşen 800 milyon, bunun da %5'i kardır. Yıllık 40 milyon. İnşaat işlerinde kar
+belli, ne artar, ne eksilir. Garanti iş. Yıllık 40 milyon için en fazla 1 milyar sester verilebilir.
+Bunun yarısını krediyle çözsek... Yarısı için de gıda şirketinden hisse satsam. 
+
+Durdu. Tabletinden banka hesaplarını açtı. Birinde ikiyüzelli milyon sester görünüyordu ama vadesi
+yakında dolacak bir ödemesi vardı. Elinde en fazla yüzmilyon nakit vardı. Bununla bu ihaleye nasıl
+girebilirim diye düşündü. 
+
+Sonra *ben verebileceğim fiyatı vereyim, bazen kalıyor böyle, girmiyor kimse ihaleye* diye konuştu
+kendi kendine. Hesapları tekrar açtı, şirket hisselerini satabileceği değerlere baktı, kredi
+faizlerine baktı. Faizsiz, kar ortaklığı kredilerine baktı. Cebinden hiç para çıkmadan 1 milyar
+sester verirse, önümüzdeki yirmi yılın karının %80'ini bırakması gerekiyordu ama bunun incelemesi
+uzundu ve reddetme ihtimalleri yüksekti. Tekrar faizli kredilere baktı. 
+
+Sonunda yediyüz milyon Sester fiyat vermeye karar verdi. Diğerleri muhtemelen gülecekti ama
+diğerleri olursa. Bazı durumlarda nakit problemi yaşadıklarından ihaleye girmiyorlardı. Bu zamana
+kadar böyle büyümüştü. Önceki gıda dağıtım şirketinin hisselerini normal fiyatından hayli ucuz
+almış, sonra normal fiyatından satmıştı. Hayatında bir defa olmuş ama olmuştu. İhale ve finans
+işlerinin bu kadar şeffaf olduğu bir düzende piyasanın çok verimli olmasını beklerdiniz ama zaman
+zaman, bilhassa büyük ihalelerde şirketler risk almayabiliyordu. *Bakalım buna kimler girecek.*
+
+İhale sayfasını açtı. Kimlik kartını tablete yaklaştırdı. Biyometrikleri kaydedildi. Ödeme planıyla
+beraber verdiği fiyatı yazdı. Ödeme sayfası teşekkür etti. Sonuçlar saat 11'de belli olacaktı. 
+
+İkinci ihale bir gıda dağıtım ihalesiydi. Şirket ihalesinde verebileceği en yüksek fiyatı düşünen
+(Y), gıda dağıtımında verebileceği en düşük fiyatı belirlemeye çalıştı. Beşbin kişilik bir
+mahallenin gıda dağıtımını yapacaktı. Yarısında otomatik dolap olmadığı için dronlar kullanılacak.
+Kişi başı 23 sester desek. Temel gıda fiyatlarını her gün takip ediyordu. Dron masrafları da olur.
+25 diyelim. Bir ailenin robot dolabı yoksa muhtemelen ücretli ihtiyaçları da azdır. Bunu da üçbin
+kişiden hesap edelim. 
+
 
