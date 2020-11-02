@@ -1,50 +1,46 @@
-===============================================================
-Türkçeyi Bilim Dili Yapmak mı, Türkleri Bilim İnsanı Yapmak mı?
-===============================================================
+---
+title: Türkçeyi Bilim Dili Yapmak mı, Türkleri Bilim İnsanı Yapmak mı?
+author: Emin Reşah
+date: 2014-11-23 02:18:14 +0200
+modified:  2020-11-02 21:15:13+0300
+editor: NBK
+dp: 12849
+featured_image: /images/header-102.jpg
+---
 
-:date: 2014-11-23 02:18:14 +0200
+Türkçeyi bilim dili yapmakla, Türkleri bilim insanı yapmanın aynı şey olduğunu söyleyenler var.
+Türkçe *bilim dili* olunca, Türkler de *bilim insanı* olabilecek.
 
-.. :Author: Emin Reşah
-.. :Date:   12849
+Bir insanın ana dilinde bilim öğrenmesi, bu insanın yabancı bir dil vasıtasıyla bilim öğrenmesine
+kıyasla elbette kolaydır. Ancak burada Türkçeyle bilim yapmanın Türklere veya bilime doğrudan
+faydasından söz etmiyoruz. *Pratik* bir faydadan bahsediyoruz.
 
-Bu ikisinin aynı olduğunu söyleyenler var. Türkçe *bilim dili* olunca,
-Türkler de *bilim insanı* olabilecek.
+Fayda pratik olduğu için, yol açtığı pratik zararları da göz ardı edemeyiz. *Ben bilimde önemli
+işler yapacağım* diyen bir insanın, alanındaki literatürü takip edebilmesi ve yaptıklarını
+duyurabilmesi için İngilizce öğrenmesi şart. Kimse bilimsel bir makaleyi birinin eline tutuşturup
+tercüme ettiremez. Hatta kimse *yeterince magazinsel* değilse, 70-80 milyonun konuştuğu bir dile,
+dünyadaki bilimsel gelişmeleri de tercüme etmez. Meselenin *pratik zarar* kısmında da bu problemler
+var.
 
-Ana dilinde öğrenmenin, yabancı bir dil öğrenip, onun vasıtasıyla bilim
-öğrenmeye nazaran önemli ölçüde kolay olduğunu kabul etmek lazım. Ancak
-burada *pratik* bir faydadan bahsediyoruz, Türkçeyle bilim yapmanın
-Türklere veya bilime doğrudan faydasından değil.
+Memleketimiz *bilimsel gelişmeleri* haber kanalları yoluyla öğreniyor. Doğrudan bilimin kendisiyle
+ilgili bir literatür yok. Başka ülkelerde de durum pek farklı değil. Almanlar da, Çinliler de bilimi
+ana dillerinden değil, İngilizce'den takip ediyorlar.
 
-Fayda pratik olduğu için, yol açtığı pratik zararları da düşünmek lazım.
-*Ben bilimde önemli işler yapacağım* diyen insanın, İngilizce öğrenmesi,
-literatürünü takip etmesi için ve yaptıklarını duyurması için şart.
-Kimse bilimsel makaleyi birine tutuşturup tercüme ettiremez. Hatta kimse
-*yeterince magazin* değilse, 70-80 milyonun konuştuğu bir dile dünyadaki
-bilimsel gelişmeleri de tercüme etmez. Bunlar da meselenin *pratik
-zarar* kısmı.
+Türkler *bilim dili* konusunda (pek çok şeyde olduğu gibi) anlamsız bir milliyetçilik derdindeler.
+Mesele ana dilinde bilim yapmak değil, Türklerin kendini iyi hissetmesi ve dev aynasında görmesi.
+*Türkçe bilim yapılıyor* deyince, Türkler *geri* olmadıklarından daha emin olacaklar.
 
-Memleketimiz *bilimsel gelişmeleri* gazeteler yoluyla öğreniyor.
-Doğrudan bilimin kendisiyle ilgili bir literatür yok. Başka ülkelerde de
-durum farklı değil. Almanlar da, Çinliler de bilimi İngilizce'den takip
-ediyor.
+Ben söyleyeyim: Türklerin diğer milletlerden önemli bir geriliği ya da ileriliği olduğuna
+inanmıyorum. Kendine has bazı özellikleri olabilir ancak ekonomi ve bilim gibi temel konularda,
+insanların davranışlarının kayda değer bir farkı yok. Bu sebeple saymış olduğum *pratik zararlar*
+önem arz ediyor. Türklerin, daha doğrusu Türkleri yönetenlerin bu *pratik zararları* gözetip karar
+vermesi gerek. 
 
-Türkler pek çok şeyde olduğu gibi, *bilim dili* konusunda da anlamsız
-milliyetçilik yapmaya çalışıyor. Mesele bilim yapmak değil, Türklerin
-kendini iyi hissetmesi ve dev aynasında görmesi. *Türkçe bilim
-yapılıyor* deyince, Türkler *geri* olmadıklarından daha bir emin
-olacaklar.
+Türklerin *bilim dili* konusunda pratik zararları aşacak doğal yetenekleri olduğuna ve diğer
+milletlerden de üstün olduğuna inanmıyorsanız, en azından teknik konularda çalışan insanların kendi
+alanında ne olup bittiğini ilk elden takip edebilecek ve düşündüğünü o dilde yayınlayabilecek kadar
+İngilizce bilmesini sağlamanız gerekir. Bu da *bilim dilinin* İngilizce olmasını gerektirir. Aksi
+halde bilim yapabileceklerin bir kısmının tercümeyle uğraşması gerekir ve *tercüman bilimci*
+istihdamı optimal kaynak dağılımı önünde bir engeldir.
 
-Ben söyleyeyim: Türklerin diğer milletlerden önemli bir geriliği ve aynı
-şekilde ileriliği olduğuna inanmıyorum. Kendine has bazı özellikleri
-olabilir ancak ekonomi ve bilim gibi pek çok temel konuda, insanların
-davranışlarının önemli bir farkı yok. O sebeple saydığım bu pratik
-zararlar önemli hale geliyor. Türklerin, daha doğrusu Türkleri
-yönetenlerin bu pratik zararlar gözetip karar vermesi gerek. Türklerin
-*bilim dili* konusunda Fransızlardan veya Hintlilerden daha üstün
-olduğuna ve bu pratik zararları aşacak doğal yetenekleri olduğuna
-inanmıyorsanız, en azından teknik konularda çalışan herkesin kendi
-alanında ne olup bittiğini ilk elden takip edecek ve düşündüğünü o dilde
-yayınlayacak kadar İngilizce bilmesini sağlamanız gerekir. Bu da *bilim
-dilinin* İngilizce olmasını icap ettirir. Aksi halde tercümeyle bilim
-yapabileceklerin bir kısmının tercümeyle uğraşması gerekir ve bu kadar
-*fazladan* bilimci maalesef kimsede mevcut değil.
+Editör: NBK
