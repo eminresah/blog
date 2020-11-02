@@ -104,9 +104,10 @@ hazır efendim.
 Az sonra kahvaltısı geldi. Masaya dönüşmüş yatağında yedi. Ekrandan o günkü akışını seyretti. Sosyal
 medyanın nostalji günlerinden biri. İnsanlar yirmi yıl önceki hayatlarını paylaşıyordu. 
 
-(Y) kahvaltı toplandıktan sonra tabletinden çalışma belgesini açtı. Odadaki ekranlara da belgeler
+(Y) kahvaltı toplandıktan sonra tabletinden çalışma belgesini açtı. Mali müşavirine 9'da toplantı
+yapmak istediğini söylemişti, ondan önce biraz çalışabilirdi. Odadaki ekranlara belgeler
 yansıdı. İlk girmek istediği ihale bir inşaat şirketinin ölen ortaklarından birinin hissesi içindi.
-Adamı uzaktan tanıyordu. Beyin kanaması geçirmiş. Ona bakarlerken kalp krizi geçirmiş.
+Adamı uzaktan tanıyordu. Beyin kanaması geçirmiş. Bir süre hasta yattıktan sonra öldü. 
 
 Şirketin yüzde yirmibeş hissesi satılıyordu. Şirketin belgelerini açtı. Geçen yılki cirosu 3.2
 milyar Sester, adama düşen 800 milyon, bunun da %5'i kardır. Yıllık 40 milyon. İnşaat işlerinde kar
@@ -138,6 +139,60 @@ beraber verdiği fiyatı yazdı. Ödeme sayfası teşekkür etti. Sonuçlar saat
 mahallenin gıda dağıtımını yapacaktı. Yarısında otomatik dolap olmadığı için dronlar kullanılacak.
 Kişi başı 23 sester desek. Temel gıda fiyatlarını her gün takip ediyordu. Dron masrafları da olur.
 25 diyelim. Bir ailenin robot dolabı yoksa muhtemelen ücretli ihtiyaçları da azdır. Bunu da üçbin
-kişiden hesap edelim. 
+kişiden hesap edelim. Ücretli gıdadan kişi başı günlük 5 Sester kar etsek. Günlük 15bin de buradan gelir. Bu 15binin yarısından feragat etsem... 10binden feragat etsem, kişi başı 2 Sester de buradan indirim yaparım. Bu da dron masraflarını karşılar. Kişi başı 23 Sestere kadar inebiliriz burada. Bir de (Muxarem)e sorayım. 
 
+Saat 9'a çeyrek vardı. Kalkıp iki üç adım attı. Saatinden bir *keçi sütlü cafe latte* daha istedi.
+Ekranların birine *haberleri aç* dedi. Sabah haberlerinde dünkü maçların sonuçlarını veriyordu. Bunu
+görünce *tamam, kapat, sosyal akışı aç* dedi. Tanıdıklarının neler yaptığına baktı. 
+
+Saatine -- (Fanur)dan haber var mı dedi. -- Hayır efendim, hala uyuduğunu söylediler. 
+
+-- Bu saate kadar uyuyorsa depresyondadır o, bence başka birini ayarla akşama. (Remin) nasıl? --
+İlişkisi var efendim. 
+
+-- Hadi ya, haberim yoktu. (Denef)? -- O da ülke dışında görünüyor. 
+
+-- Başka birini bul o zaman. Bu akşamı yalnız geçirmek istemiyorum. -- Tamam efendim. 
+
+Saat 9'u birkaç dakika geçerek Mali Müşaviri (Muxarem)den görüntülü arama geldi. Kısa bir nasılsınız
+efendim faslından sonra ihaleler konusu açıldı. 
+
+-- (Desdemon İnşaat) ihalesi iptal edilebilir. -- Neden dedi (Y).
+
+-- Hisse dağılımlarına baktınız mı? -- %25 hisse satılacak, değil mi?
+
+-- Diğer hisselere? -- Hayır bakmadım. Çok mu zor insanlar?
+
+-- Çocuklarının %15 hissesi var. Bu konuda mali müfettişler  görevlendirilmiş diye duydum. Aynı
+şirkette hem baba, hem çocukların hisse sahibi olmasını incelemeye almışlar. -- Oouw, bunu
+farketmedim hayır. 
+
+-- Çocukların hisse devirleri incelenecekmiş. Muhtemelen izah edemezler, o zaman onların hisseleri
+de satışa konur. 
+
+(Y) biraz durdu. 
+
+-- Neden böyle yapıyorlar, risksiz bir %5 almak varken. Bu çaptaki bir miras kaçakçılığı herkesin
+dikkatini çeker. 
+
+-- Çekmiş de zaten. (Zeval) öldükten hemen sonra dedikodular başladı. 
+
+-- Satamamışlar mı bu arada?
+
+-- Üçüncü şahıslara satsalar ve yurtdışına kaçsalar bile bulunuyor artık. Aile şirketinden hisse
+almak için paranın on kişiden dolaşması gerekiyormuş. Ben sana satıyorum, sen başkasına satıyorsun,
+o başkasına... böyle böyle on kişiye satılsa bile buluyorlar kaynağını. 
+
+-- Bütün bu alışverişin de belgeli gelirle olması lazım tabii. 
+
+-- E, evet, onu biraz halledebiliyorlar ama herkesin denetçi olduğu bu zamanda böyle işlere
+kalkışmak iyi cesaret. On kişiden biri bile gidip şikayet etse cezalık suç oluyor. 
+
+-- Soruşturma bitmeden ihale yapılmaz mı diyorsun? Bu %25 legal neticede, belki ayrı ayrı satarlar. 
+
+
+|inşaat şirketinin hissesinin çocuklarına devredilmiş olabileceği|
+
+|When buying and selling are controlled by legislation, the first bought and sold are the
+legislators|
 
