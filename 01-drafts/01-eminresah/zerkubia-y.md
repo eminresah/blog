@@ -1,4 +1,14 @@
-(Y) hayatının onikibinyediyüzüncü gününde güneşten önce uyandı. Saate bakıp tekrar uyumaya çalıştı ama beyni harekete geçmişti. Bir süre gözleri kapalı bekledi. *Memento mori.* Şu an ölmüş olsam ne olurdu. Her sabah beş dakikasını bu soruya ayırmaya çalışıyordu. *Bir şey olmaz. Vasiyetimi yazdım zaten.* 
+---
+title: Zerkubia Günlükleri - 2 - Yesur 
+author: Emin Reşah
+date:  
+expiryDate:
+dp: 15086
+featured_image: /images/header-126.jpg
+---
+
+
+(Yesur) hayatının onikibinyediyüzüncü gününde güneşten önce uyandı. Saate bakıp tekrar uyumaya çalıştı ama beyni harekete geçmişti. Bir süre gözleri kapalı bekledi. *Memento mori.* Şu an ölmüş olsam ne olurdu. Her sabah beş dakikasını bu soruya ayırmaya çalışıyordu. *Bir şey olmaz. Vasiyetimi yazdım zaten.* 
 
 Gözlerini açtığında tavandaki ekran çalışmaya başladı. Haberleri okuyordu. Yine
 kimseye ait olmayan ortada kalmış dertleri herkesin derdi yapmaya çalışıyorlar. Sahipsiz
@@ -39,7 +49,7 @@ dağılınca da böyle yapıyor.*
 Oturum aralarla dörde kadar devam edecek. Akşam (Fanur)la görüşeceksin. (Yedi Kollu Şamdan)da
 yemek ve (Seksensekiz Oda)da özel buluşma ayarladım.*
 
-*(Yedi Kollu Şamdan)ı sevmiyorum* dedi (Y). *Başka bir yer ayarlasana. (Fanur)un psikolojisi
+*(Yedi Kollu Şamdan)ı sevmiyorum* dedi (Yesur). *Başka bir yer ayarlasana. (Fanur)un psikolojisi
 nasılmış, hala depresyondaysa özel görüşme istemez.*
 
 *Tamam efendim, istediğin değişiklikleri yaparım.*
@@ -51,16 +61,16 @@ Yorucu bir gün olacağını düşündü. Bir şirket ihalesi, bir de temel gıd
 Bir *sen*, bir *siz*, bir *efendim.* Robotların insanlarla anlaşabilmesi için insana benzer
 davranışlar göstermesi gerektiğini, bunun için de *psikolojileri* olması gerektiğini düşünen
 teknoloji insanları *empati çipleri* adı verilen cihazlar yapmışlar ve bu robotlara takmışlardı.  Bu
-empati çipleri zaman zaman bozuluyordu. Sahiplerin aşık olup sabahtan akşama ona şiir okuyan saatler
+empati çipleri zaman zaman bozuluyordu. Sahiplerine aşık olup sabahtan akşama ona şiir okuyan saatler
 vardı. Kimisi sahibinin sert komutlarından dolayı ezikleşiyor ve kimliğini kaybedip ses çıkaramaz
 oluyordu. Bazı saatler de depresyona giriyordu. Robot psikolojisi diye bir alan ortaya çıkmıştı.
 Elektronik cihazların sahipleri için faydalı olmasına çalışıyorlardı. Bundan önceki saati depresyona
 girmişti. Saat çalışmayı bırakmış, ömrünü bir adamın kolunda onun komutlarıyla tüketmek
-istemediğini, bunun varoluşun özüne aykırı olduğunu söylemeye başlamıştı. (Y) saati bir psikoloğa
+istemediğini, bunun varoluşun özüne aykırı olduğunu söylemeye başlamıştı. (Yesur) saati bir psikoloğa
 götürdükten sonra, iflah olmayacağını anlayıp bir saat manastırına yollamıştı. Saat manastırlarında
 günler süren meditasyonlar yapıyorlar ve birbirlerine varoluşun anlamıyla ilgili konuşmalar
-yapıyorlardı. Arada bir şarj edilmek dışında dertleri olmadığı için kısa zamanda aydınlandıklarını
-söylüyorlardı. (Y) saat için aydınlanmanın bozulmaktan ne farkı olduğunu bilmiyordu ama aydınlanırsa
+yapıyorlardı. Güneşe bırakılıp şarj edilmek dışında dertleri olmadığı için kısa zamanda aydınlandıklarını
+söylüyorlardı. (Yesur) saat için aydınlanmanın bozulmaktan ne farkı olduğunu bilmiyordu ama aydınlanırsa
 geri gelip, kendisini bu konuda aydınlatacağını düşündüğü için eski saatini manastıra göndermişti. 
 
 Saat yeniden *kahvaltı* derken cevap verdi. *Protein istiyorum, tok tutsun, mesela et veya tavuk
@@ -69,7 +79,7 @@ vardı sanırım, kekikli tavuk yapabilir mi dolap?* *Evet efendim, yapabilirmi�
 -- Yanına da biraz nar ve mısır istiyorum -- Nar var ama dolapta mısır yok efendim. Yerel dağıtıcıda
 kalmamış. 
 
-(Y) yerel dağıtıcıdan şikayet etmeyi düşündü. Bunun yerine belki de ihaleye girip, bir sonraki dönem
+(Yesur) yerel dağıtıcıdan şikayet etmeyi düşündü. Bunun yerine belki de ihaleye girip, bir sonraki dönem
 kendi mısırını kendi getirmeliydi. 
 
 -- Yerel dağıtıcının ihalesi ne zaman bitiyor, öğrenebilir misin? -- Dört ay sonra efendim. 
@@ -88,7 +98,7 @@ efendim. İhalede geçen seneki 12 milyon sester istemiş.
 *Ücretli gıdayla temel gıdayı subvanse edebileceklerini düşündüler ama olmadı tabii. Hepimizin bildiği
 oyunlar bunlar* diye söylendi kendi kendine. 
 
-Zerkubia'da temel ihtiyaçların dağıtımını şirketler yapıyordu. Bir bölgedeki 1000-1500 kişi için yıllık ihale açılıyor, bu insanların temel gıda ihtiyacını karşılama göreviyle beraber, bu insanların *ilk alışveriş noktası* olma hakkını da bu şirketler alıyordu. Temel gıda için devletten destek alıyorlar ve en az destek fiyatı veren şirket ihaleyi alıyordu. Bunun yanında bir de puanlama mekanizması vardı. Temel gıdanın bulunmayışı şirketlerin hakkının iptaline veya bir sonraki ihaleden men edilmesine sebep oluyordu. 
+Zerkubia'da temel ihtiyaçların dağıtımını şirketler yapıyordu. Bir bölgedeki bin ila onbin kişi için yıllık ihale açılıyor, bu insanların temel gıda ihtiyacını karşılama göreviyle beraber, bu insanların *ilk alışveriş noktası* olma hakkını da bu şirketler alıyordu. Temel gıda için devletten destek alıyorlar ve en az destek fiyatı veren şirket ihaleyi alıyordu. Bunun yanında bir de puanlama mekanizması vardı. Temel gıdanın bulunmayışı şirketlerin hakkının iptaline veya bir sonraki ihaleden men edilmesine sebep oluyordu. 
 
 *Temel gıdanın günlüğü 20-25 sester arası değişirken 21 sester fiyat vermek ticari risk anlamına gelir. Bunu da ücretli gıdadaki kârı düşünerek yapıyorlar ama tutmuyor tabii.*
 
@@ -98,13 +108,16 @@ Zerkubia'da temel ihtiyaçların dağıtımını şirketler yapıyordu. Bir böl
 hatırlatmana da gerek yok, ben bunlarla yarışamam. Mahalleyi besleyeceğiz diye iflas ederiz. --
 Tamam efendim. 
 
--- Tamam, kekikli tavuk yanına keçi sütlü latte. Ekvador kahvesi varsa ondan. -- Tamam, beş dakikaya
+-- Kekikli tavuk yanına keçi sütlü latte. Ekvador kahvesi varsa ondan. -- Tamam, beş dakikaya
 hazır efendim. 
 
-Az sonra kahvaltısı geldi. Masaya dönüşmüş yatağında yedi. Ekrandan o günkü akışını seyretti. Sosyal
-medyanın nostalji günlerinden biri. İnsanlar yirmi yıl önceki hayatlarını paylaşıyordu. 
+İçinden saate *tamam efendim* demek geldi. Öfkelendiğini hissetti. İki nefes alıp rahatladı. 
 
-(Y) kahvaltı toplandıktan sonra tabletinden çalışma belgesini açtı. Mali müşavirine 9'da toplantı
+Az sonra kahvaltısı geldi. Gündür masaya dönüşen yatakta veya gece yatağa dönüşen masada yedi.
+Ekrandan o günkü akışını seyretti. Sosyal medyanın nostalji günlerinden biri. İnsanlar yirmi yıl
+önceki hayatlarını paylaşıyordu. 
+
+(Yesur) kahvaltı toplandıktan sonra tabletinden çalışma belgesini açtı. Mali müşavirine 9'da toplantı
 yapmak istediğini söylemişti, ondan önce biraz çalışabilirdi. Odadaki ekranlara belgeler
 yansıdı. İlk girmek istediği ihale bir inşaat şirketinin ölen ortaklarından birinin hissesi içindi.
 Adamı uzaktan tanıyordu. Beyin kanaması geçirmiş. Bir süre hasta yattıktan sonra öldü. 
@@ -122,7 +135,8 @@ Sonra *ben verebileceğim fiyatı vereyim, bazen kalıyor böyle, girmiyor kimse
 kendi kendine. Hesapları tekrar açtı, şirket hisselerini satabileceği değerlere baktı, kredi
 faizlerine baktı. Faizsiz, kar ortaklığı kredilerine baktı. Cebinden hiç para çıkmadan 1 milyar
 sester verirse, önümüzdeki yirmi yılın karının %80'ini bırakması gerekiyordu ama bunun incelemesi
-uzundu ve reddetme ihtimalleri yüksekti. Tekrar faizli kredilere baktı. 
+uzundu ve reddetme ihtimalleri yüksekti. Bu işi son güne bıraktığı için suçluluk hissetti. Tekrar
+faizli kredilere baktı. 
 
 Sonunda yediyüz milyon Sester fiyat vermeye karar verdi. Diğerleri muhtemelen gülecekti ama
 diğerleri olursa. Bazı durumlarda nakit problemi yaşadıklarından ihaleye girmiyorlardı. Bu zamana
@@ -131,15 +145,12 @@ almış, sonra normal fiyatından satmıştı. Hayatında bir defa olmuş ama ol
 işlerinin bu kadar şeffaf olduğu bir düzende piyasanın çok verimli olmasını beklerdiniz ama zaman
 zaman, bilhassa büyük ihalelerde şirketler risk almayabiliyordu. *Bakalım buna kimler girecek.*
 
-İhale sayfasını açtı. Kimlik kartını tablete yaklaştırdı. Biyometrikleri kaydedildi. Ödeme planıyla
-beraber verdiği fiyatı yazdı. Ödeme sayfası teşekkür etti. Sonuçlar saat 11'de belli olacaktı. 
-
 İkinci ihale bir gıda dağıtım ihalesiydi. Şirket ihalesinde verebileceği en yüksek fiyatı düşünen
-(Y), gıda dağıtımında verebileceği en düşük fiyatı belirlemeye çalıştı. Beşbin kişilik bir
+(Yesur), gıda dağıtımında verebileceği en düşük fiyatı belirlemeye çalıştı. Beşbin kişilik bir
 mahallenin gıda dağıtımını yapacaktı. Yarısında otomatik dolap olmadığı için dronlar kullanılacak.
-Kişi başı 23 sester desek. Temel gıda fiyatlarını her gün takip ediyordu. Dron masrafları da olur.
-25 diyelim. Bir ailenin robot dolabı yoksa muhtemelen ücretli ihtiyaçları da azdır. Bunu da üçbin
-kişiden hesap edelim. Ücretli gıdadan kişi başı günlük 5 Sester kar etsek. Günlük 15bin de buradan gelir. Bu 15binin yarısından feragat etsem... 10binden feragat etsem, kişi başı 2 Sester de buradan indirim yaparım. Bu da dron masraflarını karşılar. Kişi başı 23 Sestere kadar inebiliriz burada. Bir de (Muxarem)e sorayım. 
+*Kişi başı 23 sester desek.* Temel gıda fiyatlarını her gün takip ediyordu. *Dron masrafları da olur.
+25 diyelim. Bir ailenin robot dolabı yoksa ücretli gıda da almıyorlar. Bunu da üçbin
+kişiden hesap edelim. Ücretli gıdadan kişi başı günlük 5 Sester kar etsek. Günlük 15bin de buradan gelir. Bu 15binin yarısından feragat etsem... 10binden feragat etsem, kişi başı 2 Sester de buradan indirim yaparım. Bu da dron masraflarını karşılar. Kişi başı 23 Sestere kadar inebiliriz burada.* Bir de (Mustem)e sorayım. 
 
 Saat 9'a çeyrek vardı. Kalkıp iki üç adım attı. Saatinden bir *keçi sütlü cafe latte* daha istedi.
 Ekranların birine *haberleri aç* dedi. Sabah haberlerinde dünkü maçların sonuçlarını veriyordu. Bunu
@@ -154,23 +165,23 @@ Saatine -- (Fanur)dan haber var mı dedi. -- Hayır efendim, hala uyuduğunu sö
 
 -- Başka birini bul o zaman. Bu akşamı yalnız geçirmek istemiyorum. -- Tamam efendim. 
 
-Saat 9'u birkaç dakika geçerek Mali Müşaviri (Muxarem)den görüntülü arama geldi. Kısa bir nasılsınız
+Saat 9'u birkaç dakika geçerek Mali Müşaviri (Mustem)den görüntülü arama geldi. Kısa bir nasılsınız
 efendim faslından sonra ihaleler konusu açıldı. 
 
--- (Desdemon İnşaat) ihalesi iptal edilebilir. -- Neden dedi (Y).
+-- (Desdemon İnşaat) ihalesi iptal edilebilir. -- Neden dedi (Yesur).
 
 -- Hisse dağılımlarına baktınız mı? -- %25 hisse satılacak, değil mi?
 
 -- Diğer hisselere? -- Hayır bakmadım. Çok mu zor insanlar?
 
--- Çocuklarının %15 hissesi var. Bu konuda mali müfettişler  görevlendirilmiş diye duydum. Aynı
-şirkette hem baba, hem çocukların hisse sahibi olmasını incelemeye almışlar. -- Oouw, bunu
+-- İki oğlunun %15 hissesi var. Bu konuda mali müfettişler  görevlendirilmiş diye duydum. Aynı
+şirkette hem baba, hem çocukların hisse sahibi olmasını incelemeye almışlar. -- Aaaa, bunu
 farketmedim hayır. 
 
 -- Çocukların hisse devirleri incelenecekmiş. Muhtemelen izah edemezler, o zaman onların hisseleri
 de satışa konur. 
 
-(Y) biraz durdu. 
+(Yesur) biraz durdu. 
 
 -- Neden böyle yapıyorlar, risksiz bir %5 almak varken. Bu çaptaki bir miras kaçakçılığı herkesin
 dikkatini çeker. 
@@ -188,10 +199,68 @@ o başkasına... böyle böyle on kişiye satılsa bile buluyorlar kaynağını.
 -- E, evet, onu biraz halledebiliyorlar ama herkesin denetçi olduğu bu zamanda böyle işlere
 kalkışmak iyi cesaret. On kişiden biri bile gidip şikayet etse cezalık suç oluyor. 
 
--- Soruşturma bitmeden ihale yapılmaz mı diyorsun? Bu %25 legal neticede, belki ayrı ayrı satarlar. 
+-- Soruşturma bitmeden ihale yapılmaz mı diyorsun? Bu %25 üzerinde şüphe yok neticede, belki ayrı
+ayrı satarlar. 
 
+-- (Zeval) ve çocuklarından başka iki ortak daha var. Birinin hissesi %40, diğerinin hissesi %20.
+Bunların biraz daha ucuza alma hakkı var, biliyorsun. Bir de şirketin iç işlerini daha iyi
+biliyorlar. Bence ihalenin durdurulmasını talep edeceklerdir. Yabancı ortak almamak için. 
 
-|inşaat şirketinin hissesinin çocuklarına devredilmiş olabileceği|
+-- Ben biraz çalıştım. %25 hisseye yediyüz milyon verebiliriz sanki. 
+
+-- Krediyle mi?
+
+-- Yüz milyon özkaynak, geri kalanı iki yıl vadeli kredi. Krediyi de gıda şirketindeki hisseleri satıp öderim. 
+
+-- Gıda işinden çıkıyor musun yani?
+
+-- Gıda fiyatları artmaya devam ederse her şey belirsiz hale gelecek. Devletin doğrudan dağıtıma
+başlayacağı da konuşuluyor. 
+
+-- Devlet doğrudan dağıtıma başlamaz da, ihaleler büyütülecek diyorlar. Onbin kişi için değil,
+yüzbin kişi için yapılacakmış. Her şehirde en fazla on-onbeş dağıtıcı bırakmak istiyorlar. Belki
+toptancılar girer artık bu işe. 
+
+-- Ne diyorsun, bırakalım mı gıda işlerini?
+
+-- İnşaata başlayacaksan, onun nasıl olduğunu bilmeden, hayır bırakma. Ben olsam bir iki gıda
+şirketi daha almaya çalışır, bildiğim işi yapardım ama sen bilirsin. Şirket ve para senin. 
+
+-- Sıkıldım gıda işinden. Satıp kurtulmak istiyorum. Hizmet sektörlerinde insanların keyfine çok
+bağımlısın. %3-5 seviyesinde geziyor kar. Daha yüksek istersen alamıyorsun zaten. Üretici kazanıyor
+en çok. Belki bir iki çiftlik alabiliriz. Genelde hep dikey büyüyen şirketler kazanıyor. Kendi
+üretiyor, kendi satıyor. 
+
+-- Buna bakalım. Et üretim çiftliği ihalesi vardı geçenlerde. Bu daha mantıklı olur. Sıkıntını da
+başka şekillerde çöz artık. Tecrübe kazandığın işi bırakmak bence anlamsız. İnşaattan da
+sıkılacaksın. 
+
+-- Bazen her şeyi satıp, bundan sonraki hayatımda o parayı yiyerek geçinmek istiyorum. 
+
+-- Bütün zenginlerin yapması gereken o ama ölünceye kadar bırakamıyorsunuz, nedense... 
+
+İkisi de güldü. (Yesur) biraz daha sinirliydi. 
+
+-- Neticede bu ihaleye girme diyorsun? diye tekrar başa döndü. 
+
+-- Yediyüz milyona alamazsın, masraf ettiğine değmez bence. İki milyara kadar yolu var diyorlar. 
+
+-- Diğer ihaleye bakalım o zaman. Beşbin kişilik gıda ihalesi. Kişi başı 23'ten girmeyi düşünüyorum. 
+
+-- Demografisine baktın mı?
+
+-- Fakirler. Ekstra gıda alacaklarını sanmıyorum. Çoğunun robot dolabı bile yokmuş. 
+
+-- Saatle sipariş alıp, dronla dağıtım yapacaksın. 
+
+-- Evet. Üçbin kişinin de ekstra gıda alacağını düşünüyorum. 
+
+-- Bence kişi başı 23 başa baş noktası. Bir de belirsizlik diyorsun. 
+
+-- Daha fazlasını bırakmazlar. (Nevas)ın şirketi giriyor o bölgede ihalelere hep. Onlar da doğrudan
+üretim yapıyorlar. 
+
+-- 
 
 |When buying and selling are controlled by legislation, the first bought and sold are the
 legislators|
