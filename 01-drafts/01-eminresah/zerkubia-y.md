@@ -260,6 +260,79 @@ sıkılacaksın.
 -- Daha fazlasını bırakmazlar. (Nevas)ın şirketi giriyor o bölgede ihalelere hep. Onlar da doğrudan
 üretim yapıyorlar. 
 
+-- Yanına üretici ortak bulabilirsin belki. 
+
+-- (Nevas)a sorsam olur. Belki bu defa bırakır ihaleyi. O zaman kişi başı 25-27
+isteyebiliriz. 
+
+(Nevas) (Yesur)un bir zamandır arkadaşıydı. Yirmi yıl önce ikisi de sıfırdan kredilerle şirketler kurmuş,
+sonra kendilerini büyük şirket sahibi bulmuşlardı. O zamandan beri hem rekabet ederler, hem
+arkadaşlıklarını sürdürürlerdi. (Yesur) bir mesaj gönderdi, uygunsa kendisiyle bir toplantı yapmak
+istediğini söyledi. 
+
+(Nevas) -- şimdi mi? diye tek bir soru sordu. 
+
+-- Evet, hemen, beş dakika, bugünkü ihaleyle ilgili bir şey soracaktım. 
+
+-- Hangi ihale dedi (Nevas)
+
+-- (Kamilos)taki ihale. Beşbin kişilik gıda dağıtımı. 
+
+-- Bir şey bilmiyorum o konuda dedi (Nevas).
+
+-- Girmeyecek misin?
+
+-- Hayır. Başka sorunlarım var, sonra anlatırım. Sen girebilirsin, ben yokmuşum gibi. 
+
+-- Tamam, konuşuruz dedi (Nevas). 
+
+Tekrar muhasebecisinin ekranını açtı. -- (Nevas) ihaleye girmeyecekmiş dedi. 
+
+-- O zaman daha yüksek bir fiyat verebilirsin. 
+
+-- Başka kimler giriyor olabilir? 
+
+-- (Däim) veya (Sebur Dağıtım) olabilir. 
+
+-- Arayıp sorsak mı onlara da?
+
+-- Biri şikayet ederse ihaleye giremezsin. Farkındasın değil mi? İhaleye girecekler arasında
+iletişim yasak. 
+
+-- Sen arasan? Ağızlarını arasan mesela, kaçtan girecekler?
+
+-- Hayır, ben öyle şeyler yapamam. Seninle bağı olmayan biri olması lazım soranın. Ona da ne kadar
+doğru bilgi verecekleri meçhul. 
+
+-- Suç ve mafya tarihi belgeseli seyrettim de geçen. Eskiden bu işler çok kolaymış. Arayıp ihaleye gireceklere biraz para
+veriyormuşsun ve çekiliyorlarmış. *Çıkışma* deniyormuş buna. Çekilmezlerse işin içine silahlı
+adamllar giriyormuş. 
+
+-- Robotlar yapmıyordur ihaleleri dedi (Mustem) gülerek. 
+
+-- Hayır, tabii ki, robotlar yok o zaman. Herkes aynı odaya giriyor ve fiyat veriyorlar. Kapıdan
+adamı almazlarsa ihaleye giremiyor. Düşünsene, ben bazı günler on ihaleye giriyorum. Bunun için on
+ayrı odaya girmek gerekiyor. 
+
+-- Hayatın daha yavaş olduğu zamanlardan bahsediyoruz. O zamanlar kimse günde on ihaleye
+girmiyordur. 
+
+-- Evet ama yine de fiyatların önceden belirleniyor olmasını kıskandım. Şimdilerde gık desen şikayet
+ediyorlar. Bu şirket ihalesinde kimseyle konuşamadım o yüzden. 
+
+-- İyi etmişsin konuşmayarak. Bilgi alacağım derken hapse girmeye gerek yok. 
+
+Bir süre daha konuştular. Sonra (Yesur) fiyat konusuna tekrar döndü ve kafasında belirlediğini
+söyledi. Saat 10 ve 10:30 arasında fiyatları verebilecekti. Saat 11'de de belli oluyordu. 
+
+İhale sistemine biyometrik ve kimlikle giriliyordu. Beş dakika daha oyalanmak için robottan bir
+kahve daha istedi. -- Bu sefer sade istiyorum diyerek. Saati -- günlük kafein miktarını aşıyorsunuz
+efendim diye müdahale edecek oldu. -- Tamam, tamam, öğleden sonra içmeyeceğim, şimdi ihale zamanı
+diyerek onu susturdu. 
+
+
+
+
 -- 
 
 |When buying and selling are controlled by legislation, the first bought and sold are the
