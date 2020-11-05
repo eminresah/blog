@@ -326,15 +326,55 @@ Bir süre daha konuştular. Sonra (Yesur) fiyat konusuna tekrar döndü ve kafas
 söyledi. Saat 10 ve 10:30 arasında fiyatları verebilecekti. Saat 11'de de belli oluyordu. 
 
 İhale sistemine biyometrik ve kimlikle giriliyordu. Beş dakika daha oyalanmak için robottan bir
-kahve daha istedi. -- Bu sefer sade istiyorum diyerek. Saati -- günlük kafein miktarını aşıyorsunuz
+kahve daha istedi. -- Bu sefer sade istiyorum. Saati -- günlük kafein miktarını aşıyorsunuz
 efendim diye müdahale edecek oldu. -- Tamam, tamam, öğleden sonra içmeyeceğim, şimdi ihale zamanı
 diyerek onu susturdu. 
 
+Sisteme girdiğinde (Mustem)in dediği gibi şirket ihalesinin açılmadığını gördü. *Açılan soruşturma
+nedeniyle iptal edilmiştir. İki hafta içinde tekrar açılacaktır.* Çocukların durumunu bir haftada
+belirleyeceklerdi. *Hakedilmemiş mal edinme.* (Zerkubia)nın önemli suçlarından biri. Hapse
+atılmaktan daha kötüsü tüm mal varlığına el konulması ve on yıl süreyle iş yapamıyor olmak.
+Çocuklarına istediğin kadar harcama yapabiliyordun. En iyi okullar, en iyi oyuncaklar, en güzel
+tatiller... Ama onlara şirket hissesi veya sermaye veremiyordun.
 
+Bir zamanlar gittiği (Ekonomi Hukuku) dersinde bunu sormuştu. *Bir baba tüm malını çocukları için
+harcarsa suç değil ama bunu onlara bırakırsa suç, nasıl oluyor?* Hocası *çocuğun için harcadığında
+para ekonomiye tekrar dönmüş oluyor, para kendi kendine harcanmaz, çocuğun için harcaman o parayı
+bir şekilde ekonomiye döndürmek demek. Para harcama potansiyeli demek. Çocuğuna bu potansiyeli
+harcanmadan bırakırsan, o da bunu kullanarak toplumun geneli aleyhine avantaj kazanmış olur*
+demişti. 
 
+İşyeri sahipleri o nedenle parayı çocukları için harcamayı tercih ederler, onlara hayata sermayesiz
+tutunmayı öğretirlerdi. Müteveffa (Zeval)in de benzer şekilde davrandığını düşünüyordu, belki
+çocuklar hisseleri kendileri kazanarak almışlardı. Genelde çocuklar bu çeşit şüphe ve soruşturmalara
+uğramamak için ailelerinden ayrı iş yapıyorlardı, herkes gibi devletin sermaye ve kredi desteğini
+alıyor ve genelde de başarılı oluyorlardı. Mirasen gelen sermaye etkisini ortadan kaldırsanız da,
+çevre etkisini ortadan kaldıramıyorsunuz ama bu da herkes için kabul edilebilir bir durumdu. 
 
--- 
+(İhale ve Gelir Dairesinin) sisteminden gıda ihalesini aradı. (Kamilos) bölgesinde 5843 kişinin gıda
+ihalesi. *Beklenen nüfus artışı* bilgisine baktı, *47 kişi mi? Bu fakir mahallelerin nüfus artışı da
+önemli bir sorun. Hala doğal yoldan üremeye devam ediyor olmalılar. Ne kadar kolaylaştı bu işler
+halbuki.* Kendi kendine güldü. Vazektomi çoğu erkek için neredeyse sıradan bir operasyon halini
+almıştı. *Çocuk istiyorsan kendini klonla* demişti biri, *gen tedavisi yapılması daha kolay,
+kimseyle paylaşmana gerek yok ve kendinin aynısı oluyor. Hatta cinsiyet değişikliği bile yapıyorlar
+artık. Kız çocuk istersen.* 
 
-|When buying and selling are controlled by legislation, the first bought and sold are the
-legislators|
+Hesaplarını yeniden yaptı. Günlük 23 yerine 24'ten hesap etti ve sisteme bu şekilde girdi. *Risk
+almaya gerek yok bu insanları besleyeceğiz diye.*
 
+İhale sonuçlarını beklerken şirket ihalesiyle ilgili haberleri aradı. Sosyal akışında bir şeyler var
+mı diye baktı. Yoktu. Konuyla ilgili bir haber buldu ama *soruşturma en kısa zamanda
+tamamlanacaktır* şeklinde bildik yadayada dışında bir bilgi yoktu. Çocukları kendi aramayı düşündü,
+ne diyeceğini bilemediği için vazgeçti. 
+
+-- Spor salonuna erken gitsem olur mu diye sordu saatine. -- Rezervasyonunuzu 10:30'a aldım efendim
+dedi saat. -- Tamam. Hemen spor kıyafetlerimi getir o zaman. -- Tamam efendim. 
+
+Giyindikten sonra bir uçan scooter çağırdı. Bunlar yeni moda. Pahalı ama havalı. Yerden yirmi
+santimetre yukarıda gidiyor ve tekerlekli olmadığı için daha rahat ve güvenli. Spor salonuna
+ulaşması yedi dakika aldı. 
+
+Spor salona girerken ihalenin sonucu geldi. *(Kamilos) gıda dağıtım ihalesini kişi başı 20 sester
+fiyat veren (Supramax) almıştır.* 20 mi? Tanıdığı bir şirket değildi |||
+
+Hemen bir kontrolden geçti. Spora başlamadan önce EKG çekilmesi şarttı. Bir kabinde diğer |||
