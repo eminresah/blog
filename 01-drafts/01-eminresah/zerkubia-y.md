@@ -375,6 +375,7 @@ santimetre yukarıda gidiyor ve tekerlekli olmadığı için daha rahat ve güve
 ulaşması yedi dakika aldı. 
 
 Spor salona girerken ihalenin sonucu geldi. *(Kamilos) gıda dağıtım ihalesini kişi başı 20 sester
-fiyat veren (Supramax) almıştır.* 20 mi? Tanıdığı bir şirket değildi |||
+fiyat veren (Supramax) almıştır.* 20 mi? Bildiği bir şirket değildi. *Üreticilerden biri olmalı.* 
 
-Hemen bir kontrolden geçti. Spora başlamadan önce EKG çekilmesi şarttı. Bir kabinde diğer |||
+Canı sıkılınca sol omzunda hissettiği o ağırlık geri geldi. Kolundan boynuna doğru yayılan bir
+ağırlık. Ağrı değil, sıkıntı. Spora başlamadan önce EKG çekilmesi şarttı. Kendisi de 
