@@ -378,4 +378,47 @@ Spor salona girerken ihalenin sonucu geldi. *(Kamilos) gıda dağıtım ihalesin
 fiyat veren (Supramax) almıştır.* 20 mi? Bildiği bir şirket değildi. *Üreticilerden biri olmalı.* 
 
 Canı sıkılınca sol omzunda hissettiği o ağırlık geri geldi. Kolundan boynuna doğru yayılan bir
-ağırlık. Ağrı değil, sıkıntı. Spora başlamadan önce EKG çekilmesi şarttı. Kendisi de 
+ağırlık. Ağrı değil, sıkıntı. Spora başlamadan önce EKG çekilmesi şarttı. Sağlığını soran robota
+*bir de kan tahlili yapar mısınız* dedi. Robot bir iğne çıkarıp kolunu uyuşturdu ve başka bir
+iğneyle kan aldı. EKG analizinde bir bulguya rastlanmadı ama içine şüphe düşmüştü. Sadece yürümeye
+karar verdi. Biraz da bir şeyler okurum. 
+
+Yürüyüş bandının sanal gerçeklik kaskını taktı. Dünyada bir yere ait olmayan bir deniz kenarında
+yürümeye başladı. Aklının kaybettiği ihaleden uzaklaşması için bir şeyler seyretmek istedi
+ama sıkıldı. *Ardarda kaybettiğim sekizince ihale. Bu gidişle hepimiz birbirimizi batıracağız.*
+
+Başka bir iş yapması gerektiğini bir zamandır düşünüyordu ama hangi iş acaba? Kıyafet dağıtımlarının
+bir süredir gıdadan daha karlı olduğunu söylüyorlardı ama modayı takip etmek gerekiyordu.
+İnsanların sevdikleri kıyafetler sunmak, yiyecekleri gıdayı sunmaktan zordu. Sahibi ölmüş ve devletçe satılan ufak şirketleri alıp büyütmek gibi bir fikri vardı ama ufak şirketlerin sahiplerinin kolay ölmediğini görmüştü. 
+
+Yarım saatin sonunda banttan indi. Kendini duşun sıcak suyuna bıraktı. Sonra saunaya girdi ve bir
+şeyler okudu. Tekrar bir duştan sonra yemek için bir restorana gitti. Zihni ihaleden ve işten
+uzaklaşmıştı. 
+
+Garson robot *geç bir kahvaltı mı, erken bir öğle yemeği mi efendim* diye sordu. *Erken öğle yemeği,
+meclise gitmem gerek, bana sarımsaklı kağıtta levrek yapar mısın* dedi. *Tabii ki efendim* dedi ve
+gitti. Beş dakika sonra yemeği getirdiler. Yanında zencefilli kola istedi. Yerken bugünkü meclis
+gündemini okudu. 
+
+(Zerkubia)da her şehirde o şehrin işleyişini denetleyen bir (Binler Meclisi) vardı. Uygun şartlardaki her bin kişiden
+biri kurayla belirleniyor ve altı ayı stajyer üyelik, toplamda iki yıl şehirle ilgili tüm kamu
+işlerinin denetimini yapıyordu. (Binler Meclisi) ihaleler, insanların temel ihtiyaçlara ulaşımı, 
+memurların ve işçilerin görevlerini hakkıyla yapıp yapmadığı, jumrelerin işleyişi ve genel olarak tüm şehir
+hakkında denetleme hakları vardı. Şehir sakinlerinden gelen şikayetleri ve ihbarları dinliyor,
+bunların gerekli kurumlarca hakkıyla takip edilip edilmediğine bakıyorlardı. 
+
+(Yesur) üç ay önce meclise kurayla seçilmişti. Reddetme hakkı vardı ama hem normalde kazandığının
+iki katı ödeniyor, hem de çevre edinme açısından iyi oluyordu. Haftada üç gün öğleden sonraları
+toplanıyorlardı. (Yesur) henüz staj aşamasında olduğunda işleyişi öğrenmekle meşguldü. 
+
+(Zerkubia)da bir de (Milyonlar Meclisi) adıyla bilinen, devlet hakkında benzer şekilde genel denetim yapan bir
+meclis vardı. (Binler Meclisi)nin valiyi görevden alma hakkı olduğu gibi, (Milyonlar Meclisi)nin de
+devlet başkanını görevden alma hakkı vardı. (Zerkubia) tarihinde üç dört vali bu şekilde görevden
+alınmıştı. 
+
+
+
+
+
+
+
