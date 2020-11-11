@@ -1,6 +1,6 @@
 ---
 title:  Gözündeki Ateş
-date: 
+date: Thu 14 Mar 2013 12:00:00 AM EET 
 dp:  <12296 - Thu 21:31>
 ---
 

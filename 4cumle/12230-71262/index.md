@@ -1,6 +1,6 @@
 ---
 title:  Konsil
-date: 
+date: Tue 08 Jan 2013 12:00:00 AM EET 
 dp:  <12231 - Tue 12:51>
 ---
 

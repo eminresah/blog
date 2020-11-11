@@ -1,6 +1,6 @@
 ---
 title:  Sosyal Sos
-date: 
+date: Wed 06 Mar 2013 12:00:00 AM EET 
 dp:  <12288 - Wed 22:20>
 ---
 

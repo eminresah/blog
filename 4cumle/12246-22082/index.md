@@ -1,6 +1,6 @@
 ---
 title:  Evrim Teorisinin En Sorunlu Kısmı ... 
-date: 
+date: Wed 23 Jan 2013 12:00:00 AM EET 
 dp:  <12246 - Wed 23:11>
 ---
 

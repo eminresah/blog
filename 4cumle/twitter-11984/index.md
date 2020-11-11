@@ -1,6 +1,6 @@
 ---
 title:  Twitter
-date: 
+date: Sun 06 May 2012 12:00:00 AM EEST 
 dp:  <11984 - Sun 16:13>
 ---
 

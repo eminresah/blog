@@ -1,6 +1,6 @@
 ---
 title:  Kayıt
-date: 
+date: Mon 07 Jan 2013 12:00:00 AM EET 
 dp:  <12230 - Mon 16:32>
 ---
 
