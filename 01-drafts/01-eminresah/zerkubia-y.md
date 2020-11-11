@@ -413,12 +413,40 @@ toplanıyorlardı. (Yesur) henüz staj aşamasında olduğunda işleyişi öğre
 
 (Zerkubia)da bir de (Milyonlar Meclisi) adıyla bilinen, devlet hakkında benzer şekilde genel denetim yapan bir
 meclis vardı. (Binler Meclisi)nin valiyi görevden alma hakkı olduğu gibi, (Milyonlar Meclisi)nin de
-devlet başkanını görevden alma hakkı vardı. (Zerkubia) tarihinde üç dört vali bu şekilde görevden
-alınmıştı. 
+bakanları ve devlet başkanını görevden alma hakkı vardı. (Zerkubia) tarihinde üç dört vali bu şekilde görevden
+alınmıştı.
 
+Eskiden *güçler ayrılığı* diye bir kavramdan bahsediyorlardı. Yargının önünde teorik olarak herkes
+eşitti ancak aynı bürokrasinin sağ elinin, sol elini yargılaması, bunların da kendileri üzerinde
+hakimiyet kurmuş politikacıları yargılaması çok nadir görülen olaylardandı. Ayrıca burada tersinden
+de bir çatışma vardı. Yargılama aslında *adalet* gibi bir propagandanın arkasında bürokrasinin
+hakimiyetini tescil eden bir mekanizmadan başka bir şey değildi. Klasik devlet sistemlerinde
+siyasetçilerin yargılanması zaten siyasi bir olaydı ve bürokrasi bu yolla *adalet* yerine *kimseye
+hesap vermeden hesap sorma yetkisine* sahip oluyordu. Siyasetçilerin güç edindikleri için
+yargılanamaz hale gelmesiyle, yargı mensuplarının güç edindikleri için bir *yargıçlar
+diktatörlüğüne* yol açması iki kötü alternatifti. 
 
+İnsanlar kendi adalet anlayışlarını paylaşan yargıçların hükümlerinin adil, diğerlerinin zulüm
+olduğunu düşünür. İnsanlar aynı şekilde kendi anlayışlarında olan bir diktatöre de ses
+çıkarmayacaktır. Bu gibi sebeplerle *adalet* ve *hukuk* bir takım idealist, dünya dışı kavramlarla
+izah edildiğinde her zaman *kabile hukukuna* dönüşür, *bizim gibi olanların bizim gibi olmayanlar
+üzerindeki hakimiyet göstergesi.*
 
+(Zerkubia) anayasası bu sebeple bürokrasinin denetimini başka bir bürokrasiye bırakmaz. Diğer
+bürokrasilere nazaran daha küçük ve sınırlı olduğu halde bürokrasinin kendi yöneticilerini
+yargılayamayacağını anlamıştır. Bunun yerine bürokrasinin kontrolünde olmayan meclisler kurar.
+İnsanlar sınırlı süreyle bu meclislere seçilir ve bürokratik işleyişin kanunların ruhuna uygun olup
+olmadığını denetler. İnsanlar arasındaki temel adalet duygusuna ve yanlış yapana karşı oluşacak
+*hasedi* genel adaleti sağlayacağına inanır. 
 
+(Yesur) da 5 ay önceki kurada şehrin (Binler Meclisi)ne seçilmişti. İşeyişin nasıl olduğunu öğrenmek
+için 5 aydır haftada üç gün, öğleden sonraları meclise gidiyor, oy hakkı olmadan oturumları
+dinliyordu. Meclisin en masraflı üyelerinden biriydi, çünkü günlük kazancı (Yesur) kadar olan fazla
+kimse yoktu. Meclisin çoğunluğu maaşlı çalışan veya temel gelirle yaşayan insanlardı. Herkes kurada
+çıktığı günkü gelirinin iki katını aldığı için, (Yesur)a da saati 900 Sesterden ödeme yapılıyordu.
 
+Bugünkü meclis gündeminde (Kasevon)daki ev yapım çalışmalarının gecikmesi, (Buremas)taki gaz dağıtım
+şirketinin iflasının hileli olduğu, iki gıda dağıtım ihalesinde ve bir cenaze hizmetleri
+ihalesinde *çıkışma* alındığı gibi şikayetler vardı. Jumresinden ayrılmak isteyen birine (Jumreler Dairesi)nde zorluk çıkarıldığı, ve bir yargıcın davalarını geciktirdiğini söyleyen yedi kişi şikayet etmişti. (Yesur) bunların bazısının mahkemelere gönderileceğini öğrenmişti. İnsanlar bürokratik yargıya nazaran kendilerine yakın gördükleri (Binler Meclisi)ne normal şikayetlerini de yapıyorlardı ve Meclis de bunları yargıya gönderiyordu. Yargının görevini yapmadığı 
 
 
