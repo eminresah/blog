@@ -1,6 +1,6 @@
 ---
 title:  Aykırı
-date: Wed 16 Jan 2013 12:00:00 AM EET 
+date: 2013-01-16 00:00:00
 dp:  <12239 - Wed 03:06>
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  Kontrol 
-date: Sun 03 Mar 2013 12:00:00 AM EET 
+date: 2013-03-03 00:00:00
 dp:  <12285 - Sun 22:27>
 ---
 

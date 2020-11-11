@@ -1,6 +1,6 @@
 ---
 title:  Kurttan Evrim
-date: Tue 25 Dec 2012 12:00:00 AM EET 
+date: 2012-12-25 00:00:00
 dp:  <12217 - Tue 16:18>
 ---
 

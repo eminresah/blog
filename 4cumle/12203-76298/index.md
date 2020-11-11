@@ -1,6 +1,6 @@
 ---
 title:  Beyni Tahnitli
-date: Wed 12 Dec 2012 12:00:00 AM EET 
+date: 2012-12-12 00:00:00
 dp:  <12204 - Wed 14:14>
 ---
 

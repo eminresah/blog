@@ -1,6 +1,6 @@
 ---
 title:  Özlem
-date: Mon 10 Dec 2012 12:00:00 AM EET 
+date: 2012-12-10 00:00:00
 dp:  <12202 - Mon 19:32>
 ---
 

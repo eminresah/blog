@@ -1,6 +1,6 @@
 ---
 title:  Karar
-date: Thu 03 May 2012 12:00:00 AM EEST 
+date: 2012-05-03 00:00:00
 dp:  <11981 - Thu 00:33>
 ---
 

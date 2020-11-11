@@ -1,6 +1,6 @@
 ---
 title:  Ruh ve Dil
-date: Fri 23 Nov 2012 12:00:00 AM EET 
+date: 2012-11-23 00:00:00
 dp:  <12185 - Fri 00:44>
 ---
 

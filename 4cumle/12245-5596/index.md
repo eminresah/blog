@@ -1,6 +1,6 @@
 ---
 title:  Matematik Cehaleti
-date: Tue 22 Jan 2013 12:00:00 AM EET 
+date: 2013-01-22 00:00:00
 dp:  <12245 - Tue 18:35>
 ---
 

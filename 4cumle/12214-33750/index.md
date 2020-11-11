@@ -1,6 +1,6 @@
 ---
 title:  İsmin Halleri
-date: Sun 23 Dec 2012 12:00:00 AM EET 
+date: 2012-12-23 00:00:00
 dp:  <12215 - Sun 02:25>
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  Bin Bakış
-date: Tue 01 May 2012 12:00:00 AM EEST 
+date: 2012-05-01 00:00:00
 dp:  <11979 - Tue 06:52>
 ---
 

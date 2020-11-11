@@ -1,6 +1,6 @@
 ---
 title:  Ebedi Şef
-date: Tue 15 Jan 2013 12:00:00 AM EET 
+date: 2013-01-15 00:00:00
 dp:  <12238 - Tue 23:23>
 ---
 

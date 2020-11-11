@@ -1,6 +1,6 @@
 ---
 title:  Kaçmayanı Kovalamak
-date: Mon 11 Mar 2013 12:00:00 AM EET 
+date: 2013-03-11 00:00:00
 dp:  <12293 - Mon 22:23>
 ---
 

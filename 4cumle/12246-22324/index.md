@@ -1,6 +1,6 @@
 ---
 title:  Konsey
-date: Wed 23 Jan 2013 12:00:00 AM EET 
+date: 2013-01-23 00:00:00
 dp:  <12246 - Wed 23:18>
 ---
 

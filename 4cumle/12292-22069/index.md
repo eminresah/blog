@@ -1,6 +1,6 @@
 ---
 title:  Okullar
-date: Sun 10 Mar 2013 23:09:00 AM EET
+date: 2013-03-10 00:00:00
 dp:  12292 - Sun 23:09
 ---
 

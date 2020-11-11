@@ -1,6 +1,6 @@
 ---
 title:  Takipperest
-date: Tue 19 Mar 2013 12:00:00 AM EET 
+date: 2013-03-19 00:00:00
 dp:  <12301 - Tue 11:46>
 ---
 

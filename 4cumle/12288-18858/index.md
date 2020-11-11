@@ -1,6 +1,6 @@
 ---
 title:  En Önemli Tamlama
-date: Wed 06 Mar 2013 12:00:00 AM EET 
+date: 2013-03-06 00:00:00
 dp:  <12288 - Wed 22:17>
 ---
 

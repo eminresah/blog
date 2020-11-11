@@ -1,6 +1,6 @@
 ---
 title:  Gayb
-date: Sat 26 Jan 2013 12:00:00 AM EET 
+date: 2013-01-26 00:00:00
 dp:  <12249 - Sat 01:42>
 ---
 
