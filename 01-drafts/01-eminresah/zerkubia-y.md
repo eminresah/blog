@@ -447,6 +447,9 @@ kimse yoktu. Meclisin çoğunluğu maaşlı çalışan veya temel gelirle yaşay
 
 Bugünkü meclis gündeminde (Kasevon)daki ev yapım çalışmalarının gecikmesi, (Buremas)taki gaz dağıtım
 şirketinin iflasının hileli olduğu, iki gıda dağıtım ihalesinde ve bir cenaze hizmetleri
-ihalesinde *çıkışma* alındığı gibi şikayetler vardı. Jumresinden ayrılmak isteyen birine (Jumreler Dairesi)nde zorluk çıkarıldığı, ve bir yargıcın davalarını geciktirdiğini söyleyen yedi kişi şikayet etmişti. (Yesur) bunların bazısının mahkemelere gönderileceğini öğrenmişti. İnsanlar bürokratik yargıya nazaran kendilerine yakın gördükleri (Binler Meclisi)ne normal şikayetlerini de yapıyorlardı ve Meclis de bunları yargıya gönderiyordu. Yargının görevini yapmadığı 
+ihalesinde *çıkışma* alındığı gibi şikayetler vardı. Jumresinden ayrılmak isteyen birine (Jumreler Dairesi)nde zorluk çıkarıldığı, ve bir yargıcın davalarını geciktirdiğini söyleyen yedi kişi şikayet etmişti. (Yesur) bunların bazısının mahkemelere gönderileceğini öğrenmişti. İnsanlar bürokratik yargıya nazaran kendilerine yakın gördükleri (Binler Meclisi)ne normal şikayetlerini de yapıyorlardı ve Meclis de bunları yargıya gönderiyordu. Yargının görevini yapmadığını söyleyenler oluyordu, onlara meclis bakıyordu. 
+
+Uzaktan bağlanıp görüşmeleri takip etmek de mümkündü ama salonda bulunmak insanların ne istediğini
+anlamayı kolaylaştırıyordu. 
 
 
