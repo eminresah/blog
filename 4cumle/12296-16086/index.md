@@ -1,6 +1,6 @@
 ---
 title:  Doz
-date: Thu 14 Mar 2013 12:00:00 AM EET 
+date: 2013-03-14 00:00:00
 dp:  <12296 - Thu 21:30>
 ---
 

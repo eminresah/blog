@@ -1,6 +1,6 @@
 ---
 title:  Oy vermenin etkisi
-date: Tue 12 Mar 2013 12:00:00 AM EET 
+date: 2013-03-12 00:00:00
 dp:  <12294 - Tue 08:46>
 ---
 

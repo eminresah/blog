@@ -1,6 +1,6 @@
 ---
 title:  de-da
-date: Fri 07 Dec 2012 12:00:00 AM EET 
+date: 2012-12-07 00:00:00
 dp:  <12199 - Fri 12:18>
 ---
 

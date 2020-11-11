@@ -1,6 +1,6 @@
 ---
 title:  Üretkenlik
-date: Wed 20 Mar 2013 12:00:00 AM EET 
+date: 2013-03-20 00:00:00
 dp:  <12302 - Wed 12:38>
 ---
 

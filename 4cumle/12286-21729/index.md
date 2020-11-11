@@ -1,6 +1,6 @@
 ---
 title:  Stoa
-date: Mon 04 Mar 2013 12:00:00 AM EET 
+date: 2013-03-04 00:00:00
 dp:  <12286 - Mon 23:05>
 ---
 
