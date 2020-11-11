@@ -1,6 +1,6 @@
 ---
 title:  Kendinle Kavga
-date: 
+date: Sun 16 Dec 2012 12:00:00 AM EET 
 dp:  <12208 - Sun 19:34>
 ---
 

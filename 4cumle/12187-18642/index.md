@@ -1,6 +1,6 @@
 ---
 title:  İlm-i dem
-date: 
+date: Sun 25 Nov 2012 12:00:00 AM EET 
 dp:  <12187 - Sun 22:14>
 ---
 

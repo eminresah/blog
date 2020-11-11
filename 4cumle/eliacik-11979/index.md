@@ -1,6 +1,6 @@
 ---
 title:  Eliaçık
-date: 
+date: Tue 01 May 2012 12:00:00 AM EEST 
 dp:  <11979 - Tue 21:53>
 ---
 

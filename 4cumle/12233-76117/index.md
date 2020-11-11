@@ -1,6 +1,6 @@
 ---
 title:  Konuşan Aslan
-date: 
+date: Fri 11 Jan 2013 12:00:00 AM EET 
 dp:  <12234 - Fri 14:10>
 ---
 

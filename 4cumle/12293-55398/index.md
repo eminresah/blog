@@ -1,6 +1,6 @@
 ---
 title:  Aptal Yazar 
-date: 
+date: Tue 12 Mar 2013 12:00:00 AM EET 
 dp:  <12294 - Tue 08:40>
 ---
 

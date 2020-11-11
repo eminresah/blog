@@ -1,6 +1,6 @@
 ---
 title:  Bilmediğini Öğrenmek
-date: 
+date: Sun 03 Mar 2013 12:00:00 AM EET 
 dp:  <12285 - Sun 22:29>
 ---
 

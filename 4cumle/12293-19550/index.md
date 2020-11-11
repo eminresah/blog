@@ -1,6 +1,6 @@
 ---
 title:  İştahdar Marşı'na Kıta
-date: 
+date: Mon 11 Mar 2013 12:00:00 AM EET 
 dp:  <12293 - Mon 22:28>
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  Kolay ve Zor
-date: 
+date: Wed 05 Dec 2012 12:00:00 AM EET 
 dp:  <12197 - Wed 23:53>
 ---
 

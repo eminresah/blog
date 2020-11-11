@@ -1,6 +1,6 @@
 ---
 title:  Tarih Hikayesi
-date: 
+date: Mon 04 Mar 2013 12:00:00 AM EET 
 dp:  <12286 - Mon 22:59>
 ---
 

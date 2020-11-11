@@ -1,6 +1,6 @@
 ---
 title:  Teori
-date: 
+date: Wed 16 Jan 2013 12:00:00 AM EET 
 dp:  <12239 - Wed 03:04>
 ---
 
