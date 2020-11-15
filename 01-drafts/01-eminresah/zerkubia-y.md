@@ -452,4 +452,88 @@ ihalesinde *çıkışma* alındığı gibi şikayetler vardı. Jumresinden ayrı
 Uzaktan bağlanıp görüşmeleri takip etmek de mümkündü ama salonda bulunmak insanların ne istediğini
 anlamayı kolaylaştırıyordu. 
 
+*Toplumun fotoğrafı* demişti bir arkadaşı. Seçim veya referandum gibi değil, onlar üzerinde
+çalışılmış, orası burası çekiştirilmiş  anlık görüntülerdi. Profesyonel politikacıların bitmek
+tükenmek bilmeyen *meslekleri* halkı istedikleri yöne çekiştirip bir fotoğraf almaktı. Seçimler bu
+işe yarıyordu sadece. 
+
+(Binler Meclisi) ise daha çok uzun pozlama bir fotoğrafa benziyordu. İnsanlar iki sene boyunca görev
+yaptıkları için daha anlamlı fikirlerini edinmek mümkündü. Sekterlik, gruplaşma, partileşme burada
+da vardı. İnsanlar birbirlerinin jumrelerini öğrendikten sonra buna göre hizalanıyorlardı. Görev
+yaptığınız sürece hepsi değişen 485 üyeyi tek tek tanımak mümkün değilse de kimin hangi taraftan
+olduğu, nasıl bir *ölümsüzlük hikayesine* inandığını belirlemek uzun sürmüyordu. Yine de bu
+hizipleşmenin meclisi ele geçirmesine pratik sebepler müsaade etmiyordu. Hem kalabalık, hem de
+sürenin kısalığı. İnsanlar yerlerine alışıncaya kadar 18 aylık görev süreleri bitiyordu. 
+
+6 ayda bir kura çekilirdi. 15 yaşından büyük zihinsel engeli olmayan her süreçdaşın eşit şansı vardı
+bu kuralarda. Her 1000 kişi için 2 kişi, biri asil, biri yedek. Kurada çıkanın iki haftada cevap
+vermesi gerekiyordu. Nadiren asil üyeler kabul etmiyor, onlar yerine yedeklere soruluyordu. Ömrü
+boyunca iki defa  kurada çıkmak da mümkündü. Her dönemde üç-dört kişi *tecrübeli* olurdu. 
+
+Meclisin işleyişi çoğunlukla robotlar tarafından sağlanıyordu. Bir başkanları yoktu. Bir şikayet
+yapıldığında meclisin 20-30 üyesine rastgele gidiyor, onlar da bunun genel görüşmeye değer olup
+olmadığını belirliyordu. Genel görüşmelerde de *görevsizlik* verildiği oluyordu. (Binler Meclisi)nin
+görevi devletin doğru çalışıp çalışmadığını denetlemekti ve yargı sisteminin bakması gereken
+konuları onlara gönderiyorlardı. 
+
+(Yesur) *stajyer üye* olarak oy hakkına sahip değildi ama konuşma yapabiliyordu. Görüşülecekler
+arasındaki gıda ihalesinde rüşvet konusu ilgisi çekti. Dosyayı biraz okumaya karar verdi. 
+
+(Gulepta) adıyla bilinen eski bir mahalle yenilenmişti. Şehrin merkezindeydi ama tüm mahalle
+boşaltılmış, binalar yıkılmış ve yeniden yapılmıştı. Yerleşmeler yeni başlıyordu. Buranın gıda
+ihalesinin çok kısa süre duyurulduğu ve gireceklerin de birbirlerine *çıkışma* verip
+uzaklaştırıldığı söyleniyordu. Çıkışma konusunu mahkemeye göndereceklerdi, meclisin özel hayatı
+içine alan soruşturma yapması mümkün değildi ama ihale sorumlusu memurun görevini doğru yapıp
+yapmadığını inceleyeceklerdi. 
+
+Memur ihaleyi gece 2'den sabah 8'e açık tutmuş ve ihaleye tek bir firma girmişti. O da kişi başı 37
+Sester fiyat vermiş, ihaleyi almıştı. Nüfus küçüktü, mahallede yeni taşınan 800 kişi vardı ve yıl
+içinde bu kadar daha gelmesi bekleniyordu. Bu gibi belirsizlikler ihale fiyatını yükseltirdi ama 37
+yapmazdı. Memurun ihaleyi bu kadar kısa süre açması da bir kabahatti. 
+
+Memurun ne diyeceğini bilmiyordu ama muhtemelen kamu hizmetinden men edilecekti. Neden ortaya
+çıkması böyle kolay bir şey yaptığını merak etti. Belki kimsenin şikayet etmeyeceğini düşünmüştü.
+*Ne kadar rüşvet almıştır* diye düşündü. İhale normalde 10 Sester pahalı olsa, sahibi yıllık 100bin
+Sester civarı aşırı kar etmiş olur, bunun da onda biri olsa... Bunun yarısını dağıtmıştır en az.
+Bunu bulmaları zor değil, gelir ve gider kayıtlı olmalı. Vergi olmadığı için gelirini giderini takip
+etmek de *tehlikeli* değil.
+
+Tabletine yapacağı konuşmayla ilgili not aldı. İhale sorumlusunun görevini yapmadığı açıktı ve bu
+fiyatla ihalenin kabul edilmiş olması bir soruşturmayı gerektiriyordu. Kendini tanıtmayı da
+unutmamalıydı, *bugün bir ihaleye girdim* de demeliydi.
+
+Diğer ihale şikayetlerine de göz gezdirdi. (Kasevon)daki inşaat şirketinin iflasının hileli olduğu
+söyleniyordu. Sahibi tanıdıklarına şirket kurdurmuş, kendi yapacağı işleri o şirketlere alacağı
+ödenekten daha fazla paraya yaptırmıştı. İnşaat şirketinin iflası (Mülkler ve Şirketler Mahkemesine) gitmişti. İşlerin yarısı da bitmiş görünüyordu. Aldığı para da bundan daha azdı. Denetlemeler de
+yapılmıştı. Yüklenici şirket iflas ettikten sonra yeni ihale açmakta gecikmişlerdi. Evler zamanında
+yetişmemiş ve bu yavaşlığı şikayet ediyorlardı. 
+
+Tablete bakarken salon sesleri kesildi, ışıklar sonuna kadar açıldı. *Yönetici robotlar* yerlerini
+aldı. Açılış müziği çalmaya başladı. İnsanlar dışarıdan salona gelmeye başladılar. 
+
+Tabletlerinde *kesin gündem* belirdi. İlk sırada emrindeki insanlara kendi jumresinin işlerini
+yaptıran bir polis komiserine ilişkin şikayet vardı. Dört kişi söz almak istedi. Onar dakika
+konuştular. Konuşanların kim olduğu tabletlerde beliriyordu. Üçüncü konuşmacı hariç hepsi komiserin aleyhine konuştular. Lehinde konuşan da komiserin jumresindendi. Oylama yapıldı ve komiser görevinden alındı. Polislerin lehine karar çıktığını hiç görmemişti zaten. Yetkileri geniş olmasına rağmen eğer bunları suistimal ettikleri görülürse hemen görevden alınıyorlardı. 
+
+Bu konuşmalar sırasında (Yesur) tabletinde jumre ayini için tüm görüşmelerin durdurulmasını isteyip
+istemediğini soran bir mesaj gördü. *Görüşmelerin durdurulmasına gerek yok, ben kendim çıkar güneşi
+selamlarım.* Acele adımlarla çıktı. Jumresi güneşe tapan bir jumreydi ve günlük tek ibadetleri güneş
+zirvedeyken ona dönüp dua etmekten ibaretti. *Hayatın ışığı, yıldızların perdesi, hakikatin tek
+kaynağı, seni selamlarım. Bana ışığının aydınlığını ver ve beni karanlıklardan koru. İçimi ve dışımı
+aydınlat ve gözümü aç. Ufkumu genişlet ve beni yarattığın dünyaya ışığını yansıtanlardan eyle.*
+Güneşi gören bir pencereyi açtı. Ellerini birleştirip, gözlerini kapattı, güneşe doğru dönüp duayı okudu. Sonra geldiği hızla salona geri döndü. 
+
+İkinci konu jumresinden çıkmak isteyen kadınlara zorluk çıkardığı söylenen (Jumreler Dairesi)
+yöneticisi ile ilgiliydi. Kendi jumresinden olan birkaç kadın ayrılmak istemiş, bunları kayda
+almamak için onlardan gereksiz belgeler talep etmişti. Jumre bir lezbiyen jumresiydi, (Jumreler
+Dairesi)nde çalışan yöneticinin bu kadınlarla ilişkisi olduğu için ayrılmalarını zorlaştırdığı
+söyleniyordu. 
+
+Kadın salondaydı. Böyle durumlarda meclis üyelerinin konuşmaları arasında sanıklar kendini savunur
+ve en son genel bir savunma yaparlardı. Bir konuşmacı vardı zaten. O da yöneticinin istediği
+belgelerin normal olduğunu, herhangi bir zorluk çıkarmaya çalışmadığını anlattı. Kadın da aynı
+şekilde bu kadınların kendisine komplo kurmak için böyle yaptıklarını, konunun kendi jumresinin iç
+işleriyle ilgili olduğunu söyledi. Şikayetçiler jumreden ayrılmış, hatta biri gittiği yerden de
+başka bir yere gitmişti. Oylama yapıldı ve yöneticinin bir kabahati olmadığına karar verildi. 
+
 
