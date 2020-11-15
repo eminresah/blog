@@ -517,23 +517,66 @@ konuştular. Konuşanların kim olduğu tabletlerde beliriyordu. Üçüncü konu
 
 Bu konuşmalar sırasında (Yesur) tabletinde jumre ayini için tüm görüşmelerin durdurulmasını isteyip
 istemediğini soran bir mesaj gördü. *Görüşmelerin durdurulmasına gerek yok, ben kendim çıkar güneşi
-selamlarım.* Acele adımlarla çıktı. Jumresi güneşe tapan bir jumreydi ve günlük tek ibadetleri güneş
+selamlarım.* Acele adımlarla çıktı. Güneşe tapan bir jumreye mensuptu ve günlük tek ibadetleri güneş
 zirvedeyken ona dönüp dua etmekten ibaretti. *Hayatın ışığı, yıldızların perdesi, hakikatin tek
 kaynağı, seni selamlarım. Bana ışığının aydınlığını ver ve beni karanlıklardan koru. İçimi ve dışımı
 aydınlat ve gözümü aç. Ufkumu genişlet ve beni yarattığın dünyaya ışığını yansıtanlardan eyle.*
-Güneşi gören bir pencereyi açtı. Ellerini birleştirip, gözlerini kapattı, güneşe doğru dönüp duayı okudu. Sonra geldiği hızla salona geri döndü. 
+Güneşi gören bir pencereyi açtı. Ellerini birleştirip, gözlerini kapattı, güneşe doğru dönüp duayı okudu. Başını hafifçe eğip selam verdi ve geldiği hızla salona geri döndü. 
 
-İkinci konu jumresinden çıkmak isteyen kadınlara zorluk çıkardığı söylenen (Jumreler Dairesi)
+Her üyenin 15 dakika için oturumu durdurma hakkı vardı. Sistem bu talepleri birleştirir, belli
+aralarda mola yapardı. Üyeler isterse kendileri çıkabilirdi. Görüşmelere katılım mecburiyeti
+olmadığı için müslüman jumreleri gibi toplu namaz molası vermek gerekmiyorsa görüşmeleri
+kesmiyorlardı.
+
+Döndüğünde başka bir konuya geçmişlerdi. Şikayet jumresinden çıkmak isteyen kadınlara zorluk çıkardığı söylenen (Jumreler Dairesi)
 yöneticisi ile ilgiliydi. Kendi jumresinden olan birkaç kadın ayrılmak istemiş, bunları kayda
 almamak için onlardan gereksiz belgeler talep etmişti. Jumre bir lezbiyen jumresiydi, (Jumreler
 Dairesi)nde çalışan yöneticinin bu kadınlarla ilişkisi olduğu için ayrılmalarını zorlaştırdığı
 söyleniyordu. 
 
-Kadın salondaydı. Böyle durumlarda meclis üyelerinin konuşmaları arasında sanıklar kendini savunur
+Kadın salondaydı. Böyle durumlarda meclis üyelerinin konuşmaları arasında şikayet edilenler kendini savunur
 ve en son genel bir savunma yaparlardı. Bir konuşmacı vardı zaten. O da yöneticinin istediği
 belgelerin normal olduğunu, herhangi bir zorluk çıkarmaya çalışmadığını anlattı. Kadın da aynı
 şekilde bu kadınların kendisine komplo kurmak için böyle yaptıklarını, konunun kendi jumresinin iç
 işleriyle ilgili olduğunu söyledi. Şikayetçiler jumreden ayrılmış, hatta biri gittiği yerden de
 başka bir yere gitmişti. Oylama yapıldı ve yöneticinin bir kabahati olmadığına karar verildi. 
 
+Önündeki tablet üçüncü görüşmeye geçmeden önce öğle namazı için mola verileceğini söyledi. Yüzden
+fazla üye çıktı. (Yesur) önünde oturan kadının tabletinde oynadığı oyuna baktı. Desenli yastıkları
+düzenlemeye çalışıyordu. *Yüzyıllardır aynı oyunları oynuyorlar* diye düşündü. Saatine -- yeni ihale
+ilanı var mı? diye sordu. Aklına soracak bir soru gelmemişti. *Oynayacak oyunlar bulmalıyım*
 
+-- 18 ihale var efendim dedi saati. Bunlardan sekizi gıda dağıtım, üçü kıyafet, dördü genel ihtiyaç
+ve tamirat ihalesi. Ayrıntılara bakmak ister misiniz?
+
+-- Gıda dağıtımına bakmak isterim. Onları işaretle, akşam bakayım. Genel ihtiyaç ve tamiratları da
+işaretle. Bunların hepsi şehir içinde değil mi?
+
+-- İkisi (Kopradino)da, diğerleri şehirde efendim. 
+
+-- (Kopradino)dakilere girmiyorum. İşaretlediklerinden onları kaldır. 
+
+Bu arada toplantı yeniden başladı. Üçüncü konu kendisinin de konuşmayı düşündüğü gıda dağıtım
+ihalesindeki rüşvetle ilgiliydi. Tabletinden sisteme konuşmak istediğini söyledi. Sistem yirmibeş
+konuşmacı olduğunu ve kurayla bunlardan onikisinin seçileceğini söyledi. Gıda dağıtım ihaleleri
+herkesi ilgilendiren konular olduğu için konuşmacısı da çoktu herhalde. Ayrıca rüşvet ve kayırma
+gibi konuların rağbet gördüğünü keşfetmişti. 
+
+Sistem az sonra yedinci sırada konuşacağını bildirdi. Konuşmalar yerinden kalkmadan yapılıyordu.
+(Yesur) da yeniden dosyayı inceledi. Notlarına baktı. 
+
+Bütün konuşmacılar sırayla aynı şeyleri söylüyordu. İhale fiyatı çok yüksekti. İhale çok
+kısa zaman askıda kalmıştı. İhale memurunun bunlara yetkisi olmasına rağmen yetkiyi kötüye
+kullandığı belliydi. İhalenin iptal edilmesi ve memurun görevden alınması gerekiyordu.
+Konuşmacıların biri şikayetçilere 1000 Sesterlik ödülün 2000 Sester yapılmasını istedi. Bunu da
+oylayacaklardı. Kendisine sıra geldiğinde (Yesur) da aynı şeyleri söyledi. Memur sonucu bildiğinden
+olacak görüşmeye katılmamıştı. Söylecek sözü olmadığı anlamına geliyordu. 
+
+(Zerkubia)da memurluk süresi nadir durumlar dışında beş yılla sınırlıydı. Devlet hizmetinde beş yıl
+çalışınca görev süreniz bitiyor ve üç yıl devlette çalışamıyordunuz. İhale memurunun beş yıllık
+süresi de altı ay sonra bitiyordu. (Yesur) konuşmasında buna dikkat çekti ve kamu hizmetinden ömür boyu men edilmesi gerektiğini söyledi. Ondan sonra gelen konuşmacılar da bunu tekrarladılar. 
+
+En son ihalenin iptali, memurun ve ihaleyi alan şirketin mahkemeye gönderilmesi, şikayetçilere normalin iki katı ödül
+verilmesi, memurun ömür boyu bir daha devlet hizmetinde çalışamaması oylandı ve kabul edildi. Beş
+aylık gözlemlerinde rüşvet konulu hiçbir şikayetin sonuçsuz kalmadığını görmüştü. Bu da aynı şekilde
+bitti. 
