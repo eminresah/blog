@@ -574,9 +574,55 @@ olacak görüşmeye katılmamıştı. Söylecek sözü olmadığı anlamına gel
 
 (Zerkubia)da memurluk süresi nadir durumlar dışında beş yılla sınırlıydı. Devlet hizmetinde beş yıl
 çalışınca görev süreniz bitiyor ve üç yıl devlette çalışamıyordunuz. İhale memurunun beş yıllık
-süresi de altı ay sonra bitiyordu. (Yesur) konuşmasında buna dikkat çekti ve kamu hizmetinden ömür boyu men edilmesi gerektiğini söyledi. Ondan sonra gelen konuşmacılar da bunu tekrarladılar. 
+süresi de altı ay sonra bitiyordu. (Yesur) konuşmasında buna dikkat çekti ve kamu hizmetinden ömür
+boyu men edilmesi gerektiğini söyledi. Ondan sonra gelen konuşmacılar da bunu tekrarladılar. 
 
 En son ihalenin iptali, memurun ve ihaleyi alan şirketin mahkemeye gönderilmesi, şikayetçilere normalin iki katı ödül
 verilmesi, memurun ömür boyu bir daha devlet hizmetinde çalışamaması oylandı ve kabul edildi. Beş
 aylık gözlemlerinde rüşvet konulu hiçbir şikayetin sonuçsuz kalmadığını görmüştü. Bu da aynı şekilde
 bitti. 
+
+Bir mola daha verdiler. Elli kişi çıktı. Bunlar kimdi acaba? Neden öğleden sonra çıkıyorlardı? Peşlerinden gitmeyi düşündü ama gereksiz buldu. Saatiyle konuştu. Ondan kendisine fıkra anlatmasını istedi. İkincisinden sonra sıkıldı. Bir şeyler seyretmek istedi. Sonra aklına akşamki buluşması geldi. -- Akşam için kimi ayarladın dedi saate. -- (Raas) isminde biriyle buluşacaksınız efendim. -- İlk defa duyuyorum, sanırım sürpriz buluşma ayaladın. -- Evet, efendim. Aynı jumreden. -- Güzel. Bana bilgilerini göndersene. -- Tamam efendim. 
+
+Saat tabletine bilgileri gönderdi. Oradan (Raas)ın sosyal bilgilerine, fotoğraflarına bakacaktı. Bu
+arada meclis oturumu tekrar başladı. Bu seferki şikayet davalarını sonlandırmayan bir hakimle
+ilgiliydi. Yedi ayrı davanın tarafları aynı yargıcı şikayet etmişlerdi. 
+
+Yargıç salondaydı. Yargı konularıyla ilgili hep konuşma yapan bir avukat yine konuşmaya başladı.
+Davaların üç aydan kısa sürecek davalar olduğunu ama yargıcın altı aydır bunları bitirmediğini
+söyledi. Yargıç kendini bilgilerin yavaş geldiği ile savunmaya çalıştı. Sonra bir de psikolog üye çıktı. Yargıcın bir sürmenaj ve depresyon testinden geçmesi gerektiğini söyledi. Yargıç onun konuşmasına cevap verirken ağlamaya başladı. 
+
+Sekiz ay önce üç yaşındaki çocuğunu kaybetmişti. Ücretsiz izin almak istemiş ancak kocasıyla yeni taşındıkları robot
+evin ödemelerine yardımcı olmak zorunda olduğu için vazgeçmişti. O zamandan beri kendini hiçbir işe
+odaklayamıyordu. Meclise bile kendini sürükleyerek gelmişti. Kendisini görevden almamaları için
+yalvardı. Davaları en kısa sürede bitireceğine söz verdi. Bunların hepsini ağlayarak anlatıyordu. 
+
+Yargıcı dinlediler. Daha sonra başka biri neden bu konuda tedavi olmadığını sorduğu bir konuşma
+yaptı. *Oldum* dedi yargıç, *işe yaramadı.* 
+
+Oy hakkı olsa *bir ay sonra yeniden görüşme* yönünde kullanırdı. Meclisin bazı konularda yeniden
+görüşmeye karar vermesi de mümkündü. Üzerinden zaman geçince bazı olaylar daha netleşiyordu. 
+
+Bir meclis üyesi daha konuştu. Yargıca süre vermenin davalarını aceleyle bitirmesine sebep
+olacağını, görevine devam etmesine karar vermenin de gecikmeleri devam ettireceğini söyledi. Zor
+olmakla beraber meclis yargıcı görevden almalıydı. Yargıç bu konuşmacıya cevap vermedi. Sadece
+oturduğu yerde ince ince ağlıyordu. 
+
+Oylamaya geçildi ve yargıç görevden alındı. Kamu hizmetinden men edilmedi ancak üç yıl bürokrasi
+dışında çalışması gerekiyordu zaten. 
+
+Kadın ağlayarak dışarı çıkarken (Yesur) da çıktı. Bugünlük göreceği kadarını görmüştü. *Yemek
+yemeliyim* diye düşündü. -- Restoranda ne var diye sordu saate. -- Hardallı hindi dolması görünüyor
+efendim dedi saat. Sevdiğiniz başka yemekler de var. -- Tamam. Oraya gideyim. 
+
+Meclis restoranında ekranlı bir odaya oturup yemek yedi. Yemek sırasında biraz haber, biraz belgesel
+seyretti. Çelik yapımının nasıl geliştiğini anlatıyordu. Artık insanların yaptığı hiçbir şey
+kalmamıştı. Madenden cevheri çıkarmakla başlayıp, çeşitli formlarda satışına kadar her şeyi robotlar
+yapıyordu. *Belki bu işe girmeliyim* diye düşündü (Yesur). Metal endüstrisi şirketlerine baktı. Geri
+dönüşüm üzerine çalışan büyük bir şirketin %12 hissesi satılıktı ama fiyatı ve getiriyi görünce almaktan vazgeçti. *Gıda dağıtımı bile daha iyi getiriyor* diye düşündü. 
+Robotların girdiği endüstrilerde hep böyle oluyor. Robotlar ne kadar etkinse kar da o kadar azalıyor
+çünkü rekabet kolaylaşıyor. İnsanları bir organizasyon içinde verimli kullanmak birkaç seneye
+maloluyor ama robotları bir defa yapıyorsun ve hemen organize oluyorlar. *Gıda işi de böyle olacak*
+diye düşündü (Yesur), *sonunda bütün işler böyle olacak, hepsini robotlar yapacak ve biz de en fazla onların çalıştığı şirketlerin
+hisseleriyle oynayıp duracağız.*
+
