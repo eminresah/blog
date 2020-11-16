@@ -1,18 +1,17 @@
-# Your P2K Articles (2020-02-08) (P2K) - Your Highlight on Location 92-96 | Added on Sunday,
-February 9, 2020 7:25:26 PM
 
-“This is pretty solid stuff,” says Bart de Boer, an evolutionary linguist who studies speech
-production at the Free University of Brussels, but was not involved in the work. Language lovers
-have long suspected that information-heavy languages—those that pack more information about tense,
-gender, and speaker into smaller units, for example—move slowly to make up for their density of
-information, he says, whereas information-light languages such as Italian can gallop along at a much
-faster pace. But until now, no one had the data to prove it.
+Bazı diller hızlı konuşuluyor, bazısı yavaş. İnsanların konuştuğu bütün dillerin saniyedeki veri
+miktarı eşitmiş. 39,12 bit. 1959'da üretilen dünyanın ilk modemi saniyede 110 bit aktarım
+yapıyormuş. Bugünkü normal bir internet bağlantısı saniyede 10 milyon bit aktarım yapabiliyor. 
 
-# Your P2K Articles (2020-02-08) (P2K) - Your Highlight on Location 105-108 | Added on Sunday,
-February 9, 2020 7:26:46 PM
+Peki neden bilgisayarlar hala bu kadar aptal? Biz yaklaşık 40 bitlik konuşma hızımızla onları
+geçiyoruz. 
 
-second—they were shocked by the consistency of their results. No matter how fast or slow, how simple
-or complex, each language gravitated toward an average rate of 39.15 bits per second, they report
-today in Science Advances. In comparison, the world’s first computer modem (which came out in 1959)
-had a transfer rate of 110 bits per second,
+Onların kelime haznesi biraz zayıf tabii, 1 ve 0. Bizim saniyede 40 bitlik konuşma hızımız, aynı
+dünyanın içindeki bilgiyi aktarmakla ilgili. *Pencereme bir kuş kondu* dediğimde aktardığım resim
+zihin gözünüzde canlanıyor. Bu resmi daha önce gördünüz. *Kuş* ne demektir biliyorsunuz. *Konmak*
+nasıl bir şeydir haberiniz var. *Pencere* dediğimde bunun ölçülerini merak etmiyorsunuz. 
+
+Doğal zekamız bu dünyaya bağlı, yapay zeka ise kendi dünyasını üretmek zorunda. *Pencereye kuş
+kondu* ifadesinin 
+
 
