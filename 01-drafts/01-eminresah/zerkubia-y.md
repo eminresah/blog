@@ -620,9 +620,37 @@ seyretti. Çelik yapımının nasıl geliştiğini anlatıyordu. Artık insanlar
 kalmamıştı. Madenden cevheri çıkarmakla başlayıp, çeşitli formlarda satışına kadar her şeyi robotlar
 yapıyordu. *Belki bu işe girmeliyim* diye düşündü (Yesur). Metal endüstrisi şirketlerine baktı. Geri
 dönüşüm üzerine çalışan büyük bir şirketin %12 hissesi satılıktı ama fiyatı ve getiriyi görünce almaktan vazgeçti. *Gıda dağıtımı bile daha iyi getiriyor* diye düşündü. 
+
 Robotların girdiği endüstrilerde hep böyle oluyor. Robotlar ne kadar etkinse kar da o kadar azalıyor
 çünkü rekabet kolaylaşıyor. İnsanları bir organizasyon içinde verimli kullanmak birkaç seneye
 maloluyor ama robotları bir defa yapıyorsun ve hemen organize oluyorlar. *Gıda işi de böyle olacak*
 diye düşündü (Yesur), *sonunda bütün işler böyle olacak, hepsini robotlar yapacak ve biz de en fazla onların çalıştığı şirketlerin
 hisseleriyle oynayıp duracağız.*
+
+Saati (Raas)la buluşmasına iki saat kaldığını söyledi. Biraz yürümek ister miydi. Meclisin
+bakımlı bir bahçesi vardı ve orada yürüyebilir, yürürken de bir şeyler dinleyebilirdi. Kabul etti.
+Yarım saat yalnızlıkla başa çıkma konusunda dinlemeye başladığı kitabı dinledi. Bu gibi kitapların
+hemen hiçbir şey anlatmadığını hissetti. *Zamanımızda yalnız kalıyorsanız bu sizin sorunlu
+olduğunuzu gösteriyor* diyecekti neredeyse. *İletişim imkanlarının bu kadar arttığı bir zamanda
+yalnız kalmamak kişinin kendi sorumluluğundadır.* 
+
+*Yalnızlık değil asıl meselem* diye düşündü. *İlişkilerin hiç bir zaman derinleşmemesi. İnsanlar
+birbirine muhtaç olmadığında hep kıyıdan seyrettikleri limanlar gibi oluyorlar. Eskiden insanlar
+birbirine tamamen muhtaçmış, zor zamanlarmış ama ilişkilerin derinliği de ancak o şekilde oluyor*
+diye düşündü. *Sanırım kimsenin derin bir ilişkisi yok.*
+
+Parktan çıktı. Bir araç çağırıp eve döndü. Eve istediği bazı eşyalar gelmişti. Bir müzayededen
+aldığı devrim öncesine ait kitaplar ve büyük bir fotoğraf. Şu an yerinde olmayan bir köprüyü
+gösteriyordu. *Ölümü hatırlamak için iyi olur* diye düşündü, *bütün büyük köprüler yıkılır ve
+insanlar ölür. O halde gününü yaşamaya bak.*
+
+Hazırlanmak için duşa girmeyi düşünürken saati -- Elektrik sinyallerinden seks arzuladığını görüyorum dedi. -- Evet
+ama gerçek olanından, robotla olanından değil. -- (Raas)la ilk defa görüşeceksin ve bunun mümkün
+olacağını sanmıyorum dedi saat. Sesi biraz bilgiç gelmişti. -- Biliyorum ama bu hayal etmeme engel
+değil. Saat bir an sustu. -- Seks robotunu çağırmamı ister misin dedi. -- Sarışın olsun dedi
+(Yesur). Az sonra odaya sarışın bir android girdi. Onunla beraber odaya bir parfüm kokusu doldu.
+-- Parfümü sevmedim dedi (Yesur). Robot -- hemen değiştiriyorum sevgilim diye cevap verdi. --
+Sevgilim demene gerek yok, robot olman beni rahatsız etmiyor dedi. -- Nasıl istersen diye cevap
+verdi robot, benim adım (Mûal), konuşmak ister misin? -- Ne zamandır bu işi yapıyorsun? diye sordu
+(Yesur) alay etmek için. Robot espri yaptığını anlayıp güldü.  
 
