@@ -8,7 +8,10 @@ featured_image: /images/header-126.jpg
 ---
 
 
-(Yesur) hayatının onikibinyediyüzüncü gününde güneşten önce uyandı. Saate bakıp tekrar uyumaya çalıştı ama beyni harekete geçmişti. Bir süre gözleri kapalı bekledi. *Memento mori.* Şu an ölmüş olsam ne olurdu. Her sabah beş dakikasını bu soruya ayırmaya çalışıyordu. *Bir şey olmaz. Vasiyetimi yazdım zaten.* 
+(Yesur) hayatının onikibinyediyüzüncü gününde güneşten önce uyandı. Saate bakıp tekrar uyumaya
+çalıştı ama beyni harekete geçmişti. Bir süre gözleri kapalı bekledi. *Memento mori.* Şu an ölmüş
+olsam ne olurdu. Her sabah beş dakikasını bu soruya ayırmaya çalışıyordu. *Bir şey olmaz. Vasiyetimi
+yazdım zaten.* 
 
 Gözlerini açtığında tavandaki ekran çalışmaya başladı. Haberleri okuyordu. Yine
 kimseye ait olmayan ortada kalmış dertleri herkesin derdi yapmaya çalışıyorlar. Sahipsiz
@@ -652,5 +655,50 @@ değil. Saat bir an sustu. -- Seks robotunu çağırmamı ister misin dedi. -- S
 -- Parfümü sevmedim dedi (Yesur). Robot -- hemen değiştiriyorum sevgilim diye cevap verdi. --
 Sevgilim demene gerek yok, robot olman beni rahatsız etmiyor dedi. -- Nasıl istersen diye cevap
 verdi robot, benim adım (Mûal), konuşmak ister misin? -- Ne zamandır bu işi yapıyorsun? diye sordu
-(Yesur) alay etmek için. Robot espri yaptığını anlayıp güldü.  
+(Yesur) alay etmek için. Robot espri yaptığını anlayıp güldü. 
 
+(Mûal) ile yarım saat birlikte oldular. Seks robotlarının *cildinde* durumun tuhaflığını unutturacak
+hormonlar bulunuyordu. Kendini çıplak bir sarhoşluğa kaptırdı. (Yesur) bir kadının yanında olduğundan daha rahat
+hissettiğini düşünüyordu. *İnsanlarla daha zor, seni yargılarlar, robotlar işini yapar ve unutur.*
+
+(Yesur) duşuna, (Mûal) bundan sonraki müşterisine gitti. Cinsellik pek çok insan için sadece
+robotlarla yaşanan bir şeydi. Eğer çocuk sahibi olmak istemiyorsa bir insanla aynı yatakta çıplak
+bulunmanın izahının yapılamadığı zamanlarda yaşıyordu. 
+
+Akşama yeni kıyafetler istedi. Hazırlanması kısa sürdü. *Spor salonuna mı gitsem?* diye düşünürken
+kendini oyun oynarken buldu. Devrimden önceki bir savaş alanında sniper oldu. Kadın ve çocuklara
+zarar vermeden düşman askerlerini öldürmeye çalışıyordu. *Erkeklerin kadın ve çocuklara zarar
+vermeden birbirini öldürmeye çalışması içgüdüsel herhalde* diye düşündü. 
+
+Saati *zaman geldi efendim* diye ötmese unutmuştu. Bir insanla görüşmek istemediğini farketti, kalıp
+oyun oynamaya devam etmek istiyordu ama bir defa ayarlandıktan sonra görüşmeleri iptal etmek zordu.
+Kimmiş bu (Raas) bakalım. Ortak tanıdıklarımız vardır belki. 
+
+-- Bir araç çağır dedi saate. -- Görüşmeyi nerede ayarladın? diye devam etti hemen. -- Görüşme
+(Duş)ta efendim. Biraz durakladı. -- Araç çağırdım dedi. 
+
+(Duş) yeni açılmış bir özel görüşme mekanıydı. Her odada duş olduğu ve çeşitli hamam fantazileri
+için robotların olduğu söyleniyordu. (Yesur) daha önce gitmemişti. -- (Raas) mı istedi diye sordu.
+-- Evet efendim, o istedi burayı. -- Hmm, değişik planları var sanırım diye kendi kendine güldü. 
+
+Hazırlanması ve evden çıkması kısa sürdü ama (Duş) uzaktaydı. Şehrin diğer taraflarında, nehrin
+kıyısında büyük bir alan. Trafikten dolayı geç kalacak gibi göründüğünde saatinden (Raas)a haber
+vermesini istedi. -- O da yoldaymış efendim diye cevap verdi saat. 
+
+Girdiğinde kendini bir hamam konsepti içinde buldu. Servis robotları peştemallıydı. Her yerden
+buharlar çıkıyordu. Tütsüler yakılmış, ortalıkta meyve tabakları, bazı insanlar hamamda oturur gibi
+ortada oturuyordu. -- Uygun giyinmemişim dedi saatine. -- Kıyafet ayarladım efendim dedi saati. --
+Peştemal mi giyeceğim? Saat cevap vermedi ama kıyafet odasını girdi. Robotlardan birinden
+peştemal ve havlu aldı, kendi kıyafetlerini bıraktı. Ortama uyum sağladığında rahatlamıştı. --
+Müfettiş gibi hissetmiştim dedi saate. -- Burada da bekleyebiliriz efendim veya odalardan birine
+geçebiliriz.
+
+Ortamın kokusunda sarhoş edici bir şey vardı. Zihninin bulanmaya başladığını hissetti. İnsanların
+yüzleri hem birbirine benzemeye, hem değişmeye başlamıştı. Gözleri kısık, karşıdan gelen siyah
+saçlı, otuzlarında bir kadına bakmaya başladı. O da (Yesur)a bakıyordu. -- Merhaba, ben (Raas) diye
+elini uzattı. -- Merhaba dedi (Yesur). -- Ortam etkisini göstermiş, gel biraz daha serin bir yere
+geçelim. 
+
+(Yesur) ayağa kalkınca sarhoşluğunun biraz daha farkına vardı. -- Neden bu kadar çarptı anlamadım
+dedi (Raas)a. -- Orası sarhoş olmak için de ondan, tütsüler uyuşturuculu. Burada birazdan kendine
+gelirsin. 
