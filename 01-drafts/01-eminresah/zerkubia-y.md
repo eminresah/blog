@@ -696,9 +696,51 @@ geçebiliriz.
 Ortamın kokusunda sarhoş edici bir şey vardı. Zihninin bulanmaya başladığını hissetti. İnsanların
 yüzleri hem birbirine benzemeye, hem değişmeye başlamıştı. Gözleri kısık, karşıdan gelen siyah
 saçlı, otuzlarında bir kadına bakmaya başladı. O da (Yesur)a bakıyordu. -- Merhaba, ben (Raas) diye
-elini uzattı. -- Merhaba dedi (Yesur). -- Ortam etkisini göstermiş, gel biraz daha serin bir yere
+elini uzattı. -- Merhaba dedi (Yesur). -- Ortam etkisini göstermiş, gel daha serin bir yere
 geçelim. 
 
 (Yesur) ayağa kalkınca sarhoşluğunun biraz daha farkına vardı. -- Neden bu kadar çarptı anlamadım
 dedi (Raas)a. -- Orası sarhoş olmak için de ondan, tütsüler uyuşturuculu. Burada birazdan kendine
 gelirsin. 
+
+Bir kadınla sarhoşken tanışmanın eksileri olduğu gibi artıları da vardı. İçine *kaybedecek bir şey
+yok* hissi dolmuş ve kendini anlatırken yalan söylemeyi bırakmıştı. Olması gerekeni değil, olanı
+anlatıyordu, kendini ne kadar yetersiz hissettiğini. 
+
+Erkek kendini övdüğünde de, yerdiğinde de bunu bir kahramanlık hikayesi olarak yapar. *Dünya
+ne kadar kötü ve bana ne kadar kötü davrandı ama beni yenemedi* hikayesi. (Yesur) da buna benzer bir
+hikaye anlatmayı planlıyordu kendiyle ilgili ama tütsülenmiş zihni artık bir kahramanlık masalı anlatacak kadar tutarlı değildi. Sonradan o akşam ne konuştuklarını tam olarak hatırlamadığını farketti. Konuyu sadece (Raas)ın bahsettiği kadarıyla biliyordu. 
+
+Robotlara yemeklerini söylemişler ve (Yesur) ağlamaya başlamıştı. Hayatının ne kadar karmaşık, ne
+kadar sonu belirsiz ve ne kaar yalnız olduğundan bahsetmişti. (Raas) kendine hakim bir kadındı,
+buluşacağı adamın kim olduğunu da araştırmıştı ama bu manzarayı pek beklemiyordu. Daha doğrusu
+(Duş)taki buluşma amacı biraz daha rahat etmesini ve içindekileri dökmesini sağlamaktı ama bu
+kadarını beklemiyordu. Otuzlu yaşlarında zengin ve başarılı bir adamın içinden ezilmiş ve yalnız
+biri çıkmıştı. 
+
+(Raas) bir robot tamircisiydi. Bunun daha fantastik söylenmişi elektronik kartvizitinde yazıyordu
+ama kendinden bahsederken *tamirci* demeyi tercih ederdi. Robotların mekanik ve dışarıdan
+müdahaleyle çözülmesi gereken sorunlarını çözerdi. Genelde ev ve hizmet robotlarının değil, üretim
+robotlarının işlerini yapıyordu. 
+
+(Yesur)un ağlaması kesilip biraz daha normal konuşmaya başlayınca yemeklerini söylediler. -- Çok
+ağır geldi sana bu tütsüler dedi (Raas). -- Sanırım öyle oldu. Ben de şaşkınım dedi (Yesur). --
+Sarhoş olmaya alışık değilsin herhalde -- Alışık olduğumu sanıyordum ama değilmişim. Özür dilerim --
+Önemli değil, unutmayacağım bir tanışma olacak dedi ve güldü. 
+
+(Raas)la aynı jumredendiler. Ortak tanıdıkları da vardı. (Güneşin Parlayan Kulları) jumresi.
+Jumreden ortak tanıdıklarından konuştular. Biraz dedikodu yaptılar. Yemeğin sonunda (Raas) tatlı
+istediğini söyledi. -- *Şekerli değil psikosomatik tatlandırıcılı*. Psikosomatik tatlandırıcılar
+uyuşturucu yerine kullanılıyordu. Şeker gibiydiler ama keyif veriyorlardı. (Yesur) da aynısından
+istedi çünkü uyuşturucu almış birinin yanında ayık olarak bulunmak istemiyordu. 
+
+Tatlıyı yedikten sonra odaları dışarıya kapandı ve (Yesur)u sarhoş eden dumandan dolmaya başladı.
+Yerden de köpük çıkmaya başlamıştı. 
+(Raas)ın yüzünde bir kaplan ifadesi belirdi. -- Seninle astral bir seyahat yapacağız dedi. (Yesur)un
+o akşama dair hatırladığı en belirgin anı buydu. 
+
+*Astral seyahat* yaptılar. Bedenleri birleşti, ayrıldı, yeniden birleşti. Oda duman ve köpükten
+görülmez haldeyken şaman müziklerini andıran bir müzik ve sanal gezegenlerde gezdikleri görüntülerin
+olduğu ekranlarla iki saat geçirdiler. En son (Yesur) yediklerinin, gördüklerinin ve havanın etkisiyle kusmaya başladı. (Raas) çoktan kendinden geçmişti. Kusmuğunun üstüne başını koyup o da uykuya daldı. 
+
+
