@@ -38,4 +38,22 @@ Gözlemevinde bir yere oturdu. Cebinden telefonunu çıkardı ve onunla oynamaya
 
 Hiç uyumadan sabaha kadar oynayarak telefonundaki oyunu bitirdi. Sonra başka bir oyuna geçti. Sonra daha başka. Üç gün sonra yorgunluktan olduğu yerde uyumaya başladı. Kaptan Ali de diğerleri gibi oyun bağımlısı haline gelmişti. 
 
-Uyandığında Gözlemevindeki oyunların bıraktığı gibi devam ettiğini 
+Uyandığında Gözlemevindeki oyunların bıraktığı gibi devam ettiğini gördü. İçinde büyük bir oyun oynama isteği vardı. Telefonundaki oyunların hepsini bitirdiği için kendisine herkesin oynadığı görüntülü oyun kasklarından aramaya başladı. 
+
+General Zemzem'in aradığını farketti. Onu günlerdir aramamıştı. Oyun oynamak daha zevkliydi ama tam kapatacağı sırada eli yanlışlıkla telefonu açtı. General Zemzem öfkeli bir sesle *neden açmıyorsun günlerdir?* dedi. 
+
+Kaptan Ali ne diyeceğini şaşırdı. *Burada herkes oyun oynuyor* diyebildi. *Sen ne yapıyorsun?* dedi General. *Ben de telefondaki oyunları bitirdim* dedi, *oynayacak başka bir alet arıyorum.* Sonra telefondaki oyunları anlatmaya başlayacaktı ki General *hemen astronot kıyafetini giy, sonra da Teleskop'taki hava temizleyicilere bakmaya git* dedi. 
+
+Kaptan Ali *bitirmem gereken oyunlar var, çok zevkli* diyordu ki geldiğinde insanların ne halde olduğunu hatırladı. Kendi de onlar gibi olmuştu. Demek ki ay teleskobunda herkes oyun oynamaktan dış dünyayla irtibatı koparmış ve kimse bir iş yapmadığı için teleskop çalışmaz olmuştu. 
+
+Canı çok sıkılıyordu. Oyun oynamak istiyordu. Elini telefonuna tekrar götürüp yeni oyun yüklemeyi düşündü ama diğer eliyle telefonunu çok uzağa attı. *Hayır* dedi kendi kendine, *ben oyunlardan daha güçlüyüm.*
+
+Astronot kıyafetini giyince biraz daha rahatladı. Hala oyun oynamak istiyordu ama içindeki istek azalmıştı. General kendisine oyun oynamayı çok istediğinde içinden sayarak on nefes almasını söylemişti. Bu şimdi aklına geliyordu. İçinden ona kadar sayıp, derin derin nefes aldı. Biraz daha iyi hissetti. Astronot kıyafetini çıkarmadan Teleskobun hava temizleme bölümüne gitti. 
+
+Ay'da hava olmadığı için üsteki hava temizlenip tekrar kullanılıyordu. Havanın içindeki karbondioksiti alıp, oksijen veriyordu. Bu bölüme giderken iki üç kişinin baygın yattığını gördü. Oyun oynarken yemek yemeyi unutmuşlar ve sonunda bayılmışlardı. Birisi tuvalete gitmeyi de unuttuğu için üstüne yapmıştı ve her yer çok pis koktuğu halde oyun oynamaya devam ediyordu. Sırtına dokunup onu uyarmaya çalıştı, *git başımdan* dedi adam, *en heyecanlı yerindeyim.*
+
+Kaptan Ali hava temizleme bölümüne gidince General'i tekrar aradı. Kendisini daha iyi hissettiğini söyledi. General de *hava temizleme bölümünde bir virüs olup olmadığını kontrol etmen gerekiyor, herkesin bu kadar oyun oynaması hastalıktan olabilir* dedi. *Nasıl hastalıktan?* dedi Kaptan Ali. *Beyin kimyalarını bozan bir virüs var, beyindeki zevk alma nöronlarını bozuyor ve insanlar sadece oyun oynarken mutlu oluyorlar. Bu yüzden yemek yemeyi unutuyorlar çünkü yemek onlara zevkli gelmiyor, iş yapmak da istemiyorlar, hiçbir şey yapmak istemiyorlar* dedi. 
+
+Kaptan Ali bu virüsü nasıl tespit edeceğini öğrendi. Normalde üste hep astronot kıyafetiyle duran birinin olması ve hava temizleme bölümünde çıkacak bu gibi aksaklıkları düzeltmesi gerekiyordu ama oradakiler de oyun oynuyorlardı. Astronot kıyafetlerini çıkarmıştı herkes. 
+
+Kaptan Ali oyun hastalığı virüsünü temizleyecek işlemleri yapmaya başladı. 
