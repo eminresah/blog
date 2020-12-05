@@ -5,7 +5,7 @@ date: 2020-12-05 17:01:21+0300
 expiryDate: 
 dp: 15118
 draft: false
-featured_image: /img/header-71.jpg
+featured_image: /images/header-71.jpg
 ---
 
 
@@ -17,8 +17,9 @@ için daha hayırlısı olacağı kanaatindeyim.
 
 Beni düşündüren mesela zekasından şüphe etmeyeceğim aşağıdaki gibi insanların takıntılı 
 *tarihselcilik* düşmanlığı oldu. 
-
+{{< rawhtml >}}
 <blockquote class="twitter-tweet"><p lang="tr" dir="ltr">Kur&#39;an&#39;ı tarihsel kabul etmek, özetle Kur&#39;an&#39;ın bazı hükümlerinin indirildiği döneme ve coğrafyaya has olduğunu iddia etmektir. Tarihselciler Kur&#39;an&#39;ın bir Kitap değil hitap olduğunu, onu metin haline getirenin nebi olduğunu ileri sürerler. Üstelik bu görüş kendi üretimleri de ⬇️</p>&mdash; Erdem Uygan (@erdem_uygan) <a href="https://twitter.com/erdem_uygan/status/1334633586251739136?ref_src=twsrc%5Etfw">December 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+{{< /rawhtml >}}
 
 Zinciri okuyorsunuz ve *hakikati keşfetmiş* birinin kafa konforunun ne kadar güzel olduğunu görüp hayran
 oluyorsunuz. Anladığım kadarıyla *Abdülaziz Bayındır hariç* kimsenin dini konularda konuşmaya hakkı yok. 
