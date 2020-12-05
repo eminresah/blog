@@ -1,7 +1,7 @@
 ---
 title: Virgül 5 Aralık
 author: Emin Reşah
-date: 2020-12-05 17:01:21
+date: 2020-12-05 17:01:21+0300
 expiryDate: 
 dp: 15118
 draft: false
