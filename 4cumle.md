@@ -1,1 +1,0 @@
-bunu nereye yazacaksın dostum?
