@@ -5,7 +5,7 @@ date: 2020-12-05 17:01:21+0300
 expiryDate: 
 dp: 15118
 draft: false
-featured_image: /img/header-71.jpg
+featured_image: /images/header-71.jpg
 ---
 
 
