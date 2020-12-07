@@ -49,5 +49,48 @@ alacağını biliyordu ama (Ressul)un da *onlardan biri* olduğunu tahmin etmemi
 izni kendi yemininle sınırlayamazsın.*
 
 
+*Sonunda hepsi aynı yere çıkıyor* diye düşündü. Müslüman kadınsan ve jûmren de müslüman olduğunu
+iddia ediyorsa, ikinci sınıfsın. Başka bir yolu olmadığını düşünmeye başlamıştı. Jûmre
+değiştirmeliyim, dindar olmayan müslümanlar jûmresi bulmalıyım. Jûmreler veritabanını
+kullanabilirim, hepsinin kanunları yazıyor. 
 
+(Xadice) bir sosyoloji ve antropoloji öğretmeniydi. Cuma günleri okul tatil olduğu için bugünü
+kendine ayırmayı düşünürdü ama akşamki kavga sinemayla ilgili planlarını iptal etmesine sebep
+olmuştu. Çıkarıp bir kenara bıraktığı saatini taktı. *Mesajın var* dedi saat, psikolog ikide
+görebilirmiş seni. 
 
+Bu sefer jûmre psikoloğuna değil, dışarıdan birine gitmeye karar vermişti. Bir erkeğe. (Ressul)e
+sorsa izin vermezdi, (Nurr) hanıma neden gitmediğini sorardı. Sonra bir tartışma daha. Kadının her
+şeye dini çözüm bulmaya çalışmasından, bütün meseleleri izah ederken ahireti hatırlatmaya
+çalışmasından sıkılmıştı. *Jûmre değiştirmeliyim* diye arada aklına gelen düşünceleri daha çok
+ciddiye alıyordu. 
+
+Saatine *iki saat uyusam yetişir miyim* diye sordu. *Üç saat uyuyabilirsin* dedi saati. Gecenin
+yorgunluğu kendini göstermişti. Yatağa gitti, *çarşafların değişmesini istiyorum* dedi. Yatak
+kendini soydu, yeni bir çarşaf giydi. Eskileri *Kıyafet Merkezine* gönderildi. *Beni uyandırmak için
+amfemil kullanabilirsin* dedi saate. *Gerekli olursa kullanırım* dedi saat. 
+
+Huzursuz uykusunda gördüğü rüyalarda hep aynı tema vardı. Kayboluyor ve tanımadığı birini arıyordu.
+İlk rüyasında bir Budist tapınağının kapısının önünde bir tabut buldu. Kendi tabutuymuş bu ve
+onu bu tapınaktan gömeceklermiş. İkinci rüyasında bir büyücünün şatosunda kendini iyi edecek iksiri
+aradı. Bu iksirin olduğu kap bir dondurma kabına dönüştü, sonra bütün hayatının bir kar küresinden
+seyredildiğini gördü. Evinin önünde bir çocuk vardı ve çocuk eve girmek istemiyordu. Üçüncü rüyada
+annesinden kalan dolmakalemiyle yerde bir robota yollar çiziyor, sonunda robotun bütün dünyasını
+kapladığını görüyordu. Robotu durdurmaya çalışırken bir hamile olduğunu görüyor, hemşireler kundağa
+sarılmış suşi getiriyorlardı. *Bunu doğurdun.*
+
+Uyandıracak kadar sıkıntılı değilse de, uykusundaki dinlenmeyi de alıp götüren rüyalardı bunlar.
+Hayat gibi. Bir rüya olduğunu bildiğiniz, bundan dolayı sıkıldığınız ancak uyanacak kadar da
+cesaretinizin olmadığı rüyalar. 
+
+Saati titrediğinde uyandı. *İlaç verdin mi* dedi. *Hayır* dedi saat. Banyo köşesine gitti, kapanan
+kabinde önce kendini sıcak buhara boğdu. Ciğerlerine ve stresine iyi geldiğini keşfetmişti. Sonra
+sıcak bir duş aldı. Saati *namaz için çıkmalısın* dediğinde saat 12:30 olmuştu. *Birazdan cuma
+namazı başlar.*
+
+Saat bir araç çağırmıştı. *Yürüsem olmaz mı* dedi. *Yetişemezsin* dedi saati. Araca bindi. Kendini
+mescidin kapısında bulduğunda yol boyu ne düşündüğünü sordu kendine, cevap veremedi. Kafası donmuş,
+dili tutulmuş gibiydi. 
+
+Caminin kapısından girip üst kattaki kadınlar mahfiline çıkarken *onu* gördü. (Ressul)le dün kavga
+etmesine sebep olan kadın. 
