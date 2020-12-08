@@ -92,5 +92,60 @@ Saat bir araç çağırmıştı. *Yürüsem olmaz mı* dedi. *Yetişemezsin* ded
 mescidin kapısında bulduğunda yol boyu ne düşündüğünü sordu kendine, cevap veremedi. Kafası donmuş,
 dili tutulmuş gibiydi. 
 
-Caminin kapısından girip üst kattaki kadınlar mahfiline çıkarken *onu* gördü. (Ressul)le dün kavga
+Caminin kapısından girip üst kattaki asansörle kadınlar mahfiline çıkarken *onu* gördü. (Ressul)le dün kavga
 etmesine sebep olan kadın. 
+
+Kendisinden genç görünüyor. *Demek beni senin için terkedecek.*  Yanında biri vardı, yaklaştı. Onu
+görünce kadının paniklediğini hissetti. *Burada ne arıyorsun sen küçük pislik* diye bağırmak geçti
+içinden. -- Demek kocamı elimden alan kadın sensin dedi. Kadın panikle -- Hayır, hayır derken
+kadının suratına tükürdü. Ortalık bir anda karıştı, arkadaşı kadına vurmaya başladı. Diğer kadınlar
+yerlerinden kalkıp ikisini ayırmaya çalıştılar. (Xadice) en son ne dediğini hatırlamıyordu ama
+tanıdık bir iki kişi koluna girip camiden çıkarırken hala içeriye doğru *küçük orospuu* diye
+bağırdığını hatırlıyordu. Yanındakilerden biri ona küçük beyaz bir kapsül verdi, *tamam, şimdi sakinleş.*
+(Xadice) hapı yuttu. Bir robot ambulans geldi. Saati kavgayı tespit edip çağırmıştı. İki güvenlik
+görevlisi de yanlarına geldi. Arkadaşları onlarla konuşurken caminin avlusundaki banklara yatıp
+ağlamaya başladı. Ezan okunacaktı. Tekrar içeri girmek istemiyordu. *Ben bir daha burada namaz
+kılmak istemiyorum* diye söylendi. Saatine *bana bir araç çağır* dedi, *eve dönelim.*
+
+Tek kişilik araba geldiğinde ezan da okunmaya başlamıştı. Yanındakilere iyi olduğunu söyleyerek
+bindi. Onların da namazlarına mani olmayayım. 
+
+Eve döndüğünde yatağına uzandı. (Ressul) birazdan camiden çıkar ve o şıllık ona her şeyi anlatır.
+Artık bu evden ayrılmalıyım. Bu ev onların da evi olmamalı. Benim de evim olmamalı. Kendimi
+bırakmamalıyım. 
+
+Evin yarısı (Xadice)ye aitti ve evdeki hissesini hemen satabilirdi. *Ucuza satarsam hemen alırlar*
+diye düşündü. *Jûmreden de ayrılırım. Liberal bir jûmreye geçerim. Beni olduğum gibi kabul edecek
+bir yer.* 
+
+Bunları düşünüp evden nasıl kurtulacağını planlarken saati kapıda biri olduğunu haber verdi. *Kim?*
+*Toplum Polisi* -- O minik fahişe beni şikayet mi etmiş? -- Kapıda polis var, sadece bunu biliyoruz. 
+
+Üstünü başını topladı, kapıya çıktı. İki kadın polis gelmişti. Kimliklerini gösterdiler. -- Ne için
+geldiğimizi biliyor olmalısınız, ifadenizi alacaktık dedi kumral olan. Diğeri daha esmerdi. 
+
+-- Tabii, tabii, gelin dedi (Xadice)
+
+-- Bugün jûmre toplantı merkezinde bir olay olmuş dedi esmer olan. 
+
+-- Evet. Tatsız bir şey oldu. 
+
+Polisler ellerindeki hologram cihazını açtılar. Az önceki kavgayı bu sefer üç boyutlu olarak
+izlediler. (Xadice) olanların şokunu henüz atlatamadan bununla tekrar karşılaşmayı ummuyordu. --
+Şikayet konusu nedir diyebildi sadece. 
+
+-- Hakaret ve şiddet. Hakaret kısmına jumre mahkemesi bakacak, sanırım aranızda başka bir husus
+varmış. Kavgaya da Sekizinci Adliye Dairesi. 
+
+-- Robot hakimler mi?
+
+-- Evet. Kavgayı çözümleme konusunda hayli iyilerdir. Her yumruğun şiddetine göre ayrı ceza
+veriyorlar artık. Kumral olan işini zevkle yapıyordu. 
+
+-- Anladım dedi (Xadice.) Ne zaman gitmeliyim. 
+
+-- Bugün giderseniz indirim alabilirsiniz. Hatta beraber gidebiliriz. Jûmre mahkemesini bilmiyoruz,
+onun takvimi farklı olabiliyor. 
+
+-- Beraber gidelim o zaman ama benim sakinleşmem lazım dedi (Xadice)
+
