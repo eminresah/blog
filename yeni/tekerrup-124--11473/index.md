@@ -1,5 +1,5 @@
 ---
-title: Tekerrüp 124 
+title: Terekküp 124 
 author: Emin Reşah
 date:  2020-12-11 17:17:40+0300
 expiryDate:
