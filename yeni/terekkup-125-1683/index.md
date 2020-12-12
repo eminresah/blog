@@ -1,7 +1,7 @@
 ---
 title: Terekküp 125
 author: Emin Reşah
-date: 2020-12-12 20:31:17
+date: 2020-12-12 20:31:17+0300
 expiryDate: 
 dp: 15126
 draft: false
