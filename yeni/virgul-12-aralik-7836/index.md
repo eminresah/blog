@@ -1,5 +1,16 @@
+---
+title: Virgül 12 Aralık
+author: Emin Reşah
+date: 2020-12-12 23:45:49+0300
+expiryDate:  
+dp: 15126
+draft: false
+featured_image: /images/header-30.jpg
+---
 
-İyilik ve kötülüğü ayıran birinci prensibin *belirsizliği azaltmak* veya *riski azaltmak* olduğunu
+
+İyilik ve kötülüğü ayıran birinci prensibin *belirsizliği azaltmak* veya *riski azaltmak*
+olabileceğini
 düşünüyorum. Devletin topluma, toplumun aileye, babanın çocuğuna, güçlünün güçsüze borcu budur. Daha
 büyük ve güçlü olan, daha küçük ve zayıf olanın risklerini azaltmalıdır.
 
@@ -45,4 +56,7 @@ büyük ve güçlü olan, daha küçük ve zayıf olanın risklerini azaltmalıd
     etmekten geçiyordu. Modernleşme ise çocuklarımızın muhtemelen hiç bilmediğimiz hayatları
     yaşamasına yol açtı. Bu durumda çocuğu için riskleri azaltan iyi aile nasıl olabilir?
 
-- 
+- İnsanlar arasındaki *iyi ilişkinin* de böyle bir kriterle ilgili olduğu söylenebilir. Birbirine
+  karşı belirsizlikleri azaltabilen insanlar *iyi insanlardır.* Bu belirsizlik evlilikte kendini bir
+  şekilde gösterirken, arkadaşlıkta başka şekilde gösterir ancak elimizdeki gücü ve imkanı başkaları
+  için belirsizlikleri azaltmakta kullanabiliyorsak, iyi olduğumuzu söyleyebiliriz. 
