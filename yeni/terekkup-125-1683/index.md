@@ -6,8 +6,7 @@ expiryDate:
 dp: 15126
 draft: false
 featured_image: /img/header-154.jpg
-
-# Write as if no one will read
+---
 
 ### 1
 
