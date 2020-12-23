@@ -31,7 +31,7 @@ $C_i = (D_{i-1} + E_{i-1}) mod 30$
 $D_i = (E_{i-1} + A_{i-1}) mod 40$
 $E_i: (A_{i-1} + B_{i-1} + C_{i-1} + D_{i-1} + E_{i-1}) mod 50$
 </div>
-{{< end rawhtml >}}
+{{< /rawhtml >}}
 
 Başta bütün değerlerin 1 olduğunu kabul edelim. Kurallar tek tek determinist olmakla
 beraber $E$'nin hangi değerleri alacağını önceden tahmin edemeyiz. Böyle bir zihin
