@@ -34,7 +34,7 @@ $$E_i: (A_{i-1} + B_{i-1} + C_{i-1} + D_{i-1} + E_{i-1}) mod 50$$
 {{< /rawhtml >}}
 
 Başta bütün değerlerin 1 olduğunu kabul edelim. Kurallar tek tek determinist olmakla
-beraber $$E$$'nin hangi değerleri alacağını önceden tahmin edemeyiz. Böyle bir zihin
+beraber \(E\)nin hangi değerleri alacağını önceden tahmin edemeyiz. Böyle bir zihin
 determinist ancak kaotiktir. Bu sebeple sadece bilinci bilerek *özgür irade* gibi bir kavramın
 anlaşılması mümkün değil. 
 
@@ -67,7 +67,7 @@ def sim_chaos(timesteps):
 print(sim_chaos(100))
 ```
 
-Sonuçta ilk 100 $$E$$ değeri şöyle çıktı:
+Sonuçta ilk 100 \(E\) değeri şöyle çıktı:
 
 ```
 [1, 5, 13, 35, 37, 16, 7, 14, 27, 28, 40, 11, 1, 12, 8, 12, 15, 16, 42, 20, 12, 13, 1, 41, 29, 21, 12, 33, 20, 11, 28, 14, 19, 19, 24, 30, 2, 31, 10, 28, 22, 34, 47, 29, 23, 31, 3, 26, 49, 26, 13, 16, 10, 43, 37, 30, 8, 12, 49, 8, 0, 16, 42, 45, 43, 49, 49, 47, 26, 3, 2, 31, 14, 26, 21, 33, 38, 38, 32, 19, 36, 46, 8, 34, 19, 45, 15, 3, 13, 18, 37, 28, 45, 8, 42, 37, 37, 20, 12, 24]
