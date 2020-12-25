@@ -1,6 +1,7 @@
 
 (Xadice) köpüklü kahvesinden ekşi bir yudum daha aldığında kafeinin aşırı geldiğini sızlayan
 dişinden anladı. Bırakması
+dişinden anladı. Bırakması
 gereken noktayı geçmişti. Önündeki ekrana biraz daha dikkatle baktı ama boynundan başının arkasına
 doğru uzanan ağrıyı hissetmeye başlamıştı. *Gereksiz bir geceydi, yatıp uyumalıydım* dedi kendi
 kendine. 
@@ -192,7 +193,52 @@ görüntüleri geldi dedi başka biri. Hepsi sanki düşünüyormuş gibi görü
 takıldıktan sonra (Xadice) kendinde bir enerji hissetti. Hala sakindi ama uyuyacak gibi değildi. 
 
 -- İnvasif yargılamayı oylamaya sunuyorum dedi ortadaki. Robotların yedisinden kırmızı, ikisinden
-yeşil ışık çıktı. -- İnvasif yargılamaya gerek olmadığını kabul ettik dedi bu sefer. 
+yeşil ışık çıktı. -- İnvasif yargılamaya gerek olmadığını kabul ettik dedi bu sef
 
+----
+
+İnvasif yargılama dedikleri beyin sinyallerini kontrol ederek yapılan yargılamaydı sanırım. İnsan
+haklarına aykırı bulunduğu için sadece *çok ciddi* durumlarda kullanıyorlardı. 
+
+Neden 9 hakim vardı acaba? Tek birinin de aynı işi yapabilmesi beklenirdi. Neticede arkadan
+birbirlerine kabloyla bağlı gibiydiler. Bir kürsünün önünde dokuz robot görününce insanların
+*adalete* inançları daha fazla olmalıydı. Birbirleriyle konuşmalarının da sebebi buydu. Robotlar
+normalde bizim saniyede 40 bitlik iletişimimizin milyarlarca katı hızla iletişim kurabiliyorlardı.
+Bizi çok aptal buluyor olmalıydılar. 
+
+-- Olayın öncesiyle ilgili yapacağın bir açıklama var mı? Bu sağdan ikinci robottan gelmişti. Kadına
+benziyordu biraz. İnsan olsaydı kadın olurdu. 
+
+-- Bu olay planlı bir şey değildi ancak bu kavga ettiğimiz kadının kocamla ilişkisi var. Onunla
+evlenecek. (Xadice) kendi sakinliğine şaşmıştı. 
+
+-- Jûmre yasalarına uygun mu bu ilişki? Bu soru başka bir robottan gelmişti. 
+
+-- Uygun. Bizde erkekler için çok eşlilik var. 
+
+-- O halde bu hafifletici bir sebep olmamalı dedi aynı robot. Oylamaya sunalım. 
+
+Yine bir kaç saniye beklediler ve biri hariç kırmızı ışıklar gördü. Kadına benzettiği robot kendi
+lehine oy kullanmıştı. 
+
+-- Hafifletici bir sebep olmadığına karar verdik. Jûmre mahkemesinde bahsettiğin sebepleri
+anlatırsın. Bu olayda ortak toplanma alanında bir başka insana saldırdığın ve üç yumruk attığın,
+bunlardan ikisinin (Deedah Deur)a dokunduğu, kalıcı hasar bırakmadığı görüldü. Bağırırken söylediğin
+*adi orospu* ve *şırfıntı* sözleri hakaret kapsamında olduğu için bunlar da cezalandırıldı. Daha
+önce bir suça karışmadığın, sağlık kayıtların iyi olduğu, sosyal puanın yüksek olduğu ve olayın
+hemen ertesinde geldiğin ve işbirliği yaptığın için mecburi psikolojik değerlendirme ve 3600 Sester
+para cezasına ve 2000 Sester tazminata mahkum edildin. Gerekçeli karar postana gönderildi. İtiraz
+hakkın ve insan mahkemesinde yargılanma talebin için bir hafta süren var. Söylemek istediğin bir şey var mı?
+
+Para cezası neyse de o kadına para ödemek çok zor gelmişti. 
+
+-- Hayır. Teşekkür ederim demekle yetindi. 
+
+Kadına benzeyen robot çıkabilirsin dedi. Araçlar seni aldıkları yere bırakacaklar. Ceza ve tazminatı
+bir ay içinde ödeyebilirsin. 
+
+Polislerle beraber çıktılar. Kumral olan *kararın analizini gönderiyorlar, kısa sürüyor ama aslında
+olaydaki en ufak ayrıntıları bile değerlendiriyorlar* dedi. (Xadice) *demek sadece iki yumruk değdi
+ha* diye düşünüyordu o sıra. *Doğrudur* demekle yetindi. 
 
 
