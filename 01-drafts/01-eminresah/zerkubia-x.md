@@ -241,4 +241,8 @@ Polislerle beraber çıktılar. Kumral olan *kararın analizini gönderiyorlar, 
 olaydaki en ufak ayrıntıları bile değerlendiriyorlar* dedi. (Xadice) *demek sadece iki yumruk değdi
 ha* diye düşünüyordu o sıra. *Doğrudur* demekle yetindi. 
 
-
+Geldiği araca benzeyen bir araca bindi. Polisler araca evin adresini söyledi. Giderken tüm bu olayı
+(Ressul)e nasıl anlatacağını düşünüyordu. Anlattığında tepkisi ne olacaktı ve terketmeye karar
+verirse nasıl başa çıkacaktı. İki aylık maaşını ceza ve tazminata ödeyecekti. Yeni bir ev bulup
+ayrılabilirdi ama okuldan da ayrılması gerekirdi. Okuldan ayrılırsa iş bulması zordu, sosyoloji ve
+insan bilimleri öğretmenliğini talep eden fazla kimse yoktu. 
