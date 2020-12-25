@@ -1,5 +1,6 @@
 
-(Xadice) köpüklü kahvesinden ekşi bir yudum daha aldığında kafeinin aşırı geldiğini anladı. Bırakması
+(Xadice) köpüklü kahvesinden ekşi bir yudum daha aldığında kafeinin aşırı geldiğini sızlayan
+dişinden anladı. Bırakması
 gereken noktayı geçmişti. Önündeki ekrana biraz daha dikkatle baktı ama boynundan başının arkasına
 doğru uzanan ağrıyı hissetmeye başlamıştı. *Gereksiz bir geceydi, yatıp uyumalıydım* dedi kendi
 kendine. 
@@ -144,8 +145,54 @@ veriyorlar artık. Kumral olan işini zevkle yapıyordu.
 
 -- Anladım dedi (Xadice.) Ne zaman gitmeliyim. 
 
--- Bugün giderseniz indirim alabilirsiniz. Hatta beraber gidebiliriz. Jûmre mahkemesini bilmiyoruz,
+-- Bugün giderseniz ceza indirimi alabilirsiniz. Hatta beraber gidebiliriz. Jûmre mahkemesini bilmiyoruz,
 onun takvimi farklı olabiliyor. 
 
 -- Beraber gidelim o zaman ama benim sakinleşmem lazım dedi (Xadice)
+
+---
+
+Polisler birbirine baktı. Diğeri onay verince kumral olanı *sizi sakinleştirir* deyip bir bant çıkardı.
+*Kullanmanız jûmreye uygun mu bilmiyorum ama* diye ekledi. *Uygun, uygun* dedi (Xadice). Bandı alıp
+bileğinin içine yapıştırdı. Bant az sonra etkisini gösterdiğinde gün içinde olanların ne kadar
+anlamsız gelmeye başladığını farketti. Neden bu bantlardan kullanmıyordu acaba. 
+
+Polisler robot bir araç daha çağırdı. Kendi araçlarında yer yoktu. (Xadice)ye *herhalde adresi
+biliyorsunuz* dedi. *Sekizince Adliye Dairesi* dedi kendi kendine konuşurmuş gibi. *Evet, biz de
+geleceğiz ve sizin işbirliği yaptığınızı söyleyeceğiz.*
+
+Polisler kendi araçlarına bindi. (Xadice) de diğerinin koltuğuna oturdu. Polisler adresi araca da
+vermişlerdi. Kendini koltuğa bıraktı. İlk defa robot hakimler tarafından yargılanacaktı. *Şiddet ve
+hakaret.* Nasıl olduklarını duymuşlardı. Bazı zamanlar sanıklar yalan söylemesin diye beyin dalgalarına
+bakıyorlardı. *Onların karşısına çıktıysan sakin ol ve olay onların yanında olmuş, zaten görmüşler
+gibi anlat* demişti bir arkadaşı. 
+
+Polis aracı mahkeme binasının içine girdi. Girişinde silahlı dronların uçtuğu bir binaydı burası.
+(Zerkubia Sekizinci Adliye Dairesi) yazısına dikkatle baktı. Kendi aracı da polislerin girdiği
+kapıdan girdi. İçerisi uzay terminallerine benziyordu. Çok insan ve insanlardan daha çok robot
+vardı. *Bu kadar suç işleniyor mu* diye düşündü. 
+
+Polisler yanına geldi. *Şu kapıdan gidelim* dediler elleriyle uzaktaki bir kapıyı gösterip. (Xadice)
+onlarla beraber oraya doğru yürüdü. *Bu sakinleştirici iyi geldi* dedi kumral olana bakıp. Polis
+gülümsedi. *Hayli kuvvetli bir sakinleştirici bu. Duruşmadan önce uyarıcı vermeleri gerekecek.* 
+
+Onsekiz numaralı mahkeme salonu hayli yüksek tavanlı bir binaydı. Arka planda dokuz sütun, her
+sütunun önünde bir robot vardı. Robotlar en az üç metre boyundaydı. Her şey insanların nerede
+oldukları aklından çıkmasın diye yapılmış gibiydi. Cam bir kürsünün önüne geldi. 
+
+Ortadaki robot sakin bir sesle -- (Divran Xadice) sen misin? dedi. -- Evet, benim dedi (Xadice). --
+Sana sakinleştirici vermişler, gelmek istemedin mi? -- Olaydan dolayı kendimi iyi hissetmiyordum,
+kendi isteğimle geldim. Arkadaki polislere baktı. Onları işaret edip, -- bunu söylemek için geldiler
+dedi. 
+
+Robot hakimlerin sağdan üçüncü -- Muayene edelim uyarıcı verelim dedi. İnsansı robotlardan biri
+yanına geldi. Bileğine ışıklar yanan bir bileklik taktı. Hakimlerden biri polislere doğru --
+işbirliği yaptığını onaylıyor musunuz? dedi. -- Onaylıyoruz efendim dedi polis. -- Olayın
+görüntüleri geldi dedi başka biri. Hepsi sanki düşünüyormuş gibi göründüler. Işıklı bileklik
+takıldıktan sonra (Xadice) kendinde bir enerji hissetti. Hala sakindi ama uyuyacak gibi değildi. 
+
+-- İnvasif yargılamayı oylamaya sunuyorum dedi ortadaki. Robotların yedisinden kırmızı, ikisinden
+yeşil ışık çıktı. -- İnvasif yargılamaya gerek olmadığını kabul ettik dedi bu sefer. 
+
+
 
