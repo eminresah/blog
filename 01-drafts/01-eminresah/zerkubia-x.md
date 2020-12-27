@@ -12,24 +12,24 @@ geliyordu. Kendi kendine biraz daha söylendi. *Hepsi sahte bunların, bütün h
 hayatlarımız.*
 
 O esnada *evdeşinin* uyanma seslerini duydu. İki odalı robot evlerinin diğer odasından gelen bir
-ses. -- Namazı kıldın mı? -- Hayır, henüz değil. -- Cemaat olalım hadi dedi (Ressul). -- Abdest
+ses. -- Namazı kıldın mı? -- Hayır, henüz değil. -- Cemaat olalım hadi dedi (R). -- Abdest
 alayım diye seslendi. Yatak odalarının bir köşesine geçti, yerden bir tabure, karşısından bir musluk
 çıktı. Abdest aldı. Kocası kamet getirmeye başlamıştı. Arkasında durdu. Secdede zonklayan başı biraz
 daha zonkladı. 
 
-Namazdan sonra hemen kalktılar. -- Kahvaltı var mı dedi (Ressul). -- Kahve içtim sadece. -- Tost
+Namazdan sonra hemen kalktılar. -- Kahvaltı var mı dedi (R). -- Kahve içtim sadece. -- Tost
 yesem olur mu -- Olur bence. 
 
 Mutfak robotuna kahvaltı hazırlamasını istedi. -- Ben de seninle yerim dedi (Xadice). Kahvaltıyı
 sessizce yaptılar. -- Gece neden uyumadın? diye soracak oldu adam, (Xadice)nin bakışlarından sesi
-incelerek. Akşam kavga etmişlerdi ve (Ressul) de bu yüzden uyumadığını düşünüyordu. (Xadice) cevap
+incelerek. Akşam kavga etmişlerdi ve (R) de bu yüzden uyumadığını düşünüyordu. (Xadice) cevap
 vermedi, öyle düşünmeye devam etsin. 
 
 Aralarındaki soğukluk fırtına getirecek kadar güçlü değildi. -- Bugün ne yapacaksın? -- Kendimi
 dinleyeceğim biraz, geceden başım ağrıyor. Belki uyurum. -- Neden benim yanımda yatmadın? -- Bu
 konuyu konuşmasak olur mu şimdi? dedi (Xadice). Psikolog randevusu aldım, belki ona giderim. 
 
--- Saatini de çıkarmışsın dedi (Ressul). Sanırım takip edilmek istemiyorsun. 
+-- Saatini de çıkarmışsın dedi (R). Sanırım takip edilmek istemiyorsun. 
 
 -- Uyumam için çok dırdır ediyordu, çıkardım. 
 
@@ -47,7 +47,7 @@ andan itibaren susmuş, *yani evlenirken ettiğin yeminlerin bir önemi yok, öy
 
 (Xadice) gece boyu farklı jûmrelerin bu konudaki düşüncelerini araştırmıştı. Yemin ne kadar
 bağlayıcıdır? *Ama beni aldatmış oluyor* Kendi jûmresinin bu konuda hep erkeklerden yana tavır
-alacağını biliyordu ama (Ressul)un da *onlardan biri* olduğunu tahmin etmemişti. *Allah'ın verdiği
+alacağını biliyordu ama (R)un da *onlardan biri* olduğunu tahmin etmemişti. *Allah'ın verdiği
 izni kendi yemininle sınırlayamazsın.*
 
 
@@ -61,7 +61,7 @@ kendine ayırmayı düşünürdü ama akşamki kavga sinemayla ilgili planların
 olmuştu. Çıkarıp bir kenara bıraktığı saatini taktı. *Mesajın var* dedi saat, psikolog ikide
 görebilirmiş seni. 
 
-Bu sefer jûmre psikoloğuna değil, dışarıdan birine gitmeye karar vermişti. Bir erkeğe. (Ressul)e
+Bu sefer jûmre psikoloğuna değil, dışarıdan birine gitmeye karar vermişti. Bir erkeğe. (R)e
 sorsa izin vermezdi, (Nurr) hanıma neden gitmediğini sorardı. Sonra bir tartışma daha. Kadının her
 şeye dini çözüm bulmaya çalışmasından, bütün meseleleri izah ederken ahireti hatırlatmaya
 çalışmasından sıkılmıştı. *Jûmre değiştirmeliyim* diye arada aklına gelen düşünceleri daha çok
@@ -94,7 +94,7 @@ Saat bir araç çağırmıştı. *Yürüsem olmaz mı* dedi. *Yetişemezsin* ded
 mescidin kapısında bulduğunda yol boyu ne düşündüğünü sordu kendine, cevap veremedi. Kafası donmuş,
 dili tutulmuş gibiydi. 
 
-Caminin kapısından girip üst kattaki asansörle kadınlar mahfiline çıkarken *onu* gördü. (Ressul)le dün kavga
+Caminin kapısından girip üst kattaki asansörle kadınlar mahfiline çıkarken *onu* gördü. (R)le dün kavga
 etmesine sebep olan kadın. 
 
 Kendisinden genç görünüyor. *Demek beni senin için terkedecek.*  Yanında biri vardı, yaklaştı. Onu
@@ -112,7 +112,7 @@ kılmak istemiyorum* diye söylendi. Saatine *bana bir araç çağır* dedi, *ev
 Tek kişilik araba geldiğinde ezan da okunmaya başlamıştı. Yanındakilere iyi olduğunu söyleyerek
 bindi. Onların da namazlarına mani olmayayım. 
 
-Eve döndüğünde yatağına uzandı. (Ressul) birazdan camiden çıkar ve o şıllık ona her şeyi anlatır.
+Eve döndüğünde yatağına uzandı. (R) birazdan camiden çıkar ve o şıllık ona her şeyi anlatır.
 Artık bu evden ayrılmalıyım. Bu ev onların da evi olmamalı. Benim de evim olmamalı. Kendimi
 bırakmamalıyım. 
 
@@ -242,7 +242,74 @@ olaydaki en ufak ayrıntıları bile değerlendiriyorlar* dedi. (Xadice) *demek 
 ha* diye düşünüyordu o sıra. *Doğrudur* demekle yetindi. 
 
 Geldiği araca benzeyen bir araca bindi. Polisler araca evin adresini söyledi. Giderken tüm bu olayı
-(Ressul)e nasıl anlatacağını düşünüyordu. Anlattığında tepkisi ne olacaktı ve terketmeye karar
+(R)e nasıl anlatacağını düşünüyordu. Anlattığında tepkisi ne olacaktı ve terketmeye karar
 verirse nasıl başa çıkacaktı. İki aylık maaşını ceza ve tazminata ödeyecekti. Yeni bir ev bulup
 ayrılabilirdi ama okuldan da ayrılması gerekirdi. Okuldan ayrılırsa iş bulması zordu, sosyoloji ve
 insan bilimleri öğretmenliğini talep eden fazla kimse yoktu. 
+
+--- 
+
+Yol bunları düşünürken geçip gitti. Eve geldiğini araç kendisiyle konuşmaya başlayınca farketti.
+(R) eve gelmiş olmalıydı. Kapı açılıp kendini içeri aldığında karşısında duruyordu. Yüzü asık
+değildi. Belki henüz duymamıştı. 
+
+-- Söyledi mi? dedi. 
+
+(R) tereddüt eder gibi oldu. Bilmezden gelip ağzından bir şeyler duymak isteyecekti herhalde. --
+Duymaman mümkün mü? dedi sinirle gülerek. -- Hadi git de sevgilini yatıştır. 
+
+-- Jûmre hakimi aradı. Ondan duydum. 
+
+Nasıl davranması gerektiğine karar veremeyen (R) suratı bu. Biliyorum. Yıllardır yanında yattığım
+adamı bu kadar tanıyorum. Söylediklerinin aleyhinde delil olarak kullanılacağını bile (R) suratı. 
+
+-- Ne dedi? Onlar da yargılayacaklarmış. Robotlar bana 6000 Sester kitledi. Onlar ne yapacak
+bakalım. 
+
+-- Bir şey yapmayı düşünmüyorlarmış. İstersen yardımcı olacaklarmış. Daha çok bana kızmak için
+aradı. 
+
+-- Neden? Jûmre yasalarına göre gayet haklı olduğunu söylemedi mi? Hepiniz birbirinizi tutuyorsunuz,
+aynı hormonlarla zehirlenmiş erkekler sizi. Sesi giderek yükseliyordu. Azarlamaya dönüşeceğini
+farkedince nefesini saymaya başladı. 
+
+-- Seninle o konuyu konuşmam lazım ama bugün uygun bir gün değil. 
+
+-- Hayır, gayet uygun. Erteleyeceksin de ne olacak? Benimle konuşacağına göre ayrılmaya karar
+verdin. Onu mu söyleyeceksin? O fahişeye gidip konuşmadığına göre ve benim de onu asla kabul
+etmeyeceğime ikna olduğuna göre... Ne konuşacaksın?
+
+-- (Xadice)! 
+
+-- Evet, konuş bakalım sayın sözlerinde çok duran (R) efendi. *Ben jûmremin verdiği hakları kullanan
+bir erkek değilim, ben gözü dışarıda bir erkek değilim, ilk defa birine bu kadar tutuldum, yoksa bir
+defa bile evlenmeyi düşünmezdim.* Kaydetseymişim keşke. O şıllığa kim olduğunu göstermek için iyi
+olurdu. 
+
+-- (Xadice), lütfen. 
+
+-- Bu evden gitmeni istiyorum. Madem boşanacaksın, bari kavga etmeyelim di mi?
+
+Gözlerinden çıkan ateş aksini söylüyordu. (Xadice) kavga etmek istiyor ve (R)nin kaçıp kaçmayacağına
+bakıyordu. 
+
+Sesini zorlayarak yükseltir gibi 
+
+-- Gidiyorum ama gece buraya döneceğim dedi. Sırf sen biraz daha sakinleş diye gidiyorum. 
+
+Kapıdan çıktı. O çıktıktan sonra (Xadice) koltuğa büzüştü. Yanında kimse olmadığını çok derinden
+hissetmişti. Elini yüzüne kapatıp ağlamaya başladı. Hiçbir şeyin uyandırmayacağı bir uykuya dalmak
+istiyordu. 
+
+Bir süre iç çekerek, bu adama güvendiği zamanları hatırlayıp daha da acı duyarak, etrafında onu
+hatırlatan nesnelere öfkelenerek ama kıpırdamadan, olduğu yerde yıkılmış ve yenilmiş bir halde
+oturdu. Düşündükçe sırtından bir ürperti geliyor, kafasının arkasından dolaşıp burnuna iniyor ve o
+sızıyla yeniden ağlamaya başlıyordu. Resimler, hatıralar, dokunuşlar. Robotların da, erkeklerin de
+Allah belasını versin. 
+
+Ağlayıp artık ağlayacak takati kalmadığında ne yapacağını düşünmeye başladı. Akşam burada kalmak
+istemiyordu, bir otel mi bulsa ve ekspres bir taşınma mı ayarlasa daha iyi olurdu? 
+
+⛔
+
+🚍🧀✉⛹🍨🌥🌔🌳🌝⤴
