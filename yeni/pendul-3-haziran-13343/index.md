@@ -2,9 +2,9 @@
 title: Pendul 3 Haziran
 date:  2020-06-04 00:07:05+0300
 expiryDate: 
-lastmod: 
+lastmod: 2021-01-03 13:19:22+0300
 dp: 14934
-draft: true
+draft: false
 featured_image: /images/header-17.jpg
 images: 
 type: 
@@ -27,14 +27,14 @@ Konuyu daha da anlaşılmaz yapmak için uğraşıyor gibisin.
 
 Benlikle mücadele eden de bir benlik olmalı değil mi? Oturup kendi benliğinden kurtulmaya
 çalışıyorsun ama kurtulmaya çalışan kim? Küçük benliğinden kurtulmak için daha müphem ama daha
-sızıcı, belli etmeden her yere bulaşan *başka bir benlik* inşa etmek gerekir sanıyorum. 
+sızıcı, belli etmeden her yere bulaşan *başka bir benlik* inşa etmek gerekir. 
 
 Böyle söyleyince biraz daha anladım. *Kendi benliğinden kurtulmak isteyen benlik* diyorsun.
 Kurtulmak isteyen de bir *benlik* neticede, bu *büyük benlik* oluyor, kurtulunmaya çalışılan da
 *küçük benlik.*
 
 Evet. Bir benliği bırakıp, başka bir benliğe geçmek mi aydınlanmak oluyor? Burada bir pazarlama
-hilesi var gibi geliyor bana hep. Neticede hepimiz, Boddhisatva da dahil, yiyip içen, uyuyan ve konuşan
+hilesi var gibi geliyor bana. Neticede hepimiz, Boddhisatva da dahil, yiyip içen, uyuyan ve konuşan
 insanlarız. Zamanın içinde varız. Zamanın içinde varolduğumuzun idrakine *ben* diyoruz zaten.
 Zamanı aşmak mümkün olmadığına göre *benliği* aşmak da mümkün değil. Belki unutabilir insan, belki
 kendi *benlik* hissiyatını, şuurun ağırlığını bir kenara bırakmayı öğrenebilir. Kendi şuurdışıyla
@@ -65,4 +65,4 @@ ayrı bir yerde *var etmek* elimizde değil. O halde benlik hissi de bu biyoloji
 ama bu yan etkinin yan etki olduğunu kabul eder ve benlik duygusunun, *duygulardan bir duygu*
 olduğuna alışırsak *ben* dediğimiz varlık için de daha iyisini yapmış oluruz. 
 
-[podcast]: 
+[podcast]: https://beherenownetwork.com/joseph-goldstein-insight-hour-ep-85-reflections-on-non-self/

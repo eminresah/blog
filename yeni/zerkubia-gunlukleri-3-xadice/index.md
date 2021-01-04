@@ -1,3 +1,22 @@
+---
+title: Zerkubia Günlükleri - 3 - (Xadice)
+author: Emin Reşah
+description: 
+date:  2021-01-01 14:33:24+0300
+expiryDate: 
+publishDate: 
+lastmod: 
+dp: 15145
+draft: true
+featured_image: /images/header-72.jpg
+images: 
+type: 
+layout: 
+markup: md
+weight: 
+---
+
+
 
 (Xadice) köpüklü kahvesinden ekşi bir yudum daha aldığında kafeinin aşırı geldiğini sızlayan
 dişinden anladı. Bırakması
@@ -310,6 +329,3 @@ Allah belasını versin.
 Ağlayıp artık ağlayacak takati kalmadığında ne yapacağını düşünmeye başladı. Akşam burada kalmak
 istemiyordu, bir otel mi bulsa ve ekspres bir taşınma mı ayarlasa daha iyi olurdu? 
 
-⛔
-
-🚍🧀✉⛹🍨🌥🌔🌳🌝⤴
