@@ -163,7 +163,7 @@ varmış. Kavgaya da Sekizinci Adliye Dairesi.
 -- Evet. Kavgayı çözümleme konusunda hayli iyilerdir. Her yumruğun şiddetine göre ayrı ceza
 veriyorlar artık. Kumral olan işini zevkle yapıyordu. 
 
--- Anladım dedi (Xadice.) Ne zaman gitmeliyim. 
+-- Anladım dedi (Xadice). Ne zaman gitmeliyim. 
 
 -- Bugün giderseniz ceza indirimi alabilirsiniz. Hatta beraber gidebiliriz. Jûmre mahkemesini bilmiyoruz,
 onun takvimi farklı olabiliyor. 
@@ -328,4 +328,29 @@ Allah belasını versin.
 
 Ağlayıp artık ağlayacak takati kalmadığında ne yapacağını düşünmeye başladı. Akşam burada kalmak
 istemiyordu, bir otel mi bulsa ve ekspres bir taşınma mı ayarlasa daha iyi olurdu? 
+
+---
+
+Yalnızlık ve çaresizlik duygusuyla beraber bir de açlık hissetmeye başladı. Açlık kendini iyiden iyiye belli etmeye başladığında çıkıp karar vermesine de yardımcı oldu. Önce karnını doyurmak için bir yere gidecek, sonra kalacak bir yer arayacaktı. Saatine *bana yiyecek bir yerler bulur musun, yürüme mesafesi olsun* dedi. 
+
+*Sandviç satan bir yer var, yeni açılmış, ratingleri iyi görünüyor* dedi saati. *Tamam, yürürsem biraz ferahlarım değil mi?* 
+
+*Müzik de açayım mı?* dedi saat. *Klasiklerden bir şey olur, günü unutturacak bir şey* dedi (Xadice)
+
+Saat bir Bizans ilahisi açtı. *Guilty pleasure* diye düşündü. Yüzüne bir gülümseme geldi. Bunları dinlediği için (R) kızmıştı. *Üzerinden binlerce sene geçmiş gavurların ilahisini neden dinliyorsun? Caiz mi?* demişti. Kimseye sormamıştı ortodoks ilahilerinin caiz olup olmadığını, sorsa herhalde değil derlerdi, sorunca hiçbir şeye *caiz* demiyorlardı. 
+
+Saati aralarda kulağına ne kadar yürüyeceğini söyledi. Kafasındaki düşünceleri sıraya koymasına da yardımcı oldu. Yürürken bütün dertleri küçülüyordu, kendini büyütmeden, olayları büyütmeden, hayatı olduğundan fazla büyütmeden yürümeye devam etti. Acıktığını iyiden iyiye hissetmese biraz daha yürüyecekti. Sandviç kafe büyük bir parkın yakınındaydı ve güneş batmadan orada bir iki tur gezmek iyi gelebilirdi. Bunu yedikten sonra yapmaya karar verdi. 
+
+Dükkanda yanyana oturan iki kişi daha vardı. Fazla dikkatli bakmak ayıp olacağı için ikisinin de erkek olduğuna dikkat etmemiş gibi yaptı ve arkasını döndü. Şehrin bu taraflarında pek görülmeyen bir manzara ama değişiyor demek ki veya gezmeye gelmişlerdir. 
+
+*Helal beykınlı* bir sandviç söyledi. Pastırma demek yerine beykın yazınca başka bir şey demiş oluyorsunuz, helal beykın deyince de daha başka bir şey. Helal sertifikasını nereden aldıklarına bakmadı, kendi jûmresi aynı mutfakta domuz eti varsa helal kabul etmiyordu ama muhtemelen daha liberal bir yerden almışlardı. *Helal beykının haram beykından tad farkı var mı acaba? Varsa helal beykın aslında beykın sayılmaz, yoksa da haram ve helal arasındaki fark sadece isimlendirme mi oluyor?* 
+
+Bu soruları zaman zaman düşünürdü. Modern zamanlarda İslam'ın emir ve yasakları ne anlama geliyor? Hepimiz helal beykın peşindeydik, helal faiz, helal şarap, helal aldatma... 
+
+Aklına yine *(R) ve onun fahişesi* isimli tiradı geldi. Bu erkeklerin hepsi mi böyleydi. Zararsız olacağını düşündüğü, güvenilir gördüğü bir adamdan böyle bir kazık yemiş olmak içine sinmiyordu. Asıl sebebin *o kadın* olduğunu da biliyordu. *Benden yaşlı biri olsaydı veya çirkin, o zaman bu kadar dert eder miydim?* 
+
+Erkekler çok eşliliği savunurken peygamber efendimizden örnekler verirdi. Onun bunu nasıl politik ve insani bir amaçla yaptığını, asıl gayesinin cinsellik olmadığını, kadınlar için bir şemsiye olarak evlendiğini... 
+
+Kulaklarındaki müzik değişti o an. Adını bilmediği bir klasik gitar konçertosu. Düşünceleri de daha akıcı hale geldi. 
+
 
