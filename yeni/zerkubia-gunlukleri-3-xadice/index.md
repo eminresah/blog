@@ -435,6 +435,39 @@ Sandviçi geldi. *Yanında milkshake ister miydiniz* dedi robot. *Helal çikolat
 
 *Bazı müslüman jûmreler şekerin alkol gibi yasaklanması gerektiğini söylüyorlar. Onların tüketmesi için şekersiz, tatlandırıcılı çikolata yapmışlar* dedi saati. *Aaa* diye şaşırdı. *Çikolatanın haram sayılabileceğini hiç düşünmemiştim.*
 
+---
 
+Bunları düşünürken içeriye çekik gözlü bir kız girdi. Camgöbeği renginde bir şalla örtünmüş, kırmızı bibere benzeyen bir çanta tutuyordu. (Xadice)ye bir yerlerden tanıdık geldi. Kız karşısındaki masaya oturduğunda gözgöze geldiler. Kıza gülümsedi. Kız da elini kaldırıp *selam* dedi. -- Bir yerlerden tanışıyor muyuz? dedi (Xadice). -- Sanmam ama tanışabiliriz dedi kız. -- Sizi bir yerde gördüğümü sanıyorum, jûmre toplantılarında olabilir mi? -- Ben burada değilim (Sevar)daki bir jûmredeyim -- Hmm, gelmiştim oraya sanırım ama yıllar oldu tabii. 
+
+Kız kalkıp (Xadice)nin masasına geldi. -- Böyle daha kolay olur dedi gülümseyerek. -- Ben (Xadice) -- Ben (Rendeez) -- Memleket de (Sevar) mı? -- Hayır, anlaşılmıyor mu? dedi kız elini gözlerinin kenarına götürerek. (Xadice) güldü. -- (Jabonia)? -- Hayır, (Kantun). -- Haaa diye uzun bir nida çıktı (Xadice)nin ağzından. O noktaya kadar *sevimli bir kız* gören gözü, bir anda kuşkuya düştü. *Diğer taraftaki birinin burada işi ne?* 
+
+Kız da onun değişen yüzünden ne düşündüğünü anlamış gibiydi. *Yıllar önce geldim. Dokuz yıl önce arkadaşlarımla kaçtık. Burada müslüman oldum* dedi. Hikaye (Xadice)nin ilgisini çekmişti. Bir yandan ısırdığı sandviçi çiğnerken, bir yandan kıza bakıyordu. 
+
+-- Oradaki durum çok farklı. Devlet mi robotları kontrol ediyor, robotlar mı devleti bilemiyoruz. Her şey çok karanlık, çok tehlikeli.
+
+-- Burada da işler o kadar iyi değil diyecek oldu ama bunu nezaketen söylediğini kendi de biliyordu. Büyük savaştan beri *dünyanın o tarafı* düzene girmemişti. Önce (Çin) parçalanmış, çatışmalar diğer ülkelere sıçramıştı. Büyük Savaştan sonra kalan nükleer silahları birbirleri üzerinde kullanmaktan çekinmiyorlardı. (Zerkubia) ve dünyanın pek çok ülkesinde *silahlı robotlar* sadece diğer robotlara saldırmak için kullanılabilirdi ama (Çin)de robotların insanları da öldürebildiği söyleniyordu. Kimin kimi nasıl yönettiğini bilen yoktu. Bazı şehirlere savaştan sonra girilememişti ve radyasyona alışmış akreplerden başka bir canlının yaşamadığı söyleniyordu. 
+
+Kız gelen robottan bir sandviç, bir de limonata istedi. -- Eğer birkaç yıl daha kalsaydım ölecektim, eminim. Beni insan üretim çiftliklerine satmak istiyorlardı. 
+
+-- İnsan üretim çiftlikleri mi var?
+
+-- Evet. Nüfus artsın diye, her yıl doğum yaptığınız çiftlikler var. Ailemde ikizler var ve bu yüzden ikiz doğurma ihtimalim vardı. Bu da beni çiftlikler için gözde biri haline getiriyor. 
+
+-- Nüfusu neden artırmaya çalışıyorlar? Yeterince robot yok mu?
+
+-- Daha ucuz çünkü. İnsanlar yani. 10 yıl bakıyorlar ve savaşa gönderiyorlar. 
+
+-- 10 yaşında?
+
+-- 10-12-14 yaşında. Robotları üretmek zor, tamir edecek kimse bulmak zor. Kadın ve yiyecek varsa insanları yeniden üretebiliyorlar ama robotlar daha zor. 
+
+-- Neredeyse dünyanın tüm üretimini yapan bir ülkeymiş orası. 
+
+-- (Büyük Savaş)tan önce, evet. İç savaşın başlarında da bu kadar değilmiş ama bir savaşı yıllar yıllar boyu kimse kazanamadığında böyle oluyor sanırım. 
+
+
+
+
+🀄🌶🍐🏌✋🍶⚾🗂🚆♑
 
 
