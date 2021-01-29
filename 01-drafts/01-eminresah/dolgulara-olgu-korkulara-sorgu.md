@@ -1,1 +1,0 @@
-Dolgularınıza olgu, korkularınıza sorgu muamelesi yapmayınız.
