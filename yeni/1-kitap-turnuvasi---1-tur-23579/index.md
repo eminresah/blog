@@ -5,6 +5,13 @@ date:  2020-06-10 02:23:03+0300
 expiryDate:
 dp: 14940
 featured_image: /images/header-20.jpg
+categories: 
+    - kitap turnuvası
+tags: 
+    - okuma
+    - kitap
+    - turnuva
+    - değerlendirme
 ---
 
 Okunacak malzemenin çokluğundan strese girdim. Kendimi kitap listelerine bakıp *az sonra ölecekmiş*
@@ -29,19 +36,20 @@ müteakip turnuvalarda eklerim.
 
 Kurallar şöyle: 
 
-- Hangi kitapların bu turnuvaya katılacağında ve kitap mukayeselerinde tek ölçü benim muhteşem ve mübarek keyfim. Suç ve Ceza ile Cin Ali'nin
-    Boktan Self Help Kitabı karşı
-    karşıya gelir de, canım o sıra hiç varoluş sıkıntısı çekmek istemiyor olursa, Cin Ali
-    kazanabilir. Kimseye ne kadar iyi bir okur ve derin meselelerle meşgul olduğumu ispat gayretinde değilim. 
+- Hangi kitapların bu turnuvaya katılacağında ve kitap mukayeselerinde tek ölçü
+  benim muhteşem ve mübarek keyfim. *Suç ve Ceza* ile *Cin Ali'nin Boktan Self
+  Help Kitabı* karşı karşıya gelir de, canım o sıra hiç varoluş sıkıntısı
+  çekmek istemiyor olursa, Cin Ali kazanabilir. Kimseye ne kadar iyi bir okur
+  ve derin meselelerle meşgul olduğumu ispat gayretinde değilim. 
 
-- Her turda kitaplar rastgele birbiriyle eşleşecek. Başta bir fikstür belirlemiyorum. Okumak yerine
-    grafikler çizip, programlar yapmak için güzel bir fırsat ama kitaplara bakmak daha efektif
-    görünüyor. 
+- Her turda kitaplar rastgele birbiriyle eşleşecek. Başta bir fikstür
+  belirlemiyorum. Okumak yerine grafikler çizip, programlar yapmak için güzel
+  bir fırsat ama kitaplara bakmak daha efektif görünüyor. 
 
-- İlk turda kitaplara en fazla 5 dakika, ikinci turda 15, üçüncü turda 30, dördüncü turda 60 dakika
-    ayıracağım. 5. tura gelmiş bir kitaba yaklaşık 2 saat harcamış olacağım ve ondan sonra ne kadar
-    daha gerekiyorsa o kadar okuyabilirim. Beşinci turdaki kitaplar hakkında yazı yazabilmeyi
-    umuyorum. 
+- İlk turda kitaplara en fazla 5 dakika, ikinci turda 15, üçüncü turda 30,
+  dördüncü turda 60 dakika ayıracağım. 5. tura gelmiş bir kitaba yaklaşık 2
+  saat harcamış olacağım ve ondan sonra ne kadar daha gerekiyorsa o kadar
+  okuyabilirim. Beşinci turdaki kitaplar hakkında yazı yazabilmeyi umuyorum. 
 
 
 Kitap listesi ve ilk tur müsabakaları şöyle: 

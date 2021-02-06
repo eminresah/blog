@@ -3,9 +3,16 @@ title: "Affaniye - Okumak Üzerine"
 date: 2020-02-20 09:18:09
 dp: 14829
 featured_image: "/images/header-105.jpg"
-images: ["/images/header-105.jpg"]
 published: true
-tags: []
+categories:
+    - Affaniye
+    - Mektuplar
+tags: 
+    - okuma
+    - kitap
+    - modernlik
+    - kurmaca
+    - telif hakkı
 ---
 
 

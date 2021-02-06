@@ -3,12 +3,19 @@ title: "Afrin Gecesi Murakabesi"
 date: 2018-01-21 00:54:23
 dp: 14069
 featured_image: "/images/header-58.jpg"
-images: ["/images/header-58.jpg"]
 published: true
-tags: []
+categories:
+    - Murakabe
+    - Pendul
+    - Siyaset
+tags: 
+    - Kürtler
+    - Türkler
+    - savaş
+    - milliyetçilik
+    - devlet
+    - İslamcılık
 ---
-
-
 
 Afrin operasyonu başladı. Bu konuya bakışın son zamanlarda yazdıklarına bakınca,
 biraz tuhaf geldi. Ben seni Kürtlerin devlet kurmasına karşı değil sanıyordum,
