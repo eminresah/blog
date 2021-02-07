@@ -3,8 +3,18 @@ title: "13955"
 date: 2017-09-28 23:55:38
 dp: 13955
 featured_image: "/images/header-55.jpg"
-images: ["/images/header-55.jpg"]
-tags: []
+tags: 
+    - A&F
+    - okul
+    - eğitim
+    - oyun
+    - boşanma
+    - tanrı
+    - devlet
+    - medya
+    - sosyal medya
+    - ölüm
+    - yazmak
 ---
 
 
@@ -12,26 +22,27 @@ tags: []
 A- bana gülerek *kötü bir babasın* diyor. Çünkü ona bunu ben söyledim. Dün
 abisi ve halasıyla beraber okul asıp İstanbul'a gittik. Babanne görmeye. 
 
-Okuldan nasıl sıkıldığımı hatırlıyorum çocukken. A- ve F- benimle aynı
-değil, gittikleri okullar da aynı değil, öğretmenleri de aynı değil. Yine de
-onların okuldan sıkılmalarına, herhalde zamanında kendim çare bulamadığım için,
-bir teselli bulamıyorum.
+Okuldan nasıl sıkıldığımı hatırlıyorum çocukken. A- ve F- benimle aynı değil,
+gittikleri okullar da aynı değil, öğretmenleri de aynı değil. Yine de onların
+okuldan sıkılmalarına, herhalde zamanında kendim çare bulamadığım için, bir
+teselli bulamıyorum.
 
 Bunun *iyi baba* olmakla ne kadar ilgisi var, ciddi düşünürsek, bilmiyorum. Hiç
 okula göndermesem ve eğitimleriyle kendim ilgilensem, kendim okutsam, günde iki
-saat ders yapsam ikisiyle de, belki daha faydalı olur birkaç sene ama bu fikrimi
-ilk onlar üzerinde denemek istemiyorum. Geleceklerini riske atmak oluyor. 
+saat ders yapsam ikisiyle de, belki daha faydalı olur birkaç sene ama bu
+fikrimi ilk onlar üzerinde denemek istemiyorum. Geleceklerini riske atmak
+oluyor. 
 
 Annebabaların düşünce şekli de bu: İnsan kendisi için aldığı riskleri çocuğu
 için alamıyor. Onun için muhafazakarlaşıyor insanlar. Onlara sorma imkanım da
 yok, 6 yaşındaki çocuğa *seni okula göndermesem, sence daha iyi olur mu?*
 diyemiyorum. Bunu ben bilmiyorum, o da bilmiyor. 
 
-Ancak *okul mecburidir, hayatın başka yolu yoktur* kafası da değil bu. Mümkündür
-muhtemelen, para kazanmak da, ev kurup idare etmek de mümkündür okulsuz. Ancak
-seneler sonra çocuğunun *beni okula göndersen daha iyi olurdu* demesi daha kötü
-bir risk. O riski alamadığım için *iyi baba* olmaya çalışıyorum, arada bir kötü
-taraflarımı hatırlatıp, *çılgınlık* yapsam da.
+Ancak *okul mecburidir, hayatın başka yolu yoktur* kafası da değil bu.
+Mümkündür muhtemelen, para kazanmak da, ev kurup idare etmek de mümkündür
+okulsuz. Ancak seneler sonra çocuğunun *beni okula göndersen daha iyi olurdu*
+demesi daha kötü bir risk. O riski alamadığım için *iyi baba* olmaya
+çalışıyorum, arada bir kötü taraflarımı hatırlatıp, *çılgınlık* yapsam da.
 
 Birer merdiven kafalı memura dönüşmesinler diye. 
 
@@ -68,21 +79,24 @@ bilmiyorum ama üzerimden silindir geçmiş gibi oluyorum.
 yaparken vazıhen yapmıyor, adını koymuyor, gazeteye *tanrı arıyorum* diye ilan
 vermiyor ama bir şekilde *her şeyi açıklayan* ve *her şeye muktedir* bir cisim,
 bir merkez arıyor ve buluyor. Adı herhangi bir şey olabilir, devlet olabilir,
-*reis* olabilir, *ulu önder* olabilir veyahut bunun gibi başka lakaplar, isimler
-olabilir ama insanlar arasında, somut bir tanrıdır bu.
+*reis* olabilir, *ulu önder* olabilir veyahut bunun gibi başka lakaplar,
+isimler olabilir ama insanlar arasında, somut bir tanrıdır bu.
 
 Bunun bendeki yansıması şu: Bu küçük tanrılara baktığımda, *daha iyisini
-bulabiliriz* diyorum. Devleti tanrılaştıracaksak, bizimkinden daha iyi devletler
-var, *reisi* tanrılaştıracaksak, ondan daha iyi liderler var, somut herhangi bir
-nesneye atfedilen tanrılık, mukayeseyle bakacaksak kaybolup gidecektir.
+bulabiliriz* diyorum. Devleti tanrılaştıracaksak, bizimkinden daha iyi
+devletler var, *reisi* tanrılaştıracaksak, ondan daha iyi liderler var, somut
+herhangi bir nesneye atfedilen tanrılık, mukayeseyle bakacaksak kaybolup
+gidecektir.
 
 Tanrı fikri de aslında bu *yakalanamayan hedef* demek. Bir yandan sadece
-*olmadığıyla tarif* edebiliyoruz, ne olduğunu değil ama ne olmadığını biliyoruz.
-Ancak bir yandan da o kadar kolay değil, ne olmadığı kimsenin işine yaramıyor
-aslında, ne olduğu bizi ilgilendiriyor ve Tanrı'nın tanımı devamlı *gelişiyor.*
+*olmadığıyla tarif* edebiliyoruz, ne olduğunu değil ama ne olmadığını
+biliyoruz.  Ancak bir yandan da o kadar kolay değil, ne olmadığı kimsenin işine
+yaramıyor aslında, ne olduğu bizi ilgilendiriyor ve Tanrı'nın tanımı devamlı
+*gelişiyor.*
 
-Müphemleşerek gelişiyor. Daha soyut, dokunulmaz, aşkın hale geldikçe, insanların
-ondan umdukları faydalar da azalıyor ve küçük tanrılar aramaya başlıyorlar.
+Müphemleşerek gelişiyor. Daha soyut, dokunulmaz, aşkın hale geldikçe,
+insanların ondan umdukları faydalar da azalıyor ve küçük tanrılar aramaya
+başlıyorlar.
 
 Demek ki bir denge lazım: Felsefecilerin soyut tanrısı, deva olamayacak kadar
 uzakta ve insanlar devayı somut bir takım küçük tanrılarda arıyor. Deva nerede?
@@ -103,12 +117,12 @@ Bir ihtimal oradan tanıştığınız biriyle normal hayatta da görüşüp, sos
 medyanın insanı nasıl insanlıktan çıkardığını konuşabilirsiniz. Ancak büyük
 ihtimalle bunu yine orada paylaşacaksınız.
 
-Çünkü kapitalizm'in üretim biçimlerini kalıcı olarak değiştirmesi gibi, sosyal
-medya da iletişim biçimini kalıcı olarak değiştirdi. Tabii ki ezeldem gelen
+Çünkü Kapitalizm'in üretim biçimlerini kalıcı olarak değiştirmesi gibi, sosyal
+medya da iletişim biçimini kalıcı olarak değiştirdi. Tabii ki ezelden gelen
 iletişim adetleri daha doyurucu, insan yaşadığını anlıyor ama sosyal medya da
 şeker gibi, bağımlılık yapıyor. İnsanlar şekerin zararlarından bahsetmeyi de
-seviyor ama şeker tüketimi genel olarak düşmüyor, sosyal medya da benzer bir
-ürün. Bol kalorili, tadı yoğun, bağımlılık yapıcı ve zararlı.
+seviyor ama şeker tüketimi azalmıyor, sosyal medya da benzer bir ürün. Bol
+kalorili, tadı yoğun, bağımlılık yapıcı ve zararlı.
 
 --------
 
