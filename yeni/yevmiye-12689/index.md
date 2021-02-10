@@ -1,38 +1,47 @@
 ---
-title: "Yevmiye - 12689"
+title: Yevmiye - 12689
 date: 2014-11-23 02:18:14 +0200
 dp: 12689
-tags: []
+tags: 
+    - Taiping İsyanı
+    - Çin
+    - Qing
+    - Hristiyanlık
+    - Bram Stoker
+    - Oscar Wilde
+    - Aeval
+    - Yarı tanrı
+    - Melek
+    - İbn Meymun
+    - Yahudilik
+    - Kudüs
+    - Tapınak
 ---
 
 Bugün neler öğrendiğime dairdir.
 
 --------------
 
-`Taiping isyanını
-öğrendim <http://en.wikipedia.org/wiki/Taiping_Rebellion>`__. Çin'de, 19
-yüzyılda, Qing hanedanı sırasında çıkan bu isyanı, devletin yaptığı
-bürokrasi sınavına 4. defa girip, yine *başarısız* olan bir Çinli
-çıkarmış. Çinli ama Hristiyan Çinli. Hatta kendini *İsa'nın küçük
-kardeşi* diye tanıtmış. 14 sene süren isyanın hedefi, bağımsız ve
-modernize bir *semavi krallık* kurmakmış.
-
---------------
+[Taiping isyanını öğrendim](http://en.wikipedia.org/wiki/Taiping_Rebellion).
+19 yüzyılda, Qing hanedanı sırasında çıkan bu isyanı devletin yaptığı
+bürokrasi sınavına 4. defa girip, yine *başarısız* olan biri çıkarmış.
+Çinli ama Hristiyan Çinli. Hatta kendini *İsa'nın küçük kardeşi* diye tanıtmış.
+14 sene süren isyanın hedefi, bağımsız ve modernize bir *semavi krallık*
+kurmakmış.
 
 Benim de canım bazen bürokrasiden illallah edip isyan etmek istiyor.
 
 --------------
 
-`Bram Stoker'ın <http://tr.wikipedia.org/wiki/Bram_Stoker>`__, `Henry
-Irving <http://tr.wikipedia.org/wiki/Henry_Irving>`__'in asistanı
-olduğunu ve `Oscar Wilde <http://tr.wikipedia.org/wiki/Oscar_Wilde>`__'ı
-çevresine tanıtan kişi olduğunu öğrendim. Edebiyat ve yayıncılık
-işlerinin *yetenekliler kabilesi* tarafından yürütüldüğüne dair fikrim
-kuvvetlendi.
+[Bram Stoker'ın](http://tr.wikipedia.org/wiki/Bram_Stoker) [Henry
+Irving](http://tr.wikipedia.org/wiki/Henry_Irving)'in asistanı olduğunu ve
+[Oscar Wilde](http://tr.wikipedia.org/wiki/Oscar_Wilde)'ı çevresine tanıtan
+kişi olduğunu öğrendim. Edebiyat ve yayıncılık işlerinin *yetenekliler
+kabilesi* tarafından yürütüldüğüne dair fikrim kuvvetlendi.
 
 --------------
 
-*Aeval*, başlangıcı olan ama sonu olmayan zamanı anlatmak için
+*Aeval* başlangıcı olan ama sonu olmayan zamanı anlatmak için
 kullanılıyormuş. *Meleklerin zamanı.* Biz her şeyle beraber meleklerin
 de öleceğini, hatta Azrail'in de can vereceğine inanıyoruz. Bizde
 ebediyet sadece Allah'a mahsus. Hristiyan teolojisinde ne çok yarı tanrı
