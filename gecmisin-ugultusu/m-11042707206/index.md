@@ -1,6 +1,13 @@
 ---
 title: Gözlerini Kapat
+author: Emin Reşah
 date: 2011-10-05
+tags: 
+    - müslüman
+    - İslam
+    - sahne
+    - tarih
+    - vazife
 ---
 
 Zaman zaman, belki günde iki defa yapacağım bunu: Bir soru soracağım ve
@@ -11,27 +18,27 @@ aklıma ne gelirse yazacağım. Düşünecek düzeltecek zaman yok.
 Müslüman, garip bir tasavvur. Böyle bir insan kaldı mı, kaldıysa nerede,
 nasıl düşünüyor, nasıl yiyor bilmiyorum. Biz sadece, kendimiz de dahil
 bir karikatür ne kadar aslını anlatırsa, o kadar, ana hatlarıyla
-müslümanız. Müslümanlığın ne olduğunu da bu karikatürlere bakıp anlamak
+Müslümanız. Müslümanlığın ne olduğunu da bu karikatürlere bakıp anlamak
 zorunda kalıyoruz, herkes karikatür olunca, gerçek karikatüre dönüşmüş
 oluyor.
 
-Asılla olan münasebetimiz derin değil. Şahsen müslümanların ne
-olacağından çok, ne olduğuna bakmak taraftarıyım, nasıl oldu da bu hale
-geldi, bu tersinden mucize hali, bu çöküş nasıl yaşandı. Neredeyse panda
-sayısınca kalmış müslümanlar nerede, neden etrafta sadece bir takım
+Asılla olan münasebetimiz derin değil. Şahsen Müslümanların ne
+olacağından çok, ne olduğuna bakmak taraftarıyım. Nasıl oldu da bu hale
+geldi, bu tersinden mucize hali, bu çöküş nasıl yaşandı? Neredeyse panda
+sayısınca kalmış Müslümanlar nerede, neden etrafta sadece bir takım
 silüetler var ve bu silüetler ne zamana kadar bize yetecek?
 
-Bittiğini düşündüğüm çok oluyor, İslam sahneye çıktı, oyununu oynadı,
+Bittiğini düşündüğüm çok oluyor. İslam sahneye çıktı, oyununu oynadı,
 rolü bitti ve gitti. Arkasından bakan bizim gibiler, rolü hoşumuza
-gittiği için onun oraya gelmesini tekrar umut ediyoruz, yönetmenin bu
-rolü bu kadarda bırakmayacağını temenni ediyoruz, ancak belki de,
+gittiği için onun oraya gelmesini tekrar umut ediyoruz. Yönetmenin bu
+rolü bu kadarda bırakmayacağını temenni ediyoruz. Ancak belki de,
 kuvvetli bir belki de, bu ısrarımız yanlış. İslam, hükmüne düşeni
-tamamlamış ve gitmiş olabilir, mevzu belki de bu kadardır, abartmanın
+tamamlamış ve gitmiş olabilir. Mevzu belki de bu kadardır, abartmanın
 alemi yok.
 
 Ne demek efendim, işte Arap baharı, Türk yazı falan diyecekler vardır;
-desinler, velakin müslümanların müslümanlıkta pek ileri gitmedikleri
-aşikar, daha çok paraları olabilir ama artık daha yapay bir dünyanın
+desinler, velakin Müslümanların Müslümanlıkta pek ileri gitmedikleri
+aşikar. Daha çok paraları olabilir ama artık daha yapay bir dünyanın
 kölesi bunlar.
 
 Çocukluğumda seyrettiğim bir skeçte, adamın biri put niyetine tapılan
