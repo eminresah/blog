@@ -3,9 +3,16 @@ title: "A- için Mektup"
 date: 2018-10-24 23:54:39
 dp: 14346
 featured_image: "/images/header-35.jpg"
-images: ["/images/header-35.jpg"]
 published: true
-tags: []
+categories:
+    - Mektup
+    - Kişisel
+tags: 
+    - asudemusterihol
+    - ego
+    - benlik
+    - iyilik
+    - kendim
 ---
 
 

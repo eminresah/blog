@@ -463,9 +463,63 @@ Kız gelen robottan bir sandviç, bir de limonata istedi. -- Eğer birkaç yıl 
 
 -- Neredeyse dünyanın tüm üretimini yapan bir ülkeymiş orası. 
 
--- (Büyük Savaş)tan önce, evet. İç savaşın başlarında da bu kadar değilmiş ama bir savaşı yıllar yıllar boyu kimse kazanamadığında böyle oluyor sanırım. 
+-- (Büyük Savaş)tan önce, evet. İç savaşın başlarında da bu kadar değilmiş ama bir savaşı yıllar yıllar boyu kimse kazanamadığında böyle oluyor. 
 
+(Xadice) sustu. Kızın gözlerindeki korkuyu görünce konuyu değiştirmek istemişti ama aklını (Çin) ve onun insan çiftliklerinden koparamıyordu. 
 
+-- Limonata güzelmiş dedi kız. Konuyu değiştirmeye yardım etmeye çalışıyordu. 
+
+-- Burası yeni açıldı galiba, ben de ilk defa geliyorum dedi (Xadice). Nerede kalıyorsun?
+
+-- Evim (Sevar)da, iş bulduğum zamanlar bu taraflara geliyorum. 
+
+-- Ne gibi işler?
+
+-- Yaşlılarla golf oynamak mesela. Şimdiki işim bu. Gülüyordu. 
+
+-- Spor arkadaşlığı mı yapıyorsun?
+
+-- Onun gibi, yalnız insanların evlerine gidip onları dışarı çıkarıyorum. Hikayeler anlatıyorum. Güzel hikayeler olmasına çalışıyorum. Yaşlıların her gün bir miktar insan görmeye ihtiyacı var. Ekranlar ve robotlar onlara yetmiyor.
+
+-- Kimseye yetmiyor aslında dedi (Xadice).
+
+-- Gençken biraz daha tolere edebiliyoruz. 80 yaşındaki bir insanın robotuyla paylaşayacağı bir şey olmuyor. 
+
+-- Güvenlik riski yok mu?
+
+-- 70 yaş üstünün mü? Beni genelde çocukları tutuyor. Biraz araştırma yapıyorum ama sosyal puana bakıyorum daha çok. 
+
+-- Yaşlıların sosyal puanları pek gerçekçi değil diyorlar. İletişimleri azaldığı için yüksek kalıyormuş. 
+
+-- Öyle bir iki durum oldu, çok yalnız, çok mutsuz insanlar var. O konuda biraz risk var ama bir yandan da işim onları mutlu etmek zaten. 
+
+-- Cinsel saldırı falan?
+
+-- Yok. Hiç olmadı. Şimdiki işim bir golf kulübünde. Yaşlıları evlerinden alıp beraber golf oynatıyorum. Hoşlarına gidiyor. Neredeyse bütün günümü alıyor. 
+
+-- Buraya daha sık geliyor olmalısın?
+
+-- Çok vaktim olmuyor aslında. Kulüpte yemek de veriyorlar. Bugün biraz değişiklik yapmak istedim. Gruptan birini kaybettik, doksanyedi yaşındaydı. Öğleyin onun cenazesi vardı.Grupça cenazeye gittik. Ben de kendime izin verdim. 
+
+-- Müslüman mıydı?
+
+-- Müslüman ama yakılmak istemiş. Sanırım yeni tür müslümanlardan. Kızın gülümsemesinden alaycılığı anlaşılıyordu. 
+
+-- Hmm, ilginç. Allah rahmet eylesin. Jûmresini biliyor musun?
+
+-- (Kehfî)lerdenim demişti kendisi için. Yedi uyurlar var ya, onlardanmış. Bugün cenazede gördüğüm kadarıyla iyi insanlara benziyorlardı. 
+
+-- Neden yakılmak istemiş acaba? 
+
+-- Kişisel bir talep de olabilir ama sanırım *ölüm uykudur ve uyanmak istemiyorsanız yakılmalısınız* gibi bir yorumları var. (Moofid) amca da kendisinin erdiğini düşünüyordu. BTekrar uyanmak istemediği ve dünya ile ilişkisini bitirdiği için yakılmak istemiş. 
+
+-- Haaa, ezoterik müslümanlardan. 
+
+-- Biraz öyle sanırım. Hakikate erince yakılmaları gerekiyormuş. Yoksa yeniden dünyaya döndürülüp, bir kere daha yaşayabilirlermiş. 
+
+-- Ashab-ı Kehfi böyle mi yorumlamışlar? (Xadice) gülmemesi gerektiğin bilen bir yüz ifadesiyle gülümsedi. 
+
+-- Bana da tuhaf geldi dedi kız. 
 
 
 🀄🌶🍐🏌✋🍶⚾🗂🚆♑

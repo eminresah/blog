@@ -5,6 +5,13 @@ date:  2021-01-27 02:05:21+0300
 expiryDate:
 dp: 
 featured_image: /images/header-35.jpg
+categories:
+    - Virgül
+tags:
+    - iş
+    - yazı
+    - ölçme
+    - ilerleme
 ---
 
 
