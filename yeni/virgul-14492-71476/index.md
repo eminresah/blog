@@ -3,60 +3,41 @@ title: "Virgül 20 Mart #2"
 date: 2019-03-20 12:47:19
 dp: 14492
 featured_image: "/images/header-130.jpg"
-images: ["/images/header-130.jpg"]
 published: true
-tags: []
+tags: 
+    - felsefe
+    - Stanislaw Ulam
+    - akademi
+    - formel mantık
 ---
 
 
-
-“I remain convinced that obstinate addiction to ordinary language in our private
-thoughts is one of the main obstacles to progress in philosophy.” - Bertrand
+“I remain convinced that obstinate addiction to ordinary language in our private thoughts is one of the main obstacles to progress in philosophy.” - Bertrand
 Russell
 
-Günlük dilde Felsefe veya felsefe yapılabilir mi? Büyük harfle başlayanın, her
-*disiplin* gibi kendi jargonuna ihtiyacı var, küçük harfli olanı ise herkes
-yaptığı için, günlük dile yaslanması daha uygun. 
+Günlük dilde **f**elsefe veya **F**elsefe yapılabilir mi? 
 
-Arada felsefe yaptığım olursa da, Felsefe yapmayı sevmem. Jargon *avam dışarıda
-dursun* diye oluşturulmuş bir dikenli tel. Dışarıdan bakınca içeride ne olduğu
-görünüyor ama içeri girmek için o teli aşmak lazım. Çoğumuz içerideki
-kavramların çok fantastik kavramlar olduğunu düşünüyoruz ama içeri girince,
-kendi kitabi dünyaları içinde yaşayan ve bizim dünyamızda kullanılması zaten
-beklenmeyen araçlar buluyoruz. 
+Arada felsefe yapsam da, Felsefe yapmayı sevmem.
 
-Mesleklerde jargona ihtiyaç var, hem iletişimi kolaylaştıran, hem de bir insanın
-konuyla ilgili tecrübesini kısa sürede anlamayı sağlayan bir araç. Yine de
-*Felsefe bir meslek mi?* diye sorsak, olumlu cevap alabilir miyiz?
+Küçük harfli olanı herkes yaptığı için, günlük dile yaslanması daha uygun. Büyük harfle başlayanın ise her *disiplin* gibi kendi jargonuna ihtiyacı var. 
 
-*Akademik Felsefe bir meslek* diyebiliriz belki ama burada meslek olan *Felsefe*
-değil, akademisyenlik. *Akademisyen ne üretir?* deyince de, *makale üretir*
-işte. Deneysel bilim faaliyetinde daha farklı olmakla beraber, sosyal
-*bilimlerde* farklı disiplerin makale üretme süreçleri birbirine benziyor. Bir
-Tarihçi'nin bir yıl çalıştıktan sonra Sosyoloji makalesi üretmesi mümkün,
-aralarındaki fark sandalye yapan adamın, ayakkabı yapması kadar değil.
+Jargon, *avam dışarıda dursun* diye oluşturulmuş dikenli bir tel. Dışarıdan bakınca içeride ne olduğu görünüyor ama içeri girmek için o teli aşmak lazım. Dışarıdan gördüğümüz kadarıyla, içerideki kavramların çok fantastik kavramlar olduğunu düşünüyoruz. Ancak içeri girince, kendi kitabi dünyalarında yaşayan ve dışarıda kullanılması zaten beklenmeyen araçlar buluyoruz. 
 
-Felsefe de böyle bir disiplinse, evet, günlük dil tabii ki Sosyoloji yapmak için
-yetersiz olduğu gibi, Felsefe için de yetersiz. Ancak Russell'ın buna getirdiği
-çözüm, *Matematiksel Felsefe* veya *Formel Mantık* gibi çözümlerin de, *farklı*
-olmakla beraber, kimsenin önemli bir derdine derman olmadığını biliyoruz.
-Felsefe dilini formelleştirince, daha iyi (ve akademik olarak daha münbit)
-felsefe yapabilirsiniz ama bu Felsefe'nin etkisi, kendi sınırları içinde
-olacaktır. Sanırım Stanislaw Ulam'ın bir sözüydü, *Mantık'taki seviyemiz,
-Babil'in matematikteki seviyesi kadar* demiş. Felsefeyi *günlük dille* değil de,
-Mantık'la yapınca, yaptığınızı anlayanların sayısı azaldığı için daha
-*karizmatik* durabilir ama aldığınız sonuçlar daha *önemli* olmuyor. En son
-*üzerinde konuşulamayacak şey hakkında susmalı* sonucuna varıyorsunuz ve *ee,
-hemen tüm önemli konular hakkında susacaksak, neden o kadar konuştuk?* diye
-devam ediyorsunuz.
+Bu araçların mesleklerde kullanımı ise iletişim kurmayı kolaylaştırıp, insanın konuyla ilgili tecrübesini kısa sürede anlamayı sağlıyor. 
 
-Benim tercihim o sebeple, ne günlük dil, ne matematiksel dil: Ben Felsefe için
-*program* yazmayı ve yazarken düşünmeyi seviyorum. Bunun da bir *matematiksel
-dil* olduğunu söyleyebilirsiniz, ancak derdim, günlük dilin getirdiği örtüyü
-kaldırmak ama formelliğin sadece karınca adımlarıyla yürüten metodlarından da
-uzak durmak. *Anlambilim* üzerine aldığım notlarda, hem *bunu basitçe nasıl
-ifade ederim* diye, hem de *bir programlama dilinde nasıl ifade ederim* diye
-düşünüyorum. 
+Peki *Felsefe bir meslek mi?* diye sorsak, olumlu cevap alabilir miyiz?
+
+*Akademik Felsefe bir meslek* diyebiliriz belki ama burada meslek olan *Felsefe* değil, akademisyenlik. *Akademisyen ne üretir?* deyince de, *makale üretir* işte. 
+
+Makale üretme süreçleri bakımından -deneysel bilim faaliyetinde daha farklı olsa da- sosyal *bilimlerin* farklı disipleri birbirine benziyor. Tarihçi'nin bir yıl çalıştıktan sonra Sosyoloji makalesi üretmesi mümkün. Aralarındaki fark, sandalye yapan adamın ayakkabı yapması kadar değil.
+
+Felsefe de böyle bir disiplinse, *ki evet*, günlük dil - Sosyoloji yapmak için yetersiz olduğu gibi- Felsefe için de yetersiz kalacaktır. Russell'ın buna getirdiği çözüm: *Matematiksel Felsefe* veya *Formel Mantık*. Bu çözümlerin *farklı* olduğunu görüyoruz ama kimsenin önemli bir derdine derman da olmuyor.
+
+Felsefe dilini formelleştirince, daha iyi (ve akademik olarak daha münbit) felsefe yapabilirsiniz ama bu Felsefe'nin etkisi kendi sınırları içinde olacaktır. Sanırım Stanislaw Ulam'ın bir sözüydü, *Mantık'taki seviyemiz, Babil'in matematikteki seviyesi kadar* demiş. 
+
+Felsefeyi *günlük dille* değil de Mantık'la yapınca, yaptığınızı anlayanların sayısı azaldığı için *karizmatik* gözükebilir ama aldığınız sonuçlar daha *önemli* olmuyor. Sonunda "üzerinde konuşulamayacak şey hakkında susmalı" noktasına varıyorsunuz ve "ee, bütün önemli konular hakkında susacaksak, neden o kadar konuştuk?" diye devam ediyorsunuz.
+
+Bu sebeple benim tercihim ne günlük dil ne de matematiksel dil. Ben Felsefe için *program* yazmayı ve yazarken düşünmeyi seviyorum. Bunun da *matematiksel dil* olduğunu söyleyebilirsiniz. Fakat yapmaya çalıştığım şey, günlük dilin getirdiği örtüyü kaldırmak ve formelliğin karınca adımlarıyla yürüten metodlarından da uzak durmak. Bunu gerçekleştirebilmek için de "basitçe nasıl ifade ederim" ve "bir programlama dilinde nasıl ifade ederim" diye düşünüyorum. 
 
 
 
