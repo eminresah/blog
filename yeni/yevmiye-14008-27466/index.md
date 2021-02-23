@@ -3,8 +3,39 @@ title: "Yevmiye 14008-00"
 date: 2017-11-21 00:37:31
 dp: 14008
 featured_image: "/images/header-125.jpg"
-images: ["/images/header-125.jpg"]
-tags: []
+tags: 
+    - soru
+    - hikaye
+    - din
+    - evrim
+    - bilim
+    - Hz. Adem
+    - tutarlılık
+    - aşk
+    - aşk acısı
+    - ordu
+    - NATO
+    - FETÖ
+    - hain
+    - ihanet
+    - evlilik
+    - eş
+    - kötü gün
+    - yatalak
+    - nezaket
+    - nezaketi sevmek
+    - Türk
+    - kalın türk
+    - kapitalizm
+    - bireycilik
+    - yıkılan din
+    - yangın
+    - adalet
+    - nükleer silah
+    - Kapitalizm
+    - İslam devleti
+    - politik çakallık
+modified: 2021-02-17 00:26:49+0300
 ---
 
 ### 1
@@ -50,7 +81,7 @@ Muhtemelen bunlar yanlış izlenimler. Sabahtan akşama hemen her konuda fikrim
 değişir, buradaki yazıların ekseriyeti birbiriyle çelişir. Tutarlılığı
 sevmediğimden, Emerson gibi küçük gördüğümden değil, *beceremediğimden*.
 Buradaki cevaplarım da ikna etmek için değil, bazı zamanlar bilmediğimi itiraf
-etmek içindir.
+etmek için.
 
 ### 4
 
@@ -73,7 +104,7 @@ yerden alıyorlar.
 
 Bu neden böyle oldu? Konuyu FETÖ'ye bağlayıp, *hain edebiyatıyla* durumu idare
 edebiliriz ancak bu edebiyat sadece ona inananlar için işe yarıyor. Hiçbir hain
-kendini *ihanet* içinde görmez, bunlar demek ki bulundukları memleketten daha
+kendini *ihanet* içinde görmez, bunlar demek ki vatandaşı oldukları memleketten daha
 önem verdikleri aidiyetlere sahipmiş. *Hain* o aidiyetlere, FETÖ'ye, diyelim
 NATO'ya veya *Batı tipi demokrasiye* onlar kadar uymayan bizler oluyoruz.
 
@@ -211,9 +242,9 @@ bizde olsaydı mesela ve bunu kullanma şansı bulsaydık, *dünyanın iyiliği 
 bundan feragat eder miydik?
 
 Bana hiç de edermişiz gibi gelmiyor. Diğer konular da böyle. Bizim *öksüz Türk*
-edebiyatımız güzel, benim de hoşuma gidiyor ama bir yerden sonra *gücün* kendi
+edebiyatımız güzel, benim de hoşuma gidiyor ama *gücün* kendi
 kuralları olduğunu, bizim de *Batı adamı* kadar kıyıcı olabileceğimizi, nitekim
-geçmişte olduğumuzu kabul etmek lazım. 
+geçmişte olduğumuzu kabul ediyorum.
 
 Derler ki, soyu *Sapiens* tarafından kırılan *Neanderthal* insanları, aslında
 bizden daha sakin ve *insanî* idiler ve tam da bu sebeple *Sapiens'e* karşı
@@ -227,7 +258,7 @@ değil de, bu duvara yaslanarak çıkabileceğini düşünmek gibidir.*
 
 Kapitalizm sana benzer ürünlerden 100 çeşit sunar, sen bunlardan bazılarını
 bazılarına tercih edersin. İnsanların geneli kendi bütçelerine göre tercih
-ederler. Fiyat ve imkanlar asıl belirleyici olandır ama ne olacak? Sen bir de
+eder. Fiyat ve imkanlar asıl belirleyici olandır ama ne olacak? Sen bir de
 üretenin kimliğine bakıver, ne farkedecek?
 
 Kapitalizm'in nesi değişmiş oluyor? Yahudi'den değil de, Türk'ten alışveriş

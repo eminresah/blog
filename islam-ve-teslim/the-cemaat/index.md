@@ -1,10 +1,15 @@
-==========
-The Cemaat
-==========
+---
+title: The Cemaat
+date: 2014-11-23 03:41:51 +0200
+dp: 11974
+tags:
+    - FETÖ
+    - Fetullah Gülen
+    - the cemaat
+---
 
-:date: 2014-11-23 03:41:51 +0200
-
-.. :Date:   <11974 - Thu 14:35>
+*2021 notu: Bu yazı 2014 yılında yazıldı. Bugün yumuşak gelebilir. O günün
+şartlarını düşünerek okumanızı salık veririm.*
 
 Lise yıllarımda biri beni *Hocaefendi'ye* benzetmişti, sınıfın köşesinde
 kimseyle derdi olmadan kitap okuyan, kızlarla iki kelime edince yüzü
@@ -24,20 +29,19 @@ yazdıkları, *planları*, siyasetleri beni tatmin etmiyor diyebilirim,
 ancak bu onun değil *benim* meselem. Tatmin olan yüzbinlerce insan
 olduğuna göre, herhalde mesele benim.
 
-Cemaatin içinde kısa da olsa zaman geçirdim. Adam toplama üzerine
-kurulmuş bir Ponzi planı gibi gelmiştir bana hep. (`Charles
-Ponzi <http://en.wikipedia.org/wiki/Charles_Ponzi>`__ de hocaefendiyi
-andırıyormuş biraz.) *İnsanların imanını kurtarmak* hevesiyle kendini
-dağa taşa Afrika'nın çöllerine vuran arkadaşlarım da oldu, samimiyetleri
-hakkında şüphem olmasa da, yaptıklarının Allah'ın dinine mi, Türkiye
-Cumhuriyeti'ne mi faydalı olduğu konusunda her zaman şüphelerim oldu.
-Bayrak ve vatan gibi kavramları gereğinden fazla ciddiye aldıklarını,
-dinin *uyarıcı* tarafını değil *uyuşturucu* tarafını öne çıkardıklarını
-düşündüm, yine de beni *soğutan*, hemen hiçbir konuda pragmatizmin ve
-geleneğin basmakalıp sözlerinin ötesinde bir fikri olmayan bir topluluk
-olmaları oldu. *Hizmet için* yaptıklarını söyledikleri *tedbir*, artık o
-derece iliklerine işlemiş ki, gerçekten ne istediklerini kendilerinin de
-bildiğini sanmıyorum.
+Cemaatin içinde kısa da olsa zaman geçirdim. Adam toplama üzerine kurulmuş bir
+Ponzi planı gibi gelmiştir bana hep. ([Charles
+Ponzi](http://en.wikipedia.org/wiki/Charles_Ponzi) de hocaefendiyi andırıyormuş
+biraz.) *İnsanların imanını kurtarmak* hevesiyle kendini dağa taşa Afrika'nın
+çöllerine vuran arkadaşlarım da oldu, samimiyetleri hakkında şüphem olmasa da,
+yaptıklarının Allah'ın dinine mi, Türkiye Cumhuriyeti'ne mi faydalı olduğu
+konusunda her zaman şüphelerim oldu.  Bayrak ve vatan gibi kavramları
+gereğinden fazla ciddiye aldıklarını, dinin *uyarıcı* tarafını değil
+*uyuşturucu* tarafını öne çıkardıklarını düşündüm, yine de beni *soğutan*,
+hemen hiçbir konuda pragmatizmin ve geleneğin basmakalıp sözlerinin ötesinde
+bir fikri olmayan bir topluluk olmaları oldu. *Hizmet için* yaptıklarını
+söyledikleri *tedbir*, artık o derece iliklerine işlemiş ki, gerçekten ne
+istediklerini kendilerinin de bildiğini sanmıyorum.
 
 Şöyle anlatayım, hazretlerine gitsem desem ki, *hocam, tasavvufsuz İslam
 olmayacağını, şıhı olmayanın şıhının şeytan olduğunu düşünüyorum*,

@@ -8,8 +8,6 @@ published: true
 tags: []
 ---
 
-
-
 Bir süredir yüz tanıma programı yaptığım için yazmayı ihmal ettim. Kendimi
 unutacak kadar bir işle meşgul olmanın, dert ve tasaya en iyi deva olduğunu ve
 yazının da bunun için *faydalı* olduğuna kanaat ettim. Burayı yazmak yerine

@@ -2,7 +2,9 @@
 title: "Murakabe 12856"
 date: 2014-11-23 02:18:14 +0200
 dp: 12856
-tags: []
+tags: 
+    - ölüm
+    - ömür
 ---
 
 (Bunu 22 gün önce yazmışım. *Gündemle* alakalı değil.)
@@ -66,16 +68,16 @@ Bunları keşfedebilir. Maşuğuna kavuşursa da öğreneceği şeyler var tabi,
 belki kavrulup gittiği aşkının evlendikten sonra nereye kaybolduğunu da
 keşfetmeye çalışabilir.
 
-/Nereye düşürdüm bu aşkı?/
+*Nereye düşürdüm bu aşkı?*
 
 Bunların hiçbiri, yani kavuşulamayan veya kavuşulup da kaybolan aşk da
 dahil hiçbiri, insanın az yaşamak istemesi için yeterli sebepler değil
-gibi. Belki sağlıkla ilgili durumlarda insanın *öleceği* gelebilir, zor
+gibi. Belki sağlıkl ilgili durumlarda insanın *öleceği* gelebilir, zor
 hastalıklar çok, ancak bunların da ekseriyeti hayattan kaçmak için sebep
 değil.
 
-Yazıdaki adam, artık ömrün uzamasının *sağlık ömür* anlamına
-gelmediğini, uzun yaşayanların genelde sağlıklarını kaybettiklerini
+Yazıdaki adam, artık ömrün uzamasının *sağlıklı ömür* anlamına
+gelmediğini, uzun yaşayanların sağlıklarını kaybettiklerini
 anlatıyordu.
 
 Bu doğru. Tıp *ömür uzatmak* adına, bazı zamanlar insanların hayatını

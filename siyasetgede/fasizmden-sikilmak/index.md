@@ -1,26 +1,28 @@
-==================
-Faşizmden Sıkılmak
-==================
+---
+title: Faşizmden Sıkılmak
+date: 2014-11-23 02:18:14
+dp: 12694
+published: true
+tags: 
+    - Erdoğan
+    - faşizm
+    - politika
+    - otarki
+    - Mussolini
+---
 
-:date: 2014-11-23 02:18:14 +0200
 
-.. :Date:   12694
+*2021 notu: *Kim lan bu hayatımın erkeği* adında yazılarını severek takip
+ettiğim bir blog var[dı]. Bu yazıyı orada okuduğum bir yazı üzerine yazmıştım.* 
 
-`Artık iyice seyrelttiği yazılarını severek takip ettiğim bir blog
-var <http://www.kimlanbuhayatiminerkegi.com/>`__. Düşündüklerim
-benzemese de, bu ülkenin önemli bir kısmında neler konuşulduğunu
-öğrenmek için okuyorum. Yazıları da kendini okutuyor zaten.
+*Faşizm* hakkında yazmış.  Bazı kısımları biraz Wikipedia havası taşısa da
+demeye getirdiği Erdoğan'ın Mussolini tarzı bir faşist olduğu. Verdiği faşizm
+tanımını bile Erdoğan'a tam uyduramadım. Erdoğan'ın inşaatçılığı tamam da
+milliyetçilik tarafı zayıf ve Duce de, Führer de orduya dayanan yönetimlerin
+başıydı. Erdoğan'ın orduyla arasında doğal bir ittifak yok ve yeni bir ordu
+kurmazsa, yakın vadede böyle bir ittifak görünmüyor.
 
-`*Faşizm* hakkında
-yazmış <http://www.kimlanbuhayatiminerkegi.com/2014/04/fasizm-nerede-yenilir.html>`__.
-Bazı kısımları biraz Wikipedia havası taşısa da, demeye getirdiği
-Erdoğan'ın Mussolini tarzı bir Faşist olduğu. Verdiği Faşizm tanımını
-bile Erdoğan'a tam uyduramadım. Erdoğan'ın inşaatçılığı tamam da,
-milliyetçilik tarafı zayıf ve Duce de, Führer de orduya dayanan
-yönetimlerin başıydı. Erdoğan'ın orduyla arasında doğal bir ittifak yok
-ve yeni bir ordu kurmazsa, yakın vadede böyle bir ittifak görünmüyor.
-
-Adamın yüzüne bakınca *Faşist* demek geliyor olabilir insanın içinden.
+Adamın yüzüne bakınca *faşist* demek geliyor olabilir insanın içinden.
 Erdoğan'ın siyaset ve hitabet tarzındaki sertlik rahatsız edici, ancak
 bunun da *yalnızlığından* kaynaklandığını düşünüyorum. Etrafındaki
 insanların %80-90'ının derdi, onunkiyle aynı değil. Buna rağmen onları
@@ -29,7 +31,7 @@ arada tutmanın* en kolay yollarından biri. Gemileri yakarken delilik
 görenler, zaferden sonra *muhteşem taktik* diye övgü diziyor.
 
 (Siyasi, finansal, biyolojik vs.) güç, artmıyorsa, azalıyor demektir.
-Erdoğan bunu bildiği için gücünü artırmaya çalışıyor. İnsanî bir arıza
+Erdoğan bunu bildiği için gücünü artırmaya çalışıyor. İnsani bir arıza
 da diyebilirsiniz, *haddini bilmiyor* demek de mümkün. (Bunları ben de
 söyledim, hala söylüyorum.) Ancak memleket sınıfların, sınırların belli
 olduğu bir yer olmadığından kaynaklanıyor zaten bu *haddini bilmezlik.*
@@ -39,10 +41,10 @@ Haddini bilerek çözülecek kadar ufak dertlerin memleketinde yaşamıyoruz.
 
 --------------
 
-Batı kültürüyle yetişmiş insanımızda, biraz *Tarih sınavında Matematik
+Batı kültürüyle yetişmiş insanımızda, biraz *tarih sınavında matematik
 sorusu çözme* hali var. Sınavı yapan halk, bir takım sorular soruyor
 ancak siyasetçimizin bir kısmı bu soruları anlamak yerine, *kendi
-bildiği soruları çözme* eğiliminde. Oniki senedir halkın *soru sormayı
+bildiği soruları çözme* eğiliminde. On iki senedir halkın *soru sormayı
 bilmediği*, *doğru adamları seçmediği* konuşuluyor. Bunun bir sınava
 girip, *soruları beğenmeyen* öğrenciden bir farkı var mı?
 
@@ -90,19 +92,17 @@ doyurmayı bilenlerle, demokrasiyi ilerletenler aynı kişiler
 olmayabiliyor ama buradaki asıl mesele, *demokrasiyi çok sevenlerin*
 neden halkın sorularını cevaplayamadıkları.
 
-Ayrıca, *sadece* halktan aldığı güçle hareket eden, Faşizm'in temel iki
-nosyonu, militarizm ve
-`otarkinin <http://en.wikipedia.org/wiki/Autarky>`__ zıddını temsil eden
-bir adamı Faşizmle suçlamak da gerçekten büyük fikir. Bu memleket
-1920'lerden 2000'lere kadar otarkist ve orducuydu. Erdoğan bunları
-değiştirmek üzere geldi, çünkü insanlar global ekonomiyle tam bir
-entegrasyon, sen ben bizim oğlana tırt mamül üreten ve *faaliyet dışı
-gelirle* semirmiş *sermayenin* terbiye edilmesini istiyorlardı. Bunlar
-korporatist, otarkist ve militarist Faşizm denen zıkkımın tersini ifade
-eder. Bu adam, ultra-milliyetçi olduğu için olacak, 30 senedir kan içen
-Kürt isyanını durdurmak için (hani o hırsızlık ve menfaatle itham
-edildiği) siyasi kariyerini bitirme, vatana ihanetle yargılanma riski
-alıyor. Ve adama *Faşist* diyorlar.
+Ayrıca, *sadece* halktan aldığı güçle hareket eden, faşizmin temel iki nosyonu,
+militarizm ve [otarkinin](http://en.wikipedia.org/wiki/Autarky) zıddını temsil
+eden bir adamı faşizmle suçlamak da gerçekten büyük fikir. Bu memleket
+1920'lerden 2000'lere kadar otarkist ve orducuydu. Erdoğan bunları değiştirmek
+üzere geldi, çünkü insanlar global ekonomiyle tam bir entegrasyon, sen ben
+bizim oğlana tırt mamül üreten ve *faaliyet dışı gelirle* semirmiş *sermayenin*
+terbiye edilmesini istiyorlardı. Bunlar korporatist, otarkist ve militarist
+faşizm denen zıkkımın tersini ifade eder. Bu adam, ultra-milliyetçi olduğu için
+olacak, 30 senedir kan içen Kürt isyanını durdurmak için (hani o hırsızlık ve
+menfaatle itham edildiği) siyasi kariyerini bitirme, vatana ihanetle yargılanma
+riski alıyor. Ve adama *faşist* diyorlar.
 
 *Faşist buysa kedi nerede, kedi buysa Faşist nerede?*
 
@@ -117,7 +117,7 @@ görürdü.
 
 Öyle olmadı. Şimdi, 2001'de dibe değmiş ekonomi iyileşip, pasta büyüyüp,
 eski korporasyonlar istedikleri ölçüde nemalanamayınca arıza çıktı.
-Erdoğan, bu *80'lik Beyaz Faşistlerin* sevdiği adam olmak yerine, risk
+Erdoğan, bu *80'lik beyaz faşistlerin* sevdiği adam olmak yerine, risk
 alıp sorun çözmeyi tercih etti. Şimdi *Kürt barışını yapar da,
 başımızdan bir daha da gitmez* diye dellenmeleri bundan.
 
@@ -141,24 +141,24 @@ belki barışa kadar direnebilirlerdi.)
 Kısacası Erdoğan'ın dünya düzeninin dışına çıkabilmesi için, bizim
 dünyanın toplam deniz kuvvetinin yarısından fazlasını elinde tutan
 Birleşik Devletler'in hasmı olabilmemiz gerekir, o da (benim yaşadığım
-müddetçe) biraz zor. Türk devlet aklı da, ittifak için uzak düşmanı
+müddetçe) biraz zor. Türk devlet aklı da ittifak için uzak düşmanı
 yakın düşmana, yakındaki Rusya veya İran'la müttefik olmaya, Birleşik
 Devletler'in güdümünde kalmayı tercih eder. Bu da (dünya düzeni tamamen
 değişmeden) Erdoğan'ın değiştirebileceği bir politika değil.
 
 Erdoğan'ın ve politikasının gereksiz yere sert ve incitici olduğunu
-söylemek bir şey, buna *Faşizm* deyip, memleketin sünmüş kavramlarına
-Faşizm'i de eklemek başka bir şey. Atatürk'ün düzenine bile Faşizm demek
+söylemek bir şey, buna *faşizm* deyip, memleketin sünmüş kavramlarına
+faşizmi de eklemek başka bir şey. Atatürk'ün düzenine bile faşizm demek
 zordur zannımca, ondan sonrakiler de onun kadar otorite sahibi
 olamadılar.
 
 --------------
 
-Hakkında *Erdoğan Faşist* demek mi daha etkili, *söyledikleri beni
+Hakkında *Erdoğan faşist* demek mi daha etkili, *söyledikleri beni
 incitiyor* demek mi? Şahsen Erdoğan'ın gidip, *daha iyisinin gelmesini*
 isteyen biriyim (veya diğer bir söyleyişle, *daha iyisi gelene kadar
 Erdoğan'ın kalmasını isteyen* biriyim) ve birinci lafın üzerimde pek
-etkisi yok. Hatta *faşit mi, o ne la* diyen bir insan için, *güçlülüğün*
+etkisi yok. Hatta *faşist mi, o ne la* diyen bir insan için, *güçlülüğün*
 propaganda olduğunu, bir insanı güçlülükle *suçlamanın*, onun
 propagandasını yapmak olduğunu düşünüyorum. Zaten memlekette muhalefet
 denen adamlar, bir seçime de mesela ağızlarını bantlayıp girseler ve bir
