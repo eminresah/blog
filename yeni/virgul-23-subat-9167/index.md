@@ -1,18 +1,9 @@
 ---
-title: Virgül 23 Şubat
-author: Emin Reşah
-date: 2021-02-23 23:10:49
-expiryDate: 
-dp: 
-draft: false
-featured_image: /img/header-66.jpg
-
----
 title: Virgül 23 Şubat 
 author: Emin Reşah
 date:  2021-02-23 23:08:58+0300
 expiryDate:
-dp: 
+dp: 15199
 featured_image: /images/header-51.jpg
 ---
 
