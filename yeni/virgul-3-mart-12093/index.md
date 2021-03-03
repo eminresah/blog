@@ -1,7 +1,7 @@
 ---
 title: "Virgül 3 Mart"
-date: 2021-03-03T22:20:30+03:00
-draft: true
+date: 2021-03-03 22:20:30+03:00
+draft: false
 author: Emin Reşah
 dp:  15207
 featured_image: /images/header-150.jpg
