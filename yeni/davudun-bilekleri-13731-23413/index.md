@@ -44,4 +44,4 @@ yetmesi bekleniyormuş kısacası. Bu arada bir deprem olursa dünyanın en meş
 Bir an, bir müslüman istilasından önceki büyük bir depremde Avrupa medeniyetini
 temsil eden bu heykelin yıkıldığı bir sahne canlandı gözümde. Sadece film sahnesi tabii. 
 
-yazi: https://www.nytimes.com/2016/08/21/magazine/davids-ankles-how-imperfections-could-bring-down-the-worlds-most-perfect-statue.html 
+[yazi]: https://www.nytimes.com/2016/08/21/magazine/davids-ankles-how-imperfections-could-bring-down-the-worlds-most-perfect-statue.html 
