@@ -21,10 +21,10 @@ Market raflarında satlmış olanlar görülmez. En iyi ürünler bitmiştir, pi
 sebeple bir başarısızlık işaretidir. Bunu hissederiz. 
 
 Hayatımızdaki risklerin önemlileri *bilinmeyen bilinmeyenlerden* kaynaklanır.
-*Bilinir bilinmezler*, yani bilmediğimizi bilmediğimiz konularda dikkatli
+*Bilinir bilinmezler*, yani bilmediğimizi bildiğimiz konularda dikkatli
 oluruz ama bilmediğimizi bile bilmediğimizde, nasıl tedbir alabiliriz? 
 
-Bu *bilinmeyen bilinmeyenlerin* oralarda bir yerde olabileceğini düşünerek
+Bu *bilinmez bilinmeyenlerin* oralarda bir yerde olabileceğini düşünerek
 ileriyle gidebiliriz. *Olgunlaşma* da böyle, hayata *her şeyi biliyorum* diye
 başlayıp, *bilmediğim konular da var* diyerek devam edip, *bilmediğimi bile
 bilmediğim konular var* diyerek *kemale* ermiş oluyoruz. 
