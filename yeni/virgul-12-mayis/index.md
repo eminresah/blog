@@ -2,7 +2,6 @@
 title: Virgül 12 Mayıs 
 author: Emin Reşah
 date:  2021-05-12 10:04:56+0300
-expiryDate:
 dp: 15276
 featured_image: /images/header-112.jpg
 ---
