@@ -1,7 +1,7 @@
 ---
 title: Hikaye: Gözlemci 
 author: Emin Reşah
-date:  2021-05-15 05:53:59+0300
+date:  2021-05-15T17:57:26+0300
 expiryDate:
 dp: 15279
 featured_image: /images/header-79.jpg
