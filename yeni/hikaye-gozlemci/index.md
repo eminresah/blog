@@ -1,5 +1,5 @@
 ---
-title: Hikaye: Gözlemci 
+title: "Hikaye: Gözlemci"
 author: Emin Reşah
 date:  2021-05-15T17:57:26+0300
 expiryDate:
