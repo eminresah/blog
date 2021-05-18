@@ -90,7 +90,7 @@ erkeğe. (R)e sorsa izin vermezdi, (Nurr) hanıma neden gitmediğini sorardı.
 Sonra bir tartışma daha. Kadının her şeye dini çözüm bulmaya çalışmasından,
 bütün meseleleri izah ederken ahireti hatırlatmaya çalışmasından sıkılmıştı.
 *Jûmre değiştirmeliyim* diye düşünmesinin sebeplerinden biri de buydu, her
-hastalığa aynı reçeteyi sunan bunak doktorlar gibiydiler. 
+hastalığa aynı reçeteyi sunan bunak doktorlar. 
 
 Saatine *iki saat uyusam yetişir miyim* diye sordu. *Üç saat uyuyabilirsin*
 dedi saati. Gecenin yorgunluğu kendini göstermişti. Yatağa gitti, *çarşafların
@@ -139,8 +139,8 @@ biri ona küçük beyaz bir kapsül verdi, *tamam, şimdi sakinleş.* (Xadice) h
 yuttu. Bir robot ambulans geldi. Saati kavgayı tespit edip çağırmıştı. İki
 güvenlik görevlisi de yanlarına geldi. Arkadaşları onlarla konuşurken caminin
 avlusundaki banklara yatıp ağlamaya başladı. Ezan okunacaktı. Tekrar içeri
-girmek istemiyordu. *Ben bir daha burada namaz kılmak istemiyorum* diye
-söylendi. Saatine *bana bir araç çağır* dedi, *eve dönelim.*
+girmek istemiyordu. Hıçkırırken *ben bir daha burada namaz kılmak istemiyorum*
+diye söylendi. Saatine *bana bir araç çağır* dedi, *eve dönelim.*
 
 Tek kişilik araba geldiğinde ezan da okunmaya başlamıştı. Yanındakilere iyi
 olduğunu söyleyerek bindi. Onların da namazlarına mani olmayayım. 
@@ -157,9 +157,10 @@ Bunları düşünüp evden nasıl kurtulacağını planlarken saati kapıda biri
 haber verdi. *Kim?* *Toplum Polisi* -- O minik fahişe beni şikayet mi etmiş? --
 Kapıda polis var, sadece bunu biliyoruz. 
 
-Üstünü başını topladı, kapıya çıktı. İki kadın polis gelmişti. Kimliklerini
-gösterdiler. -- Ne için geldiğimizi biliyor olmalısınız, ifadenizi alacaktık
-dedi kumral olan. Diğeri daha esmerdi. 
+Üstünü başını topladı, kapıya çıktı. İki kadın polis gelmişti.  (Xadice) adet
+olduğu üzere omuzlarındaki kodlara saatini yaklaştırıp kimliklerini kontrol
+etti. -- Ne için geldiğimizi biliyor olmalısınız, ifadenizi alacaktık dedi
+kumral olan. Diğeri daha esmerdi. 
 
 -- Tabii, tabii, gelin dedi (Xadice)
 
@@ -171,13 +172,13 @@ Polisler ellerindeki hologram cihazını açtılar. Az önceki kavgayı bu sefer
 boyutlu olarak izlediler. (Xadice) olanların şokunu henüz atlatamadan bununla
 tekrar karşılaşmayı ummuyordu. -- Şikayet konusu nedir diyebildi sadece. 
 
--- Hakaret ve şiddet. Hakaret kısmına jumre mahkemesi bakacak, sanırım aranızda
+-- Hakaret ve şiddet. Hakaret kısmına jûmre mahkemesi bakacak, sanırım aranızda
 başka bir husus varmış. Kavgaya da Sekizinci Adliye Dairesi. 
 
 -- Robot hakimler mi?
 
 -- Evet. Kavgayı çözümleme konusunda hayli iyilerdir. Her yumruğun şiddetine
-göre ayrı ceza veriyorlar artık. Kumral polis işini zevkle yapıyordu. 
+göre ayrı ceza veriyorlar artık. Kumral olanı işini zevkle yapıyordu. 
 
 -- Anladım dedi (Xadice). Ne zaman gitmeliyim. 
 
@@ -190,10 +191,10 @@ Seyrettikleri moralini bir defa daha bozmuştu.
 Polisler birbirine baktı. Diğeri onay verince kumral olanı *sizi sakinleştirir*
 deyip bir bant çıkardı.  *Kullanmanız jûmreye uygun mu bilmiyorum ama* diye
 ekledi. *Uygun, uygun* dedi (Xadice). Bandı alıp bileğinin içine yapıştırdı.
-Bant az sonra etkisini gösterdiğinde gün içinde olanların ne kadar anlamsız
-gelmeye başladığını farketti. Egosunu besleyen hormonlar yok olmuş, kendini bir
-okyanusun dalgalarında salınan yosun gibi hissetmeye başlamıştı. Neden bu
-bantlardan kullanmıyordu acaba. 
+Bant az sonra etkisini gösterdiğinde gün içinde olanlardan uzaklaşmış, başka
+birinin yaşadığı bir kavga gibi gelmeye başlamıştı. Egosunu besleyen hormonlar
+yok olmuş, kendini bir okyanusun dalgalarında salınan yosun gibi hissetmeye
+başlamıştı. Neden bu bantlardan kullanmıyordu acaba. 
 
 Polisler robot bir araç daha çağırdı. Kendi araçlarında yer yoktu. (Xadice)ye
 *herhalde adresi biliyorsunuz* dedi. *Sekizince Adliye Dairesi* dedi kendi
@@ -203,15 +204,15 @@ söyleyeceğiz.*
 Polisler kendi araçlarına bindi. (Xadice) de diğerinin koltuğuna oturdu.
 Polisler adresi araca da vermişlerdi. Kendini koltuğa bıraktı. İlk defa robot
 hakimler tarafından yargılanacaktı. *Şiddet ve hakaret.* Nasıl olduklarını
-duymuşlardı. Bazı zamanlar sanıklar yalan söylemesin diye beyin dalgalarına
+duymuştu. Bazı zamanlar sanıklar yalan söylemesin diye beyin dalgalarına
 bakıyorlardı. *Onların karşısına çıktıysan sakin ol ve olay onların yanında
 olmuş, zaten görmüşler gibi anlat* demişti bir arkadaşı. 
 
 Polis aracı mahkeme binasının içine girdi. Girişinde silahlı dronların uçtuğu
 bir binaydı burası.  (Sekizinci Adliye Dairesi) yazısına dikkatle baktı. Kendi
 aracı da polislerin girdiği kapıdan girdi. İçerisi uzay terminallerine
-benziyordu. Çok insan ve insanlardan daha çok robot vardı. *Bu kadar suç
-işleniyor mu* diye düşündü. 
+benziyordu. Çok insan ve daha da çok robot vardı. *Bu kadar suç işleniyor mu*
+diye düşündü. Yoksa *suç üretme fabrikası* mı burası?
 
 Polisler yanına geldi. *Şu kapıdan gidelim* dediler elleriyle uzaktaki bir
 kapıyı gösterip. (Xadice) onlarla beraber oraya doğru yürüdü. *Bu
@@ -228,7 +229,7 @@ benim dedi (Xadice). -- Sana sakinleştirici vermişler, gelmek istemedin mi? --
 Olaydan dolayı kendimi iyi hissetmiyordum, kendi isteğimle geldim. Arkadaki
 polislere baktı. Onları işaret edip, -- bunu söylemek için geldiler dedi. 
 
-Robot hakimlerin sağdan üçüncü -- Muayene edelim uyarıcı verelim dedi. İnsansı
+Robot hakimlerin sağdan üçüncüsü -- Muayene edelim uyarıcı verelim dedi. İnsansı
 robotlardan biri yanına geldi. Bileğine ışıklar yanan bir bileklik taktı.
 Hakimlerden biri polislere doğru -- işbirliği yaptığını onaylıyor musunuz?
 dedi. -- Onaylıyoruz dedi polis. -- Olayın görüntüleri geldi dedi başka biri.
@@ -269,7 +270,7 @@ benzettiği robot kendi lehine oy kullanmıştı.
 bahsettiğin sebepleri anlatırsın. Bu olayda ortak toplanma alanında bir başka
 insana saldırdığın ve üç yumruk attığın, bunlardan ikisinin (Deedah Belunar)a
 dokunduğu görüldü. Bağırırken söylediğin *adi orospu* ve *şırfıntı* sözleri
-hakaret kapsamında olduğu için bunlar da cezalandırıldı. Daha önce bir suça
+hakaret kapsamında ancak cezasını jûmre mahkemesi verecek. Daha önce bir suça
 karışmadığın, sağlık kayıtların iyi olduğu, sosyal puanın yüksek olduğu ve
 olayın hemen ertesinde geldiğin ve işbirliği yaptığın için mecburi psikolojik
 değerlendirme ve 3600 Sester para cezasına ve 2000 Sester tazminata mahkum
@@ -277,7 +278,8 @@ edildin. Gerekçeli karar postana gönderildi. İtiraz hakkın ve insan
 mahkemesinde yargılanma talebin için bir hafta süren var. Söylemek istediğin
 bir şey var mı?
 
-Para cezası neyse de o kadına para ödemek çok zor gelmişti. 
+Para cezası neyse de o kadına tazminat ödemesi gerektiğini duyunca içinde bir
+sızı hissetti.
 
 -- Hayır. Teşekkür ederim demekle yetindi. 
 
@@ -286,8 +288,8 @@ bırakacaklar. Ceza ve tazminatı bir ay içinde ödeyebilirsin.
 
 Polislerle beraber çıktılar. Kumral olan *kararın analizini gönderiyorlar, kısa
 sürüyor ama aslında olaydaki en ufak ayrıntıları bile değerlendiriyorlar* dedi.
-(Xadice) *demek sadece iki yumruk değdi ha* diye düşünüyordu o sıra. *Doğrudur*
-demekle yetindi. 
+(Xadice) *demek sadece iki yumruk değdi ha* diye düşünüyordu o sıra, *yumruk
+başına bin Sester alıyor, iyi para.* Polislere ise *doğrudur* demekle yetindi. 
 
 Geldiği araca benzeyen bir araca bindi. Polisler araca evin adresini söyledi.
 Giderken tüm bu olayı (R)e nasıl anlatacağını düşünüyordu. Anlattığında tepkisi
@@ -447,7 +449,7 @@ Kız da onun değişen yüzünden ne düşündüğünü anlamış gibiydi. *Yıl
 
 -- Burada da işler o kadar iyi değil diyecek oldu ama bunu nezaketen söylediğini kendi de biliyordu. Büyük savaştan beri *dünyanın o tarafı* düzene girmemişti. Önce (Çin) parçalanmış, çatışmalar diğer ülkelere sıçramıştı. Büyük Savaştan sonra kalan nükleer silahları birbirleri üzerinde kullanmaktan çekinmiyorlardı. (Zerkubia) ve dünyanın pek çok ülkesinde *silahlı robotlar* sadece diğer robotlara saldırmak için kullanılabilirdi ama (Çin)de robotların insanları da öldürebildiği söyleniyordu. Kimin kimi nasıl yönettiğini bilen yoktu. Bazı şehirlere savaştan sonra girilememişti ve radyasyona alışmış akreplerden başka bir canlının yaşamadığı söyleniyordu. 
 
-Kız gelen robottan bir sandviç, bir de limonata istedi. -- Eğer birkaç yıl daha kalsaydım ölecektim, eminim. Beni insan üretim çiftliklerine satmak istiyorlardı. 
+Kız gelen robottan bir sandviç, bir de limonata istedi. -- Eğer birkaç ay daha kalsaydım ölecektim, eminim. Beni insan üretim çiftliklerine satmak istiyorlardı. 
 
 -- İnsan üretim çiftlikleri mi var?
 
@@ -499,7 +501,7 @@ Kız gelen robottan bir sandviç, bir de limonata istedi. -- Eğer birkaç yıl 
 
 -- Buraya daha sık geliyor olmalısın?
 
--- Çok vaktim olmuyor aslında. Kulüpte yemek de veriyorlar. Bugün biraz değişiklik yapmak istedim. Gruptan birini kaybettik, doksanyedi yaşındaydı. Öğleyin onun cenazesi vardı.Grupça cenazeye gittik. Ben de kendime izin verdim. 
+-- Çok vaktim olmuyor aslında. Kulüpte yemek de veriyorlar. Bugün biraz değişiklik yapmak istedim. Gruptan birini kaybettik, doksanyedi yaşındaydı. Öğleyin onun cenazesi vardı. Grupça cenazeye gittik. Ben de kendime izin verdim. 
 
 -- Müslüman mıydı?
 
@@ -511,17 +513,17 @@ Kız gelen robottan bir sandviç, bir de limonata istedi. -- Eğer birkaç yıl 
 
 -- Neden yakılmak istemiş acaba? 
 
--- Kişisel bir talep de olabilir ama sanırım *ölüm uykudur ve uyanmak istemiyorsanız yakılmalısınız* gibi bir yorumları var. (Moofid) amca da kendisinin erdiğini düşünüyordu. BTekrar uyanmak istemediği ve dünya ile ilişkisini bitirdiği için yakılmak istemiş. 
+-- Kişisel bir talep de olabilir ama sanırım *ölüm uykudur ve uyanmak istemiyorsanız yakılmalısınız* gibi bir yorumları var. (Moofid) amca da kendisinin erdiğini düşünüyordu. Tekrar uyanmak istemediği ve dünya ile ilişkisini bitirdiği için yakılmak istemiş. 
 
 -- Haaa, ezoterik müslümanlardan. 
 
 -- Biraz öyle sanırım. Hakikate erince yakılmaları gerekiyormuş. Yoksa yeniden dünyaya döndürülüp, bir kere daha yaşayabilirlermiş. 
 
--- Ashab-ı Kehfi böyle mi yorumlamışlar? (Xadice) gülmemesi gerektiğin bilen bir yüz ifadesiyle gülümsedi. 
+-- Ashab-ı Kehfi böyle mi yorumlamışlar? (Xadice) gülmemesi gerektiğini bilen bir yüz ama yine de gülen bir yüz ifadesiyle sordu.
 
 -- Bana da tuhaf geldi dedi kız. 
 
+Kendi
 
-🀄🌶🍐🏌✋🍶⚾🗂🚆♑
 
 
