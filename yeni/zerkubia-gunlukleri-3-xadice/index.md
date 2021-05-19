@@ -523,7 +523,25 @@ Kız gelen robottan bir sandviç, bir de limonata istedi. -- Eğer birkaç ay da
 
 -- Bana da tuhaf geldi dedi kız. 
 
-Kendi
+Kız birkaç macerasından daha bahsetti. Yalnızlığın nasıl bir pandemiye dönüştüğünden konuştular. Kız insanların da robotlaştığını, belki de asıl yalnızlığın bundan kaynaklandığını söyledi. *Doğadan ve onun belirsizliğinden koptukça, kendimiz de yalnız kaldık çünkü insanları birleştiren duygular kalmadı.*
 
+(Xadice) bu konuşmadan yalnızlığına bir çare bulmanın hayat macerasına beraber atılacak ve hayatın belirsizliği beraber yaşayacak biri sayesinde mümkün olabileceğini düşünerek kalktı. *Biraz yürüyeceğim* dedi, *yalnız kalsam daha iyi olur.* 
+
+Kızın kendisi hakkında hiçbir şey sormadığını o zaman farketti. Sanki konuşmaması gerektiğini anlamıştı. Kafeden çıkarken dönüp tekrar baktı, kız da ona arkasını dönüp el salladı. Bir daha karşılaşmayacağını bilen insanların gergin umudu vardı üzerinde. 
+
+Eve yürümek yerine *buralarda kaybolmayı* denedi. Mahallenin sınırında savaştan önceki zamanlardan kalmış gökdelenler vardı. Derslerinde *sosyal hapishane* örneği olarak verirdi. *Bir zamanlar insanların bu gibi yerlerde bilerek ve isteyerek yaşamış olması* çok ilginç bir konuydu. 
+
+
+----
+
+Kafasındaki düşüncelerin her birinin ayrı yöne koştuğunu hissediyordu. Hiçbirinin durup ben burada ne yapıyorum dediği yoktu. Hepsinden ayrı bir aşağılanma, bir yabancılaşma, kendini olduğu yere bırakma, kendinden kaçma geliyordu. Sokakların arasında durup koşarak dereye kendini bırakmak, sonra yanına aldığı hayaletlerin her biriyle ayrı ayrı kavga etmek. Bir yandan sakin sakin adım atarken, bir yandan insanın içinin bu kadar kaynaması. Bizim sonsuz çaresizliğimiz. 
+
+Jûmreyi değiştirmek için boşanmaya gerek olmadığını düşündü sonra, *o benimle uğraşsın*. Evden ayrılıp, kendine yeni bir iş buluncaya kadar *temel gelirle* idare edebilirdi. Yeni bir iş de öğretmenlik olmak zorunda değildi, kızın yaptığını yapabileceğini düşündü, *yaşlılar ve çocuklarla ilgili konularda daha çok para var.*
+
+Saatine *iş ilanlarına bakar mısın?* dedi. *Nasıl işler efendim?* *Yaşlılarla ilgili, sosyal beceri işleri* Saati birkaç tanesinden bahsetti, *tecrübe* istiyorlardı ama öğretmenlikten daha iyi tecrübe olamazdı. Sabahtan görüşmek için bir ikisini ayarladı. 
+
+*Eve dönmek istemiyorum, buralarda kalacak bir yer bulur musun?* Saat üç sokak ileride *robot pansiyon* olduğunu söyledi. Yeterince kaybolduğunu düşünmüyordu ama iş konusunda daha açık olabileceğini, *en azından o kız kadar* yapabileceği işler olduğunu düşününce ferahlamıştı. Zihninin yapışkan düşünceleri de hizaya giriyordu, *önce iş, sonra (R) ne olursa olsun.*
+
+Pansiyon biri banyoya dönüşebilen iki küçük odadan ibaretti. Yeni sayılmazdı ama dökülen bir hali de yoktu. Yatağa uzanıp nefesini saymaya başladı. Henüz on olmadan uykuya dalmıştı. 
 
 
