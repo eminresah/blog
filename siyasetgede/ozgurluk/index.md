@@ -1,11 +1,14 @@
-========
-Özgürlük
-========
-
-:date: 2014-11-23 03:41:51 +0200
-
-.. :Author: Emin Reşah
-.. :Date:   <12051 - Thu 05:50>
+---
+categories: 
+    - Siyasetgede
+tags: 
+    - özgürlük
+title: Özgürlük
+author: Emin Reşah
+date: 2014-11-23 03:41:51+0200 
+dp: 12051
+featured_image: /images/header-43.jpg
+---
 
 Özgürlük kendi başına ne ifade ediyor? Bana *ifade özgürlüğü* gibi bir
 tamlamanın içinde kullanılmadığı zaman konuşup durmayı ve hiçbir zaman
