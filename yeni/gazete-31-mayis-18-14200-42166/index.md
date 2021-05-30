@@ -1,18 +1,21 @@
 ---
 title: "Gazete 31 Mayıs 2018"
+author: Emin Reşah
 date: 2018-06-01 04:38:41
 dp: 14200
 featured_image: "/images/header-96.jpg"
-images: ["/images/header-96.jpg"]
 published: true
-tags: []
+tags: 
+    - düşünce
+    - İstanbul'un fethi
+    - temel gelir
 ---
-
 
 
 Her gün yazmayı takip etmek için bir web programı: https://writingstreak.io/
 
-Henüz denemedim ama hedef belirleyip, her gün belli kelime sayısında yazmayı sağlayacak bir araca benziyor. 
+Henüz denemedim ama hedef belirleyip, her gün belli kelime sayısında yazmayı
+sağlayacak bir araca benziyor. 
 
 ----------
 
@@ -28,7 +31,7 @@ otobüslere bindiğinden haberi yok galiba* diye düşündüm.
 diyor. Bakıyorum, *günde 60000 düşünce geçer aklımızdan, bunun %80'i negatif
 düşüncelerdir* diye başlıyor. Hiç inandırıcı değil ama devam ediyorum: Bir
 kağıda tüm negatif düşüncelerinizi yazın. Sonra her birinin karşısına pozitif
-bir düşünce yazın, diyor.
+bir düşünce yazın diyor.
 
 Bu kadar mı?
 
@@ -42,10 +45,10 @@ Ama bunun herkes için, her durumda geçerli olduğunu iddia etmek çok zor. Ben
 bazen *torpor* dediğim zamanlar olur, *girdap*, sıkıntı ayağından tutar çeker,
 çeker, kurtaramazsın kendini. Yazarak veya uyuyarak geçirmeye çalışırım.
 Hamdolsun şimdiye kadar *antidepresan* alacak kadar kötü olmadım ama insanlara
-böyle tavsiyeler verirken, *siz de yapabilirsiniz* demek biraz moral bozucu oluyor. 
+böyle tavsiyeler verirken *siz de yapabilirsiniz* demek biraz moral bozucu oluyor. 
 
 Herkesin durumu farklı. Kişinin kendi düşüncelerini ele almaya, onlardan
-uzaklaşıp, aklının gerisindeki *boşluğu* farketmeye ihtiyacı var ama bunun yolu
+uzaklaşıp aklının gerisindeki *boşluğu* farketmeye ihtiyacı var ama bunun yolu
 böyle saçma *gazla* olmuyor maalesef. 
 
 [180seconds]: https://medium.com/swlh/how-to-stop-negative-thoughts-in-180-seconds-without-meditating-4ef29cda09d1
@@ -72,8 +75,8 @@ diyecekler.
 
 Kutlamaların içeriğini savunmam, bilmiyorum çünkü, ancak 29 Mayıs 1453 kimse
 için unutulacak bir tarih değil. Günümüz Türkiye'sinde de, bu tarih için, ya
-*vaadedilen zafer* veyahut *zulüm 1453'te başladı* tavrı koymak zorundasınız.
-İnsanlık *bu meseleyi* unutmaya hazır değil.
+*Peygamberce vaadedilen zafer* veyahut *zulüm 1453'te başladı* tavrı koymak
+zorundasınız.  İnsanlık *bu meseleyi* unutmaya hazır değil.
 
 -------
 
@@ -82,11 +85,11 @@ Kimisinin *vatandaşlık geliri* dediği Umumi Temel Gelirle ilgili bir
 kişiye dağıtacaklarmış. Temel gelirin insanları fakirlikten kurtaracağını iddia
 edenler ve bunun çalışma konusunda onları demotive edeceğini söyleyenler var. 
 
-Malumdur, Temel Gelir taraftarıyım, insanların çalışmasına engel olacağını da
-sanmam, bilakis onları *daha fazlası için* çalışmaya teşvik edecektir. Çünkü
+Temel Gelir taraftarıyım, insanların çalışmasına engel olacağını da sanmam,
+bilakis onları *daha fazlası için* çalışmaya teşvik edecektir. Çünkü
 Kapitalizm'in oyunu budur, sana önce 10 liralık bir mal satar, sonra bunun
-yakıştığı 20 liralık bir şey daha satar, sonra onlardan sıkılırsın ve 30 liralık
-daha satar... Falan. 
+yakıştığı 20 liralık bir şey daha satar, sonra onlardan sıkılırsın ve 30
+liralık daha satar... Falan. 
 
 *Doymak* mümkün tabii, benim gibi orta yaşlı erkeklerde rastlanıyor genelde ama
 Temel Gelir'in *doyuracak* kadar olacağını hiç sanmıyorum.
