@@ -1,7 +1,21 @@
 ---
-title: Murakabe 12811
-date: 2014-11-23 02:18:14 +0200
+categories: 
+    - Pendul
+tags: 
+    - multitasking
+    - fosil
+    - çalışma
+    - Henry Ford
+    - Yahudilik
+    - milliyetçilik
+    - elektronik sebt
+    - kibir
+title:  Murakabe 12811
+author: Emin Reşah
+date:  2014-11-23 02:18:14 +0200
+modified: 2021-05-30 21:59:23+0300
 dp: 12811
+featured_image: /images/header-24.jpg
 ---
 
 İ: Bugün yorgun görünüyorsun.
@@ -12,16 +26,16 @@ usûl.
 İ: Ne okudun, ne yazdın?
 
 E: İnsanların %2'si hariç, aynı anda farklı işleri yapamadıklarını
-okudum. Muhtemelen ben de bu %98'e dahilim. Ama yapabildiğim bazı şeyler
+okudum. Ben de bu %98'e dahilim. Ama yapabildiğim bazı şeyler
 var. Dinlerken basit işleri yapabiliyorum.
 
 İ: Ne gibi?
 
 E: Tornavida çevirmek gibi. Dikkat istemeyen basit işler. Hatta elim
-periyodik işler yaptığında, dinleyişimin daha dikkatli olduğunu
+periyodik işler yaptığında dinleyişimin daha dikkatli olduğunu
 farkettim.
 
-İ: İlginç bir durum. Okurken yürüyünce pek değişmiyor sanırım.
+İ: İlginç. 
 
 E: Fosillerin en az 10.000 yıllık olması gerektiğini öğrendim sonra.
 Daha genç olanları fosil kabul edilmiyormuş.
@@ -30,20 +44,20 @@ Daha genç olanları fosil kabul edilmiyormuş.
 
 E: Amerika'daki iki yatırım bankasını inceleyen bir araştırmacı, haftada
 120 saat çalışan insanların varlığından bahsediyor. Bir haftanın 168
-saat olduğunu düşününce, geri kalan 48 saati de doldurmadıklarına hayret
+saat olduğunu düşününce geri kalan 48 saati de doldurmadıklarına hayret
 edebiliriz sanki.
 
 İ: *Ölmeden önce ölmenin* böyle bir anlamı da olabilir.
 
 E: Atlantic'te [İyi çalışmanın yolu az
-çalışmakl(http://www.theatlantic.com/business/archive/2014/08/to-work-better-work-less)
-diye bir yazıda okudum bunu. Henry Ford'un, haftalık 48 saat olan
-çalışma süresini çalışanları fazla hata yaptığı için 40 saate
-indirdiğini de söylüyordu.
+çalışmak](http://www.theatlantic.com/business/archive/2014/08/to-work-better-work-less)
+diye bir yazıda okudum bunu. Henry Ford'un, haftalık 48 saat olan çalışma
+süresini çalışanları fazla hata yaptığı için 40 saate indirdiğini de
+söylüyordu.
 
 İ: Bence çok çalışmayı dert edecek kadar çok çalışmıyorsun.
 
-E: Evet, bugün çalıştım ve çok iyi geldi.
+E: Evet. O yüzden çalışınca iyi geliyor. Bugün çalıştım ve çok iyi geldi.
 
 İ: Ne yaptın?
 
@@ -62,7 +76,7 @@ okudum. *Yahudinin Yahudiden başka dostu yok* diyorlar harhalde onlar
 da. Ha'aretz'i okuyanlar %10 kadarmış ve hayli solcu bir gazete olarak
 görülüyormuş.
 
-İ: Bir Yahudi olsaydım, tarihe bakınca ben de böyle düşünebilirdim.
+İ: Bir Yahudi olsaydım tarihe bakınca ben de böyle düşünebilirdim.
 
 E: Yahudilik deyince, bazen cuma günleri *elektronik sebt* yapmayı
 düşünüyorum. Elime hiç elektronik alet almamak. [Böyle bir yazı da vardı](http://calnewport.com/blog/2014/07/22/dont-pursue-promotions-contrarian-career-advice-from-ancient-sources-of-wisdom)
