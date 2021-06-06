@@ -3,6 +3,11 @@ title:  Domateist ve Patateist
 author: Emin Reşah
 date: 2014-11-23 02:18:14 +0200 
 featured_image: /images/header-29.jpg
+tags: 
+    - Ateizm
+    - İslam
+    - Dawkins
+    - Alain de Botton
 ---
 
 İki çeşit Ateist var: *Tanrının yokluğuna inananlar* ve *Tanrının varlığına
