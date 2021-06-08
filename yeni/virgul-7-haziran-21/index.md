@@ -3,7 +3,6 @@ title: Virgül 7 Haziran
 author: Emin Reşah
 date:  2021-06-08 01:38:05+0300
 dp: 15303
-published: false
 featured_image: /images/header-68.jpg
 tags:
     - kadın
@@ -29,4 +28,4 @@ Dördüncüsü tutarsızlık. Kendim de *acayip tutarlı* bir insan sayılmam am
 
 Beşincisini de geçen gün konuşurken farkettim: Hayatımdan geçmiş insanların *gidişi* bende yıkıcı bir etki uyandırmıyor. Yoklukları hayatımı zorlaştırmıyor. Başka insanların hayatımdaki varlığı *yapılacak işler listesine* yeni maddeler eklenmesine sebep ama benim *genel yapılacak işler listem* de yerinde duruyor. Sırtımdan bir yük alınmış olmuyor, hayatımda herhangi bir kolaylık olmuyor. Normal şartlar altında bunun böyle olmaması lazım sanırım ama şimdiye kadarki tecrübelerimin hepsinde böyle oldu. Bunun maddi sebepleri var, *kavvam* taraf olunca sorumluluk daha fazla olabilir ama neden toplamda hayatım hep zorlaşıyor, ben de gerçekte anlamadım. Konunun başında *kendi gücümü görmek ve göstermek için* daha fazla çabalayan taraf olmam normalmiş ama sonrasında yoruluyormuşum.  Buna bir de genel *kurban/kurtarıcı* eğilimini ekleyince iyice dengesiz bir şeye dönüşüyor sanırım. 
 
-Bunlar bugünlük aklıma gelenler. Nelerden sıkıldığımı bulursam belki bunların olmadığı bir biçim de bulabilirim. Bir süre böyle *ilişki yazıları* yazabilirim. Belki haddinden fazla kişisel olduğu için alıcılarınızın ayarıyla oynayabilirsiniz. 
+Bunlar bugünlük aklıma gelenler. Bir süre böyle *ilişki yazıları* yazabilirim. Belki haddinden fazla kişisel olduğu için alıcılarınızın ayarıyla oynayabilirsiniz. (Ama böyle şeyleri daha çok seviyorsunuz, hepimiz biliyoruz.)
