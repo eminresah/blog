@@ -22,13 +22,12 @@ Niyazi.
 kurtulduğunda o dünyanın sultanı oluyorsun. 
 
 O belirsizlik bende hala mevcut. *Bu dünyanın sahibi kim* bilmiyorum. Dün
-biriyle konuşurken *bütün her şeyi sebebi senin düşüncelerin* dedi. *Üzgünüm
+biriyle konuşurken *bütün her şeyin sebebi senin düşüncelerin* dedi. *Üzgünüm
 ama böyle.* Bu yeni çağ saçmalıklarının Türkiye'de yanlış anlaşılacağını tahmin
-ediyordum zaten, nedense ülkemizde *karma* olsun, Buda'nın *düşünceler
+ediyordum zaten. Nedense ülkemizde *karma* olsun, Buda'nın *düşünceler
 fiilleri, fiiller dünyayı yaratır* meyanındaki sözleri olsun karikatür haliyle
-anlaşılıyor demek ki. Belki bizim ülkemize has bir mesele olmayabilir gerçi,
-*what is the matrix lan* diye caddeye atlamak sadece bize has olmasa
-gerek. 
+anlaşılıyor. Belki bizim ülkemize has bir mesele olmayabilir gerçi, *what is
+the matrix lan* diye caddeye atlamak sadece bize mahsus olmasa gerek. 
 
 Konu da şu: Dün boşanmanın duruşması vardı, karar çıkar diye bekliyordum.
 Avukatım kovid yüzünden hastanedeymiş, gidememiş. Duruşma da eylüle kaldı. Dava
@@ -39,26 +38,26 @@ doğrudan karşı çıkarım, onu anlamaya çalışmak daha önemlidir ama bu za
 anlamaya da meraklı olmadığım biriydi, onun için *inanmıyorum böyle şeylere*
 deyip kapattım. 
 
-Bir kere, şunu sormak lazım herhalde: Ortadaki bir olay birden fazla kişiyi
+Bir kere şunu sormak lazım herhalde: Ortadaki bir olay birden fazla kişiyi
 ilgilendiriyorsa hangisinin düşüncesi o olayı yaratmış oluyor? Dünkü duruşmanın
 yapılamamış olmasının sorumlusu neden ben olayım, belki avukatım kovid olmak
 istemiştir, belki hakim son mütalaaları okumamış ve düşüncesiyle avukatımı
-hasta etmiştir, belki karşı tarafın avukat ve sair taallukatı davayı
-düşünceleri vasıtasıyla biraz daha işkence edelim adama demişlerdir? Hangimizin
-düşüncesi?
+hasta etmiştir, belki mübaşir işler kısa sürsün de arkadaşlarla çay içeyim diye
+dua etmiştir, belki karşı tarafın avukat ve sair taallukatı biraz daha işkence
+etsek ne güzel olur adama demişlerdir? Hangimizin düşüncesi?
 
 Sadece benim düşüncemse, benim düşüncem bütün bu insanların düşüncelerini ve
-fiillerini de belirliyor demektir. *Sağol, ben bu sorumluluğu almayayım. Tanrı
-olacak yaşta değilim henüz.* Burada bir şey söylemiş olmuyorsun aslında, *her
-şeyi düşüncelerin belirliyor* demenin bir manası yok. *Her şeyin* düşüncelerimi
-belirlemesi ve benim düşüncelerimin sahibi **olmamam** daha muhtemel geliyor
-ama o mevzu uzun şimdilik. 
+fiillerini de belirliyor demektir. *Sağol, ben bu sorumluluğu almayayım.
+Babamın öldüğü yaşı geçtim ama Tanrı olacak yaşta değilim henüz.* Burada bir
+şey söylemiş olmuyorsun aslında, *her şeyi düşüncelerin belirliyor* demenin bir
+manası yok. *Her şeyin* düşüncelerimi belirlemesi ve benim düşüncelerimin
+sahibi **olmamam** daha muhtemel geliyor ama o mevzu uzun şimdilik. 
 
 Kendine tapmanın bu derecesi komik geldi. Okumuş yazmışlardan gelince daha da komik. 
 
 Düşündüklerimizle yaşadıklarımız arasında *bir bağ* olabilir. Ben de avukata
 geçen duruşmadan sonra *karar eylüle kalır* demiştim, o da *yok, bu sefer
-çıkar* demişti, ben de ona inanmıştım. Benim tahminin *avukatım hasta olur*
+çıkar* demişti, ben de ona inanmıştım. Benim tahminim *avukatım hasta olur*
 minvalinde değil, *hakim, esas hakkındaki mütalaaları okumak için bir celse
 daha ister* diye düşündüğümdendi. Avukat da *belgeleri önceden veriyoruz,
 duruşmaya kadar okuyor* demişti. Şimdi benim düşüncem mi belirlemiş oluyor
@@ -90,15 +89,17 @@ demek adetim var, ne de böyle *bak burada vedalaşıyoruz* demek.  Bundan sonra
 hayatında bir eksiklik hissederse iyilik dolayısıyladır, hissetmezse de zaten
 iyilik olmamıştır. 
 
-Veda olarak da konuştu, ben *bu konuşmanın sonunda ne olacak?* dediğimde de
+Veda olarak da konuştu. Ben *bu konuşmanın sonunda ne olacak?* dediğimde de
 cevap verip konuşmaya devam etti. *Sonuç değişmeyecekse konuşmaya da gerek yok
 aslında* dediğimde de konuşmaya devam etti. Veda o kadardı. Sonra yine
 konuşmaya devam etti ve şu an merhametin bulunduğu yerde bir krater var. Bence
 daha fazla konuşmaya gerek yok ama önemli olmaktan çıktı. Kendimi biliyorsam bu
 noktadan sonra konuşarak bir şey değişmez. 
 
-Netflix şifresini de değiştirmek zor olduğu için bıraktım. Çocuklar kullanıyor
-onu zaten. 
+Buraya yazıyor olmamın sebebi de zaten konuşma safhasının geçmiş olması. 
+
+Netflix şifresini de bütün cihazların hepsinde değiştirmek zor olduğu için
+bıraktım. Çocuklar kullanıyor onu zaten. 
 
 İnşallah bu yazıdaki iki konuyla ilgili artık beynimin nadide nöronlarını 
 meşgul etmem.
