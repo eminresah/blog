@@ -11,13 +11,6 @@ tags:
     - kötülük
 ---
 
-Öfkemin sebebini anlamaya çalışıyorum. *Gereksiz zaman harcamak* sanırım. Basit
-(ama zor) konuları söze boğup karmaşıklaştırınca *çözdüğünü* --veya
-anladığını/anlattığını sanan birine gereğinden fazla zaman harcamak. 
-
-*Bu mesele ne öğreneceğim acaba* diye bekliyordum ama bu kadar öfkelenmeyi de
-beklemiyordum. Beklemediğim kadar hızlı ve ilginç bir final oldu. 
-
 *Via Negativa* bilgiye ulaştıran daha sağlam bir yoldur diyor: *Ne olduğunu
 değil, ne olmadığını bilmek.* İnsan da ne istediğini değil, ne istemediğini
 daha net biliyor. Benliğimizi kim olduğumuz değil, kim olmadığımız belirliyor.
@@ -41,8 +34,4 @@ sorusundan daha net cevap verebildiklerim, insanın istedikleri değişir, bugü
 yazılımcı olmak isterim, yarın yatırımcı ama *ne olmak istemediğim* o kadar
 değişmez. 
 
-İşte yıllar içinde değerli ve çoğu kötü tecrübeyle edinilmiş bu gibi
-bilgilerin, bazısının *öğrenilmiş çaresizlik* olabileceğini kabul etmekle
-beraber sırf *itiraz olsun, retorik dolsun* diye söylenmediğini anlatamadım.
-Sağlık oldu. 
 

@@ -72,34 +72,3 @@ sözle, fiille bir karşılık veriyorsunuz. Bazı düşünceleriniz de Allah'ı
 sorular sormasına sebep olabiliyor, buna bakınca *bütün dünyayı benim
 düşüncelerim yarattı* demek nasıl bir *narsizm.*
 
-----
-
-Aslında bilgisayarın başına bir *ilişki yazısı* yazmak için oturmuştum ama
-Mısri beni başka yerlere götürdü. Bu da mı düşüncelerimin sonucu? 
-
-Birine merhametim kalmadığında ilgimin kesildiğini yeniden müşahade ettim. O
-noktaya ulaşıncaya kadar geçerli tüm kurallar, ondan sonrası için geçerli
-değil. Bunu her defasında yeniden görüyorum. 
-
-*İyilikten anlamadığını unutmuşum* dediğim birinin *hangi iyiliklerden, bir
-bahsetsene* diye cevap vermesi komik değil mi? 
-
-Vedalaştık ama ne iyilikleri işaret edip, *bak burada sana iyilik yapılıyor*
-demek adetim var, ne de böyle *bak burada vedalaşıyoruz* demek.  Bundan sonra
-hayatında bir eksiklik hissederse iyilik dolayısıyladır, hissetmezse de zaten
-iyilik olmamıştır. 
-
-Veda olarak da konuştu. Ben *bu konuşmanın sonunda ne olacak?* dediğimde de
-cevap verip konuşmaya devam etti. *Sonuç değişmeyecekse konuşmaya da gerek yok
-aslında* dediğimde de konuşmaya devam etti. Veda o kadardı. Sonra yine
-konuşmaya devam etti ve şu an merhametin bulunduğu yerde bir krater var. Bence
-daha fazla konuşmaya gerek yok ama önemli olmaktan çıktı. Kendimi biliyorsam bu
-noktadan sonra konuşarak bir şey değişmez. 
-
-Buraya yazıyor olmamın sebebi de zaten konuşma safhasının geçmiş olması. 
-
-Netflix şifresini de bütün cihazların hepsinde değiştirmek zor olduğu için
-bıraktım. Çocuklar kullanıyor onu zaten. 
-
-İnşallah bu yazıdaki iki konuyla ilgili artık beynimin nadide nöronlarını 
-meşgul etmem.
