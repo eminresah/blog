@@ -7,6 +7,14 @@ dp: 12758
 featured_image: /images/header-66.jpg
 tags: 
     - güç
+    - demokrasi
+    - despotizm
+    - teokrasi
+    - temsil
+    - halk
+    - seçim
+    - yönetici
+    - meşruiyet
 ---
 
 İnsan yavrusunun çıplak doğmak gibi bir dezavantajı var. Sahip olduklarını
@@ -73,11 +81,11 @@ milliyetçilik ve modern hayat eskisi kadar önemli değil. Bunlara dayanmak, bi
 yöneticiyi seçilebilir yapmaya yetmiyor.
 
 Bugün Türkiye'deki *meşruiyet krizi* bu çatışan meşruiyet kaynaklarının
-hangisinin daha önemli olacağına dair. Adı demokrasi de olsa, insanların
+hangisinin daha önemli olacağına dair. Adı demokrasi de olsa insanların
 siyasi kıymetinin hangi kriterlere göre belirleneceğinin savaşı. Bu
-savaşta *şimdilik* kendimizi halkla beraber görsek de, aslında bu diğer
+savaşta *şimdilik* kendimizi halkla beraber görsek de, bu diğer
 meşruiyet kaynaklarına erişemeyişimizden kaynaklanan geçici bir durum.
-Diğer meşruiyet kaynakları *bize* uymaya başladığında, bugünkü *her
+Diğer meşruiyet kaynakları *bize* uymaya başladığında bugünkü *her
 şeyin başı halk oyudur* diskuru da terkedilecek. Bu *halk*
 önemsizleşecek demek değil, ancak bugün halka sadece *gelişme* vaadiyle
 yön veren siyasi güç, o zaman daha sofistike yollardan halka yön
