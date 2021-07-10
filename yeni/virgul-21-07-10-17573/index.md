@@ -93,12 +93,12 @@ Yazının bir yerinde *Sigma blog yazısı yazarsa, bunun kaç kişi tarafından
 keyif almak için yazmaktadır* diyor. Benim 15 senedir buradaki tavrımı orada örnek olarak görmek
 ilginç geldi. 
 
-{{< instagram CKdk9pFBCgh >}}
+[ig]: https://www.instagram.com/p/CKdk9pFBCgh/
 
-Bu instagram postunda da *zamanımızın tanrılarından* Elon Musk, Sigma ilan edilmiş. Musk'ın bu
-özellikleri taşıyıp taşımadığını bilmiyorum, çok da sevdiğim bir figür değil kendisi ama yukarıda
-anlatılan özelliklere pek uyduğunu sanmıyorum. Kendi yolunda tek başına yalnız yürüyen bir adama
-benzemiyor. 
+Bağlantı verdiği [bir instagram postunda][ig] da *zamanımızın tanrılarından* Elon Musk, Sigma ilan
+edilmiş. Musk'ın bu özellikleri taşıyıp taşımadığını bilmiyorum, çok da sevdiğim bir figür değil
+kendisi ama yukarıda anlatılan özelliklere pek uyduğunu sanmıyorum. Kendi yolunda tek başına yalnız
+yürüyen bir adama benzemiyor. 
 
 Burada Sigmalar için *içedönük Alfa, her zaman sakin ve çekingen, çok arkadaşı yok ve zaten
 istemiyor, insanların kendisi hakkında ne düşündüğünü önemsemiyor, derin düşünen, zeki,
