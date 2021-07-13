@@ -1,5 +1,5 @@
 ---
-title: Virgül 13 Temmuz - #2 
+title: Virgül 13 Temmuz - 2
 author: Emin Reşah
 date: 2021-07-13 22:34:48 +0300
 draft: false
@@ -7,7 +7,7 @@ featured_image: /images/header-150.jpg
 tags:
     - stalk
 categories:
-    - virgul
+    - Virgüller
 ---
 
 *Neden stalk ediyorsun?* diye sordu. Bunu *artık ondan başka kimseyi stalk
