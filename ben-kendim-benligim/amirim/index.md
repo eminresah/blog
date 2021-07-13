@@ -1,14 +1,14 @@
 ---
-title: "Müsvedde 22.02.18 20:53"
+title: Amirim
 date: 2018-02-22 20:53:07
 dp: 14102
 featured_image: "/images/header-73.jpg"
-images: ["/images/header-73.jpg"]
 published: true
-tags: []
+tags: 
+    - nafaka
+    - benlik
+    - nefis terbiyesi
 ---
-
-
 
 Çok saçma bir iş yaptınız amirim. Sevmediğim bir kadına her ay para göndermemi
 buyurdunuz. Nefis terbiyesi için miydi? Nefsim terbiye oldu amirim, hayatın ve
