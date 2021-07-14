@@ -7,7 +7,7 @@ featured_image: /images/header-150.jpg
 tags:
     - stalk
 categories:
-    - Virgüller
+    - Virgül
 ---
 
 *Neden stalk ediyorsun?* diye sordu. Bunu *artık ondan başka kimseyi stalk
