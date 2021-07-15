@@ -2,7 +2,6 @@
 title: Virgül 15 Temmuz
 author: Emin Reşah
 date: 2021-07-15 19:13:43 +0300
-draft: true
 featured_image: /images/header-13.jpg
 tags:
     - doğumgünü
