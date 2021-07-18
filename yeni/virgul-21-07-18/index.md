@@ -12,6 +12,8 @@ categories:
     - virgul
 ---
 
+## 1
+
 Sitenin temasını güncelledim. Geçen gün Twitter'dan *gece okurken beyaz
 arkaplan gözümü alıyor* diye bir yorum aldım. Ben de arkaplanın kendi
 ayarlarınıza göre otomatik değiştiği bir temaya geçtim. Biraz zamanımı aldı ama
@@ -41,3 +43,8 @@ Yorum kutularını da yeniden ekleme niyetim var ama muhtemelen Github üzerinde
 **Ek 3:** Yorum kutularını ekledim. Ücretsiz [Github](https://github.com)
 hesabı açarsanız bu sayfaların altına yorumlarınızı ekleyebilirsiniz. Yazıları
 [düzeltme imkanınız](https://github.com/eminresah/blog/) da olur.
+
+## 2
+
+Böyle ekler yapmak yerine yazının sonuna yeni bölümle eklemeliyim. Yazı gün içinde değişmeli. Akşama
+da yeniden okuyup göndermeliyim. 
