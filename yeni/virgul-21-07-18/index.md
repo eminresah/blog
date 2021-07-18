@@ -16,6 +16,8 @@ Sitenin temasını güncelledim. Geçen gün Twitter'dan *gece okurken beyaz ark
 
 RSS ayarlarının ne ölçüde değiştiğini bilmiyorum. Önceki temada kendim yazmıştım RSS kısmını, sonradan üzerinde oynadığım yazılar da çıkıyordu. Şimdikinde de bir süre ufak oynamalar gerekebilir, Twitter'da resimler çıkması için hayli iteklemek gerekmişti öncekini, bunda da beklemediğim arızalar çıkabilir ama genel olarak aynı. Sol taraftaki linkler daha iyi oldu. Kendi twitter avatarımı ekledim. 
 
+**Ek:** Nitekim RSS ayarları bozulduğu için uğraşmam gerekti. Twitter hesabında tekrar tekrar çıkan yazı linklerinin sebebi budur. 
+
 PDF ve Github linkleri için bir süre daha beklemeniz gerekebilir. Her yazının pdf'i hala üretiliyor ama linkleri kayboldu. Bunları yenileyeceğim. Github'ı da kullanan yoktu. Hesap açarsanız yazıları https://github.com/eminresah/blog adresinden düzeltip gönderme imkanınız var hala. 
 
 Yorum kutularını da yeniden ekleme niyetim var ama muhtemelen Github üzerinde çalışacaklar ve bu da sadece kendi kendime yorum yapacağım demek. 
