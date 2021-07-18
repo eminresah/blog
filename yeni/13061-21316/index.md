@@ -2,12 +2,9 @@
 title: Yevmiye 13061
 date: 2015-04-19 21:44:38 +0300
 dp: 13061
-tags: ["yazi"]
+tags: 
+    - yazi
 ---
-
-<!-- X- bugün bana *yazıların ciddi konularda gibi duruyor ama bir
-yandan da eğleniyor gibisin* dedi. *Eğleniyorum* dedim. Okuyan
-eğleniyorsa, yazan da eğleniyordur bir yazıda. -->
 
 Fazla ciddi yazmak beni yoruyor. Yazıları da, kendimi de fazla ciddiye
 alamıyorum. Üsluba yansıyan bu gayrıciddiyet. Üzerinde cümle kurmaya
